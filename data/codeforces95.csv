@@ -1,0 +1,882 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+Petr,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Petr,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Petr,Lucky Country,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+Petr,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Petr,Horse Races,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+antonkov,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+antonkov,Lucky Numbers,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+antonkov,Volleyball,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+sankear,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+sankear,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+sankear,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+sankear,Lucky Country,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+S.Yesipenko,Hockey,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+S.Yesipenko,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+S.Yesipenko,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+a180285,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+yeputons,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+yeputons,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+yeputons,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+yeputons,Horse Races,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,math"
+MaxBuzz,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+MaxBuzz,Lucky Numbers,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+MaxBuzz,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+hydrastuff,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+hydrastuff,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+hydrastuff,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+havaliza,Lucky Numbers,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Coder,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Coder,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Coder,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Coder,Horse Races,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+Coder,Lucky Country,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+ACube,Hockey,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ACube,Lucky Numbers,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,greedy"
+ACube,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+ACube,Lucky Country,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+ACube,Horse Races,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+RAVEman,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+RAVEman,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+RAVEman,Volleyball,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+RAVEman,Horse Races,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+RAVEman,Lucky Country,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+mastersobg,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+mastersobg,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+mastersobg,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+tracyhenry,Lucky Numbers,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+tracyhenry,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+tracyhenry,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+bayleef,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+bayleef,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+bayleef,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+bayleef,Lucky Country,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+Sereja,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Sereja,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Sereja,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+wRabbits_AlMag,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+wRabbits_AlMag,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+wRabbits_AlMag,Volleyball,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+romanandreev,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+romanandreev,Lucky Numbers,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+romanandreev,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+romanandreev,Lucky Country,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,dsu,graphs"
+ania,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ania,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,greedy"
+ania,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Romka,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Romka,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Romka,Horse Races,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+Romka,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Gerald,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+Gerald,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Gerald,Volleyball,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+Gerald,Horse Races,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+zetsubou,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+zetsubou,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+zetsubou,Lucky Numbers,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+OleGG,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+marek.cygan,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+marek.cygan,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+marek.cygan,Horse Races,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+marek.cygan,Lucky Country,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+marek.cygan,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+AlexFetisov,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+AlexFetisov,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+AlexFetisov,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+AlexFetisov,Horse Races,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+Narg,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Narg,Lucky Numbers,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Narg,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,shortest paths
+Egor,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Egor,Lucky Numbers,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Egor,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Egor,Lucky Country,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+vitar,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+vitar,Lucky Numbers,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+vitar,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+vitar,Lucky Country,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"dp,dsu,graphs"
+MAK,Hockey,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"implementation,strings"
+MAK,Lucky Numbers,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+MAK,Volleyball,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+al13n,Hockey,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+al13n,Lucky Numbers,0,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+al13n,Horse Races,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+al13n,Volleyball,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Shik,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+Shik,Lucky Numbers,0,B,0,0,0,0,0,2,0,2,0,0,0,0,0,0,1,0,0,"dp,greedy"
+Shik,Volleyball,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,shortest paths
+Shik,Lucky Country,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+Progger,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"implementation,strings"
+Progger,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Progger,Lucky Numbers,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+NALP,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+NALP,Lucky Numbers,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+NALP,Volleyball,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Omar_ElAzazy,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Omar_ElAzazy,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,greedy"
+Omar_ElAzazy,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+goryinyich,Hockey,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+goryinyich,Lucky Numbers,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+goryinyich,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Sergey.Bankevich,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"implementation,strings"
+Sergey.Bankevich,Lucky Numbers,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Sergey.Bankevich,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+ivan.popelyshev,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ivan.popelyshev,Lucky Numbers,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+ivan.popelyshev,Lucky Country,0,E,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+ivan.popelyshev,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+dalex,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+dalex,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+sexyprincess91,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+sexyprincess91,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+sexyprincess91,Lucky Country,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"dp,dsu,graphs"
+Vaness,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Vaness,Lucky Numbers,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+cpphamza,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,strings"
+cpphamza,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+cpphamza,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Milanin,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Milanin,Lucky Numbers,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Milanin,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Milanin,Lucky Country,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+cylixstar,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+cylixstar,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,greedy"
+cylixstar,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Komaki,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Komaki,Lucky Numbers,0,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"dp,greedy"
+Komaki,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+stgatilov,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+stgatilov,Volleyball,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+stgatilov,Lucky Numbers,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Myungwoo,Hockey,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+Myungwoo,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Myungwoo,Volleyball,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Myungwoo,Lucky Country,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"dp,dsu,graphs"
+Shef,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Shef,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Shef,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Shef,Horse Races,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,math"
+Shef,Lucky Country,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+Andrew_Makar,Hockey,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Andrew_Makar,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Andrew_Makar,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+niyaznigmatul,Lucky Numbers,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+niyaznigmatul,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+Igor_Kudryashov,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Igor_Kudryashov,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Igor_Kudryashov,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+pablo.aguilar,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+pablo.aguilar,Horse Races,1,D,0,0,0,0,0,3,0,1,0,0,0,0,0,0,1,0,0,"dp,math"
+pablo.aguilar,Volleyball,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+pablo.aguilar,Lucky Numbers,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,greedy"
+DamianS,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+DamianS,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+pyshnograev,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+pyshnograev,Lucky Numbers,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"dp,greedy"
+pyshnograev,Volleyball,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+homo_sapiens,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+homo_sapiens,Lucky Numbers,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+homo_sapiens,Volleyball,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Jokser,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Jokser,Lucky Numbers,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Jokser,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Jokser,Lucky Country,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+Al.Cash,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Al.Cash,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,greedy"
+Al.Cash,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+yiuyuho,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+yiuyuho,Lucky Numbers,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+yiuyuho,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+KhaustovPavel,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+KhaustovPavel,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+KhaustovPavel,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+KhaustovPavel,Lucky Country,1,E,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+good_mood,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+good_mood,Lucky Numbers,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+good_mood,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+good_mood,Lucky Country,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+yaro,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+yaro,Lucky Numbers,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+yaro,Horse Races,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+enot.1.10,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+enot.1.10,Lucky Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+enot.1.10,Lucky Country,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+glassices,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+glassices,Lucky Numbers,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+glassices,Lucky Country,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+glassices,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+andrey-tsb,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+andrey-tsb,Lucky Numbers,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+andrey-tsb,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+andrey-tsb,Lucky Country,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+x-ray,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+x-ray,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+x-ray,Volleyball,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+pab2,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+pab2,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+pab2,Volleyball,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+pab2,Horse Races,1,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+pab2,Lucky Country,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+Soultaker,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Soultaker,Lucky Numbers,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Soultaker,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+monocofe,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+monocofe,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,5,0,0,"dp,greedy"
+monocofe,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Ixanezis,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Ixanezis,Lucky Numbers,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,greedy"
+Ixanezis,Volleyball,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+mukas,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+mukas,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,greedy"
+mukas,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Gammy,Hockey,0,A,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Gammy,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+shevchen,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+shevchen,Lucky Numbers,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+shevchen,Volleyball,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+unbing,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+unbing,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+unbing,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+pva701,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+pva701,Lucky Numbers,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+pva701,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+venkateshb,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+venkateshb,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+venkateshb,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,shortest paths
+venkateshb,Lucky Country,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,dsu,graphs"
+Imba,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Imba,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Imba,Horse Races,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+Imba,Lucky Country,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+Imba,Volleyball,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+dj3500,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+dj3500,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+dj3500,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+dj3500,Lucky Country,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+liympanda,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+liympanda,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+liympanda,Volleyball,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+liympanda,Horse Races,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+Darko,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Darko,Lucky Numbers,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+knightL,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+knightL,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+knightL,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Aleksander,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+Aleksander,Lucky Numbers,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+pedja,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Skiminok,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Skiminok,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Skiminok,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+kennethsnow,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kennethsnow,Lucky Numbers,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+kennethsnow,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+kennethsnow,Horse Races,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+AlexDmitriev,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+AlexDmitriev,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+chyx,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+chyx,Lucky Numbers,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+chyx,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+portal,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+portal,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+portal,Volleyball,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Bugman,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Bugman,Lucky Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,greedy"
+cgy4ever,Lucky Numbers,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,greedy"
+cgy4ever,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+cgy4ever,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+cgy4ever,Lucky Country,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+akashin,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+akashin,Lucky Numbers,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+akashin,Volleyball,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+ahmed_thabet,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+ahmed_thabet,Lucky Numbers,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+ahmed_thabet,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+phinfinity,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+phinfinity,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"dp,greedy"
+phinfinity,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+avm,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+avm,Volleyball,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+avm,Lucky Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Skird,Hockey,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Skird,Lucky Numbers,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Skird,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+dyukha,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+dyukha,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+dyukha,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+ikk,Hockey,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+GeKa,Hockey,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+GeKa,Lucky Numbers,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+GeKa,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,shortest paths
+GeKa,Lucky Country,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+SkidanovAlex,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+SkidanovAlex,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+SkidanovAlex,Lucky Numbers,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+reiracofage,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+reiracofage,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+reiracofage,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Ra16bit,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,strings"
+Ra16bit,Lucky Numbers,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Ra16bit,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,shortest paths
+Medium,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Medium,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Medium,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Medium,Lucky Country,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,dsu,graphs"
+JalbaRu,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+JalbaRu,Lucky Numbers,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+JalbaRu,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,shortest paths
+Alias,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Alias,Lucky Numbers,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Alias,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+pes,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+pes,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+pes,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+vovapolu,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,strings"
+vovapolu,Lucky Numbers,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+vovapolu,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+cafelier,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+cafelier,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+cafelier,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Di735,Hockey,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Di735,Lucky Numbers,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+Slevin,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Slevin,Lucky Numbers,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Slevin,Volleyball,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Eqbal,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+Eqbal,Lucky Numbers,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Eqbal,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Connector,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Connector,Lucky Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Connector,Volleyball,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Connector,Lucky Country,0,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+xhae,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+xhae,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+xhae,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+moshiur,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+moshiur,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+moshiur,Volleyball,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Kenny_HORROR,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Kenny_HORROR,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Kenny_HORROR,Volleyball,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Bo_Odya,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Bo_Odya,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Bo_Odya,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+rhs0266,Hockey,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+rhs0266,Lucky Numbers,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+rhs0266,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+tkcn,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+tkcn,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+tkcn,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+tkcn,Lucky Country,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"dp,dsu,graphs"
+bjin,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+bjin,Horse Races,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+bjin,Lucky Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+LGM,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+LGM,Lucky Numbers,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+LGM,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+LGM,Lucky Country,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+xiaodao,Hockey,0,A,0,0,0,0,2,3,0,1,0,0,0,0,0,1,0,0,0,"implementation,strings"
+xiaodao,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+xiaodao,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Commandos,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Commandos,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Commandos,Volleyball,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+pmnox,Lucky Numbers,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+pmnox,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,shortest paths
+pmnox,Lucky Country,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"dp,dsu,graphs"
+pmnox,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+mR.ilchi,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+mR.ilchi,Lucky Numbers,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+mR.ilchi,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Chubcheg,Hockey,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+pank.dm,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+pank.dm,Lucky Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+sweiss,Hockey,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+right_wing,Hockey,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,strings"
+right_wing,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+right_wing,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+right_wing,Horse Races,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,math"
+kamranm,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kamranm,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+flashmt,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+flashmt,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+flashmt,Volleyball,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+felix_halim,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+felix_halim,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+felix_halim,Volleyball,1,C,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+felix_halim,Lucky Country,1,E,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+pjsdream,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+pjsdream,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+pjsdream,Volleyball,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+pjsdream,Lucky Country,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+kuzmichev_dima,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+kuzmichev_dima,Volleyball,1,C,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+fuch,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+fuch,Lucky Numbers,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+fuch,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+sevenkplus,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+sevenkplus,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+sevenkplus,Lucky Country,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,dsu,graphs"
+nodchip,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+nodchip,Lucky Numbers,0,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"dp,greedy"
+nodchip,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Malinovsky239,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Malinovsky239,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Malinovsky239,Volleyball,1,C,1,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,shortest paths
+tanzaku,Hockey,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+tanzaku,Lucky Numbers,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"dp,greedy"
+filix,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+filix,Lucky Numbers,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+filix,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+kelvin,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kelvin,Lucky Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+kelvin,Volleyball,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+kelvin,Lucky Country,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+andre.linhares,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+andre.linhares,Lucky Numbers,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+andre.linhares,Volleyball,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+shilov,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+shilov,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+GopCoder,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+GopCoder,Lucky Numbers,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+those,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+those,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+those,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+wcao,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+wcao,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+wcao,Lucky Country,0,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+wcao,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+wcao,Horse Races,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,math"
+zhaozhouyang,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+zhaozhouyang,Lucky Numbers,0,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"dp,greedy"
+zhaozhouyang,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Steps09,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+Steps09,Lucky Numbers,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Steps09,Volleyball,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+AHdoc,Lucky Numbers,0,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+AHdoc,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+AHdoc,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+Mex-Mans,Hockey,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Mex-Mans,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Mex-Mans,Volleyball,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,shortest paths
+Mex-Mans,Lucky Country,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+allocator,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+allocator,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+allocator,Lucky Country,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+siuvit,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+siuvit,Lucky Numbers,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+siuvit,Volleyball,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+l.j.q.light,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+l.j.q.light,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+l.j.q.light,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+timgaripov,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+piloop,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+piloop,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+piloop,Volleyball,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+SergeyLazarev,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+SergeyLazarev,Lucky Numbers,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+carber,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,strings"
+carber,Lucky Numbers,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Olja,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Olja,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Khongor,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+Khongor,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Khongor,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Ferlon,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Ferlon,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Ferlon,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Le-Nika,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Le-Nika,Lucky Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Le-Nika,Volleyball,1,C,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+suhendry,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+suhendry,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+suhendry,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+suhendry,Lucky Country,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,"dp,dsu,graphs"
+anhdt,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+anhdt,Lucky Numbers,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,"dp,greedy"
+anhdt,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+0O0o00OO0Oo0o0Oo,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+0O0o00OO0Oo0o0Oo,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+0O0o00OO0Oo0o0Oo,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+0O0o00OO0Oo0o0Oo,Lucky Country,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+tunyash,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+tunyash,Lucky Numbers,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,greedy"
+nevidomy,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+nevidomy,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+nevidomy,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,shortest paths
+Ripatti,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Ripatti,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Ripatti,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+iamcs1983,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+iamcs1983,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+iamcs1983,Volleyball,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,1,0,0,shortest paths
+iamcs1983,Horse Races,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+ilya.korovin,Hockey,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ilya.korovin,Lucky Numbers,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+ilya.korovin,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+kcm1700,Lucky Numbers,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+kcm1700,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kcm1700,Volleyball,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+kcm1700,Lucky Country,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+shindo,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+shindo,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+shindo,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+balroginfire,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+balroginfire,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,greedy"
+balroginfire,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+balroginfire,Horse Races,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+balroginfire,Lucky Country,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+watashi,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+watashi,Volleyball,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+watashi,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+watashi,Lucky Country,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+zaq1xsw2tktk,Hockey,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+zaq1xsw2tktk,Lucky Numbers,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+_sunny,Lucky Numbers,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+_sunny,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+_sunny,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+brokenwing,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+brokenwing,Lucky Numbers,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+imrankane2005,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+imrankane2005,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Jughead,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Jughead,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Jughead,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Oryshych,Hockey,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Oryshych,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Oryshych,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Kharybin,Hockey,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+frp,Hockey,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+frp,Lucky Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+makeevvladx,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+makeevvladx,Lucky Numbers,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,greedy"
+stafp,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+stafp,Lucky Numbers,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+-.-,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+-.-,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+-.-,Lucky Country,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+-.-,Volleyball,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+-RooneY-,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+-RooneY-,Lucky Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+SuBaRaSi,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+SuBaRaSi,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+SuBaRaSi,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+pauldb,Hockey,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+pauldb,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Hinidu,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Hinidu,Lucky Numbers,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Hinidu,Volleyball,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,shortest paths
+Alireza,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Alireza,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Alireza,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Madiyar,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Madiyar,Lucky Numbers,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Mohammad_JRS,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Mohammad_JRS,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Mohammad_JRS,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+lzsb,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+liangjiaxing57,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+liangjiaxing57,Lucky Numbers,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+liangjiaxing57,Volleyball,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+liangjiaxing57,Lucky Country,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+hos.lyric,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+hos.lyric,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+hos.lyric,Lucky Country,0,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+hos.lyric,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+CAD415,Hockey,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+CAD415,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+CAD415,Lucky Numbers,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+tehqin,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+tehqin,Lucky Numbers,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+lgarcia,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+lgarcia,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+lgarcia,Volleyball,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+aura,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+aura,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+aura,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+chhung6,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+chhung6,Lucky Numbers,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+chhung6,Volleyball,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Martin,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Martin,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Martin,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Navigabimus,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Navigabimus,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+vlad107,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+vlad107,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+vlad107,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+biochem_fan,Hockey,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+acherepanov,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+acherepanov,Lucky Numbers,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Rheni,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Rheni,Volleyball,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+zpl2,Hockey,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+zpl2,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+zpl2,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+magicdlf,Lucky Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+A.I,Hockey,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+A.I,Lucky Numbers,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+A.I,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+SkouB,Hockey,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"implementation,strings"
+SkouB,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"dp,greedy"
+KrK,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+KrK,Lucky Numbers,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+KrK,Volleyball,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+jyliu27,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+jyliu27,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+yzq110abc,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+yzq110abc,Lucky Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+helThazar,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+helThazar,Lucky Numbers,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+helThazar,Volleyball,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Deamon,Hockey,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Deamon,Lucky Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Deamon,Volleyball,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+sabbir_yousuf,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+sabbir_yousuf,Volleyball,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,shortest paths
+sabbir_yousuf,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+juarez.paulino,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+juarez.paulino,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+FattyPenguin,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+FattyPenguin,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+danbanica,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+danbanica,Lucky Numbers,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"dp,greedy"
+ballon,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,greedy"
+ballon,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ballon,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+dyussenaliyev,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+dyussenaliyev,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+dyussenaliyev,Lucky Country,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+taobingxue,Lucky Numbers,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+taobingxue,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+tian,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+tian,Lucky Numbers,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+tian,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,shortest paths
+tian,Lucky Country,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,"dp,dsu,graphs"
+iensen,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+iensen,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+iensen,Volleyball,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Ever1989,Hockey,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Ever1989,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Ever1989,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+NotImplemented,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+NotImplemented,Lucky Numbers,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,greedy"
+sequence,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+sequence,Lucky Numbers,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"dp,greedy"
+vance,Hockey,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+vance,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+edward_mj,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+edward_mj,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+edward_mj,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+durt,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+durt,Lucky Numbers,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,greedy"
+KAN,Hockey,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+KAN,Lucky Numbers,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+KAN,Volleyball,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+segrey,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+discover,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+discover,Lucky Numbers,1,B,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,"dp,greedy"
+JOZHEG,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+JOZHEG,Lucky Numbers,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+JOZHEG,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+SkorKNURE,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+SkorKNURE,Lucky Numbers,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+fushar,Volleyball,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+fushar,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+fushar,Lucky Numbers,1,B,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,"dp,greedy"
+xujie,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+xujie,Lucky Numbers,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+xujie,Volleyball,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+winterwolf94,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+winterwolf94,Lucky Numbers,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+fatboy_cw,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+fatboy_cw,Lucky Numbers,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+fatboy_cw,Volleyball,0,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+sementry,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"implementation,strings"
+sementry,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+metar,Lucky Numbers,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+metar,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Sammarize,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Sammarize,Lucky Country,1,E,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+ebd,Lucky Numbers,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+ebd,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ebd,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+ebd,Lucky Country,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+timmy,Lucky Numbers,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+timmy,Hockey,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+scottai1,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+scottai1,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+scottai1,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+fura2,Hockey,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+fura2,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+yuzeming,Lucky Numbers,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+yuzeming,Volleyball,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+yuzeming,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kinodjnz,Lucky Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+kinodjnz,Volleyball,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+naihuangbao,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+naihuangbao,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+y3eadgbe,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,greedy"
+y3eadgbe,Hockey,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+xptree,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+xptree,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+vlady,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+vlady,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+vlady,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+flowlight,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+flowlight,Lucky Numbers,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+rofi,Hockey,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+rofi,Lucky Numbers,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+RedAnt,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+RedAnt,Volleyball,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+navi,Lucky Country,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,dsu,graphs"
+navi,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+opensource,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+opensource,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ir5,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+ir5,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ir5,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+dreamoon,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+dreamoon,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+dreamoon,Volleyball,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+shaoxingxly,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+shaoxingxly,Lucky Numbers,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+shaoxingxly,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Mehrdad,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Mehrdad,Lucky Numbers,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+Mehrdad,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Mehrdad,Lucky Country,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+totalfrank,Lucky Numbers,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+totalfrank,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+totalfrank,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+cleaner_leon,Lucky Numbers,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,"dp,greedy"
+jackiesteed,Lucky Numbers,1,B,1,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"dp,greedy"
+jackiesteed,Volleyball,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+imslavko,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"dp,greedy"
+imslavko,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+lne,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+lne,Lucky Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Hadi_Asiaie,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+Hadi_Asiaie,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Hadi_Asiaie,Volleyball,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+UESTC_Nocturne,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+UESTC_Nocturne,Hockey,1,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+UESTC_Nocturne,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+UESTC_Nocturne,Lucky Country,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+ahmedkotb,Lucky Numbers,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+LALAqq,Lucky Numbers,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+LALAqq,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+sune2,Hockey,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+sune2,Lucky Numbers,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+mcsharma1990,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+mcsharma1990,Lucky Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Nicolai_Kovrov,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Nicolai_Kovrov,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+NGNCMH,Lucky Numbers,0,B,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Rubanenko,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Rubanenko,Hockey,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+malcolm,Hockey,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+malcolm,Volleyball,1,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+jiangzhijie,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+jiangzhijie,Lucky Numbers,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+jiangzhijie,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+pshtanko,Hockey,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+pshtanko,Lucky Numbers,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Ch0W,Lucky Numbers,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Ch0W,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+uwi,Lucky Numbers,0,B,0,0,0,0,1,4,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+uwi,Lucky Country,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+uwi,Hockey,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+uwi,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+lordklotski,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+lordklotski,Volleyball,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+lordklotski,Hockey,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ryuzmukhametov,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+ryuzmukhametov,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+ryuzmukhametov,Hockey,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+smileking67,Lucky Numbers,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+smileking67,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+GagGuy,Volleyball,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+GagGuy,Lucky Country,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+GagGuy,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"implementation,strings"
+GagGuy,Lucky Numbers,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+c_loud26,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+lyoz,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+lyoz,Lucky Numbers,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+Zhukov_Dmitry,Lucky Country,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,dsu,graphs"
+Zhukov_Dmitry,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Zhukov_Dmitry,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Zhukov_Dmitry,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+wangjunyong,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+nagochan,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+nagochan,Lucky Numbers,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+gaston770,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+whhone,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+whhone,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+zzldjk,Lucky Numbers,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+zzldjk,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+zzldjk,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+HolkinPV,Lucky Numbers,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+HolkinPV,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+HolkinPV,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+0806580124,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+0806580124,Volleyball,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,shortest paths
+prpr,Lucky Numbers,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,"dp,greedy"
+prpr,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+val,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+val,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+giongto35,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+giongto35,Lucky Numbers,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+pasin30055,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+pasin30055,Lucky Country,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,dsu,graphs"
+pasin30055,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Barsuk_Alexey,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+atol,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+atol,Lucky Numbers,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+atol,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+sdryapko,Lucky Numbers,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,"dp,greedy"
+sdryapko,Hockey,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+wistful,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+wistful,Hockey,1,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+wistful,Lucky Numbers,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Elrond16,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Elrond16,Lucky Numbers,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Shapo,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Shapo,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Shapo,Lucky Numbers,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+ch_g,Hockey,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+ch_g,Lucky Numbers,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+bobogei81123,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+alexander86,Lucky Numbers,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+alexander86,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+alexander86,Lucky Country,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"dp,dsu,graphs"
+kontr,Lucky Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+kontr,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+iakolzin,Volleyball,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+iakolzin,Hockey,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+iakolzin,Lucky Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+DryukAlex,Lucky Numbers,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+DryukAlex,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+u1ik,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+u1ik,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+u1ik,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+rockaustin2k6,Lucky Numbers,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+leefour,Lucky Numbers,0,B,0,0,0,0,3,5,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+riversouther,Lucky Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+sunhaowen123,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+sunhaowen123,Lucky Numbers,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+sunhaowen123,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Jacob,Horse Races,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+Jacob,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Jacob,Lucky Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+chaemon,Lucky Numbers,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+chEEtah,Volleyball,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+chEEtah,Hockey,1,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+chEEtah,Lucky Numbers,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+hadi,Volleyball,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+msg555,Horse Races,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+blazerer,Hockey,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+blazerer,Volleyball,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+tomcat,Lucky Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+KirillB,Hockey,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"

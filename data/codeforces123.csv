@@ -1,0 +1,757 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+ballon,Squares,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+ballon,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+ballon,Brackets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+xiaodao,Prime Permutation,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+xiaodao,Squares,0,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,math
+pperm,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+pperm,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+pperm,Brackets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+pperm,String,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+havaliza,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+havaliza,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+havaliza,Brackets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+Petr,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Petr,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Petr,String,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+Petr,Brackets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+Petr,Maze,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,probabilities,trees"
+Endagorion,Prime Permutation,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Endagorion,Squares,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Endagorion,Brackets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+Timur_Sitdikov,Prime Permutation,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory,strings"
+Timur_Sitdikov,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tourist,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+tourist,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+tourist,String,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+tourist,Brackets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+tourist,Maze,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,probabilities,trees"
+zeliboba,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+zeliboba,Squares,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+zeliboba,Brackets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+sevenkplus,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+sevenkplus,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sevenkplus,Brackets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+sevenkplus,String,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+sevenkplus,Maze,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,probabilities,trees"
+vepifanov,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+vepifanov,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vepifanov,Brackets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+vepifanov,Maze,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,probabilities,trees"
+vepifanov,String,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+yarrr,Prime Permutation,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+yarrr,Squares,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,1,0,0,math
+yarrr,String,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+AleX,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+AleX,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AleX,String,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+Komaki,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Komaki,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Komaki,Brackets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+RAVEman,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+RAVEman,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+RAVEman,Brackets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+RAVEman,String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+e-maxx,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+e-maxx,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+e-maxx,String,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+e-maxx,Brackets,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+e-maxx,Maze,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,probabilities,trees"
+subscriber,Squares,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+subscriber,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Borisp,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Borisp,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,math
+Borisp,Brackets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+Sereja,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Sereja,Squares,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Sereja,Brackets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+GlebsHP,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+GlebsHP,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+GlebsHP,Brackets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+GlebsHP,String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+hos.lyric,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+hos.lyric,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hos.lyric,String,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+hos.lyric,Brackets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+hos.lyric,Maze,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,probabilities,trees"
+Ra16bit,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Ra16bit,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,math
+Ra16bit,String,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+Sarkin,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Sarkin,Squares,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+Sarkin,Brackets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+Alchemist,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Alchemist,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Alchemist,Brackets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+voover,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+voover,Squares,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,math
+voover,String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+voover,Brackets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+liangjiaxing57,Prime Permutation,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory,strings"
+liangjiaxing57,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+uwi,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+uwi,Brackets,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+uwi,String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+WJMZBMR,Prime Permutation,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+WJMZBMR,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+WJMZBMR,String,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+WJMZBMR,Brackets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+yukim,Prime Permutation,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+yukim,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yukim,Brackets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+olpetOdessaONU,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+olpetOdessaONU,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+olpetOdessaONU,Brackets,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+dreamoon,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dreamoon,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+dreamoon,String,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+sankear,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+sankear,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sankear,Brackets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+magicdlf,Squares,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+magicdlf,Prime Permutation,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+magicdlf,Brackets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+Ferlon,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Ferlon,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+MorningSYJ,Prime Permutation,0,A,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+MorningSYJ,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+MorningSYJ,Brackets,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,"combinatorics,dp,greedy"
+rizar,Prime Permutation,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+rizar,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rizar,String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+rizar,Brackets,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+Goshish,Prime Permutation,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Goshish,Squares,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+craus,Squares,0,B,1,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+craus,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+craus,Brackets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+K_operafan,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+K_operafan,Squares,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ifsmirnov,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+ifsmirnov,Squares,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+ifsmirnov,String,0,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+UESTC_Nocturne,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+UESTC_Nocturne,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+UESTC_Nocturne,Brackets,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+zhymaoiing,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zhymaoiing,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+zhymaoiing,String,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+a9108,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+a9108,Squares,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+a9108,String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+KOTEHOK,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+KOTEHOK,Squares,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+KOTEHOK,Brackets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+KOTEHOK,String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+ftiasch,Prime Permutation,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Krig,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Krig,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lcch,Prime Permutation,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+lcch,Squares,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+enot.1.10,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+enot.1.10,Prime Permutation,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+paladin8,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+paladin8,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+paladin8,String,1,D,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+psint,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+psint,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+psint,Brackets,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+jskhirtladze,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Jokser,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Kharybin,Prime Permutation,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Kharybin,Squares,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+seanwu,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+seanwu,Squares,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+seanwu,Brackets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+seanwu,String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+Ripatti,Squares,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+Ripatti,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+ania,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+ania,Squares,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+july,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+shangjingbo,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+shangjingbo,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+shangjingbo,String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+rgt0820,Prime Permutation,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+rgt0820,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sjtu_pigoneand,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+sjtu_pigoneand,Squares,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Rubanenko,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory,strings"
+permin,Prime Permutation,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+permin,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+permin,Brackets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+CherryTree,String,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+CherryTree,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory,strings"
+natalia,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+natalia,Squares,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+natalia,String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+SergeyLazarev,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+SergeyLazarev,Squares,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+SergeyLazarev,Brackets,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+sicasli,Prime Permutation,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Mehrdad,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Mehrdad,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Mehrdad,Brackets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+dancho,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+dancho,Squares,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Baz93,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Baz93,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Baz93,Brackets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+Baz93,Maze,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,probabilities,trees"
+kawazaki,Prime Permutation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+kawazaki,Squares,1,B,1,0,0,1,0,4,0,0,0,0,0,0,0,0,1,0,0,math
+carabet.cosmin,Prime Permutation,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+carabet.cosmin,String,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+OgieKako,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+OgieKako,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+OgieKako,String,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+OgieKako,Brackets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,greedy"
+unicef,Prime Permutation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+unicef,String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+eduardische,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+eduardische,Squares,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+eduardische,Brackets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+Fdg,Squares,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Fdg,Prime Permutation,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+heyihong,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+heyihong,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+vladii.ionescu,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+vladii.ionescu,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Commandos,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory,strings"
+Commandos,Squares,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,math
+iwiwi,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+iwiwi,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+iwiwi,String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+iwiwi,Brackets,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+dolphinigle,Squares,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+dolphinigle,Brackets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+dolphinigle,Maze,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,probabilities,trees"
+Copymaster,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Copymaster,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Copymaster,Brackets,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+chaemon,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+chaemon,Prime Permutation,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+chaemon,Brackets,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+vitar,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+vitar,Squares,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+vitar,String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+lavin,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+lavin,Brackets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+lavin,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Cricycle,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+jehad131,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+yvasyliv,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+yvasyliv,Squares,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+shinian,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+shinian,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+malcolm,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory,strings"
+malcolm,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+vlad107,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+BECEJIb4AK_U,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+BECEJIb4AK_U,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fatest,Prime Permutation,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+fatest,Squares,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+calculus.saransh,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+_sunny,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+_sunny,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tanzaku,Prime Permutation,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+tanzaku,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sexyprincess91,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+sexyprincess91,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sexyprincess91,Brackets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+wanghd,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+wanghd,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+chnlich,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+chnlich,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+chnlich,String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,string suffix structures
+standy,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+standy,String,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+Gerald,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Gerald,Squares,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Gerald,String,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+Gerald,Brackets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+flowlight,Squares,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+flowlight,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+flowlight,Brackets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+zetsubou,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+zetsubou,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+zetsubou,Brackets,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+AlexanderBolshakov,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+AlexanderBolshakov,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+WinterWing,Prime Permutation,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+WinterWing,Squares,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+bwps,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+bwps,Squares,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+bwps,Brackets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+bwps,String,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+pablo.aguilar,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+pablo.aguilar,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+espr1t,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+espr1t,Squares,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Martial,Prime Permutation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Martial,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Martial,Brackets,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+litwin,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+litwin,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+diogen,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+diogen,Squares,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Jami_CSEDU,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Jami_CSEDU,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+Lepetrandr,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Lepetrandr,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+thocevar,Prime Permutation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+thocevar,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+thocevar,Brackets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+LayCurse,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+LayCurse,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+LayCurse,Brackets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+LayCurse,String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+zaq1xsw2tktk,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+zaq1xsw2tktk,Squares,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zaq1xsw2tktk,Brackets,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+Malinovsky239,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Malinovsky239,Squares,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+tanas,Prime Permutation,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+tanas,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+_meshanya_,Prime Permutation,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+_meshanya_,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+_meshanya_,Brackets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+_meshanya_,String,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,string suffix structures
+Shtrix,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Shtrix,Squares,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+package.zaic,Prime Permutation,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+package.zaic,Squares,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Belonogov,Squares,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Belonogov,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Ivan.Kuskov,Prime Permutation,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Ivan.Kuskov,Squares,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AndreyP,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+AndreyP,Squares,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+map,Prime Permutation,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+map,Squares,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+shavkat,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+shavkat,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+shavkat,Brackets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+Snipx,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+luvlubb,Prime Permutation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+luvlubb,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+luvlubb,Brackets,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+superpear,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+superpear,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+superpear,Brackets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,greedy"
+kamranm,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+kamranm,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+amylase,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+amylase,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+OYoung,Prime Permutation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+OYoung,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+w10d,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+w10d,Squares,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+w10d,Maze,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,probabilities,trees"
+azaky,Prime Permutation,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+azaky,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+maksay,Prime Permutation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+maksay,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+maksay,Brackets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+maksay,String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+arijit91,Prime Permutation,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+arijit91,Squares,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+lucyfer,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Myungwoo,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Myungwoo,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+MatRush,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+atetubou,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+atetubou,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+scottai1,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+scottai1,Squares,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+scottai1,String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+ahmed_thabet,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+ahmed_thabet,Squares,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+bobogei81123,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+bobogei81123,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+roypalacios,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+roypalacios,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+natsugiri,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+natsugiri,Squares,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Shahriar_sust,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Isa_rentacs,Prime Permutation,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+enzam,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+enzam,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+Seemann,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Seemann,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vance,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+vance,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vkg,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"implementation,number theory,strings"
+vkg,Squares,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+soerend,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+soerend,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+alger95,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+alger95,String,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+alger95,Squares,1,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Nox,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Nox,Prime Permutation,1,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+prpr,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+hanfei19910905,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+hanfei19910905,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+FoodIsGood,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+FoodIsGood,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Balajiganapathi,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Balajiganapathi,Squares,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Kornacker,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+yenthanh.t7,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+yenthanh.t7,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+garik,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+garik,Squares,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+garik,Brackets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+Epiq,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Epiq,Squares,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+otakkanan,Prime Permutation,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+alexej,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+alexej,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+BogdanBugaev,Prime Permutation,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory,strings"
+Monyura,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Monyura,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+MarioYC,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+MarioYC,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+forifchen,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+forifchen,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+shilov,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+shilov,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Eureka,Prime Permutation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Eureka,Squares,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+karpinski,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+kuzmichev_dima,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+kuzmichev_dima,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+AlphaStream,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+AlphaStream,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+cjoa,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+SuBaRaSi,Prime Permutation,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+SuBaRaSi,Squares,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+SuBaRaSi,Brackets,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+Deamon,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Deamon,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+evima,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+evima,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+evima,String,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,string suffix structures
+AndreySiunov,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+AndreySiunov,Squares,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+evgentu,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory,strings"
+evgentu,Squares,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+DoublePointer,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+DoublePointer,Squares,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+zplinti1,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+zplinti1,Squares,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+zplinti1,Brackets,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+constkir,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+constkir,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Kasparyan_Mihail,Prime Permutation,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Kasparyan_Mihail,Squares,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+L.I.S.,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+L.I.S.,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Igor_Kudryashov,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Igor_Kudryashov,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Igor_Kudryashov,String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+whd,Prime Permutation,0,A,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+IlyaCk,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+IlyaCk,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+69-64-79,Prime Permutation,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+timmy,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Hohol,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Hohol,Squares,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Hohol,Brackets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,greedy"
+smileking67,Prime Permutation,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+smileking67,Squares,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ILJ,Prime Permutation,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+ILJ,Squares,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+jseo,Prime Permutation,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory,strings"
+wclee2265,Prime Permutation,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+ASoboll,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+ASoboll,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Fcdkbear,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Fcdkbear,Squares,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+buko,Prime Permutation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+buko,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+buko,String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+wxcc,Squares,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+phinfinity,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+phinfinity,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+z__jj,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+z__jj,String,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,string suffix structures
+cjtoribio,Squares,0,B,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+cjtoribio,Prime Permutation,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+c_loud26,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+pva701,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+11fingers,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+11fingers,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+moshiur,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+wcwswswws,Prime Permutation,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+wcwswswws,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+wcwswswws,Brackets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+Martin,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Martin,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Martin,Brackets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+pedja,Prime Permutation,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+chavit,Squares,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+chavit,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+NuM,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+NuM,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Kostroma,Prime Permutation,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Kostroma,Squares,1,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Kostroma,Brackets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+Scientist1642,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+kssilveira,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+kssilveira,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kssilveira,Brackets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,greedy"
+dyussenaliyev,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+dyussenaliyev,String,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,string suffix structures
+toxahak,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+toxahak,Squares,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,math
+evader,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+evader,Squares,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+yafithekid,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+valdeming,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+valdeming,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AHdoc,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+AHdoc,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kreet,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+kreet,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Jesus,Prime Permutation,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Jesus,Squares,1,B,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+yoh149,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+yoh149,Squares,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+kohyatoh,Squares,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kohyatoh,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+_jte_,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+ush,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ush,Prime Permutation,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+victor_kamashev,Squares,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+victor_kamashev,Brackets,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+victor_kamashev,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+infrmtcs,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+ksameluk,Prime Permutation,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+ksameluk,Squares,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+S.Yesipenko,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+S.Yesipenko,Squares,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Mex-Mans,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Denor,Prime Permutation,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+kyuridenamida,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+ridowan007,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+ridowan007,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+bloops,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+bloops,Squares,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+sriksama,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+sriksama,Squares,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hnu0314,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+hnu0314,Squares,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+yiyiyi4321,Prime Permutation,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+yiyiyi4321,Squares,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Seikang,Prime Permutation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Seikang,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Fessmax,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+kawatea,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+kawatea,Squares,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+mukel,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+mukel,Squares,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+HolkinPV,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+HolkinPV,Squares,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+Nikolai,Prime Permutation,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+jaamaa,Squares,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+jaamaa,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+edly,Prime Permutation,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+kabir.sohel,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+imslavko,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+imslavko,String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+Ch0W,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Ch0W,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+EriKKo,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+EriKKo,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Vaness,Prime Permutation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Vaness,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+TarifEzaz,Prime Permutation,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+lyoz,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+lyoz,Squares,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Arios,Prime Permutation,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Arios,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+NovaBlast,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+NovaBlast,Squares,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Snich,Prime Permutation,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Snich,Squares,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+maxwell44,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+maxwell44,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Respect2D,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Respect2D,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Shapo,Squares,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Shapo,Prime Permutation,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Shapo,Brackets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+Pavlo_Lviv_NU,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Pavlo_Lviv_NU,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Pavlo_Lviv_NU,String,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,string suffix structures
+flashmt,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+flashmt,Squares,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+fushar,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+fushar,Brackets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+fushar,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Konstantin,Prime Permutation,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Konstantin,String,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,string suffix structures
+NGNCMH,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+botay,Squares,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+botay,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+root85,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+root85,Squares,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+csimstu,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+csimstu,Squares,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+knightL,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+knightL,Squares,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+knightL,Brackets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,greedy"
+Tejs,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Tejs,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tohuuquan,Prime Permutation,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+cjLD,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+cjLD,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mustafij,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+mgqa34,Prime Permutation,1,A,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Depool,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Depool,Squares,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+iensen,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+iensen,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+giantarum,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+giantarum,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+husheyn,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+husheyn,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kaushik.mv3,Prime Permutation,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Farzam,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Qili,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+anhdt,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+ilya.korovin,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+STAJIKER,Squares,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+STAJIKER,Prime Permutation,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+darksta5,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+yjulica,Prime Permutation,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Darko,Prime Permutation,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+seen,Prime Permutation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+seen,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+esrever,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+esrever,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Oryshych,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Oryshych,Squares,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,math
+accoder,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+accoder,Squares,0,B,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+piotr.kukla,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+piotr.kukla,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Skird,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Skird,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+timotius.wirjawan,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+SobolS,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+SobolS,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Staginner,Prime Permutation,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Staginner,Squares,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+siuvit,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory,strings"
+siuvit,Squares,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+sakyalol,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+sakyalol,Squares,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+shato,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fura,Prime Permutation,1,A,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+mastersobg,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+mastersobg,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ali.mashreghi,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+ali.mashreghi,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mcsharma1990,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+zemen,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+zemen,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sdryapko,Prime Permutation,1,A,1,0,0,1,0,2,0,0,1,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Sender,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Sender,Squares,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ilya.m,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+ilya.m,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Kh.Madi,Prime Permutation,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+FranckRibery,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+FranckRibery,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pareshverma91,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+NotImplemented,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+NotImplemented,Squares,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+dalex,Squares,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+dalex,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+vyxaryx,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+vyxaryx,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+icyrhyme,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+tomcat,Prime Permutation,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+os_b,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+os_b,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+251083874,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Cyin,Prime Permutation,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+AntonDubovik,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+AntonDubovik,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tatsuhiro.t,Prime Permutation,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Omar.Darwish,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+vanchope,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+hzhua,Prime Permutation,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+hzhua,Squares,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+M0sTik,Prime Permutation,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+M0sTik,Squares,1,B,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+VladimirLi,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+VladimirLi,Squares,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+stubbscroll,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+stubbscroll,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Saimon_Saret,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Saimon_Saret,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Parhomets,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+ksjuchi,Squares,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Slamur,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Slamur,Squares,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Shafaet,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Shafaet,Squares,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+udalov,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+pius_88,Prime Permutation,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Anarivu,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Anarivu,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Creed,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Reshetnikov_Ivan,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Reshetnikov_Ivan,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+HTML_Sanek,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory,strings"
+HTML_Sanek,Squares,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+guille,Squares,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+guille,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+grey_wind,Prime Permutation,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+vlyubin,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+lamphanviet,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+beyondxgb,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+mengcow,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+mengcow,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+jfm,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Aziza,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Aziza,String,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,string suffix structures
+Aziza,Squares,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+krhgg,Prime Permutation,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+krhgg,Squares,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+ryuzmukhametov,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+ryuzmukhametov,Squares,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+Di735,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Di735,Squares,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+tkcn,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+tkcn,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tunyash,Prime Permutation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+tunyash,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+shibly,Prime Permutation,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Tranvick,Prime Permutation,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+redox,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+yinthewind,Prime Permutation,1,A,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+cindymath,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+cindymath,Squares,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+Jughead,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+delta,Prime Permutation,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+delta,Squares,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+serbanstan,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+serbanstan,Squares,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+lijunle,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+mrtempo,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+mrtempo,Squares,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+eha,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+sune2,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+sune2,Squares,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ziki,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+ziki,Squares,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+iloahz,Prime Permutation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+ishikado,Prime Permutation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+Elve,Prime Permutation,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+doraemon,Prime Permutation,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory,strings"
+kamel,Squares,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math

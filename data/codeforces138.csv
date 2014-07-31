@@ -1,0 +1,846 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+wata,Digits Permutations,0,B,1,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,greedy
+wata,Mushroom Gnomes - 2,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+wata,World of Darkraft,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+wata,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xiaowuc1,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xiaowuc1,Digits Permutations,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+KADR,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+KADR,Digits Permutations,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+KADR,Mushroom Gnomes - 2,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+vepifanov,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vepifanov,Digits Permutations,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+vepifanov,Mushroom Gnomes - 2,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+vepifanov,World of Darkraft,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+shevchen,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shevchen,Digits Permutations,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+shevchen,Mushroom Gnomes - 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+ivan.popelyshev,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ivan.popelyshev,Digits Permutations,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ivan.popelyshev,Mushroom Gnomes - 2,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+ivan.popelyshev,World of Darkraft,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+ivan.popelyshev,Hellish Constraints,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,two pointers"
+iscsi,Digits Permutations,1,B,1,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,greedy
+iscsi,Literature Lesson,1,A,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+maksay,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+maksay,Digits Permutations,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+maksay,Mushroom Gnomes - 2,1,C,1,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Romka,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Romka,Digits Permutations,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Romka,Mushroom Gnomes - 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Romka,Hellish Constraints,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,two pointers"
+vexorian,Digits Permutations,0,B,0,0,0,0,2,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+vexorian,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vexorian,Mushroom Gnomes - 2,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+yeputons,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yeputons,Digits Permutations,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+yeputons,Mushroom Gnomes - 2,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+yeputons,World of Darkraft,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Orfest,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Orfest,Digits Permutations,0,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+Orfest,Mushroom Gnomes - 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+PavelKunyavskiy,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PavelKunyavskiy,Digits Permutations,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+PavelKunyavskiy,Mushroom Gnomes - 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+PavelKunyavskiy,World of Darkraft,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+random.johnnyh,Literature Lesson,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+random.johnnyh,World of Darkraft,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+random.johnnyh,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Igor_Kudryashov,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Igor_Kudryashov,Digits Permutations,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Igor_Kudryashov,Mushroom Gnomes - 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Sereja,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sereja,Digits Permutations,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sereja,Mushroom Gnomes - 2,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Dmitry_Egorov,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dmitry_Egorov,Digits Permutations,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dmitry_Egorov,Mushroom Gnomes - 2,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Dmitry_Egorov,World of Darkraft,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+subscriber,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+subscriber,Digits Permutations,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+subscriber,Mushroom Gnomes - 2,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,probabilities,sortings"
+akim239,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+akim239,Digits Permutations,0,B,1,0,0,4,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+akim239,Mushroom Gnomes - 2,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+akim239,World of Darkraft,1,D,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+romanandreev,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+romanandreev,Digits Permutations,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+romanandreev,Mushroom Gnomes - 2,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+romanandreev,World of Darkraft,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+adam_,Digits Permutations,0,B,0,0,0,0,0,8,0,2,0,0,0,0,0,0,0,0,0,greedy
+adam_,Literature Lesson,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+dreamoon,Digits Permutations,0,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+dreamoon,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dreamoon,Mushroom Gnomes - 2,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Hohol,Literature Lesson,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hohol,Digits Permutations,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hohol,Mushroom Gnomes - 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+voover,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+voover,Digits Permutations,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+voover,Mushroom Gnomes - 2,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+nab,Literature Lesson,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nab,Digits Permutations,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+nab,Mushroom Gnomes - 2,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Archon.JK,Literature Lesson,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Archon.JK,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Archon.JK,Mushroom Gnomes - 2,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+cmd,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cmd,Digits Permutations,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cmd,Mushroom Gnomes - 2,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+cmd,World of Darkraft,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,games"
+Bugman,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Bugman,Digits Permutations,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+lxyxynt,Literature Lesson,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lxyxynt,Digits Permutations,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+lxyxynt,Mushroom Gnomes - 2,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Milanin,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Milanin,Digits Permutations,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Milanin,Mushroom Gnomes - 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Snich,Literature Lesson,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Snich,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+Snich,Mushroom Gnomes - 2,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Borisp,Literature Lesson,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Borisp,Digits Permutations,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Borisp,Mushroom Gnomes - 2,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+sdryapko,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sdryapko,Digits Permutations,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+al13n,Literature Lesson,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+al13n,Digits Permutations,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+al13n,Mushroom Gnomes - 2,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+al13n,World of Darkraft,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+AlexErofeev,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlexErofeev,Digits Permutations,1,B,0,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,greedy
+AlexErofeev,Mushroom Gnomes - 2,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Slavik,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Slavik,Digits Permutations,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Slavik,Mushroom Gnomes - 2,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+wRabbits_AlMag,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wRabbits_AlMag,Digits Permutations,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+wRabbits_AlMag,Mushroom Gnomes - 2,0,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Zlobober,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zlobober,Mushroom Gnomes - 2,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Zlobober,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+OgieKako,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+OgieKako,Digits Permutations,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+OgieKako,World of Darkraft,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Fcdkbear,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fcdkbear,Digits Permutations,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Fcdkbear,Mushroom Gnomes - 2,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+bayleef,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bayleef,Digits Permutations,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+bayleef,Mushroom Gnomes - 2,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+vitar,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vitar,Digits Permutations,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+vitar,Mushroom Gnomes - 2,1,C,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+sandytea,Literature Lesson,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+sandytea,Digits Permutations,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+sandytea,Mushroom Gnomes - 2,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Saimon_Saret,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Saimon_Saret,Digits Permutations,1,B,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,greedy
+hydrastuff,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hydrastuff,Digits Permutations,0,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+hydrastuff,Mushroom Gnomes - 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+udalov,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+udalov,Digits Permutations,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+udalov,Mushroom Gnomes - 2,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Andrew_Makar,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Andrew_Makar,Digits Permutations,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Andrew_Makar,Mushroom Gnomes - 2,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+newkobra,Literature Lesson,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+newkobra,Mushroom Gnomes - 2,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+L.I.S.,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+L.I.S.,Digits Permutations,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+L.I.S.,Mushroom Gnomes - 2,1,C,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Timus,Literature Lesson,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Timus,Digits Permutations,1,B,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+fushar,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fushar,Digits Permutations,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+fushar,Mushroom Gnomes - 2,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+hasi,Literature Lesson,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hasi,Digits Permutations,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+hasi,Mushroom Gnomes - 2,0,C,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+avm,Literature Lesson,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+avm,Digits Permutations,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+avm,Mushroom Gnomes - 2,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+WJMZBMR,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+WJMZBMR,Digits Permutations,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+WJMZBMR,Mushroom Gnomes - 2,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+WJMZBMR,World of Darkraft,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Mimino,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mimino,Digits Permutations,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mimino,Mushroom Gnomes - 2,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+flashmt,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+flashmt,Digits Permutations,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+flashmt,Mushroom Gnomes - 2,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+shinian,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shinian,Digits Permutations,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+shinian,Mushroom Gnomes - 2,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Kostroma,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kostroma,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kostroma,Mushroom Gnomes - 2,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+ifsmirnov,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ifsmirnov,Digits Permutations,1,B,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+jaaro,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+jaaro,Digits Permutations,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+zetsubou,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zetsubou,Mushroom Gnomes - 2,0,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+zetsubou,Digits Permutations,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+igor.silin,Literature Lesson,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+igor.silin,Digits Permutations,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+UESTC_Nocturne,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+UESTC_Nocturne,Mushroom Gnomes - 2,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+UESTC_Nocturne,Digits Permutations,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+oimaster,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+oimaster,Mushroom Gnomes - 2,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+oimaster,Digits Permutations,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+qwaker.00,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+qwaker.00,Digits Permutations,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+qwaker.00,Mushroom Gnomes - 2,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+wrong,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wrong,Digits Permutations,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+wrong,Mushroom Gnomes - 2,0,C,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+shangjingbo,Digits Permutations,0,B,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+shangjingbo,Mushroom Gnomes - 2,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+shangjingbo,World of Darkraft,0,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+shangjingbo,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sergey.Bankevich,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sergey.Bankevich,Digits Permutations,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+rudradevbasak,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rudradevbasak,Digits Permutations,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+rudradevbasak,Mushroom Gnomes - 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+rudradevbasak,World of Darkraft,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+pfctgeorge,Literature Lesson,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pfctgeorge,Digits Permutations,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kornacker,Literature Lesson,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kornacker,Mushroom Gnomes - 2,1,C,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Pasqual45,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pasqual45,Digits Permutations,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+Pasqual45,Mushroom Gnomes - 2,0,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+v.haralampiev,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+v.haralampiev,Digits Permutations,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+v.haralampiev,Mushroom Gnomes - 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+syco,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+syco,Digits Permutations,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+syco,Mushroom Gnomes - 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+watashi,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+watashi,Mushroom Gnomes - 2,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+watashi,Digits Permutations,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+IvayloS,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+IvayloS,Digits Permutations,0,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+IvayloS,Mushroom Gnomes - 2,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+arijit91,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+arijit91,Digits Permutations,1,B,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,greedy
+arijit91,Mushroom Gnomes - 2,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+felix_halim,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+felix_halim,Digits Permutations,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shtrix,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shtrix,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shtrix,Mushroom Gnomes - 2,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+M0sTik,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+M0sTik,Digits Permutations,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+uwi,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+uwi,Digits Permutations,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+uwi,Mushroom Gnomes - 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Alias,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alias,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Alias,Mushroom Gnomes - 2,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+isumi,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+isumi,Digits Permutations,1,B,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+isumi,Mushroom Gnomes - 2,1,C,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+islam-al-aarag,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+islam-al-aarag,Digits Permutations,1,B,0,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+islam-al-aarag,Mushroom Gnomes - 2,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+gogokefakefa,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gogokefakefa,Digits Permutations,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+VArtem,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+VArtem,Digits Permutations,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+VArtem,Mushroom Gnomes - 2,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+shilov,Literature Lesson,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+package.zaic,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+package.zaic,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+package.zaic,Mushroom Gnomes - 2,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+evima,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+evima,Digits Permutations,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+niyaznigmatul,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+niyaznigmatul,Digits Permutations,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+niyaznigmatul,Mushroom Gnomes - 2,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Babanin_Ivan,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Babanin_Ivan,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kuzmichev_dima,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kuzmichev_dima,Digits Permutations,1,B,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Copymaster,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Copymaster,Digits Permutations,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Copymaster,Mushroom Gnomes - 2,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+olpetOdessaONU,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+olpetOdessaONU,Digits Permutations,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,greedy
+olpetOdessaONU,Mushroom Gnomes - 2,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+cjtoribio,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+cjtoribio,Digits Permutations,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+dalex,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dalex,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sankear,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sankear,Digits Permutations,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+sankear,World of Darkraft,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,games"
+witua,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+witua,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+witua,Mushroom Gnomes - 2,1,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,1,0,0,"binary search,data structures,probabilities,sortings"
+Jokser,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jokser,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Jokser,Mushroom Gnomes - 2,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Aleksander,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aleksander,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Aleksander,Mushroom Gnomes - 2,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+chavit,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chavit,Mushroom Gnomes - 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+chavit,Digits Permutations,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+sevenkplus,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sevenkplus,Digits Permutations,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sevenkplus,Mushroom Gnomes - 2,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+sevenkplus,World of Darkraft,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Martial,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Martial,Digits Permutations,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+eduardische,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+eduardische,Digits Permutations,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+eduardische,Mushroom Gnomes - 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Martin,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Martin,Digits Permutations,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Martin,Mushroom Gnomes - 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Seemann,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Seemann,Mushroom Gnomes - 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+twds,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+twds,Digits Permutations,1,B,1,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,greedy
+map,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+map,Digits Permutations,1,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+muliguishou,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+muliguishou,Digits Permutations,1,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,greedy
+muliguishou,Mushroom Gnomes - 2,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+UESTC_Defense,Literature Lesson,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+UESTC_Defense,Digits Permutations,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+malcolm,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+malcolm,Digits Permutations,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+malcolm,Mushroom Gnomes - 2,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Timur_Sitdikov,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+Timur_Sitdikov,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+espr1t,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+espr1t,Digits Permutations,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+espr1t,Mushroom Gnomes - 2,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+flowlight,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+flowlight,Digits Permutations,0,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,greedy
+flowlight,Mushroom Gnomes - 2,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,probabilities,sortings"
+dinosaurs,Literature Lesson,0,A,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dinosaurs,Mushroom Gnomes - 2,0,C,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+-DMYTRO-,Digits Permutations,0,B,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,greedy
+-DMYTRO-,Hellish Constraints,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,two pointers"
+-DMYTRO-,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SobolS,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SobolS,Digits Permutations,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SobolS,Mushroom Gnomes - 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+valich,Literature Lesson,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+valich,Digits Permutations,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+valich,Mushroom Gnomes - 2,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Monyura,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Monyura,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pank.dm,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pank.dm,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pank.dm,Mushroom Gnomes - 2,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+cafelier,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cafelier,Digits Permutations,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+cafelier,Mushroom Gnomes - 2,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Ixanezis,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ixanezis,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ixanezis,Mushroom Gnomes - 2,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Omar_ElAzazy,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Omar_ElAzazy,Digits Permutations,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+huyuanming11,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+huyuanming11,Mushroom Gnomes - 2,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+huyuanming11,Digits Permutations,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Igel_SK,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Igel_SK,Digits Permutations,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Igel_SK,Mushroom Gnomes - 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+pdwd,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pdwd,Digits Permutations,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+pdwd,Mushroom Gnomes - 2,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+chnlich,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+chnlich,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+chnlich,Mushroom Gnomes - 2,1,C,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+aropan,Literature Lesson,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+aropan,Digits Permutations,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+aropan,Mushroom Gnomes - 2,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Slevin,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Slevin,Digits Permutations,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Slevin,Mushroom Gnomes - 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+JalbaRu,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+JalbaRu,Digits Permutations,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+husheyn,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+husheyn,Digits Permutations,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,greedy
+Depool,Literature Lesson,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Depool,Digits Permutations,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+AlexDmitriev,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlexDmitriev,Mushroom Gnomes - 2,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+AlexDmitriev,Digits Permutations,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+marim,Literature Lesson,1,A,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+StefanoT,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+StefanoT,Mushroom Gnomes - 2,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+logicmachine,Literature Lesson,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+logicmachine,Mushroom Gnomes - 2,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+rizar,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rizar,Mushroom Gnomes - 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+rizar,World of Darkraft,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+BogdanBugaev,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+BogdanBugaev,Mushroom Gnomes - 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+KAN,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+KAN,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KAN,Mushroom Gnomes - 2,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+fura,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fura,Digits Permutations,1,B,0,0,0,0,2,5,0,1,0,0,0,0,0,0,0,0,0,greedy
+intsashka,Digits Permutations,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+intsashka,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shef,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shef,Digits Permutations,0,B,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shef,Mushroom Gnomes - 2,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Shef,World of Darkraft,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+sjtu_pigoneand,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sjtu_pigoneand,Digits Permutations,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sjtu_pigoneand,Mushroom Gnomes - 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Mex-Mans,Literature Lesson,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+stostap,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+stostap,Digits Permutations,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+stostap,Mushroom Gnomes - 2,0,C,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+fmm,Digits Permutations,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+fmm,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+_jte_,Literature Lesson,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+_jte_,Digits Permutations,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+HolkinPV,Literature Lesson,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+MRoizner,Literature Lesson,0,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MRoizner,Digits Permutations,1,B,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+tanzaku,Digits Permutations,0,B,0,0,0,0,1,4,0,2,0,0,0,0,0,0,0,0,0,greedy
+bjin,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bjin,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+navi,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+navi,Digits Permutations,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+navi,Mushroom Gnomes - 2,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+toi333,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+toi333,Digits Permutations,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ramzes2,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ramzes2,Mushroom Gnomes - 2,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+chaemon,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+chaemon,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+wuzhengkai,Literature Lesson,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+wuzhengkai,Mushroom Gnomes - 2,1,C,1,0,0,0,3,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+wuzhengkai,Digits Permutations,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Avalanche,Literature Lesson,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Avalanche,Digits Permutations,1,B,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+ilya.korovin,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ilya.korovin,Digits Permutations,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+ilya.korovin,Mushroom Gnomes - 2,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+fafafft,Literature Lesson,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+fafafft,Mushroom Gnomes - 2,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+ahmed_thabet,Literature Lesson,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahmed_thabet,Digits Permutations,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+ahmed_thabet,Mushroom Gnomes - 2,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+hos.lyric,Mushroom Gnomes - 2,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+hos.lyric,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hos.lyric,Digits Permutations,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+hos.lyric,Hellish Constraints,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,two pointers"
+mkut,Digits Permutations,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+mkut,Literature Lesson,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+KrK,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KrK,Digits Permutations,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+Gerald,Literature Lesson,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gerald,Mushroom Gnomes - 2,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Gerald,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+fura2,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fura2,Digits Permutations,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+fura2,Mushroom Gnomes - 2,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+homo_sapiens,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+homo_sapiens,Mushroom Gnomes - 2,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+homo_sapiens,Digits Permutations,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+chyx,Literature Lesson,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+chyx,Mushroom Gnomes - 2,1,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+RomaWhite,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+RomaWhite,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AleksBannikov,Literature Lesson,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+AleksBannikov,Digits Permutations,1,B,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,greedy
+xwings,Literature Lesson,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xwings,Digits Permutations,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+evgentu,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+evgentu,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+evgentu,Mushroom Gnomes - 2,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+iwiwi,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+iwiwi,Mushroom Gnomes - 2,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+iwiwi,Digits Permutations,0,B,1,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,greedy
+iwiwi,World of Darkraft,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+SergeyLazarev,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SergeyLazarev,Digits Permutations,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+SergeyLazarev,Mushroom Gnomes - 2,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+anhdt,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+anhdt,Digits Permutations,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nikhil,Literature Lesson,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nikhil,Digits Permutations,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nikhil,Mushroom Gnomes - 2,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+mostafa_fahim,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mostafa_fahim,Digits Permutations,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+tsukuno,Literature Lesson,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tsukuno,Digits Permutations,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+tsukuno,Mushroom Gnomes - 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Rubanenko,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rubanenko,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Oryshych,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Oryshych,Digits Permutations,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Di735,Literature Lesson,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Di735,Digits Permutations,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hynek,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hynek,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hynek,Mushroom Gnomes - 2,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+moreD,Literature Lesson,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+moreD,Digits Permutations,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+moreD,Mushroom Gnomes - 2,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+daizhenyang,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+daizhenyang,Mushroom Gnomes - 2,1,C,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+SmirnovBoris,Literature Lesson,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+SmirnovBoris,Mushroom Gnomes - 2,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Egor,Mushroom Gnomes - 2,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Egor,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Egor,World of Darkraft,0,D,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Egor,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+komiya,Digits Permutations,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+komiya,Mushroom Gnomes - 2,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Reshetnikov_Ivan,Literature Lesson,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Reshetnikov_Ivan,Digits Permutations,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+zpl2,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zpl2,Mushroom Gnomes - 2,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+zpl2,Digits Permutations,1,B,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Anarivu,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+Anarivu,Mushroom Gnomes - 2,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Anarivu,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dergach,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dergach,Digits Permutations,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+coolinging,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+coolinging,Digits Permutations,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+coolinging,Mushroom Gnomes - 2,0,C,0,0,0,1,6,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+henshiru,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+henshiru,Digits Permutations,1,B,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+mgqa34,Literature Lesson,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+mgqa34,World of Darkraft,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+rexim,Literature Lesson,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+apathism,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+apathism,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+pauldb,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pauldb,Mushroom Gnomes - 2,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+pauldb,Digits Permutations,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+sexyprincess91,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sexyprincess91,Digits Permutations,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+zjut_DD,Literature Lesson,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+zjut_DD,Digits Permutations,1,B,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+zjut_DD,Mushroom Gnomes - 2,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+dani1373,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dani1373,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kvo,Literature Lesson,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kvo,Digits Permutations,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+cakcups,Literature Lesson,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+cakcups,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Exia,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Exia,Mushroom Gnomes - 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Exia,Digits Permutations,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+constkir,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+constkir,Digits Permutations,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+constkir,Mushroom Gnomes - 2,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+kawatea,Literature Lesson,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+kawatea,Digits Permutations,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Goshish,Literature Lesson,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Goshish,Digits Permutations,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+masha,Literature Lesson,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+masha,Digits Permutations,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+jys123,Literature Lesson,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+jys123,Digits Permutations,0,B,0,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+juver,Literature Lesson,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+juver,Digits Permutations,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+alberist,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+alberist,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+CleRIC,Literature Lesson,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CleRIC,Digits Permutations,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+CleRIC,Mushroom Gnomes - 2,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Ra16bit,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ra16bit,World of Darkraft,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+tloinuy,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tloinuy,Digits Permutations,1,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+ZumZoom,Literature Lesson,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ZumZoom,Digits Permutations,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+superpear,Literature Lesson,0,A,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,implementation
+superpear,Digits Permutations,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+superpear,Mushroom Gnomes - 2,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,probabilities,sortings"
+lcqbest,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lcqbest,Digits Permutations,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lcqbest,Mushroom Gnomes - 2,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+NGNCMH,Digits Permutations,0,B,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,greedy
+NGNCMH,Literature Lesson,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+azizkhan,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+azizkhan,Mushroom Gnomes - 2,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+azizkhan,World of Darkraft,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+mylyanyk.ivan,Literature Lesson,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+mylyanyk.ivan,Digits Permutations,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Al3kSaNdaR,Literature Lesson,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Al3kSaNdaR,Mushroom Gnomes - 2,0,C,0,0,0,0,1,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+wanghd,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wanghd,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+wanghd,Mushroom Gnomes - 2,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+hiphip,Literature Lesson,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+hiphip,Digits Permutations,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+72VanVector_SevNTU,Literature Lesson,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+72VanVector_SevNTU,Digits Permutations,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+72VanVector_SevNTU,Mushroom Gnomes - 2,0,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,1,0,0,"binary search,data structures,probabilities,sortings"
+kamranm,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kamranm,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kamranm,Mushroom Gnomes - 2,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+cjLD,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+cjLD,Digits Permutations,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+cjLD,Mushroom Gnomes - 2,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Farzam,Literature Lesson,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Farzam,Digits Permutations,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+cheezer,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+cheezer,Digits Permutations,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Vaness,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Vaness,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Vaness,Mushroom Gnomes - 2,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Malinovsky239,Digits Permutations,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Malinovsky239,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Malinovsky239,Mushroom Gnomes - 2,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+ft.azadi,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ft.azadi,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+natsugiri,Literature Lesson,1,A,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+natsugiri,Digits Permutations,1,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,greedy
+natsugiri,Mushroom Gnomes - 2,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+jyliu27,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jyliu27,Digits Permutations,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+paulocezar,Literature Lesson,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+paulocezar,Digits Permutations,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+stx2,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+stx2,Mushroom Gnomes - 2,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+stx2,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+YerzhanU,Literature Lesson,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+YerzhanU,Digits Permutations,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+vsavchenkov,Literature Lesson,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+vsavchenkov,Mushroom Gnomes - 2,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+vsavchenkov,Digits Permutations,0,B,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+toxahak,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+toxahak,Digits Permutations,1,B,0,0,0,1,0,11,0,0,0,0,0,0,0,0,0,0,0,greedy
+delta_4d,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+delta_4d,Digits Permutations,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+serbanstan,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+serbanstan,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+heyihong,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+heyihong,Mushroom Gnomes - 2,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+heyihong,Digits Permutations,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ffao,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ffao,Mushroom Gnomes - 2,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+AlexanderBolshakov,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlexanderBolshakov,Digits Permutations,1,B,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+kilotaras,Digits Permutations,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kilotaras,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kilotaras,Mushroom Gnomes - 2,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Juda,Literature Lesson,1,A,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+keivan,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+keivan,Digits Permutations,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+dolphinigle,Digits Permutations,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+dolphinigle,Mushroom Gnomes - 2,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+dolphinigle,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dolphinigle,World of Darkraft,1,D,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+MorningSYJ,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+MorningSYJ,Digits Permutations,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MorningSYJ,Mushroom Gnomes - 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Azras,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wcwswswws,Literature Lesson,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wcwswswws,Digits Permutations,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+wcwswswws,Mushroom Gnomes - 2,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+lyoz,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lyoz,Mushroom Gnomes - 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+zanoes,Literature Lesson,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+zanoes,Digits Permutations,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+edly,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+edly,Digits Permutations,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+edly,Mushroom Gnomes - 2,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+carabet.cosmin,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+carabet.cosmin,Digits Permutations,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+fatest,Literature Lesson,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+fatest,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fatest,Mushroom Gnomes - 2,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+NuM,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NuM,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+NuM,Mushroom Gnomes - 2,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+moshiur,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+calculus.saransh,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+calculus.saransh,Digits Permutations,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+ibra,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ibra,Digits Permutations,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+Ahmed_Salama,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ahmed_Salama,Digits Permutations,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+riversouther,Digits Permutations,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AguL,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+c_loud26,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+c_loud26,Digits Permutations,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,greedy
+xynx,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xynx,Mushroom Gnomes - 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+radix.ru,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+radix.ru,Digits Permutations,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+radix.ru,Mushroom Gnomes - 2,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"binary search,data structures,probabilities,sortings"
+dusty.and.rusty,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dusty.and.rusty,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+PanZverski,Literature Lesson,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+PanZverski,Digits Permutations,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+msh_shiplu,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+msh_shiplu,Mushroom Gnomes - 2,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,probabilities,sortings"
+msh_shiplu,Digits Permutations,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+SkyHawk,Literature Lesson,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+SkyHawk,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+SkyHawk,Mushroom Gnomes - 2,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+self_healing,Literature Lesson,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+self_healing,Digits Permutations,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+self_healing,Mushroom Gnomes - 2,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Mick,Literature Lesson,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mick,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+whd,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+whd,Digits Permutations,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+ts10,Literature Lesson,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ts10,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ILJ,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ILJ,Digits Permutations,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+cp12321,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cp12321,Mushroom Gnomes - 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+cp12321,Digits Permutations,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+cfjhzcb,Digits Permutations,0,B,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cfjhzcb,Literature Lesson,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+bloops,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bloops,Digits Permutations,1,B,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Berestinsky,Literature Lesson,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+stoundmire,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+stoundmire,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+stoundmire,Mushroom Gnomes - 2,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Seals,Literature Lesson,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,implementation
+guille,Mushroom Gnomes - 2,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+m1ha1f,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+m1ha1f,Digits Permutations,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sammax,Literature Lesson,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sammax,Digits Permutations,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+lwc626,Literature Lesson,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lwc626,Digits Permutations,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+amylase,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+amylase,Digits Permutations,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+amylase,Mushroom Gnomes - 2,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+lazylie,Literature Lesson,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+lazylie,Digits Permutations,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Enterpaise,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Enterpaise,Digits Permutations,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+peterae86,Literature Lesson,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,implementation
+peterae86,Digits Permutations,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+tjmts,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tjmts,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Merlininice,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ICOA,Digits Permutations,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+ICOA,Mushroom Gnomes - 2,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+thphong,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+thphong,Digits Permutations,0,B,0,0,0,0,6,1,0,0,2,0,0,0,0,0,0,0,0,greedy
+Omar.Darwish,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Omar.Darwish,Digits Permutations,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+fegla,Literature Lesson,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+fegla,Digits Permutations,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+luyi0619,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+luyi0619,Digits Permutations,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+infrmtcs,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+infrmtcs,Digits Permutations,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,greedy
+ZhouYuChen,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ZhouYuChen,Digits Permutations,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+johnLate,Literature Lesson,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+johnLate,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ch_g,Literature Lesson,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ch_g,Mushroom Gnomes - 2,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+mcsharma1990,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mcsharma1990,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mbfilho91,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mbfilho91,Digits Permutations,0,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+SCNU20082200090,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+White_Bear,Mushroom Gnomes - 2,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+White_Bear,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+White_Bear,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Cyin,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Cyin,Digits Permutations,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+AliD,Literature Lesson,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hhoomn,Literature Lesson,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hhoomn,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+hhoomn,Mushroom Gnomes - 2,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Aziza,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aziza,Digits Permutations,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+aa2985759,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+aa2985759,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+siuvit,Literature Lesson,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+siuvit,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+siuvit,Mushroom Gnomes - 2,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+citxx,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+justever,Digits Permutations,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+justever,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+justever,Mushroom Gnomes - 2,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+yvasyliv,Digits Permutations,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+yvasyliv,Literature Lesson,1,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+ikk,Literature Lesson,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+atetubou,Literature Lesson,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+atetubou,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tunyash,Digits Permutations,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+tunyash,Literature Lesson,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+tunyash,Mushroom Gnomes - 2,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Balajiganapathi,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Balajiganapathi,Digits Permutations,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,greedy
+Respect2D,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+domhow,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+domhow,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+GeLo,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+GeLo,Digits Permutations,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+beginner1010,Literature Lesson,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+beginner1010,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+alexej,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexej,Digits Permutations,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+cjoa,Literature Lesson,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sender,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sender,Digits Permutations,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+sriksama,Literature Lesson,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sriksama,Digits Permutations,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+openxxx,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+openxxx,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Belonogov,Literature Lesson,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Belonogov,Digits Permutations,1,B,0,0,0,0,0,5,0,3,0,0,0,0,0,0,0,0,0,greedy
+dani93.f,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dani93.f,Digits Permutations,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+4a1ka,Literature Lesson,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,implementation
+4a1ka,Digits Permutations,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+Feu,Digits Permutations,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+stafp,Literature Lesson,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+stafp,Digits Permutations,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+DoubleLu,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DoubleLu,Digits Permutations,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+riad,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+riad,Digits Permutations,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ridowan007,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ridowan007,Digits Permutations,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+mfhraven,Digits Permutations,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+mfhraven,Mushroom Gnomes - 2,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+mfhraven,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gassa,Mushroom Gnomes - 2,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Gassa,Literature Lesson,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gassa,Digits Permutations,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Vladimir.Del,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Vladimir.Del,Digits Permutations,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ryanaaa,Literature Lesson,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+naagi,Digits Permutations,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+naagi,Literature Lesson,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+SkorKNURE,Mushroom Gnomes - 2,0,C,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+SkorKNURE,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hirosegolf,Mushroom Gnomes - 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+hirosegolf,Digits Permutations,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+HeroShadow,Digits Permutations,0,B,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,greedy
+makeevvladx,Mushroom Gnomes - 2,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+neal,Hellish Constraints,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,two pointers"
+neal,Mushroom Gnomes - 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+neal,World of Darkraft,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+mzry1992,Literature Lesson,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mzry1992,Digits Permutations,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+AC9,Literature Lesson,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cpphamza,Mushroom Gnomes - 2,0,C,0,0,0,0,0,9,0,0,1,0,0,0,0,0,0,0,0,"binary search,data structures,probabilities,sortings"
+Slamur,Digits Permutations,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy

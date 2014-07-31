@@ -1,0 +1,843 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+KADR,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+KADR,Demonstration,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+KADR,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+KADR,Thwarting Demonstrations,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+KADR,Metro Scheme,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy"
+hex539,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+hex539,Fools and Roads,0,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+hex539,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hex539,Metro Scheme,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy"
+FedyuninV,Dynasty Puzzles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+FedyuninV,Fools and Roads,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+al13n,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+al13n,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+al13n,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+al13n,Metro Scheme,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy"
+al13n,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+subscriber,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,dp
+subscriber,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+subscriber,Fools and Roads,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+subscriber,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+kennethsnow,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kennethsnow,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kennethsnow,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+kennethsnow,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+RAD,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+RAD,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+RAD,Demonstration,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+RAD,Thwarting Demonstrations,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+witua,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+witua,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+witua,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+witua,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+yeputons,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+yeputons,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yeputons,Fools and Roads,0,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+yeputons,Thwarting Demonstrations,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+yeputons,Metro Scheme,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy"
+zglicz,Dynasty Puzzles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+zglicz,Fools and Roads,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+zglicz,Thwarting Demonstrations,1,E,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+_meshanya_,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+_meshanya_,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+_meshanya_,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+_meshanya_,Thwarting Demonstrations,1,E,1,0,0,0,0,4,0,3,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+liympanda,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+KOTEHOK,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+KOTEHOK,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KOTEHOK,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+KOTEHOK,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+forest,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+forest,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+forest,Fools and Roads,1,C,0,0,0,0,0,2,0,5,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+dj3500,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dj3500,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+dj3500,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dj3500,Thwarting Demonstrations,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+PavelKunyavskiy,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+PavelKunyavskiy,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+PavelKunyavskiy,Demonstration,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+PavelKunyavskiy,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+VArtem,Dynasty Puzzles,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+VArtem,Fools and Roads,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+VArtem,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+homo_sapiens,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+homo_sapiens,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+homo_sapiens,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+homo_sapiens,Thwarting Demonstrations,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+sankear,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sankear,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+sankear,Thwarting Demonstrations,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+sankear,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sankear,Metro Scheme,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy"
+aram90,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+aram90,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+aram90,Fools and Roads,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+fhlasek,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+fhlasek,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fhlasek,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Zlobober,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Zlobober,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Zlobober,Fools and Roads,1,C,1,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Zlobober,Thwarting Demonstrations,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+qwerty787788,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+qwerty787788,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+qwerty787788,Demonstration,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pperm,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+pperm,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pperm,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+pperm,Thwarting Demonstrations,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+nathanajah,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+nathanajah,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nathanajah,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+cmd,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+cmd,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+cmd,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cmd,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+ftiasch,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ftiasch,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+ftiasch,Thwarting Demonstrations,0,E,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+ftiasch,Demonstration,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ilya.korovin,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ilya.korovin,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ilya.korovin,Fools and Roads,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+shangjingbo,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+shangjingbo,Fools and Roads,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+shangjingbo,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shangjingbo,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+shangjingbo,Metro Scheme,1,D,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy"
+abcsampson,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+abcsampson,Demonstration,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+OmniLRenegadE,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+SergeyLazarev,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+SergeyLazarev,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SergeyLazarev,Fools and Roads,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+ACube,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ACube,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ACube,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+ACube,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+Oryshych,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Oryshych,Demonstration,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ra16bit,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Ra16bit,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ra16bit,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Ra16bit,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+Monyura,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Monyura,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Monyura,Metro Scheme,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy"
+Komaki,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Komaki,Demonstration,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Komaki,Fools and Roads,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Komaki,Thwarting Demonstrations,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+oimaster,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+oimaster,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+oimaster,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+oimaster,Thwarting Demonstrations,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+oimaster,Metro Scheme,1,D,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy"
+watashi,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+watashi,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+watashi,Fools and Roads,0,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+watashi,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+pashkal,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+pashkal,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+pashkal,Demonstration,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+pashkal,Thwarting Demonstrations,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+OoO000oOOOoOooOo,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+OoO000oOOOoOooOo,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+OoO000oOOOoOooOo,Fools and Roads,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+OoO000oOOOoOooOo,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+OoO000oOOOoOooOo,Metro Scheme,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy"
+MarioYC,Dynasty Puzzles,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,dp
+MarioYC,Demonstration,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+MarioYC,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Dmitry_Egorov,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Dmitry_Egorov,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Dmitry_Egorov,Demonstration,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dmitry_Egorov,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+UESTC_Nocturne,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+UESTC_Nocturne,Fools and Roads,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+UESTC_Nocturne,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+UESTC_Nocturne,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+ib18,Dynasty Puzzles,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ib18,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ib18,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+superpear,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+superpear,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+superpear,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+superpear,Thwarting Demonstrations,1,E,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+ryry56,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ryry56,Demonstration,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+ryry56,Fools and Roads,1,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+sillyboy,Dynasty Puzzles,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sillyboy,Demonstration,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+sillyboy,Fools and Roads,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+burunduk3,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+burunduk3,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+burunduk3,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+burunduk3,Thwarting Demonstrations,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+sexyprincess91,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sexyprincess91,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+sexyprincess91,Thwarting Demonstrations,0,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+sexyprincess91,Demonstration,1,B,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+chhung6,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+chhung6,Demonstration,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+chhung6,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+chhung6,Thwarting Demonstrations,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+Endagorion,Dynasty Puzzles,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Endagorion,Demonstration,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Endagorion,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Endagorion,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+espr1t,Dynasty Puzzles,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+espr1t,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+espr1t,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+R_R_,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+R_R_,Fools and Roads,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+R_R_,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+R_R_,Thwarting Demonstrations,1,E,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+shilov,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+shilov,Fools and Roads,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+shilov,Demonstration,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hohol,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Hohol,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hohol,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+aa2985759,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+aa2985759,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+aa2985759,Fools and Roads,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+aa2985759,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+huyuanming11,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+huyuanming11,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+huyuanming11,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+xujie,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+xujie,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+xujie,Thwarting Demonstrations,0,E,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+xujie,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+bjin,Dynasty Puzzles,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+bjin,Fools and Roads,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+bjin,Metro Scheme,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy"
+ballon,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ballon,Fools and Roads,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+ballon,Demonstration,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ballon,Thwarting Demonstrations,1,E,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+fjxmlhx,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+fjxmlhx,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+fjxmlhx,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fjxmlhx,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+gen,Dynasty Puzzles,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+gen,Demonstration,1,B,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,greedy
+Shik,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Shik,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shik,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Shik,Thwarting Demonstrations,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+Shik,Metro Scheme,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy"
+fushar,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+fushar,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+flowlight,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+flowlight,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+flowlight,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+Taygrim,Dynasty Puzzles,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Taygrim,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Taygrim,Fools and Roads,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Taygrim,Thwarting Demonstrations,1,E,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+imslavko,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+imslavko,Demonstration,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+choice,Dynasty Puzzles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+choice,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Night_Fury,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Night_Fury,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Night_Fury,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Night_Fury,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+Gassa,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Gassa,Demonstration,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gassa,Thwarting Demonstrations,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+aropan,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+aropan,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+aropan,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+aropan,Thwarting Demonstrations,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+alexey.shchepin,Dynasty Puzzles,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+alexey.shchepin,Demonstration,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+kelvin,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kelvin,Demonstration,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kelvin,Fools and Roads,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+rng_58,Dynasty Puzzles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+rng_58,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+rng_58,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rng_58,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+stjepan,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+stjepan,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+stjepan,Fools and Roads,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Bugman,Dynasty Puzzles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Bugman,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,dfs and similar,trees"
+Bugman,Demonstration,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+lamphanviet,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+lamphanviet,Fools and Roads,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+lzqxh,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+lzqxh,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+lzqxh,Thwarting Demonstrations,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+lzqxh,Demonstration,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+NuM,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+NuM,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+NuM,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dalex,Dynasty Puzzles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+dalex,Demonstration,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,1,0,0,0,greedy
+jiangzhijie,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+jiangzhijie,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+lydrainbowcat,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+lydrainbowcat,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+lydrainbowcat,Demonstration,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+lydrainbowcat,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+Hackson,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Hackson,Fools and Roads,1,C,0,0,0,0,3,0,0,4,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Kornacker,Dynasty Puzzles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Kornacker,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nicholas,Dynasty Puzzles,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Nicholas,Demonstration,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nicholas,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Parabola,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Parabola,Demonstration,1,B,0,0,0,0,0,8,0,1,0,0,0,0,0,0,0,0,0,greedy
+whd,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+whd,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Fcdkbear,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Fcdkbear,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+Fcdkbear,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+UESTC_Defense,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+UESTC_Defense,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+UESTC_Defense,Demonstration,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+UESTC_Defense,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+wanghd,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+wanghd,Demonstration,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+wanghd,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+wanghd,Thwarting Demonstrations,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+Fefer_Ivan,Dynasty Puzzles,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+Fefer_Ivan,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Fefer_Ivan,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Fefer_Ivan,Thwarting Demonstrations,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+Martin,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Martin,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+Martin,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Martin,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+alger95,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+alger95,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+akashin,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+akashin,Demonstration,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+akashin,Fools and Roads,1,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Shtrix,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Shtrix,Fools and Roads,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Shtrix,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shtrix,Thwarting Demonstrations,1,E,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+ft.azadi,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ft.azadi,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Andrew_Makar,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Andrew_Makar,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Andrew_Makar,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Andrew_Makar,Metro Scheme,1,D,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy"
+ilyaraz,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+lgarcia,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,dp
+lgarcia,Fools and Roads,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Kostroma,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Kostroma,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kostroma,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+iRomchig,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+iRomchig,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Michael,Dynasty Puzzles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+Michael,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Michael,Fools and Roads,1,C,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Michael,Thwarting Demonstrations,1,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+uwi,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+uwi,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+uwi,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+uwi,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+kawatea,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+kawatea,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+pooya_,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+pooya_,Demonstration,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Logic_IU,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Logic_IU,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Logic_IU,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Martynas,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Martynas,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Martynas,Fools and Roads,1,C,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Sereja,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Sereja,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sereja,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Sereja,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,trees"
+VladGavrila,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+VladGavrila,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+VladGavrila,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+VladGavrila,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+chavit,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+chavit,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+rares.buhai,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+rares.buhai,Demonstration,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+rares.buhai,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+shinian,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+shinian,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shinian,Thwarting Demonstrations,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+chakradarraju,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+chakradarraju,Demonstration,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+chakradarraju,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Ixanezis,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Ixanezis,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ixanezis,Fools and Roads,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+sggutier,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sggutier,Demonstration,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+yvasyliv,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+yvasyliv,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+yvasyliv,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yvasyliv,Thwarting Demonstrations,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+ralekseenkov,Dynasty Puzzles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+ralekseenkov,Fools and Roads,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+naagi,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+nab,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nab,Fools and Roads,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+dusty.and.rusty,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+dusty.and.rusty,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+paulocezar,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+paulocezar,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+paulocezar,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+malcolm,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+malcolm,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+malcolm,Fools and Roads,1,C,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+AlexDmitriev,Dynasty Puzzles,0,A,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+AlexDmitriev,Demonstration,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+AlexDmitriev,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+dhh1995,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+dhh1995,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+dhh1995,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dhh1995,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+kterry,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+kterry,Demonstration,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+l.j.q.light,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+l.j.q.light,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+SkyHawk,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+SkyHawk,Demonstration,1,B,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+forifchen,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+forifchen,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+forifchen,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Jokser,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Jokser,Fools and Roads,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Jokser,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Tranvick,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Tranvick,Fools and Roads,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Tranvick,Demonstration,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+doraemon,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+doraemon,Fools and Roads,0,C,1,0,0,0,9,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+doraemon,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tunyash,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+tunyash,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+tunyash,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mruxim,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+mruxim,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mruxim,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+mruxim,Thwarting Demonstrations,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+imbanoob,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+imbanoob,Demonstration,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+imbanoob,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+imbanoob,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+KAN,Demonstration,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+KAN,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+KAN,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+KAN,Thwarting Demonstrations,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+sune2,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+hytirt,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+hytirt,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+hytirt,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Azras,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Azras,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NikitaD,Dynasty Puzzles,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,dp
+NikitaD,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alberist,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+alberist,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Slamur,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Slamur,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sergey.Bankevich,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Sergey.Bankevich,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xiaodao,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+xiaodao,Fools and Roads,1,C,0,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+xiaodao,Thwarting Demonstrations,0,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+xiaodao,Demonstration,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+dreamoon,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dreamoon,Fools and Roads,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+dreamoon,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dreamoon,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+pulkitg10,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+punchit,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+punchit,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+punchit,Fools and Roads,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Hinidu,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Hinidu,Demonstration,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hinidu,Fools and Roads,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Spumote,Dynasty Puzzles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Spumote,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sadkangaroo,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sadkangaroo,Demonstration,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sadkangaroo,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+tereshinvs,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+tereshinvs,Demonstration,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+tereshinvs,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+GagGuy,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+GagGuy,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+GagGuy,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+GagGuy,Thwarting Demonstrations,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+handojo1,Dynasty Puzzles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+handojo1,Fools and Roads,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+handojo1,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ydnl,Dynasty Puzzles,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+ydnl,Fools and Roads,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+daizhenyang,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+daizhenyang,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+daizhenyang,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+CleRIC,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+CleRIC,Demonstration,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+CleRIC,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+HTML_Sanek,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+HTML_Sanek,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+jyliu27,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+jyliu27,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+pratikmoona,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+pratikmoona,Demonstration,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+RomaWhite,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+RomaWhite,Demonstration,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+RomaWhite,Fools and Roads,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+__tutankhamun__,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+__tutankhamun__,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+__tutankhamun__,Fools and Roads,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Timur_Keks,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Timur_Keks,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Timur_Keks,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+yoh149,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+yoh149,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yoh149,Fools and Roads,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+yoh149,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+2910201028,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+2910201028,Demonstration,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+2910201028,Fools and Roads,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+jskhirtladze,Dynasty Puzzles,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+jskhirtladze,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+matejbalog,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+matejbalog,Demonstration,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+matejbalog,Fools and Roads,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+infrmtcs,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+infrmtcs,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Malinovsky239,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Malinovsky239,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+evima,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+evima,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+evima,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+windy7926778,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+windy7926778,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+windy7926778,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Enterpaise,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Enterpaise,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Proscriptus,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Proscriptus,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Yousef_Salama,Dynasty Puzzles,0,A,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,dp
+Gammy,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Gammy,Demonstration,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+RaceBug,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+RaceBug,Demonstration,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+flashmt,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+flashmt,Demonstration,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+flashmt,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+flashmt,Thwarting Demonstrations,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+juver,Dynasty Puzzles,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+juver,Fools and Roads,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+kohyatoh,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+kohyatoh,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kohyatoh,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+kohyatoh,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+fenzhang,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+fenzhang,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fenzhang,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+tuananh93,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+tuananh93,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+tuananh93,Fools and Roads,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Sayakiss,Dynasty Puzzles,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+Sayakiss,Demonstration,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+azaky,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+azaky,Demonstration,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+lavin,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+lavin,Fools and Roads,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+popoffka,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+popoffka,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+popoffka,Thwarting Demonstrations,1,E,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+popoffka,Fools and Roads,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+smilitude,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+smilitude,Fools and Roads,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+smilitude,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+craus,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+craus,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+craus,Fools and Roads,1,C,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+kyuridenamida,Dynasty Puzzles,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,dp
+kyuridenamida,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Cenadar,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Cenadar,Demonstration,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Cenadar,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+shevchen,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+shevchen,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shevchen,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+iloahz,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+iloahz,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+iloahz,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+gogokefakefa,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+gogokefakefa,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+gogokefakefa,Demonstration,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+SuBaRaSi,Dynasty Puzzles,0,A,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+SuBaRaSi,Demonstration,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SuBaRaSi,Fools and Roads,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+m.radwan,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+m.radwan,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+seen,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+seen,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+seen,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+seen,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+xkszltl,Dynasty Puzzles,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+xkszltl,Fools and Roads,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+xkszltl,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xkszltl,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+kuzmichev_dima,Dynasty Puzzles,0,A,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,dp
+kuzmichev_dima,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kuzmichev_dima,Fools and Roads,1,C,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+hydrastuff,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+hydrastuff,Demonstration,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hydrastuff,Fools and Roads,1,C,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Narg,Demonstration,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Narg,Dynasty Puzzles,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Narg,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Narg,Thwarting Demonstrations,1,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+AndreySiunov,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+AndreySiunov,Demonstration,1,B,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,greedy
+ajmarin,Demonstration,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ajmarin,Dynasty Puzzles,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,dp
+nwin,Dynasty Puzzles,0,A,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,dp
+nwin,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+lne,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+lne,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lne,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+darknp,Dynasty Puzzles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+darknp,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+darknp,Fools and Roads,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+AlphaStream,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+AlphaStream,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+xscape,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+xscape,Demonstration,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+xscape,Thwarting Demonstrations,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+Azat_Yusupov,Dynasty Puzzles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+zetsubou,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+zetsubou,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zetsubou,Fools and Roads,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+zetsubou,Thwarting Demonstrations,0,E,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+esrever,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+esrever,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+esrever,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pedrovictor,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+pedrovictor,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nvilcins,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+nvilcins,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nvilcins,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+ysyshtc,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ysyshtc,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Escapist,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+vexorian,Dynasty Puzzles,0,A,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,dp
+vexorian,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DamianS,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+DamianS,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+DamianS,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DamianS,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+olimpo,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+olimpo,Demonstration,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+olimpo,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+yiyiyi4321,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+yiyiyi4321,Demonstration,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+makeevvladx,Dynasty Puzzles,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+makeevvladx,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Timus,Dynasty Puzzles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Timus,Demonstration,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+flydutchman,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+flydutchman,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+flydutchman,Demonstration,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+flydutchman,Thwarting Demonstrations,1,E,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+wangchaohui,Dynasty Puzzles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+self_healing,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+self_healing,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+self_healing,Thwarting Demonstrations,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+Vitonka,Dynasty Puzzles,0,A,1,0,0,1,1,2,0,1,0,0,0,0,0,0,0,0,0,dp
+Vitonka,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Vitonka,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+worldhealer,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+worldhealer,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+YaoZ,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+YaoZ,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+ainta,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+ainta,Fools and Roads,1,C,1,0,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+acherepanov,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+acherepanov,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+acherepanov,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+ll931110,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+ll931110,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ll931110,Thwarting Demonstrations,0,E,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+ll931110,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+maximkoval,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+maximkoval,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+maximkoval,Fools and Roads,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+chEEtah,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+chEEtah,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+StrikeFreedom,Dynasty Puzzles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+Vaness,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Vaness,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Vaness,Fools and Roads,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Pattara.S,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Pattara.S,Demonstration,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Pattara.S,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+Pattara.S,Thwarting Demonstrations,1,E,0,0,0,1,0,3,0,3,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+dolphinigle,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+dolphinigle,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+dolphinigle,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dolphinigle,Metro Scheme,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy"
+dolphinigle,Thwarting Demonstrations,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+DPR-pavlin,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DPR-pavlin,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+DPR-pavlin,Thwarting Demonstrations,1,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+lyoz,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+maksim.banin,Dynasty Puzzles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,dp
+thanabhat,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+thanabhat,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+thanabhat,Fools and Roads,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+nanikaka,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+nanikaka,Demonstration,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sphinx,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Sphinx,Demonstration,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+helThazar,Demonstration,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+helThazar,Fools and Roads,0,C,0,0,0,1,1,0,0,5,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+helThazar,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ping128,Dynasty Puzzles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+ping128,Demonstration,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+cyk2011,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+cyk2011,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+LeBron,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,dp
+LeBron,Demonstration,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+LeBron,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+fcjy888,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+fcjy888,Demonstration,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+fcjy888,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+pdwd,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+pdwd,Demonstration,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pdwd,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+pele,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+pele,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+pele,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+EbTech,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+EbTech,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+bcurcio,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+bcurcio,Demonstration,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+kAc,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kAc,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+kAc,Demonstration,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+kAc,Thwarting Demonstrations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,trees"
+AlexanderBolshakov,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+AlexanderBolshakov,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sas4eka,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sas4eka,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sas4eka,Fools and Roads,1,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+iensen,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+iensen,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sanzunonyasama,Dynasty Puzzles,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sanzunonyasama,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+domhow,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+domhow,Demonstration,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ibra,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,dp
+ibra,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+ibra,Demonstration,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Belonogov,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Belonogov,Dynasty Puzzles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Belonogov,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+mrtempo,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+mrtempo,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mrtempo,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+seanwentzel42,Dynasty Puzzles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+seanwentzel42,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+IlyaCk,Dynasty Puzzles,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+IlyaCk,Demonstration,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ika,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ika,Demonstration,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+toxahak,Dynasty Puzzles,0,A,0,0,0,1,0,3,0,1,0,0,0,0,0,0,0,0,0,dp
+loveqinqin,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+loveqinqin,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+yukim,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+yukim,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+haker4o,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+haker4o,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Konstantin,Dynasty Puzzles,1,A,1,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,dp
+Konstantin,Demonstration,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+piotr.kukla,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+piotr.kukla,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+piotr.kukla,Fools and Roads,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Jami_CSEDU,Dynasty Puzzles,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+Jami_CSEDU,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Restart,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Restart,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Restart,Fools and Roads,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+TangJie,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+TangJie,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+SkorKNURE,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+SkorKNURE,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+SkorKNURE,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+temka,Dynasty Puzzles,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+temka,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Troy_Cornelius,Dynasty Puzzles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+Jens,Dynasty Puzzles,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+Jens,Fools and Roads,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Jens,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+takapt,Dynasty Puzzles,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+takapt,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Pavlo_Lviv_NU,Dynasty Puzzles,0,A,0,0,0,0,2,4,0,5,1,0,0,0,0,0,0,0,0,dp
+arti1990,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+arti1990,Fools and Roads,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+whitetooth,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+whitetooth,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+whitetooth,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+cjtoribio,Dynasty Puzzles,1,A,1,0,0,0,0,3,0,1,1,0,0,2,0,0,0,0,0,dp
+cjtoribio,Demonstration,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+ts10,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ts10,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ts10,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+vagnard,Demonstration,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+vagnard,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+vagnard,Dynasty Puzzles,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+kokopelli,Dynasty Puzzles,0,A,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,dp
+LinKin,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+AnnKats93,Dynasty Puzzles,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+cakcups,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+cakcups,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+white_cobra,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+white_cobra,Fools and Roads,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,dfs and similar,trees"
+amylase,Dynasty Puzzles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+davidmg,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+davidmg,Fools and Roads,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Snow_storm,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Snow_storm,Demonstration,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sdryapko,Demonstration,0,B,0,0,0,0,1,9,0,1,0,0,0,0,0,0,0,0,0,greedy
+SourSpinach,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+SourSpinach,Demonstration,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ray040123,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kmatsunaga,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kmatsunaga,Demonstration,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Berezin,Dynasty Puzzles,0,A,1,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,dp
+Berezin,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+gchebanov,Fools and Roads,0,C,0,0,0,1,3,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+gchebanov,Thwarting Demonstrations,0,E,0,0,0,0,2,2,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,trees"
+Jovfer,Demonstration,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jonathanirvings,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,dp
+fmm,Fools and Roads,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+fmm,Dynasty Puzzles,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+hanfei19910905,Demonstration,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hanfei19910905,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+guille,Fools and Roads,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+tomcat,Demonstration,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tomcat,Dynasty Puzzles,1,A,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,dp
+M0sTik,Dynasty Puzzles,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+Ahmed_Salama,Demonstration,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+maxwell44,Fools and Roads,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+maxwell44,Dynasty Puzzles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+maxwell44,Demonstration,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Stolyarov,Dynasty Puzzles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp

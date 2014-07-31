@@ -1,0 +1,586 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+marspeople,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+marspeople,Palindrome,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,dp"
+marspeople,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+marspeople,Rectangles and Square,1,D,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+wrong,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+wrong,Palindrome,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+wrong,More Reclamation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+wrong,Rectangles and Square,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+A.K.Goharshady,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+A.K.Goharshady,More Reclamation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+A.K.Goharshady,Palindrome,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+mR.ilchi,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+mR.ilchi,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+mR.ilchi,Palindrome,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+mR.ilchi,Rectangles and Square,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+liympanda,Banana,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+liympanda,Palindrome,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+liympanda,More Reclamation,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,games
+liympanda,Rectangles and Square,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+liympanda,"Buy One, Get One Free",0,F,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+gawry,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+gawry,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+gawry,More Reclamation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+GagGuy,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+GagGuy,Palindrome,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+GagGuy,More Reclamation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+GagGuy,Rectangles and Square,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Dmitry_Egorov,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Dmitry_Egorov,More Reclamation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Dmitry_Egorov,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Dmitry_Egorov,Rectangles and Square,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp"
+ffao,Banana,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+ffao,Palindrome,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+ffao,More Reclamation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+Andrew_Makar,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+Andrew_Makar,Palindrome,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Andrew_Makar,More Reclamation,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,games
+evima,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+evima,Palindrome,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+evima,More Reclamation,1,C,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,games
+RAD,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+RAD,Palindrome,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+RAD,More Reclamation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+RAD,Rectangles and Square,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+LayCurse,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+LayCurse,More Reclamation,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+LayCurse,Palindrome,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+LayCurse,Rectangles and Square,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+vlady,Banana,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,constructive algorithms,greedy"
+ahmed_aly,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+ahmed_aly,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+ahmed_aly,More Reclamation,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,games
+FattyPenguin,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+FattyPenguin,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+FattyPenguin,More Reclamation,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,games
+FattyPenguin,Rectangles and Square,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Egor,Banana,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Egor,Palindrome,0,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Egor,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Egor,Rectangles and Square,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Egor,Counting Skyscrapers,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+pva701,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+pva701,Palindrome,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+AlexDmitriev,Banana,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+AlexDmitriev,Palindrome,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+AlexDmitriev,More Reclamation,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,games
+espr1t,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+espr1t,Palindrome,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+espr1t,More Reclamation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+GlebsHP,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,constructive algorithms,greedy"
+GlebsHP,Palindrome,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+GlebsHP,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+GlebsHP,Rectangles and Square,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Kenny_HORROR,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Kenny_HORROR,Palindrome,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Kenny_HORROR,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Kenny_HORROR,Rectangles and Square,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp"
+uwi,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+uwi,More Reclamation,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+uwi,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+uwi,Rectangles and Square,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+pperm,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+pperm,Palindrome,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+pperm,More Reclamation,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,games
+pperm,Rectangles and Square,0,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+LeBron,Banana,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+LeBron,Palindrome,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+LeBron,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+mugurelionut,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+mugurelionut,Palindrome,1,B,1,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+mugurelionut,More Reclamation,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,games
+iwiwi,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+iwiwi,Palindrome,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+iwiwi,More Reclamation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+iwiwi,Rectangles and Square,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+SomeGuyTookMyHandle,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+SomeGuyTookMyHandle,Palindrome,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+SomeGuyTookMyHandle,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+SomeGuyTookMyHandle,Rectangles and Square,1,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+HIR180,Banana,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+HIR180,Palindrome,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+matrix,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+chavit,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+chavit,Palindrome,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+chavit,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+chavit,Rectangles and Square,1,D,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+hex539,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+hex539,Palindrome,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+hex539,More Reclamation,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,games
+UESTC_Nocturne,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+UESTC_Nocturne,Palindrome,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+UESTC_Nocturne,More Reclamation,0,C,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,games
+UESTC_Nocturne,Rectangles and Square,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+bayleef,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+bayleef,More Reclamation,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+bayleef,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+bayleef,Rectangles and Square,1,D,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp"
+logicmachine,Banana,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+logicmachine,Palindrome,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+logicmachine,More Reclamation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+geniucos,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+geniucos,More Reclamation,1,C,1,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,games
+geniucos,Palindrome,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+sillyboy,Banana,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+sillyboy,Palindrome,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+sillyboy,Rectangles and Square,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+xiaodao,Banana,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+xiaodao,Palindrome,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,0,"constructive algorithms,dp"
+xiaodao,"Buy One, Get One Free",0,F,0,0,0,0,0,4,0,6,0,0,0,0,0,0,0,0,0,"dp,greedy"
+dreamoon,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+dreamoon,More Reclamation,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+dreamoon,Palindrome,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+dreamoon,Rectangles and Square,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp"
+klamathix,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+klamathix,Palindrome,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+klamathix,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Pattara.S,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Pattara.S,Palindrome,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Pattara.S,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Pattara.S,Rectangles and Square,1,D,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp"
+mylyanyk.ivan,Banana,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+mylyanyk.ivan,Palindrome,0,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+mylyanyk.ivan,More Reclamation,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,games
+Al3kSaNdaR,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+Al3kSaNdaR,Palindrome,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Al3kSaNdaR,More Reclamation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Kepnu4,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Kepnu4,Palindrome,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Kepnu4,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+DamianS,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+DamianS,Palindrome,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+DamianS,More Reclamation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+DamianS,Rectangles and Square,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+witua,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+witua,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+kony,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+kony,Palindrome,1,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Hedayet,Banana,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+ZeRoGerc,Banana,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+ZeRoGerc,More Reclamation,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,games
+lzqxh,Banana,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+lzqxh,Palindrome,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+lzqxh,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+lzqxh,Rectangles and Square,1,D,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp"
+pershik,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+pershik,Palindrome,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+pershik,More Reclamation,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,games
+saffah,Banana,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+ilya.korovin,Banana,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+ilya.korovin,Palindrome,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+ilya.korovin,More Reclamation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+helThazar,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+helThazar,Palindrome,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+arosusti,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+arosusti,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Milanin,Banana,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Milanin,Palindrome,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Milanin,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Milanin,Rectangles and Square,1,D,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Kira96,Banana,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+Kira96,Palindrome,1,B,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Kira96,More Reclamation,1,C,0,0,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,games
+thocevar,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+thocevar,Palindrome,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+thocevar,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+thocevar,Rectangles and Square,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Ruslan,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Ruslan,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Ruslan,More Reclamation,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+RoBa,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+RoBa,Palindrome,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+RoBa,More Reclamation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+916852,Banana,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+916852,Palindrome,0,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+916852,Rectangles and Square,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+916852,"Buy One, Get One Free",0,F,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+916852,More Reclamation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+aa2985759,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+aa2985759,Palindrome,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+aa2985759,More Reclamation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+aa2985759,Rectangles and Square,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+handojo1,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+handojo1,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+handojo1,More Reclamation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+sdryapko,Banana,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+sdryapko,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,dp"
+sdryapko,More Reclamation,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,games
+Azras,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Azras,Palindrome,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Azras,More Reclamation,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,games
+nrg3,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,constructive algorithms,greedy"
+nrg3,More Reclamation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+nrg3,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+phidnight,Banana,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+phidnight,Palindrome,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+komarov,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+komarov,Palindrome,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+komarov,More Reclamation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+kb.,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+kb.,Palindrome,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+kb.,More Reclamation,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,games
+riad,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+riad,Palindrome,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+riad,More Reclamation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+navi,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+navi,Palindrome,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+navi,More Reclamation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+navi,"Buy One, Get One Free",1,F,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+BSBandme,Banana,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+BSBandme,Palindrome,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+BSBandme,More Reclamation,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,games
+moshiur,Banana,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+moshiur,Palindrome,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+moshiur,More Reclamation,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,games
+moshiur,Rectangles and Square,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Reshetnikov_Ivan,Banana,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Reshetnikov_Ivan,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Reshetnikov_Ivan,More Reclamation,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,games
+ikar,Banana,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+ikar,More Reclamation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+OmniLRenegadE,Banana,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,constructive algorithms,greedy"
+OmniLRenegadE,Palindrome,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Nik_Storm_2010,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Nik_Storm_2010,Palindrome,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+KungA,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+KungA,Palindrome,1,B,0,0,0,0,1,3,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+tuananh93,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+tuananh93,Palindrome,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Swistakk,Banana,0,A,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Swistakk,More Reclamation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+Swistakk,Palindrome,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+AndreySiunov,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+AndreySiunov,Palindrome,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Goofy57,Banana,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Goofy57,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Goofy57,Rectangles and Square,1,D,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+andrew.volchek,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+andrew.volchek,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+andrew.volchek,Palindrome,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+WCG,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+WCG,Palindrome,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+WCG,More Reclamation,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,games
+Vankata,Banana,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+kolesov93,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+kolesov93,Palindrome,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Quelloquialism,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Quelloquialism,Palindrome,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+vivalafun,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+vivalafun,Palindrome,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+vivalafun,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Hachiikung,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Hachiikung,Palindrome,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp"
+EG0R,Banana,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+EG0R,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+rowdark,Banana,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+rowdark,Palindrome,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+rowdark,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+aquamongoose,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+aquamongoose,Palindrome,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+aquamongoose,More Reclamation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+ZEROm,Banana,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+ZEROm,Palindrome,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+HorgH,Banana,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Mex-Mans,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Mex-Mans,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+phtniit,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+phtniit,Palindrome,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+phtniit,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+phtniit,Rectangles and Square,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Korvin79,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+Korvin79,Palindrome,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+nwin,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+nwin,Palindrome,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,dp"
+nwin,More Reclamation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+alapshin,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+alapshin,Palindrome,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+alapshin,More Reclamation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+mustafij,Banana,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+mustafij,Palindrome,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+cxlove,Banana,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+cxlove,Palindrome,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+hhoomn,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+hhoomn,Palindrome,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+hhoomn,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+dj3500,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+dj3500,More Reclamation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+dj3500,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+olimpo,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+olimpo,Palindrome,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+olimpo,More Reclamation,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+KrK,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+KrK,Palindrome,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+KrK,More Reclamation,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+cjtoribio,Banana,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+cjtoribio,Palindrome,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+cjtoribio,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+AlexAlvarez,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+AlexAlvarez,Palindrome,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+AlexAlvarez,More Reclamation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+cjoa,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+cjoa,Palindrome,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+azaky,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+azaky,Palindrome,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+azaky,More Reclamation,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+fetetriste,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+fetetriste,Palindrome,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+ADJA,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+ADJA,Palindrome,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+sokian,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+sokian,Palindrome,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+sokian,More Reclamation,0,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,games
+sspa,Palindrome,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,dp"
+sspa,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+sspa,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+sspa,"Buy One, Get One Free",1,F,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+nims11,Banana,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+nims11,Palindrome,1,B,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+SYSU_LoveBY,Banana,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+SYSU_LoveBY,Palindrome,0,B,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+DiegoCR,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+DiegoCR,Rectangles and Square,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+lyc,Banana,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+lyc,Palindrome,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+lyc,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Ra16bit,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+Ra16bit,Palindrome,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Ra16bit,More Reclamation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+hanfei19910905,Banana,0,A,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+hanfei19910905,Palindrome,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+hanfei19910905,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+nfssdq,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+nfssdq,Palindrome,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,dp"
+netman,Banana,0,A,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+netman,Palindrome,1,B,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+jasperH,Banana,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+jasperH,Palindrome,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+jasperH,More Reclamation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+pumpkinsm,Banana,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+BIT_silence,Banana,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+BIT_silence,Palindrome,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+BIT_silence,More Reclamation,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,games
+Nobik_Glem,Banana,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Nobik_Glem,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+yongheng5871,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+yongheng5871,Palindrome,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+yongheng5871,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+chaos_king,Banana,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+gridnevvvit,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+gridnevvvit,Palindrome,1,B,1,0,0,0,2,6,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Austeritas,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Austeritas,Palindrome,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Austeritas,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+romanova,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+romanova,Palindrome,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Metamorphus,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Metamorphus,Palindrome,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+TeaPot,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,constructive algorithms,greedy"
+TeaPot,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+TeaPot,More Reclamation,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,games
+sweiss,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+sweiss,Palindrome,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+sweiss,More Reclamation,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+dut200901102,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+dut200901102,Palindrome,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+dut200901102,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+kunkun220189,Banana,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+kunkun220189,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+kunkun220189,More Reclamation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Taube,Banana,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Taube,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Angor,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Angor,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Angor,More Reclamation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Harhro94,Banana,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Harhro94,Palindrome,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Harhro94,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+SlavaSSU,Banana,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+takapt,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+takapt,Palindrome,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+takapt,More Reclamation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,games
+architkarandikar,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+architkarandikar,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Pavlo_Lviv_NU,Banana,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Pavlo_Lviv_NU,Palindrome,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Pavlo_Lviv_NU,More Reclamation,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,games
+windhunterSB,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+windhunterSB,Palindrome,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+windhunterSB,More Reclamation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+For_the_Love,Banana,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+For_the_Love,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+For_the_Love,More Reclamation,1,C,0,0,0,0,2,0,0,1,1,0,0,0,0,0,0,0,0,games
+Paramaribo,Banana,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Paramaribo,Palindrome,1,B,0,0,0,1,2,1,0,0,3,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+jishen,Banana,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+jishen,Palindrome,1,B,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Neil,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Neil,Palindrome,1,B,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Neil,More Reclamation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Monyura,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Monyura,Palindrome,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Monyura,More Reclamation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+abczz,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+abczz,Palindrome,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+snuke,Palindrome,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+snuke,"Buy One, Get One Free",0,F,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+snuke,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+snuke,More Reclamation,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,games
+pratyai,Banana,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+sohelH,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+sohelH,Palindrome,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+sohelH,More Reclamation,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,games
+QuantumKnight,Banana,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+QuantumKnight,Palindrome,0,B,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+QuantumKnight,More Reclamation,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,games
+QuantumKnight,Rectangles and Square,0,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+kuangbin,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+kuangbin,More Reclamation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+kuangbin,Palindrome,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+dvdreddy,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+dvdreddy,Palindrome,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+dusty.and.rusty,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+dusty.and.rusty,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Tifuera,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+willothewisp,Banana,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+willothewisp,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+HappyPerson,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+HappyPerson,Rectangles and Square,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+meteorcloudy,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+meteorcloudy,Palindrome,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+SebP,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Boxer,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Boxer,Palindrome,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+tygrysek,Banana,1,A,1,0,0,0,0,8,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+stoundmire,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+stoundmire,More Reclamation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+kutengine,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+kutengine,Palindrome,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+kutengine,More Reclamation,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,games
+kutengine,Rectangles and Square,1,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+muntasir,Banana,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+White_Bear,Palindrome,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+White_Bear,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+White_Bear,More Reclamation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+White_Bear,Rectangles and Square,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+OutSide,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+OutSide,Palindrome,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+hime,Banana,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+hime,Palindrome,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+hime,More Reclamation,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,games
+goodoo,Banana,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+goodoo,Palindrome,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Kiryuha,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+37ae912,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+37ae912,Palindrome,1,B,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+fwm94,Banana,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+fwm94,Palindrome,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Anarivu,Banana,0,A,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Anarivu,Palindrome,1,B,1,0,0,0,0,5,0,3,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+NSV,Banana,1,A,1,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+azlhust,Banana,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+azlhust,Palindrome,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,"constructive algorithms,dp"
+azlhust,More Reclamation,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+zck921031,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+zck921031,Palindrome,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+zck921031,"Buy One, Get One Free",0,F,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Scau-Ly,Banana,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+skyvn97,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+skyvn97,Palindrome,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+skyvn97,More Reclamation,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+fanKarpaty,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+C.degree,Banana,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+C.degree,Palindrome,1,B,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+townboy,Banana,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+townboy,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Azat_Yusupov,Banana,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Azat_Yusupov,Palindrome,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+HwangScornedAsianTeams,Banana,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+HwangScornedAsianTeams,Palindrome,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+peter.alexeev,Banana,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+peter.alexeev,Palindrome,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+name,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+name,Palindrome,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+popotiger,Banana,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+autotaker,Banana,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+autotaker,Palindrome,0,B,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Aleks,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Aleks,Palindrome,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+behzad.nouri,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+behzad.nouri,Palindrome,1,B,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+ilover3,Banana,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+zknvz,Banana,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+zknvz,Palindrome,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+VUAcoder,Banana,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+VUAcoder,Palindrome,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+VUAcoder,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+James,Palindrome,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+James,More Reclamation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+James,Rectangles and Square,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp"
+James,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+Samchenko,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Samchenko,More Reclamation,1,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+naagi,Banana,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+naagi,Palindrome,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+naagi,More Reclamation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+tanzaku,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+tanzaku,Palindrome,1,B,0,0,0,1,0,4,0,7,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Artoemius,Banana,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Artoemius,Palindrome,1,B,0,0,0,0,0,1,0,4,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp"
+rachiel,Banana,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+rachiel,Palindrome,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+gxnncrxI993,Banana,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+gxnncrxI993,Palindrome,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+API,Banana,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+API,Palindrome,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+fadsend,Banana,0,A,0,0,0,0,1,10,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+sunhong,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+Filins,Banana,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+lantimilan,Banana,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+lantimilan,Palindrome,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+limed,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+limed,Palindrome,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Sklyack,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+Sklyack,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+tonkosi,Banana,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+lzl65825,Banana,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+lzl65825,Palindrome,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+bay,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+bay,"Buy One, Get One Free",1,F,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+bay,Palindrome,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+alexveliki,Banana,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+alexveliki,Palindrome,1,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+sas4eka,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Amtrix,Palindrome,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Amtrix,More Reclamation,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+vanessalubenova,Banana,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+ikbal,Palindrome,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+ikbal,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+onmylove,More Reclamation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+isluzin,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+isluzin,Palindrome,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+rafsan,Banana,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+rafsan,Palindrome,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+alex_or,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+alex_or,More Reclamation,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+teru,Banana,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+quochuya,Banana,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+Iti,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"binary search,constructive algorithms,greedy"
+Iti,More Reclamation,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,games
+xenoslash,Palindrome,0,B,0,0,0,0,1,2,0,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+xenoslash,Banana,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+xenoslash,More Reclamation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+feihuopue,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+LongAries,Banana,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+shiyuankongbu,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+devilqxect,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,constructive algorithms,greedy"
+tony810430,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+tony810430,Palindrome,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+chicuong321993,Banana,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+JonsonBen,Banana,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+hirosegolf,Rectangles and Square,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp"
+hirosegolf,More Reclamation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+amlansaha,Banana,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+stas_sl,Banana,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"
+stas_sl,Palindrome,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp"
+Vladvlad,Banana,1,A,1,0,0,0,3,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,constructive algorithms,greedy"

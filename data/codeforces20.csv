@@ -1,0 +1,132 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+KirillB,BerOS file system,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+KirillB,Dijkstra?,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"graphs,shortest paths"
+KirillB,Equation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+Jokser,BerOS file system,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+Jokser,Equation,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+Jokser,Dijkstra?,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+ktuan,BerOS file system,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+ktuan,Equation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+ktuan,Dijkstra?,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"graphs,shortest paths"
+Egor,BerOS file system,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Egor,Equation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,math"
+Egor,Dijkstra?,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+ivan.popelyshev,BerOS file system,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ivan.popelyshev,Equation,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,math"
+ivan.popelyshev,Dijkstra?,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+SyFy,BerOS file system,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+SyFy,Equation,0,B,0,0,0,1,0,6,2,0,0,0,0,0,0,0,0,0,0,"expression parsing,math"
+freopen,BerOS file system,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+freopen,Equation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+freopen,Dijkstra?,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"graphs,shortest paths"
+RAD,BerOS file system,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+RAD,Equation,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+RAD,Dijkstra?,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+mike,BerOS file system,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mike,Equation,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,math"
+mike,Dijkstra?,1,C,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,"graphs,shortest paths"
+mmaxio,BerOS file system,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mmaxio,Equation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,math"
+mmaxio,Dijkstra?,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+lwc626,BerOS file system,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+lwc626,Equation,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,math"
+lwc626,Dijkstra?,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"graphs,shortest paths"
+Xazker,BerOS file system,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Xazker,Equation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,math"
+Xazker,Dijkstra?,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+JKeeJ1e30,BerOS file system,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+JKeeJ1e30,Equation,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+MciprianM,BerOS file system,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+MciprianM,Equation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,math"
+MciprianM,Dijkstra?,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+shindo,BerOS file system,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shindo,Equation,1,B,0,0,0,0,0,5,3,0,0,0,0,0,0,2,0,0,0,"expression parsing,math"
+shindo,Dijkstra?,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"graphs,shortest paths"
+slycelote,BerOS file system,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+slycelote,Equation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,math"
+slycelote,Dijkstra?,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+ddrone,Equation,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+ddrone,BerOS file system,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+stostap,BerOS file system,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+stostap,Equation,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+stostap,Dijkstra?,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"graphs,shortest paths"
+Harta,Equation,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+Harta,BerOS file system,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Harta,Dijkstra?,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"graphs,shortest paths"
+ProjectYoung,BerOS file system,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,implementation
+ProjectYoung,Equation,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+vsb,Equation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,math"
+vsb,Dijkstra?,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"graphs,shortest paths"
+vsb,BerOS file system,1,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+sdya,Dijkstra?,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+sdya,Equation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,math"
+sdya,BerOS file system,1,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+DELETED02,BerOS file system,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+DELETED02,Equation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+DELETED02,Dijkstra?,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"graphs,shortest paths"
+OSt,BerOS file system,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+OSt,Equation,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+Fcdkbear,BerOS file system,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fcdkbear,Equation,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+Fcdkbear,Dijkstra?,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"graphs,shortest paths"
+ArtDitel,BerOS file system,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ArtDitel,Equation,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+ArtDitel,Dijkstra?,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+gen,BerOS file system,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gen,Equation,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+ShadowDancer,BerOS file system,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+ShadowDancer,Equation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,math"
+ShadowDancer,Dijkstra?,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,"graphs,shortest paths"
+homo_sapiens,BerOS file system,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+homo_sapiens,Equation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,math"
+homo_sapiens,Dijkstra?,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+Berestinsky,BerOS file system,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Berestinsky,Equation,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+Berestinsky,Dijkstra?,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+Imba-Coders,BerOS file system,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+ctna,BerOS file system,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+ctna,Equation,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+ctna,Dijkstra?,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"graphs,shortest paths"
+GeLo,BerOS file system,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+GeLo,Equation,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+Medium,BerOS file system,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Medium,Equation,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,math"
+Medium,Dijkstra?,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+bolin.huang,Dijkstra?,0,C,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+swcai,BerOS file system,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+swcai,Equation,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+liugang123,BerOS file system,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+geka666,Equation,0,B,0,0,0,1,0,4,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+geka666,BerOS file system,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+geka666,Dijkstra?,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+ErzhanDS,BerOS file system,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Seyaua,Dijkstra?,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"graphs,shortest paths"
+Seyaua,Equation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+Seyaua,BerOS file system,1,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+20092100003,BerOS file system,0,A,0,0,0,0,0,1,1,1,0,0,0,0,0,2,0,0,0,implementation
+20092100003,Equation,0,B,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,math"
+eldar,BerOS file system,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+eldar,Equation,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,math"
+AVoz,BerOS file system,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+AVoz,Dijkstra?,0,C,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,"graphs,shortest paths"
+AVoz,Equation,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+at1,BerOS file system,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+at1,Equation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,math"
+at1,Dijkstra?,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+Melamori,BerOS file system,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Melamori,Equation,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+ryry56,Equation,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,math"
+ryry56,BerOS file system,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ryry56,Dijkstra?,1,C,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+fanxian,BerOS file system,1,A,1,0,0,0,0,2,1,0,0,0,0,0,0,2,0,0,0,implementation
+fanxian,Equation,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"
+nk.karpov,Dijkstra?,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"graphs,shortest paths"
+nk.karpov,BerOS file system,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+nk.karpov,Equation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,math"
+iakolzin,Dijkstra?,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+iakolzin,Equation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"expression parsing,math"
+iakolzin,BerOS file system,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+vinayjulme,BerOS file system,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+vinayjulme,Equation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,math"
+demo,BerOS file system,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+demo,Equation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,math"

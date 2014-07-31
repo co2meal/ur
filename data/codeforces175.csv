@@ -1,0 +1,2062 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+0O0o00OO0Oo0o0Oo,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+0O0o00OO0Oo0o0Oo,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+0O0o00OO0Oo0o0Oo,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+0O0o00OO0Oo0o0Oo,Plane of Tanks: Duel,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"brute force,dp,probabilities"
+dolphinigle,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dolphinigle,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+dolphinigle,Plane of Tanks: Duel,0,D,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+dolphinigle,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dolphinigle,Power Defence,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+aandrew,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+aandrew,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aandrew,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation,sortings"
+aandrew,Plane of Tanks: Duel,1,D,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp,probabilities"
+tourist,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+tourist,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tourist,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+tourist,Plane of Tanks: Duel,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+tourist,Power Defence,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+Konstantin,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Konstantin,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Konstantin,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Fefer_Ivan,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Fefer_Ivan,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fefer_Ivan,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Fefer_Ivan,Plane of Tanks: Duel,1,D,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+wrong,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+wrong,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+wrong,Geometry Horse,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+wrong,Plane of Tanks: Duel,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+KADR,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+KADR,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+KADR,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+KADR,Plane of Tanks: Duel,0,D,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+KADR,Power Defence,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+LeBron,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+LeBron,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LeBron,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+meret,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+meret,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+meret,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+meret,Power Defence,1,E,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+meret,Gnomes of Might and Magic,1,F,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,graphs,implementation,shortest paths"
+K_operafan,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+K_operafan,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+K_operafan,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+K_operafan,Plane of Tanks: Duel,1,D,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+M0sTik,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+M0sTik,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+M0sTik,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+M0sTik,Plane of Tanks: Duel,0,D,0,0,0,0,0,5,0,0,1,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+ifsmirnov,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ifsmirnov,Plane of Tanks: Pro,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+ifsmirnov,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ifsmirnov,Plane of Tanks: Duel,1,D,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+OoO000oOOOoOooOo,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+OoO000oOOOoOooOo,Plane of Tanks: Pro,0,B,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,implementation
+OoO000oOOOoOooOo,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+OoO000oOOOoOooOo,Plane of Tanks: Duel,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,dp,probabilities"
+OoO000oOOOoOooOo,Power Defence,1,E,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+hasi,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+hasi,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hasi,Geometry Horse,1,C,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+hasi,Plane of Tanks: Duel,0,D,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,"brute force,dp,probabilities"
+Egor,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Egor,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Egor,Geometry Horse,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Egor,Plane of Tanks: Duel,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Egor,Power Defence,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+Komaki,Robot Bicorn Attack,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+Komaki,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Komaki,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Komaki,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Komaki,Power Defence,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+al13n,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+al13n,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+al13n,Gnomes of Might and Magic,1,F,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,graphs,implementation,shortest paths"
+shangjingbo,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+shangjingbo,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shangjingbo,Geometry Horse,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+shangjingbo,Power Defence,1,E,1,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+whd,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+whd,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+whd,Geometry Horse,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+RAD,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+RAD,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,implementation
+RAD,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+RAD,Plane of Tanks: Duel,1,D,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+husheyn,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+husheyn,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+husheyn,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation,sortings"
+husheyn,Plane of Tanks: Duel,1,D,0,0,0,0,0,2,0,3,0,0,0,0,0,1,0,0,0,"brute force,dp,probabilities"
+aram90,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+aram90,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+aram90,Geometry Horse,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation,sortings"
+flashmt,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+flashmt,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,implementation
+flashmt,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+mR.ilchi,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mR.ilchi,Plane of Tanks: Pro,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+mR.ilchi,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+mR.ilchi,Power Defence,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+Shtrix,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Shtrix,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shtrix,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Mimino,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Mimino,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mimino,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Mimino,Plane of Tanks: Duel,1,D,0,0,0,0,0,5,0,0,1,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Petrushenko,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Petrushenko,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+Petrushenko,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+niyaznigmatul,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+niyaznigmatul,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+niyaznigmatul,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+niyaznigmatul,Plane of Tanks: Duel,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Andrew_Makar,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Andrew_Makar,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Andrew_Makar,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+eatmore,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+eatmore,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+eatmore,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+eatmore,Plane of Tanks: Duel,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+it4.kp,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+it4.kp,Plane of Tanks: Pro,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+it4.kp,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+witua,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+witua,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+witua,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+witua,Plane of Tanks: Duel,1,D,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Al3kSaNdaR,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Al3kSaNdaR,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Al3kSaNdaR,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+VArtem,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+VArtem,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+VArtem,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+haas,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+haas,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+haas,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+haas,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Berezin,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Berezin,Plane of Tanks: Pro,0,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,3,0,0,implementation
+Berezin,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+jiangzhijie,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+jiangzhijie,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jiangzhijie,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Igor_Kudryashov,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Igor_Kudryashov,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Igor_Kudryashov,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Shik,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Shik,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+Shik,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Shik,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+daizhenyang,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+daizhenyang,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+daizhenyang,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+LayCurse,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+LayCurse,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LayCurse,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+LayCurse,Power Defence,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+LayCurse,Plane of Tanks: Duel,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+abcsampson,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+abcsampson,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+abcsampson,Geometry Horse,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation,sortings"
+abcsampson,Plane of Tanks: Duel,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+kyuridenamida,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+kyuridenamida,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyuridenamida,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+freopen,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+freopen,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+freopen,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+freopen,Plane of Tanks: Duel,1,D,0,0,0,0,0,3,0,2,0,0,0,0,0,1,0,0,0,"brute force,dp,probabilities"
+pfctgeorge,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+pfctgeorge,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pfctgeorge,Geometry Horse,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+_onp_,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+_onp_,Geometry Horse,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+_onp_,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+_onp_,Plane of Tanks: Duel,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp,probabilities"
+lxyxynt,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+lxyxynt,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+lxyxynt,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+dj3500,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dj3500,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+dj3500,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+dj3500,Plane of Tanks: Duel,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+jonathanirvings,Robot Bicorn Attack,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+jonathanirvings,Geometry Horse,0,C,1,0,0,0,0,9,0,0,0,0,0,0,0,0,1,0,0,"greedy,implementation,sortings"
+jonathanirvings,Plane of Tanks: Pro,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+xujie,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+xujie,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xujie,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Sereja,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Sereja,Plane of Tanks: Pro,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sereja,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Sereja,Plane of Tanks: Duel,1,D,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+seen,Robot Bicorn Attack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ivan.popelyshev,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ivan.popelyshev,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ivan.popelyshev,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ivan.popelyshev,Plane of Tanks: Duel,1,D,0,0,0,1,1,7,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp,probabilities"
+subscriber,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+subscriber,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+subscriber,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+subscriber,Plane of Tanks: Duel,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+lydrainbowcat,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+lydrainbowcat,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lydrainbowcat,Geometry Horse,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+jghs1328,Robot Bicorn Attack,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+vagnard,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+vagnard,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+vagnard,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,implementation,sortings"
+vagnard,Plane of Tanks: Duel,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+xlk,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+xlk,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xlk,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+object022,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+object022,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+object022,Geometry Horse,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,implementation,sortings"
+object022,Plane of Tanks: Duel,1,D,1,0,0,0,0,3,0,1,0,0,0,0,0,0,2,0,0,"brute force,dp,probabilities"
+ll931110,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ll931110,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ll931110,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ll931110,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,dp,probabilities"
+Lumpy,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Lumpy,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Lumpy,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Taygrim,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Taygrim,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Taygrim,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Taygrim,Plane of Tanks: Duel,1,D,0,0,0,0,1,2,0,1,1,0,0,0,0,1,0,0,0,"brute force,dp,probabilities"
+gingkgo,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+gingkgo,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gingkgo,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+gingkgo,Plane of Tanks: Duel,1,D,0,0,0,0,0,4,0,1,0,0,0,0,0,0,1,0,0,"brute force,dp,probabilities"
+uwi,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+uwi,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+uwi,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+uwi,Plane of Tanks: Duel,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp,probabilities"
+Ripatti,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Ripatti,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ripatti,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Ripatti,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+yarrr,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+yarrr,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yarrr,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+yarrr,Plane of Tanks: Duel,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Riatre,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+Riatre,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Riatre,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+yasu0207,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+yasu0207,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yasu0207,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation,sortings"
+kAc,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+kAc,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kAc,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+kAc,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+sune2,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sune2,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sune2,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+nijiushibudong,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+nijiushibudong,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nijiushibudong,Geometry Horse,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+nijiushibudong,Plane of Tanks: Duel,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp,probabilities"
+ForeverBell,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ForeverBell,Plane of Tanks: Pro,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ForeverBell,Geometry Horse,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ForeverBell,Plane of Tanks: Duel,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,"brute force,dp,probabilities"
+evima,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+evima,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+evima,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+evima,Plane of Tanks: Duel,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+wisterik,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+wisterik,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+wisterik,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+wisterik,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+dreamoon,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dreamoon,Geometry Horse,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+dreamoon,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dreamoon,Power Defence,1,E,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+sunnywkn,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sunnywkn,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sunnywkn,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+manishmap2,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+manishmap2,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+manishmap2,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ItsLastDay,Robot Bicorn Attack,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"brute force,implementation"
+ItsLastDay,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ItsLastDay,Geometry Horse,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+SamanSami,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+SamanSami,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+SamanSami,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+buko,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+buko,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+buko,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+buko,Plane of Tanks: Duel,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Aman,Robot Bicorn Attack,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Aman,Plane of Tanks: Pro,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aman,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+AKGMA,Robot Bicorn Attack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+AKGMA,Plane of Tanks: Pro,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+roypalacios,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+roypalacios,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+roypalacios,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+pperm,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+pperm,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pperm,Geometry Horse,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+pperm,Plane of Tanks: Duel,1,D,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+lucien,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+lucien,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lucien,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+lucien,Plane of Tanks: Duel,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Oryshych,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Oryshych,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Oryshych,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+pank.dm,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+pank.dm,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pank.dm,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Logvinov_Leon,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Logvinov_Leon,Plane of Tanks: Pro,0,B,1,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Logvinov_Leon,Geometry Horse,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Logvinov_Leon,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+VenusWithArms,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+VenusWithArms,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+VenusWithArms,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+yaro,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+yaro,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yaro,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation,sortings"
+yaro,Plane of Tanks: Duel,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Rubanenko,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Rubanenko,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rubanenko,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+sillycross,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+sillycross,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sillycross,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+sillycross,Plane of Tanks: Duel,0,D,0,0,0,0,0,2,0,2,0,0,0,0,0,2,0,0,0,"brute force,dp,probabilities"
+nwin,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+nwin,Plane of Tanks: Pro,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+nwin,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+morojenoe,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+morojenoe,Plane of Tanks: Pro,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+morojenoe,Geometry Horse,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Slavik,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Slavik,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,implementation
+Slavik,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+fura,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+fura,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,implementation
+fura,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation,sortings"
+Koblyk,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Koblyk,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Koblyk,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+SergeyLazarev,Robot Bicorn Attack,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+SergeyLazarev,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+SergeyLazarev,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+SergeyLazarev,Power Defence,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+acmnovice,Robot Bicorn Attack,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+acmnovice,Plane of Tanks: Pro,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+acmnovice,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+sakyalol,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sakyalol,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sakyalol,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+sakyalol,Power Defence,1,E,0,0,0,0,1,4,0,2,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+Shef,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+Shef,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shef,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Shef,Plane of Tanks: Duel,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Shef,Power Defence,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+imslavko,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+imslavko,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,implementation
+imslavko,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+imslavko,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Wahba,Robot Bicorn Attack,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Wahba,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gogokefakefa,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+gogokefakefa,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+gogokefakefa,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+gogokefakefa,Plane of Tanks: Duel,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+oimaster,Robot Bicorn Attack,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+oimaster,Plane of Tanks: Pro,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+oimaster,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+nanikaka,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+nanikaka,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nanikaka,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+yaoshimax,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+yaoshimax,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yaoshimax,Geometry Horse,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+zakharvoit,Robot Bicorn Attack,0,A,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+zakharvoit,Plane of Tanks: Pro,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+cherudim,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+cherudim,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cherudim,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+cherudim,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+sunmeng94,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sunmeng94,Plane of Tanks: Pro,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sunmeng94,Geometry Horse,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Nedy88,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Nedy88,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nedy88,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+lyoz,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+lyoz,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lyoz,Geometry Horse,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+PlayLikeNeverB4,Robot Bicorn Attack,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+PlayLikeNeverB4,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PlayLikeNeverB4,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+komiya,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+komiya,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+komiya,Plane of Tanks: Duel,1,D,0,0,0,0,0,8,0,0,2,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+LGM,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+LGM,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LGM,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+LGM,Plane of Tanks: Duel,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+juver,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+juver,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+juver,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+momo_vn,Robot Bicorn Attack,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+momo_vn,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+momo_vn,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+earl,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+earl,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+earl,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+earl,Plane of Tanks: Duel,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+earl,Power Defence,1,E,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+earl,Gnomes of Might and Magic,0,F,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,graphs,implementation,shortest paths"
+AlphaStream,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+AlphaStream,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlphaStream,Geometry Horse,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Ra16bit,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Ra16bit,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ra16bit,Geometry Horse,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Ra16bit,Plane of Tanks: Duel,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Ra16bit,Power Defence,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+Thost,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Thost,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Thost,Geometry Horse,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Jokser,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Jokser,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jokser,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Jokser,Plane of Tanks: Duel,1,D,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+ADJA,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ADJA,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+ADJA,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Austeritas,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Austeritas,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Austeritas,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+antonchig,Robot Bicorn Attack,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+rinigan,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+rinigan,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rinigan,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+mikeCAT,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+mikeCAT,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mikeCAT,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+NickAltair,Robot Bicorn Attack,0,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+NickAltair,Plane of Tanks: Pro,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+NickAltair,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+kissbuaa,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+kissbuaa,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kissbuaa,Geometry Horse,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+kissbuaa,Plane of Tanks: Duel,1,D,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Leoyu,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Leoyu,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Leoyu,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Leoyu,Plane of Tanks: Duel,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+helThazar,Robot Bicorn Attack,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+helThazar,Plane of Tanks: Pro,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+helThazar,Geometry Horse,1,C,1,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Parsee_Mizuhashi,Robot Bicorn Attack,0,A,1,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Parsee_Mizuhashi,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Parsee_Mizuhashi,Geometry Horse,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+zanoes,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+zanoes,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zanoes,Geometry Horse,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation,sortings"
+zanoes,Plane of Tanks: Duel,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+E.Rokyan,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+E.Rokyan,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+E.Rokyan,Geometry Horse,1,C,1,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+__tutankhamun__,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+__tutankhamun__,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+__tutankhamun__,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+__tutankhamun__,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,"brute force,dp,probabilities"
+marim,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+marim,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+marim,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Nodar,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Nodar,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nodar,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ilyakor,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ilyakor,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+ilyakor,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ilyakor,Plane of Tanks: Duel,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+ilyakor,Power Defence,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,dp,greedy"
+Gassa,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Gassa,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+Gassa,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+AlexDmitriev,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+AlexDmitriev,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlexDmitriev,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+AlexDmitriev,Plane of Tanks: Duel,1,D,0,0,0,0,0,9,0,3,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+JalbaRu,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+JalbaRu,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+JalbaRu,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+moshiur,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+moshiur,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+moshiur,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ypjie,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ypjie,Plane of Tanks: Pro,1,B,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ypjie,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+leandro92,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+leandro92,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+leandro92,Geometry Horse,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+dasko1,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dasko1,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+dasko1,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+dasko1,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+joey2005,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+joey2005,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+joey2005,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+joey2005,Plane of Tanks: Duel,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+jehad131,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+jehad131,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+jehad131,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Sultan,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Sultan,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sultan,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+al_maz,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+al_maz,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+al_maz,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Yousef_Salama,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Yousef_Salama,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Yousef_Salama,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+fiver,Robot Bicorn Attack,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+fiver,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fiver,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+chaemon,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+chaemon,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+chaemon,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+nrg3,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+nrg3,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nrg3,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+sdryapko,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sdryapko,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sdryapko,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+marque,Robot Bicorn Attack,0,A,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+marque,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dancho,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dancho,Geometry Horse,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+dancho,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dancho,Plane of Tanks: Duel,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+hogloid,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+hogloid,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,implementation
+hogloid,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+hogloid,Plane of Tanks: Duel,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp,probabilities"
+lazylie,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+lazylie,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lazylie,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+sapalskimichal,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sapalskimichal,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+sapalskimichal,Geometry Horse,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+sapalskimichal,Power Defence,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+wxcc,Robot Bicorn Attack,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+wxcc,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wxcc,Geometry Horse,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+gorbunov,Robot Bicorn Attack,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+---Grigor---,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+---Grigor---,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+---Grigor---,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation,sortings"
+---Grigor---,Plane of Tanks: Duel,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+tereshinvs,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+tereshinvs,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,implementation
+tereshinvs,Geometry Horse,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+bjin,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bjin,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+bjin,Geometry Horse,1,C,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+bjin,Plane of Tanks: Duel,1,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+cakcups,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+cakcups,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cakcups,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Skater,Robot Bicorn Attack,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Skater,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,implementation
+Skater,Geometry Horse,1,C,1,0,0,0,0,7,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Skater,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Fatedayt,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Fatedayt,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fatedayt,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+cp12321,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cp12321,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+cp12321,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+KrK,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+KrK,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+KrK,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+StefanoT,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+StefanoT,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+StefanoT,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,implementation,sortings"
+StefanoT,Power Defence,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+c_loud26,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+c_loud26,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+c_loud26,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+delta,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+delta,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+delta,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+superpear,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+superpear,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+superpear,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+hogeover30,Robot Bicorn Attack,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+hogeover30,Plane of Tanks: Pro,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+mickeyandkaka,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+mickeyandkaka,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mickeyandkaka,Geometry Horse,1,C,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+sankear,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+sankear,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sankear,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+sankear,Plane of Tanks: Duel,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+wujianan2007,Robot Bicorn Attack,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+wujianan2007,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wujianan2007,Geometry Horse,1,C,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Mex-Mans,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Mex-Mans,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mex-Mans,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Mex-Mans,Plane of Tanks: Duel,1,D,0,0,0,0,0,8,0,3,0,0,0,0,0,1,0,0,0,"brute force,dp,probabilities"
+xptree,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+xptree,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+xptree,Geometry Horse,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"greedy,implementation,sortings"
+windy7926778,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+windy7926778,Plane of Tanks: Pro,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+windy7926778,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+windy7926778,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+ibra,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ibra,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ibra,Geometry Horse,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Sigmar,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Sigmar,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sigmar,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Sigmar,Plane of Tanks: Duel,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,"brute force,dp,probabilities"
+luckyi,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+luckyi,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+luckyi,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+KarlisS,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+KarlisS,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+KarlisS,Geometry Horse,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+KarlisS,Plane of Tanks: Duel,1,D,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Lepetrandr,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Lepetrandr,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Lepetrandr,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Lepetrandr,Plane of Tanks: Duel,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+tanzaku,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+tanzaku,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tanzaku,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+tanzaku,Plane of Tanks: Duel,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+yinthewind,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+yinthewind,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yinthewind,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+rizar,Robot Bicorn Attack,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+rizar,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+rizar,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+rizar,Plane of Tanks: Duel,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+enoyhs,Robot Bicorn Attack,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+enoyhs,Plane of Tanks: Pro,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+riad,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+riad,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+riad,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+riad,Power Defence,1,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+ballon,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ballon,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,implementation
+ballon,Geometry Horse,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+indy256,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+indy256,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+indy256,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Madiyar,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Madiyar,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Madiyar,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Madiyar,Plane of Tanks: Duel,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+mukel,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mukel,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+mukel,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+VictorMChQ,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+VictorMChQ,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+VictorMChQ,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Commandos,Robot Bicorn Attack,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Commandos,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Commandos,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+aRSeniy,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+aRSeniy,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+aRSeniy,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+aRSeniy,Plane of Tanks: Duel,1,D,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Zhukov_Dmitry,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Zhukov_Dmitry,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Zhukov_Dmitry,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhukov_Dmitry,Plane of Tanks: Duel,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Zhukov_Dmitry,Power Defence,1,E,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+stareven,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+stareven,Plane of Tanks: Pro,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+stareven,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation,sortings"
+lisang,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+lisang,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,implementation
+lisang,Geometry Horse,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+lisang,Plane of Tanks: Duel,1,D,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Astekinane,Robot Bicorn Attack,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Astekinane,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Astekinane,Plane of Tanks: Pro,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pira,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Pira,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pira,Geometry Horse,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ASh_Tyrant,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ASh_Tyrant,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ASh_Tyrant,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Mars314,Robot Bicorn Attack,0,A,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Mars314,Plane of Tanks: Pro,0,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mars314,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+mjbeat,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mjbeat,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mjbeat,Geometry Horse,1,C,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+zhyu,Robot Bicorn Attack,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+zhyu,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhyu,Geometry Horse,1,C,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+piotr.kukla,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+piotr.kukla,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+piotr.kukla,Geometry Horse,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+cgy4ever,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+cgy4ever,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+cgy4ever,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+cgy4ever,Power Defence,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+cgy4ever,Plane of Tanks: Duel,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+ryz,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ryz,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ryz,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ryz,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+protocolocon,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+protocolocon,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+protocolocon,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+SobolS,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+SobolS,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SobolS,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+micheal_wanzi,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+micheal_wanzi,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+micheal_wanzi,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+This_poet,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+This_poet,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+This_poet,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+voover,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+voover,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+voover,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+voover,Plane of Tanks: Duel,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp,probabilities"
+voover,Power Defence,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+tasyrkin,Robot Bicorn Attack,0,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+tasyrkin,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tasyrkin,Geometry Horse,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+TangJie,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+TangJie,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+TangJie,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+hytirt,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+hytirt,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hytirt,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+hytirt,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+diogen,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+diogen,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+diogen,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+diogen,Plane of Tanks: Duel,1,D,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,"brute force,dp,probabilities"
+Ilya_MSU,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Ilya_MSU,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ilya_MSU,Geometry Horse,1,C,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Lakers,Robot Bicorn Attack,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Lakers,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Lakers,Geometry Horse,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Vera,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Vera,Plane of Tanks: Pro,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+yesh13,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+yesh13,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yesh13,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Betlista,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Betlista,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Betlista,Geometry Horse,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+gpac,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+gpac,Plane of Tanks: Pro,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+sokokaleb,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sokokaleb,Plane of Tanks: Pro,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+sokokaleb,Geometry Horse,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+pele,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+pele,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pele,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+shef_2318,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+shef_2318,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shef_2318,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+shef_2318,Plane of Tanks: Duel,0,D,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+pratikmoona,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+pratikmoona,Plane of Tanks: Pro,1,B,1,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+pratikmoona,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+w00dp3ck3r,Robot Bicorn Attack,0,A,0,0,0,2,1,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+xscape,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+xscape,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xscape,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Bugman,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Bugman,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Bugman,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+fura2,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+fura2,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fura2,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+luyi0619,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+luyi0619,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+luyi0619,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+coderbd,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+coderbd,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+coderbd,Geometry Horse,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Le-Nika,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Le-Nika,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+Le-Nika,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+hiphip,Robot Bicorn Attack,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+hiphip,Plane of Tanks: Pro,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hiphip,Geometry Horse,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+hiphip,Power Defence,0,E,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+NuM,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+NuM,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+NuM,Geometry Horse,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation,sortings"
+cos,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+cos,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+cos,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+cos,Plane of Tanks: Duel,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+cjc,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+cjc,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+cjc,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+pdwd,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+pdwd,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pdwd,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+pdwd,Plane of Tanks: Duel,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+AlexanderBolshakov,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+AlexanderBolshakov,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlexanderBolshakov,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+asdjhfi,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Lwxiang,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Lwxiang,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Lwxiang,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+soundsdx,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+soundsdx,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+soundsdx,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Temirulan,Robot Bicorn Attack,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Temirulan,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,implementation
+Proscriptus,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Proscriptus,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Proscriptus,Geometry Horse,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Proscriptus,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Vitonka,Robot Bicorn Attack,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Vitonka,Plane of Tanks: Pro,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Vitonka,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Vitonka,Plane of Tanks: Duel,1,D,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+bor.is,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+bor.is,Geometry Horse,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+bor.is,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jskhirtladze,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+jskhirtladze,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+jskhirtladze,Geometry Horse,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+linh810,Robot Bicorn Attack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Parhomets,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Parhomets,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Parhomets,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Hinidu,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Hinidu,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hinidu,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+beats_of_music,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+beats_of_music,Plane of Tanks: Pro,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+beats_of_music,Geometry Horse,1,C,1,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ardhian777,Robot Bicorn Attack,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ardhian777,Plane of Tanks: Pro,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+ardhian777,Geometry Horse,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Captain_CoCo,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Captain_CoCo,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Captain_CoCo,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+SkylyXD,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+SkylyXD,Geometry Horse,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+SkylyXD,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SkylyXD,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+zxybazh,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+zxybazh,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zxybazh,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+prpr,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+prpr,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+prpr,Geometry Horse,1,C,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+natsugiri,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+natsugiri,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+natsugiri,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+natsugiri,Plane of Tanks: Duel,1,D,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+fayyaz,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+fayyaz,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fayyaz,Geometry Horse,1,C,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Robert,Robot Bicorn Attack,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Robert,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Robert,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation,sortings"
+Robert,Plane of Tanks: Duel,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+kmatsunaga,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+kmatsunaga,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kmatsunaga,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+funky,Robot Bicorn Attack,0,A,1,0,0,0,0,7,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+funky,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+boleyn.su,Robot Bicorn Attack,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+boleyn.su,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+boleyn.su,Geometry Horse,1,C,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+boleyn.su,Plane of Tanks: Duel,1,D,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+kawatea,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+kawatea,Plane of Tanks: Pro,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+kawatea,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+kawatea,Plane of Tanks: Duel,0,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+magdi,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+magdi,Plane of Tanks: Pro,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+iamquang1995,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+iamquang1995,Plane of Tanks: Pro,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+wind,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+wind,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+_LT_zyc,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+_LT_zyc,Geometry Horse,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+_LT_zyc,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lamphanviet,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+lamphanviet,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lamphanviet,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+OVR,Robot Bicorn Attack,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+OVR,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+OVR,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+apathism,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+apathism,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+apathism,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation,sortings"
+teams2ua,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+teams2ua,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+teams2ua,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+bobogei81123,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+bobogei81123,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+bobogei81123,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+bobogei81123,Plane of Tanks: Duel,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+mr.tropez,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mr.tropez,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mr.tropez,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+chandaniitr,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+chandaniitr,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chandaniitr,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Vani,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Vani,Plane of Tanks: Pro,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Vani,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+searcher769,Robot Bicorn Attack,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+searcher769,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Elinow,Robot Bicorn Attack,0,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Elinow,Plane of Tanks: Pro,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Elinow,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+kagamine,Robot Bicorn Attack,0,A,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+kagamine,Plane of Tanks: Pro,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+dshaman92,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"brute force,implementation"
+dshaman92,Plane of Tanks: Pro,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+dshaman92,Geometry Horse,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Logic_IU,Robot Bicorn Attack,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Logic_IU,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Logic_IU,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+flydutchman,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+flydutchman,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+flydutchman,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+flydutchman,Power Defence,1,E,0,0,0,1,0,7,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+Lepton_s,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Lepton_s,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Lepton_s,Geometry Horse,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Sphinx,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Sphinx,Geometry Horse,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Sphinx,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sphinx,Power Defence,1,E,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+asdfqwer,Robot Bicorn Attack,1,A,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+aevsyukov,Robot Bicorn Attack,0,A,0,0,0,2,4,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+aevsyukov,Geometry Horse,0,C,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+acybl,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+acybl,Plane of Tanks: Pro,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+acybl,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+cxk0707,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+cxk0707,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+cxk0707,Geometry Horse,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+domhow,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+domhow,Plane of Tanks: Pro,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+domhow,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Jeka123,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+SunDude,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+SunDude,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SunDude,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+SunDude,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+69-64-79,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+69-64-79,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+69-64-79,Geometry Horse,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+tmiyamon,Robot Bicorn Attack,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+tmiyamon,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tmiyamon,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+dojiboy9,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dojiboy9,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dojiboy9,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Niko,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Niko,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Niko,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+SkorKNURE,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+SkorKNURE,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+SkorKNURE,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+minus9d,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+minus9d,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+minus9d,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+pius_88,Robot Bicorn Attack,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+pius_88,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+pius_88,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+JustSTAS,Robot Bicorn Attack,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+JustSTAS,Plane of Tanks: Pro,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+JustSTAS,Geometry Horse,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+bohuss,Robot Bicorn Attack,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+bohuss,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+bohuss,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+bohuss,Plane of Tanks: Duel,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+yury_chameleon,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+yury_chameleon,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yury_chameleon,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+v11yu,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+v11yu,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+v11yu,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+velvet,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+velvet,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+velvet,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+BelovP,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+BelovP,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+PetarV,Robot Bicorn Attack,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+PetarV,Plane of Tanks: Pro,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+PetarV,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+2332933,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+2332933,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+2332933,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+maslowmw,Robot Bicorn Attack,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+maslowmw,Plane of Tanks: Pro,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Lapenkov,Robot Bicorn Attack,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Lapenkov,Plane of Tanks: Pro,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Lapenkov,Geometry Horse,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+n1k1tung,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+n1k1tung,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+n1k1tung,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+n1k1tung,Plane of Tanks: Duel,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+khanhptnk,Robot Bicorn Attack,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+khanhptnk,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+khanhptnk,Geometry Horse,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+torus711,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+torus711,Plane of Tanks: Pro,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+pragrame,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+pragrame,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+pragrame,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pragrame,Power Defence,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+lvdo92,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+GameR,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+_M_,Robot Bicorn Attack,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+_M_,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+_M_,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ugly.frog2805,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ugly.frog2805,Plane of Tanks: Pro,0,B,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+ugly.frog2805,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+pumpkinsm,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Depool,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Depool,Plane of Tanks: Pro,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Depool,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+shilov,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+shilov,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+shilov,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ksjuchi,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ksjuchi,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ksjuchi,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+VeraK,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+VeraK,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+VeraK,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+olegator,Robot Bicorn Attack,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+olegator,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+olegator,Geometry Horse,0,C,0,0,0,0,0,7,0,5,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Manish-Kumar,Robot Bicorn Attack,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+Manish-Kumar,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Manish-Kumar,Geometry Horse,1,C,1,0,0,1,0,10,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+mfhraven,Robot Bicorn Attack,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mfhraven,Plane of Tanks: Pro,0,B,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+mfhraven,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Player1_SERG,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Player1_SERG,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Player1_SERG,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+czy941030,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+czy941030,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+czy941030,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ishikado,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ishikado,Plane of Tanks: Pro,0,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+ishikado,Geometry Horse,1,C,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+mcsharma1990,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mcsharma1990,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mcsharma1990,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+uzuki008,Robot Bicorn Attack,0,A,0,0,0,0,1,8,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+cafelier,Geometry Horse,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+cafelier,Plane of Tanks: Duel,0,D,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"brute force,dp,probabilities"
+cafelier,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cafelier,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+tuananh93,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+tuananh93,Plane of Tanks: Pro,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+tuananh93,Geometry Horse,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+night10101,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+rofi,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+rofi,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rofi,Geometry Horse,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+rofi,Power Defence,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+fujiyama,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+fujiyama,Geometry Horse,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+fujiyama,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+avriskin,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+avriskin,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+DAN_SHU,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Electronick,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Electronick,Plane of Tanks: Pro,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Electronick,Geometry Horse,0,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+zhendeaini6001,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+zhendeaini6001,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhendeaini6001,Geometry Horse,1,C,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Seals,Robot Bicorn Attack,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Seals,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Seals,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+nullmineral,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+nullmineral,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nullmineral,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+nullmineral,Plane of Tanks: Duel,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"brute force,dp,probabilities"
+BrightDays,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BrightDays,Robot Bicorn Attack,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+BrightDays,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+abcdabcd987,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+abcdabcd987,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+abcdabcd987,Geometry Horse,1,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+deadman_22,Robot Bicorn Attack,1,A,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sergkolin,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+sergkolin,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sergkolin,Geometry Horse,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+s-peter,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+s-peter,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+abhiranjan,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+abhiranjan,Plane of Tanks: Pro,1,B,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+abhiranjan,Geometry Horse,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+RamTararam,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+RamTararam,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+RamTararam,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+HellKitsune,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+HellKitsune,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+HellKitsune,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+HellKitsune,Plane of Tanks: Duel,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+ACShiryu,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ACShiryu,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ACShiryu,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+renisfan,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+renisfan,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+renisfan,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+huzecong,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+huzecong,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+huzecong,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+vitar,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+vitar,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vitar,Geometry Horse,1,C,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+i_swing_by,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+i_swing_by,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+i_swing_by,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+xiao_wu,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+xiao_wu,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+xiao_wu,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+luvlubb,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+luvlubb,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+luvlubb,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+luvlubb,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,"brute force,dp,probabilities"
+romzes,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+romzes,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+romzes,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+sasha.sochka,Robot Bicorn Attack,0,A,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sasha.sochka,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sasha.sochka,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+azneyes,Robot Bicorn Attack,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+azneyes,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+azneyes,Geometry Horse,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Juda,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Juda,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Juda,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Epiq,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Epiq,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Epiq,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Epiq,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+nodchip,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+nodchip,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nodchip,Geometry Horse,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+nodchip,Plane of Tanks: Duel,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Nomad,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Nomad,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nomad,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+yudetamago,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+yudetamago,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kymo,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+kymo,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+capythm,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+capythm,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+capythm,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Tariqul,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Tariqul,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tariqul,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Petya,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ridowan007,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ridowan007,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ridowan007,Geometry Horse,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation,sortings"
+logic_max,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+logic_max,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+logic_max,Geometry Horse,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+PSIAlt,Robot Bicorn Attack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+cuperman,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+cuperman,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+cuperman,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ray040123,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ray040123,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ray040123,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ray040123,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+mongolrgata,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mongolrgata,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mongolrgata,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+d4rth_cod3r,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+d4rth_cod3r,Plane of Tanks: Pro,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+d4rth_cod3r,Geometry Horse,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Saken,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Saken,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Saken,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+penhuforever,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+penhuforever,Plane of Tanks: Pro,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rpplusplus,Robot Bicorn Attack,0,A,1,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Rpplusplus,Plane of Tanks: Pro,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rpplusplus,Geometry Horse,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation,sortings"
+index,Robot Bicorn Attack,1,A,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+index,Plane of Tanks: Pro,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Stebaev,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Stebaev,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Stebaev,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Stebaev,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Retroman,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Retroman,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Retroman,Geometry Horse,1,C,0,0,0,0,0,8,0,2,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+taranov.vv,Robot Bicorn Attack,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+taranov.vv,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+aika_djmax,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dr.ken,Robot Bicorn Attack,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dr.ken,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dr.ken,Geometry Horse,1,C,1,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+sysy,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sysy,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sysy,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+wdy0319,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+wdy0319,Plane of Tanks: Pro,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+wdy0319,Geometry Horse,1,C,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+stostap,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+stostap,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+stostap,Geometry Horse,1,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Azat_Yusupov,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Azat_Yusupov,Plane of Tanks: Pro,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+qiandichen,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+qiandichen,Plane of Tanks: Pro,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+qiandichen,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+bagnikita,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+bagnikita,Plane of Tanks: Pro,0,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+bagnikita,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+bagnikita,Power Defence,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+Yermak0v,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Yermak0v,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Yermak0v,Geometry Horse,1,C,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Escapist,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Escapist,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Escapist,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+greedee,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+greedee,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+greedee,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+dudechandan,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dudechandan,Plane of Tanks: Pro,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+dudechandan,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+roxion1377,Robot Bicorn Attack,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+abdukodir,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+abdukodir,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+abdukodir,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+DWinter,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+DWinter,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DWinter,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+C.degree,Robot Bicorn Attack,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+C.degree,Plane of Tanks: Pro,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,implementation
+C.degree,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+hriss95,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+hriss95,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hriss95,Geometry Horse,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+lxc,Robot Bicorn Attack,1,A,1,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+panhantao,Robot Bicorn Attack,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+panhantao,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+panhantao,Geometry Horse,1,C,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+kit1980,Robot Bicorn Attack,0,A,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+kit1980,Plane of Tanks: Pro,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kit1980,Geometry Horse,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+hxywtc,Robot Bicorn Attack,0,A,1,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+hxywtc,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hxywtc,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+optik,Robot Bicorn Attack,0,A,1,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+optik,Plane of Tanks: Pro,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+yucenh,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+yucenh,Plane of Tanks: Pro,1,B,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+wodesuck,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+wodesuck,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wodesuck,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+rajatag12,Geometry Horse,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+rajatag12,Plane of Tanks: Pro,0,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+rajatag12,Robot Bicorn Attack,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+SiddharthBora,Robot Bicorn Attack,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+SiddharthBora,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SiddharthBora,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+LinKin,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+LinKin,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+LinKin,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+valich,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+valich,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+valich,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+takapt,Robot Bicorn Attack,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+takapt,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+takapt,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+cxjyx_xme,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+cxjyx_xme,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cxjyx_xme,Geometry Horse,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+axlsdtkl,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+axlsdtkl,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+axlsdtkl,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+taekwonbilly,Robot Bicorn Attack,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+taekwonbilly,Plane of Tanks: Pro,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+taekwonbilly,Gnomes of Might and Magic,0,F,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"data structures,graphs,implementation,shortest paths"
+int1024,Robot Bicorn Attack,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+int1024,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+int1024,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation,sortings"
+ko6a,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+ko6a,Plane of Tanks: Pro,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+564214622,Robot Bicorn Attack,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Kharybin,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+Kharybin,Robot Bicorn Attack,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Kharybin,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+WinField95,Robot Bicorn Attack,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+openxxx,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+openxxx,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+openxxx,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+cs_Diablo,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+cs_Diablo,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+cs_Diablo,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+SSJJ,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+SSJJ,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SSJJ,Geometry Horse,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+midul,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,1,0,0,"brute force,implementation"
+midul,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+IMSL,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+IMSL,Plane of Tanks: Pro,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+IMSL,Geometry Horse,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+wuzhengkai,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+wuzhengkai,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+wuzhengkai,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+wuzhengkai,Plane of Tanks: Duel,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+gmcather,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+gmcather,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gmcather,Geometry Horse,1,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+HorgH,Robot Bicorn Attack,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+HorgH,Plane of Tanks: Pro,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+HorgH,Geometry Horse,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+azizkhan,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+azizkhan,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+azizkhan,Plane of Tanks: Duel,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+azizkhan,Robot Bicorn Attack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Xerxes,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+nurbol,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+nurbol,Plane of Tanks: Pro,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+evgenii,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+evgenii,Plane of Tanks: Pro,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+evgenii,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+evgenii,Plane of Tanks: Duel,0,D,0,0,0,0,0,5,0,0,2,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+merdan,Robot Bicorn Attack,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+merdan,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+merdan,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+deinier,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+deinier,Plane of Tanks: Pro,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+deinier,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Hoone,Robot Bicorn Attack,1,A,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Hoone,Plane of Tanks: Pro,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Monmoy,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Monmoy,Plane of Tanks: Pro,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Monmoy,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+yiyezhiqiu,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+yiyezhiqiu,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yiyezhiqiu,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Hokein,Robot Bicorn Attack,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Hokein,Plane of Tanks: Pro,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hokein,Geometry Horse,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+DEGwer,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+DEGwer,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DEGwer,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Dora,Robot Bicorn Attack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Dora,Plane of Tanks: Pro,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruban,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ruban,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruban,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Dominica,Robot Bicorn Attack,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Dominica,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+K0stIa,Robot Bicorn Attack,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+K0stIa,Geometry Horse,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+randrew,Robot Bicorn Attack,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+72VanVector_SevNTU,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+72VanVector_SevNTU,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+72VanVector_SevNTU,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+jaric,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+jaric,Plane of Tanks: Pro,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+cxjyxx_me,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+cxjyxx_me,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cxjyxx_me,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+miyu,Robot Bicorn Attack,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+miyu,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sokian,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+sokian,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sokian,Geometry Horse,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Sane,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Sane,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sane,Geometry Horse,1,C,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+maximkoval,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+maximkoval,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+maximkoval,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+maximkoval,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,"brute force,dp,probabilities"
+fuch,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+fuch,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fuch,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+xukaiwen,Robot Bicorn Attack,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+xukaiwen,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xukaiwen,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+xukaiwen,Plane of Tanks: Duel,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+xayom,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+T-D-K,Robot Bicorn Attack,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+T-D-K,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+T-D-K,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+func0der0,Robot Bicorn Attack,0,A,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+func0der0,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pekaz,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Pekaz,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pekaz,Geometry Horse,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+duoxida,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+duoxida,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mark_tven,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Mark_tven,Plane of Tanks: Pro,0,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mark_tven,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ryanaaa,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ryanaaa,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ryanaaa,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+yh_victor,Plane of Tanks: Pro,0,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+yh_victor,Geometry Horse,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+yh_victor,Plane of Tanks: Duel,1,D,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Scipt,Robot Bicorn Attack,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Scipt,Plane of Tanks: Pro,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Scipt,Geometry Horse,1,C,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+median0816,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+median0816,Plane of Tanks: Pro,1,B,1,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,implementation
+rubbaltherebel,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+rubbaltherebel,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rubbaltherebel,Geometry Horse,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+plexus,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+plexus,Plane of Tanks: Pro,1,B,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+plexus,Geometry Horse,0,C,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+kiana,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+kiana,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mgorvat,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mgorvat,Plane of Tanks: Pro,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+mgorvat,Geometry Horse,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+MarwanPP,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+MarwanPP,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+N_C_Derek,Robot Bicorn Attack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+N_C_Derek,Plane of Tanks: Pro,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Bistrigova_Anastasiya,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Bistrigova_Anastasiya,Plane of Tanks: Pro,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Bistrigova_Anastasiya,Geometry Horse,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+M03G11,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+M03G11,Plane of Tanks: Pro,0,B,1,0,0,0,3,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+M03G11,Geometry Horse,1,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+eha,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+eha,Power Defence,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+ACmyth,Robot Bicorn Attack,0,A,0,0,0,2,0,4,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Alisafe,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Alisafe,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alisafe,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+LFLONG,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+LFLONG,Plane of Tanks: Pro,1,B,1,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+LFLONG,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+jimon,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+jimon,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jimon,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+sazzad,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sazzad,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sazzad,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+dragon007,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dragon007,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+dragon007,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dannsk,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dannsk,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dannsk,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+mingotlik,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+BlEmp,Robot Bicorn Attack,1,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Vot1_Bear,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Vot1_Bear,Plane of Tanks: Pro,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Vot1_Bear,Robot Bicorn Attack,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+olpetOdessaONU,Geometry Horse,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+olpetOdessaONU,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+olpetOdessaONU,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+olpetOdessaONU,Plane of Tanks: Duel,1,D,0,0,0,0,0,8,0,0,1,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+JustN,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+JustN,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+JustN,Plane of Tanks: Pro,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+saronger,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+spider_cpsf,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Ahmedov,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Ahmedov,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ahmedov,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+lth,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+lth,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lth,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+hithere,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+hithere,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hithere,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+bluesky,Robot Bicorn Attack,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+bluesky,Plane of Tanks: Pro,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+otaks21,Robot Bicorn Attack,0,A,0,0,0,0,0,11,0,3,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+tredbag,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+zhangteng,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+zhangteng,Geometry Horse,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation,sortings"
+scier,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+jungahtae,Robot Bicorn Attack,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+bswig,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+bswig,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bswig,Geometry Horse,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ritesh104,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ritesh104,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ritesh104,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+zplesivcak,Robot Bicorn Attack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+zplesivcak,Plane of Tanks: Pro,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zplesivcak,Geometry Horse,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+09271026,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+09271026,Plane of Tanks: Pro,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sabyanin.Max,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mukt,Robot Bicorn Attack,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+mukt,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mukt,Geometry Horse,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+atetubou,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+atetubou,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+atetubou,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+alibek_1,Robot Bicorn Attack,1,A,1,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+alibek_1,Plane of Tanks: Pro,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+alibek_1,Geometry Horse,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+alpc104,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+alpc104,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alpc104,Geometry Horse,1,C,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+d40a,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+d40a,Plane of Tanks: Pro,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+d40a,Geometry Horse,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+yuta1024,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+yuta1024,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+yuta1024,Geometry Horse,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+krivoi,Robot Bicorn Attack,0,A,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+krivoi,Plane of Tanks: Pro,1,B,1,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+techxacm,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+techxacm,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+techxacm,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+vctzhao1010,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+vctzhao1010,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vctzhao1010,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+demolishka,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+demolishka,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+demolishka,Geometry Horse,1,C,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+SCL,Robot Bicorn Attack,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+SCL,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+SCL,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+jayhaizeizai,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+jayhaizeizai,Plane of Tanks: Pro,1,B,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,implementation
+jayhaizeizai,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+EmptyHadron,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,implementation
+EmptyHadron,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+EmptyHadron,Robot Bicorn Attack,1,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+mrunique.01,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mrunique.01,Plane of Tanks: Pro,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+bigsleep,Robot Bicorn Attack,0,A,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+bigsleep,Plane of Tanks: Pro,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aslan.m,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Aslan.m,Plane of Tanks: Pro,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+bagedan,Robot Bicorn Attack,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+bagedan,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wadja,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+wadja,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wadja,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+agarwaen,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+agarwaen,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+agarwaen,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation,sortings"
+jasou1995,Robot Bicorn Attack,0,A,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+jasou1995,Plane of Tanks: Pro,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+crikee,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mng,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mng,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mng,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+HisShadow,Robot Bicorn Attack,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+HisShadow,Plane of Tanks: Pro,0,B,0,0,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,implementation
+mfkhr,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mfkhr,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mfkhr,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+siddharth_s,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+siddharth_s,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+av_life,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+av_life,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+bibaswan,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+bibaswan,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bibaswan,Geometry Horse,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+robryk,Robot Bicorn Attack,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+robryk,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+robryk,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+shibly,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+shibly,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+luckyboy2012,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+luckyboy2012,Plane of Tanks: Pro,0,B,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,implementation
+xietutu,Robot Bicorn Attack,1,A,1,0,0,0,1,4,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+xietutu,Plane of Tanks: Pro,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+adamant,Plane of Tanks: Pro,0,B,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+adamant,Geometry Horse,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Hina_Maeda,Robot Bicorn Attack,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Hina_Maeda,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+eggeek,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+eggeek,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+gotman.maria,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+gotman.maria,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gotman.maria,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+TNLong,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dowlet,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dowlet,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+rayafjyblue,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+rayafjyblue,Plane of Tanks: Pro,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+rayafjyblue,Geometry Horse,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ancv1990,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ancv1990,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+paulocezar,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+paulocezar,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+paulocezar,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+paulocezar,Plane of Tanks: Duel,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+afaf,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+afaf,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+afaf,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+zulkan2,Robot Bicorn Attack,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+zulkan2,Plane of Tanks: Pro,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+standy,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+standy,Geometry Horse,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+standy,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DamianS,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+DamianS,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+DamianS,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+DamianS,Plane of Tanks: Duel,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Aman.m.95,Robot Bicorn Attack,0,A,0,0,0,0,1,8,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Aman.m.95,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aman.m.95,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ass4,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ass4,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ass4,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+yaz,Robot Bicorn Attack,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+yaz,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yaz,Geometry Horse,1,C,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Lvsi,Robot Bicorn Attack,0,A,1,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Lvsi,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhou_hui,Robot Bicorn Attack,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+zhou_hui,Plane of Tanks: Pro,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+gmtranthanhtu,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+gmtranthanhtu,Plane of Tanks: Pro,0,B,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gmtranthanhtu,Geometry Horse,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+youcachan,Robot Bicorn Attack,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+youcachan,Plane of Tanks: Pro,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+safarisoul,Robot Bicorn Attack,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+safarisoul,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+safarisoul,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+tishin-anton,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+tishin-anton,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tishin-anton,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Suvorov,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Suvorov,Robot Bicorn Attack,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Suvorov,Geometry Horse,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+nhap96,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ratulghatak,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ratulghatak,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ratulghatak,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+unit7,Plane of Tanks: Pro,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+unit7,Robot Bicorn Attack,1,A,0,0,0,1,0,4,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+unit7,Geometry Horse,0,C,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+m_a_s_91,Robot Bicorn Attack,0,A,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Zip753,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Zip753,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zip753,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+HarDToBelieve,Robot Bicorn Attack,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+verytable,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+verytable,Geometry Horse,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+verytable,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+radi0active,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+radi0active,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,implementation,sortings"
+radi0active,Gnomes of Might and Magic,1,F,0,0,0,0,1,0,0,6,0,0,0,0,0,0,0,0,0,"data structures,graphs,implementation,shortest paths"
+0Silencer,Robot Bicorn Attack,0,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+0Silencer,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Boxer,Robot Bicorn Attack,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+makanbeling,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+makanbeling,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+makanbeling,Geometry Horse,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+d891320478,Robot Bicorn Attack,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+d891320478,Plane of Tanks: Pro,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+d891320478,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Cassio,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Cassio,Plane of Tanks: Pro,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Cassio,Geometry Horse,1,C,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Besidnuk,Robot Bicorn Attack,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+BIV,Plane of Tanks: Pro,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+BIV,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+BIV,Geometry Horse,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+WatZn_2,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+WatZn_2,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+WatZn_2,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+delgoog,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+delgoog,Geometry Horse,0,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+peking2,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+peking2,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dergach,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dergach,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+dergach,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+KaZoober,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+KaZoober,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KaZoober,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Emettant,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Emettant,Plane of Tanks: Pro,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Emettant,Geometry Horse,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+tony.brewerio,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+tony.brewerio,Plane of Tanks: Pro,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tony.brewerio,Plane of Tanks: Duel,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+chealsea,Robot Bicorn Attack,0,A,0,0,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+punish,Robot Bicorn Attack,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Launcelot278,Robot Bicorn Attack,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,2,0,0,0,"brute force,implementation"
+Launcelot278,Plane of Tanks: Pro,1,B,1,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Launcelot278,Geometry Horse,1,C,0,0,0,0,1,5,0,1,1,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+lingyunjinzhu,Robot Bicorn Attack,0,A,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+lingyunjinzhu,Plane of Tanks: Pro,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+landscape95,Robot Bicorn Attack,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+landscape95,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+landscape95,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+zroom,Plane of Tanks: Pro,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+zroom,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+zroom,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Cipusha,Robot Bicorn Attack,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Cipusha,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Cipusha,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+rpk74m,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+rpk74m,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rpk74m,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ko-sova,Robot Bicorn Attack,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+jefferson_,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+jefferson_,Plane of Tanks: Pro,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+jefferson_,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+wpsxiaowang1,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+wpsxiaowang1,Plane of Tanks: Pro,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+gskhirtladze,Plane of Tanks: Pro,0,B,0,0,0,1,1,9,0,0,0,0,0,0,0,0,0,0,0,implementation
+gskhirtladze,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+gskhirtladze,Geometry Horse,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation,sortings"
+abhi.bit,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+avg206,Robot Bicorn Attack,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Drinker,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Drinker,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Drinker,Geometry Horse,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ne210023,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+ne210023,Plane of Tanks: Pro,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+ne210023,Geometry Horse,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+n.hira,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+n.hira,Geometry Horse,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+n.hira,Plane of Tanks: Duel,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+tobeornottobe,Robot Bicorn Attack,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+tobeornottobe,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tobeornottobe,Geometry Horse,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,"greedy,implementation,sortings"
+bashrc,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+wzxangiiao,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+wzxangiiao,Plane of Tanks: Pro,0,B,0,0,0,1,0,3,0,1,0,0,0,0,0,0,0,0,0,implementation
+deb_seu,Robot Bicorn Attack,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Bega,Robot Bicorn Attack,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,2,0,0,0,"brute force,implementation"
+Bega,Plane of Tanks: Pro,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+lilEzek,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+lilEzek,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lilEzek,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+lilEzek,Plane of Tanks: Duel,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Chess,Robot Bicorn Attack,0,A,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Chess,Plane of Tanks: Pro,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+rakkoitazu,Robot Bicorn Attack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+rakkoitazu,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+allenjin,Robot Bicorn Attack,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ts12shuai,Robot Bicorn Attack,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ts12shuai,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ts12shuai,Plane of Tanks: Pro,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+giahuynd,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+makkuma,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+makkuma,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+makkuma,Geometry Horse,1,C,1,0,0,0,0,4,0,1,0,0,0,0,0,0,1,0,0,"greedy,implementation,sortings"
+gogni,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+aszinovyev,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+aszinovyev,Plane of Tanks: Pro,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Cromel,Robot Bicorn Attack,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Cromel,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Cromel,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ujjwal.invent,Robot Bicorn Attack,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+ujjwal.invent,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zver2701,Robot Bicorn Attack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Zver2701,Plane of Tanks: Pro,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+andres3,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+andres3,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+andres3,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+spentplaying,Geometry Horse,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+spentplaying,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+spentplaying,Robot Bicorn Attack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+w_shunn,Robot Bicorn Attack,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+w_shunn,Plane of Tanks: Pro,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+dogdog,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+irinka.,Robot Bicorn Attack,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+irinka.,Plane of Tanks: Pro,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+irinka.,Geometry Horse,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+morteza.keshtkaran,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+superzj,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+superzj,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fenzhang,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+fenzhang,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fenzhang,Geometry Horse,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+fenzhang,Plane of Tanks: Duel,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+whm0510,Robot Bicorn Attack,0,A,0,0,0,0,1,7,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Reggies,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Reggies,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Timer,Robot Bicorn Attack,1,A,1,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+BloodyMary,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+BloodyMary,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BloodyMary,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Narek_YSUAC,Robot Bicorn Attack,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Narek_YSUAC,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+U_E_D,Robot Bicorn Attack,0,A,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+kurs,Plane of Tanks: Pro,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+kurs,Robot Bicorn Attack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+kurs,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+epochfail,Robot Bicorn Attack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+fido,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+fido,Plane of Tanks: Pro,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+consoleapplication1,Robot Bicorn Attack,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+consoleapplication1,Plane of Tanks: Pro,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+consoleapplication1,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+hanfei19910905,Geometry Horse,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+hanfei19910905,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hanfei19910905,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sachith500,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sachith500,Plane of Tanks: Pro,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+sachith500,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+silkbottle,Robot Bicorn Attack,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+silkbottle,Plane of Tanks: Pro,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+silkbottle,Geometry Horse,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Melchior,Robot Bicorn Attack,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Melchior,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+marut,Robot Bicorn Attack,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+marut,Plane of Tanks: Pro,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+marut,Geometry Horse,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+dokhue96,Geometry Horse,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+chen,Robot Bicorn Attack,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+chen,Plane of Tanks: Pro,1,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+san_104,Robot Bicorn Attack,0,A,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+wcj8,Geometry Horse,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+pernay,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+pernay,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pernay,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+want_sleep,Robot Bicorn Attack,0,A,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ryna4c2e,Robot Bicorn Attack,1,A,1,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+NamonOmen,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NamonOmen,Plane of Tanks: Duel,1,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+Gaith,Robot Bicorn Attack,1,A,1,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Gaith,Geometry Horse,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Gaith,Plane of Tanks: Pro,0,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+barkjyijan,Geometry Horse,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+barkjyijan,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+barkjyijan,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mstczuo,Robot Bicorn Attack,0,A,0,0,0,5,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+whus2010301500230,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+whus2010301500230,Geometry Horse,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+whus2010301500230,Robot Bicorn Attack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dkhaburdzania,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+EzhikOo,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Nikolo.frost,Robot Bicorn Attack,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sat0da0112,Robot Bicorn Attack,0,A,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+firstL,Plane of Tanks: Pro,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+nanotekdev,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+kufaaa,Robot Bicorn Attack,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+kufaaa,Plane of Tanks: Pro,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Lymphz,Robot Bicorn Attack,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+Lymphz,Plane of Tanks: Pro,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+Lymphz,Geometry Horse,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+stanislav1,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+stanislav1,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+stanislav1,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+zimbabwe,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+zimbabwe,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zimbabwe,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+kk91,Plane of Tanks: Pro,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kk91,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+triwinter91,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+triwinter91,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+befuddled,Plane of Tanks: Pro,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+befuddled,Geometry Horse,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+shinshin0811,Robot Bicorn Attack,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+5mds,Robot Bicorn Attack,0,A,0,0,0,1,0,8,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+5mds,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+5mds,Geometry Horse,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+VasiliyTheCat,Plane of Tanks: Pro,0,B,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+qcdisciple,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+qcdisciple,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+qcdisciple,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+seb,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+NikitaPogodin,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NikitaPogodin,Robot Bicorn Attack,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+NikitaPogodin,Geometry Horse,0,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+byambadorjp,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ARIFIN,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+AKim,Plane of Tanks: Pro,0,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+AKim,Geometry Horse,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+AKim,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sajib_cuet09,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+HEU_xueyan,Robot Bicorn Attack,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+HEU_xueyan,Plane of Tanks: Pro,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+ZOTAC89,Robot Bicorn Attack,0,A,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Igor_shulgan,Plane of Tanks: Pro,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,implementation
+Igor_shulgan,Robot Bicorn Attack,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Igor_shulgan,Geometry Horse,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+00000,Geometry Horse,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+__math,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+__math,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+__math,Plane of Tanks: Duel,1,D,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"brute force,dp,probabilities"
+yangyue,Plane of Tanks: Pro,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,implementation
+Shiniran,Robot Bicorn Attack,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Shiniran,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+asecret,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+asecret,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+sergileon,Plane of Tanks: Pro,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+sergileon,Robot Bicorn Attack,1,A,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Darkstalker,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Darkstalker,Robot Bicorn Attack,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Arsalan,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Arsalan,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+ZloyNegr,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+smashingshivani,Robot Bicorn Attack,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+smashingshivani,Plane of Tanks: Pro,0,B,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ikea0064,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ikea0064,Plane of Tanks: Pro,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+xsc,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+xsc,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xsc,Geometry Horse,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Snef,Plane of Tanks: Pro,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Snef,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mengxm,Plane of Tanks: Pro,0,B,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+mengxm,Robot Bicorn Attack,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+mengxm,Geometry Horse,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+DanielH,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+DanielH,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Midav7,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Midav7,Plane of Tanks: Pro,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+uditiiita,Robot Bicorn Attack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+uditiiita,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+biscuit,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dimasimf,Plane of Tanks: Pro,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+dimasimf,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+evgeny11,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+evgeny11,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+evgeny11,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Algiz,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Algiz,Plane of Tanks: Pro,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Algiz,Geometry Horse,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+mathhislife,Plane of Tanks: Pro,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+mathhislife,Geometry Horse,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+vad13,Plane of Tanks: Pro,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vad13,Geometry Horse,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+kshav1908,Geometry Horse,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+BenderRodriges,Robot Bicorn Attack,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+BenderRodriges,Plane of Tanks: Pro,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+joao,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+joao,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+kamentk,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+ashi009,Robot Bicorn Attack,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ashi009,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mosiomohsen,Robot Bicorn Attack,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mosiomohsen,Plane of Tanks: Pro,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Elshiko,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Elshiko,Plane of Tanks: Pro,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+vlasmur,Plane of Tanks: Pro,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jvevermore,Robot Bicorn Attack,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Najmuzzaman,Robot Bicorn Attack,0,A,0,0,0,2,0,9,0,3,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+wutao,Robot Bicorn Attack,1,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+aitzhan.askar,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+chicuong321993,Plane of Tanks: Pro,0,B,0,0,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,implementation
+crazy_apple,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+salsanads,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+songtianyi,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+GOUJIAN,Robot Bicorn Attack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+lynne,Robot Bicorn Attack,0,A,0,0,0,1,0,7,0,0,0,0,0,0,0,1,1,0,0,"brute force,implementation"
+F.e,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+neo0057,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+neo0057,Plane of Tanks: Pro,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pchvirov,Robot Bicorn Attack,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+pchvirov,Geometry Horse,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+GreatWall,Robot Bicorn Attack,0,A,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+yoshi,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+yoshi,Plane of Tanks: Pro,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Merzley,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nats,Robot Bicorn Attack,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Uchuchna,Geometry Horse,0,C,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+AlirezaN,Geometry Horse,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+NiVeR,Plane of Tanks: Pro,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+mishanay,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mishanay,Geometry Horse,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Deep_Blue_01,Robot Bicorn Attack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Deep_Blue_01,Plane of Tanks: Pro,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+xtu_2011550322,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+kevinqh,Robot Bicorn Attack,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Celeron5,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+taka_taka,Robot Bicorn Attack,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+taka_taka,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xtu_sora,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+omurbek,Robot Bicorn Attack,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Alexxino7,Geometry Horse,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+aleksey.pechenin,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+aleksey.pechenin,Plane of Tanks: Pro,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+wick3d_sick,Robot Bicorn Attack,0,A,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+nikitooz,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Lakerka,Robot Bicorn Attack,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+urahara,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+karan_agarwal,Robot Bicorn Attack,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+guille,Geometry Horse,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+guille,Plane of Tanks: Pro,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+guille,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+guille,Power Defence,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,greedy"
+cplayer,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Sandeep_Singh_Chhabada,Plane of Tanks: Pro,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+wy89767,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wy89767,Robot Bicorn Attack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+pilosofi,Plane of Tanks: Pro,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+pilosofi,Geometry Horse,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+binh95,Plane of Tanks: Pro,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+PurpleZ,Geometry Horse,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+PurpleZ,Plane of Tanks: Pro,0,B,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zybest,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zybest,Geometry Horse,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation,sortings"
+Shojib09,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Omelyanenko,Plane of Tanks: Pro,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Omelyanenko,Robot Bicorn Attack,1,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+PAG,Robot Bicorn Attack,1,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ajneo57,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+GavrilaZ,Plane of Tanks: Pro,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+buenasdiaz,Robot Bicorn Attack,0,A,0,0,0,1,4,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+__Singleton__,Robot Bicorn Attack,0,A,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Mister_Freeman,Plane of Tanks: Pro,1,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,implementation
+MidMan,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Trish,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+hydralisk,Robot Bicorn Attack,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+icerain,Robot Bicorn Attack,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Skipi,Robot Bicorn Attack,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+fryzito,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+xtu_visual,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Red_riding_hood,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mera_reznik,Robot Bicorn Attack,0,A,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+xtu2011550321,Plane of Tanks: Pro,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Novl,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+alzater,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+roman2204,Plane of Tanks: Pro,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+bit-x,Robot Bicorn Attack,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+darkloz,Robot Bicorn Attack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+darkloz,Plane of Tanks: Pro,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nise_nabe,Robot Bicorn Attack,0,A,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+amirM,Plane of Tanks: Pro,0,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+ebedkm,Robot Bicorn Attack,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ovidiustiru,Robot Bicorn Attack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+_ramanujan,Robot Bicorn Attack,0,A,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+alpc115,Robot Bicorn Attack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"

@@ -1,0 +1,1704 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+sdryapko,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+sdryapko,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+nodchip,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+nodchip,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+nodchip,Synchrophasotron,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,brute force
+arshuaz,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+arshuaz,Energy exchange,1,B,0,0,0,0,0,2,0,3,0,0,0,0,0,1,0,0,0,binary search
+ballon,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+ballon,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+svnlog,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+svnlog,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+t__nt,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+t__nt,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+t__nt,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+logicmachine,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+logicmachine,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+watashi,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+watashi,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+watashi,Half-decay tree,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,"data structures,divide and conquer,dp,probabilities"
+watashi,Synchrophasotron,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+pperm,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+pperm,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+pperm,Half-decay tree,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+pperm,Synchrophasotron,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Oleg,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Oleg,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,binary search
+Oleg,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Oleg,Half-decay tree,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+atetubou,Irrational problem,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,"implementation,number theory"
+atetubou,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+vepifanov,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+vepifanov,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+vepifanov,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+vepifanov,Half-decay tree,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+vepifanov,Contact,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+SyFy,Energy exchange,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+SyFy,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+2222,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+2222,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+2222,Synchrophasotron,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+2222,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+mmaxio,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+mmaxio,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+mmaxio,Half-decay tree,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+daizhenyang,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+daizhenyang,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+EG0R,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+anshusaurav,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+anshusaurav,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+ashmelev,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ashmelev,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ashmelev,Synchrophasotron,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ashmelev,Half-decay tree,1,D,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+al13n,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+al13n,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+al13n,Half-decay tree,1,D,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+al13n,Contact,0,E,0,0,0,0,1,5,0,2,0,0,0,0,0,0,0,0,0,geometry
+sicasli,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+sicasli,Energy exchange,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,binary search
+homo_sapiens,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+homo_sapiens,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+homo_sapiens,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+chhung6,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+chhung6,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+chhung6,Contact,1,E,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,geometry
+Abulkhair,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Abulkhair,Energy exchange,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+FedyuninV,Irrational problem,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+FedyuninV,Energy exchange,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Petr,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Petr,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Petr,Half-decay tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+Petr,Contact,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Shinta,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Shinta,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Shinta,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+shevchen,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+shevchen,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Sarkin,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Sarkin,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Sarkin,Synchrophasotron,1,C,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+HolkinPV,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+HolkinPV,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Steps09,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Steps09,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Steps09,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sakyalol,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+sakyalol,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+venkateshb,Irrational problem,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+venkateshb,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+venkateshb,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"data structures,divide and conquer,dp,probabilities"
+liangjiaxing57,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+liangjiaxing57,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+yaro,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+yaro,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+yaro,Synchrophasotron,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+yaro,Half-decay tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+LayCurse,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+LayCurse,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+LayCurse,Half-decay tree,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+LayCurse,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+napst101r,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+napst101r,Energy exchange,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+JKeeJ1e30,Irrational problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+JKeeJ1e30,Energy exchange,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Seikang,Irrational problem,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+Seikang,Energy exchange,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Eledven,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Eledven,Energy exchange,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+pt1989,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+pt1989,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+pt1989,Synchrophasotron,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,brute force
+ivan.popelyshev,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ivan.popelyshev,Energy exchange,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+ivan.popelyshev,Contact,1,E,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,geometry
+eik0u,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+eik0u,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+eik0u,Synchrophasotron,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+kennethsnow,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+kennethsnow,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Egor,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Egor,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Egor,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Egor,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+Rubanenko,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Rubanenko,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+voover,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+voover,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+voover,Half-decay tree,1,D,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+frost_nova,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+frost_nova,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+frost_nova,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+1tthinking,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+1tthinking,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+1tthinking,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+1tthinking,Synchrophasotron,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+volkhin,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+volkhin,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+volkhin,Half-decay tree,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+volkhin,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+m.sabouri,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+m.sabouri,Energy exchange,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+m.sabouri,Synchrophasotron,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+aitbayev,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+aitbayev,Energy exchange,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+I_love_ilona,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+I_love_ilona,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+I_love_ilona,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+msagimbekov,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+meparter,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+meparter,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,binary search
+GagGuy,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+GagGuy,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+GagGuy,Synchrophasotron,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,brute force
+atol,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+atol,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+atol,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+atol,Contact,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+kyuridenamida,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+kyuridenamida,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Tatyana_Petrashko,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Hackson,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Hackson,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Hackson,Synchrophasotron,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,brute force
+suhendry,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+suhendry,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+udalov,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+udalov,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+peria,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+peria,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+zetsubou,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+zetsubou,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+zetsubou,Half-decay tree,1,D,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+dasko1,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+dasko1,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+witua,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+witua,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+pes,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+pes,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+pes,Half-decay tree,0,D,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+pes,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+hos.lyric,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+hos.lyric,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+hos.lyric,Synchrophasotron,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+hos.lyric,Half-decay tree,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+hos.lyric,Contact,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+mybestwishes,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+mybestwishes,Energy exchange,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Fcdkbear,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Fcdkbear,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Fcdkbear,Synchrophasotron,1,C,0,0,0,1,0,4,0,0,2,0,0,0,0,0,0,0,0,brute force
+Sisu,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Sisu,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Sisu,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"data structures,divide and conquer,dp,probabilities"
+ktuan,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ktuan,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ktuan,Synchrophasotron,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Di735,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Di735,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Di735,Half-decay tree,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+Di735,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+it4.kp,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+it4.kp,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+it4.kp,Half-decay tree,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+it4.kp,Synchrophasotron,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,brute force
+cafelier,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+cafelier,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Konstantin,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Konstantin,Energy exchange,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+sankear,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+sankear,Energy exchange,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+sankear,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+abhijith,Irrational problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+abhijith,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+NeverQuarrel,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+NeverQuarrel,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+z__jj,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+z__jj,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Igor_Kudryashov,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Igor_Kudryashov,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Igor_Kudryashov,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+tanzaku,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+tanzaku,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+rudradevbasak,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+rudradevbasak,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+rudradevbasak,Synchrophasotron,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+dolphinigle,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+dolphinigle,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+dolphinigle,Half-decay tree,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+dolphinigle,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ptrrsn_1,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ptrrsn_1,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ptrrsn_1,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+o948,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+o948,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+K_operafan,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+K_operafan,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Amtrix,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Amtrix,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Amtrix,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+Aman,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Aman,Energy exchange,1,B,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,binary search
+Komaki,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+Komaki,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Komaki,Half-decay tree,1,D,0,0,0,3,0,3,0,1,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+parenti,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+parenti,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Sereja,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Sereja,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Sereja,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+avriskin,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+avriskin,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+AlTimin,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+AlTimin,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+AlTimin,Synchrophasotron,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+AlTimin,Half-decay tree,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+Duc,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Duc,Energy exchange,1,B,1,0,0,0,0,5,0,1,0,0,0,0,0,1,0,0,0,binary search
+gmunkhbaatarmn,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+gmunkhbaatarmn,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Baz93,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Baz93,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Baz93,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+aropan,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+aropan,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+aropan,Half-decay tree,1,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+aropan,Contact,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+smilitude,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+smilitude,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+adavydow,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+adavydow,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Dod,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Dod,Energy exchange,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+daffes,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+daffes,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+daffes,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+subscriber,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+subscriber,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+subscriber,Half-decay tree,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+mukel,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+mukel,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+tracyhenry,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+tracyhenry,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+SpookyCookie,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+SpookyCookie,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+SpookyCookie,Synchrophasotron,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,brute force
+SpookyCookie,Half-decay tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+Andrew_Makar,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Andrew_Makar,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+forifchen,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+forifchen,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+vlad107,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+vlad107,Energy exchange,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+NALP,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+NALP,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+NALP,Synchrophasotron,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+multisystem,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+multisystem,Energy exchange,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+iwiwi,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+iwiwi,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+iwiwi,Synchrophasotron,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+map,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+map,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+map,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Nikhil,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+Nikhil,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Nikhil,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Kostroma,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Kostroma,Energy exchange,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+dimozzz,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+dimozzz,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+dimozzz,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+iakolzin,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+iakolzin,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+UESTC_Defense,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+UESTC_Defense,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+cerealguy,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+cerealguy,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+cerealguy,Contact,1,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+nevidomy,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+nevidomy,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+nevidomy,Synchrophasotron,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+nevidomy,Half-decay tree,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+akshayk0406,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+akshayk0406,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+007.chandru.vels,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+007.chandru.vels,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Daiver19,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Daiver19,Energy exchange,1,B,1,0,0,0,0,5,0,5,0,0,0,0,0,1,0,0,0,binary search
+kyonghun90,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+AleX,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+AleX,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+AleX,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"data structures,divide and conquer,dp,probabilities"
+AleX,Synchrophasotron,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Dener,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Dener,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Dener,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+lne,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+lne,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Georgy,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Georgy,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Malinovsky239,Irrational problem,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+Malinovsky239,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+IgorYevchynets,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+IgorYevchynets,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+IgorYevchynets,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+L.I.S.,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+L.I.S.,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Vasya.V,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Vasya.V,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+blaklites,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+blaklites,Energy exchange,1,B,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,binary search
+Chaker,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Chaker,Energy exchange,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Orfest,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Orfest,Energy exchange,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Orfest,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+gsaghinadze,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+gsaghinadze,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+gsaghinadze,Synchrophasotron,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+Egorchik,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ainu7,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+ainu7,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ainu7,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+ainu7,Half-decay tree,1,D,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+imrankane2005,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+imrankane2005,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ne.rwa.lz,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ne.rwa.lz,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,binary search
+ne.rwa.lz,Half-decay tree,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+Ferlon,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Ferlon,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+cpphamza,Irrational problem,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+cpphamza,Energy exchange,1,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+cpphamza,Synchrophasotron,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+DDDDDDDDDDDDDDDDDDDDDDDD,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+wrong,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+wrong,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+tomoya,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+tomoya,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+kcm1700,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+kcm1700,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+bahakz,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+bahakz,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+bahakz,Half-decay tree,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+permin,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+permin,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+permin,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+-XraY-,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+-XraY-,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+pablo.aguilar,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+pablo.aguilar,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+espr1t,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+espr1t,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+espr1t,Synchrophasotron,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+espr1t,Half-decay tree,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+adam_,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+adam_,Energy exchange,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+fhlasek,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+fhlasek,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Afshin,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+Afshin,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+abhithekid,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+abhithekid,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+---Grigor---,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+---Grigor---,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+---Grigor---,Synchrophasotron,1,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,brute force
+CherryTree,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+CherryTree,Energy exchange,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Ixanezis,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Ixanezis,Energy exchange,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Ixanezis,Synchrophasotron,1,C,0,0,0,0,1,6,0,0,0,0,0,0,0,0,1,0,0,brute force
+PavelKunyavskiy,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+PavelKunyavskiy,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+PavelKunyavskiy,Synchrophasotron,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+PavelKunyavskiy,Half-decay tree,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+winterflame,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+yayamao,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+yayamao,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+20092100003,Irrational problem,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+20092100003,Energy exchange,1,B,1,0,0,0,0,12,0,1,0,0,0,0,0,0,1,0,0,binary search
+kawatea,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+kawatea,Energy exchange,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+opa_9379992,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+uwi,Irrational problem,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+uwi,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+uwi,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+jehad131,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+jehad131,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+OutSide,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+OutSide,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+tkcn,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+tkcn,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+kozikow,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+kozikow,Energy exchange,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+kozikow,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+idivyanshu,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+idivyanshu,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+dmitrydyatlov,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+dmitrydyatlov,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Dabek,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Dabek,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+rng_58,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+rng_58,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+rng_58,Half-decay tree,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+rng_58,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+yak_ex,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+yak_ex,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+nitin.gangahar,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+nitin.gangahar,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+dreamoon,Contact,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+dreamoon,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+dreamoon,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+dreamoon,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dreamoon,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+diogen,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+diogen,Energy exchange,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+FoodIsGood,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+FoodIsGood,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+FoodIsGood,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+FoodIsGood,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+lcqbest,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+lcqbest,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Ripatti,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Ripatti,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Ripatti,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ondrah,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ondrah,Energy exchange,1,B,0,0,0,0,0,6,0,3,0,0,0,0,0,0,0,0,0,binary search
+0rbit,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+sequence,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+sequence,Energy exchange,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+Fdg,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Fdg,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Hedayet,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+Hedayet,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+KhaustovPavel,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+KhaustovPavel,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+KhaustovPavel,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+KhaustovPavel,Half-decay tree,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+felix_halim,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+felix_halim,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+felix_halim,Synchrophasotron,1,C,0,0,0,0,0,1,0,4,0,0,0,0,0,0,1,0,0,brute force
+ftfish,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+ftfish,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+edward_mj,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+edward_mj,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+edward_mj,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+MrMT,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+MrMT,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+sggutier,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+sggutier,Energy exchange,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+yowa,Irrational problem,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+yowa,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+yowa,Half-decay tree,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+pank.dm,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+pank.dm,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+yafithekid,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+yafithekid,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ridowan007,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ridowan007,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Alireza,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Alireza,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+portal,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+portal,Energy exchange,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+knightL,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+knightL,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+knightL,Synchrophasotron,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+ferr,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ferr,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ferr,Synchrophasotron,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+OoO000oOOOoOooOo,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+OoO000oOOOoOooOo,Energy exchange,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+KirillB,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+KirillB,Energy exchange,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+KirillB,Synchrophasotron,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,brute force
+A.I,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+A.I,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+A.I,Synchrophasotron,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+Muhammed,Irrational problem,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Muhammed,Energy exchange,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+akashin,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+akashin,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+akashin,Synchrophasotron,1,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,brute force
+tgoulart,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+tgoulart,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+.Khaled.,Irrational problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+.Khaled.,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+wRabbits_AlMag,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+wRabbits_AlMag,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+M0sTik,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+M0sTik,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+dancho,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+dancho,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+dancho,Energy exchange,0,B,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,binary search
+Sigmar,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Sigmar,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Sigmar,Synchrophasotron,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,brute force
+haker4o,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+haker4o,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+LGM,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+LGM,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,binary search
+LGM,Synchrophasotron,1,C,0,0,0,0,2,3,0,1,0,0,0,0,0,1,0,0,0,brute force
+ASoboll,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ASoboll,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ASoboll,Synchrophasotron,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Ardavel,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Ardavel,Energy exchange,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,binary search
+Alias,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Alias,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Alias,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dimatomp,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+dimatomp,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+darkbtf,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+darkbtf,Energy exchange,1,B,1,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,binary search
+fura,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+fura,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Zlobober,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Zlobober,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Zlobober,Synchrophasotron,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+hpfdf,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+hpfdf,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+hpfdf,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+flashmt,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+flashmt,Energy exchange,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+xingh.dll,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+xingh.dll,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+xingh.dll,Half-decay tree,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+ahmed_thabet,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ahmed_thabet,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ahmed_thabet,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+IvayloS,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+IvayloS,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+SkorKNURE,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+SkorKNURE,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+SkorKNURE,Synchrophasotron,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Shef,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Shef,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Shef,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Shef,Half-decay tree,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+islam-al-aarag,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+islam-al-aarag,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+sune2,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+sune2,Energy exchange,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+fuch,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+fuch,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+fuch,Half-decay tree,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+BlackEagle,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+nel215,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+nel215,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+nel215,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+kilnyy,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+K0stIa,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+K0stIa,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+USA,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+USA,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+USA,Synchrophasotron,1,C,1,0,0,0,0,10,0,5,0,0,0,0,0,0,0,0,0,brute force
+Evilin,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Evilin,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,binary search
+Evilin,Half-decay tree,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+parina,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+unrated,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+mostafa_angel,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+SergeyLazarev,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+SergeyLazarev,Energy exchange,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+SergeyLazarev,Synchrophasotron,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Arios,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Arios,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Arios,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+Oryshych,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Oryshych,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Oryshych,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+standy,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+standy,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+chyx,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+chyx,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+chyx,Synchrophasotron,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+chyx,Half-decay tree,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+ItsLastDay,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+cjc,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+cjc,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+stostap,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+andrei.d,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ANTANTA,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Vintik,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Vintik,Energy exchange,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Vintik,Half-decay tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+Liaksiejka,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Liaksiejka,Energy exchange,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+ArtDitel,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ArtDitel,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ArtDitel,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+-dp-,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+-dp-,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+alger95,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+alger95,Energy exchange,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+alger95,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+coder_iitu,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+NikitaD,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+NikitaD,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+NikitaD,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sohelH,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+sohelH,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+S.Yesipenko,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+S.Yesipenko,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+riad,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+riad,Energy exchange,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+mR.ilchi,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+mR.ilchi,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+mR.ilchi,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sjtu_pigoneand,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+sjtu_pigoneand,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+sjtu_pigoneand,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Ress,Irrational problem,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+OmarEl-Mohandes,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Ansar,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ICOA,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+pshtanko,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+pshtanko,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+dj3500,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+dj3500,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+dj3500,Half-decay tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+nadeem,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+nadeem,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+nadeem,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+planckspace,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+tunyash,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+tunyash,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+best.ua,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+best.ua,Energy exchange,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+bdfhjk,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+bdfhjk,Energy exchange,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+_sunny,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+_sunny,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+_sunny,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+balakrishnan,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+balakrishnan,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,binary search
+balakrishnan,Synchrophasotron,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+NSV,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+NSV,Energy exchange,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+lyrics,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+lyrics,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+lyrics,Half-decay tree,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+takacsg84,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+takacsg84,Energy exchange,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,binary search
+osa_k,Irrational problem,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+osa_k,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+osa_k,Half-decay tree,1,D,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+lolotp,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+lolotp,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+lolotp,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Madiyar,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+onmylove,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+onmylove,Energy exchange,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+VladGavrila,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+VladGavrila,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+VladGavrila,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+Ra16bit,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Ra16bit,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+KashinYana.,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+KashinYana.,Energy exchange,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+gn13,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+pyshnograev,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+pyshnograev,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+LongCtrl,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+LongCtrl,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Gravekper,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Rijul_CSEDU,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+Warxezz,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Warxezz,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Bugman,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Bugman,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+retardedshrimp,Irrational problem,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Tatyana,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+hs484,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+hs484,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+hs484,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+Mex-Mans,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Mex-Mans,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Mex-Mans,Synchrophasotron,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+vudduu,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+vudduu,Energy exchange,1,B,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,binary search
+ahmed.abdrabo,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ahmed.abdrabo,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Khaled91,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Khaled91,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+YuRNeRo_KZ,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+moshiur,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+moshiur,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+cosmos,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+cosmos,Energy exchange,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,binary search
+cosmos,Contact,1,E,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+buko,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+buko,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+buko,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+pdwd,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+pdwd,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+pdwd,Synchrophasotron,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+sonyckson,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,binary search
+sonyckson,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+sonyckson,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,brute force
+tuananh93,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+tuananh93,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+tuananh93,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+frankyym,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+frankyym,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+frankyym,Half-decay tree,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+patsp,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+C.sis,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+C.sis,Energy exchange,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+C.sis,Half-decay tree,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+C.sis,Synchrophasotron,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+xavier_lt,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+xavier_lt,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+xavier_lt,Synchrophasotron,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+filix,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+filix,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+filix,Contact,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Dmitry_Egorov,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Dmitry_Egorov,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Dmitry_Egorov,Synchrophasotron,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Dmitry_Egorov,Half-decay tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+reiracofage,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+reiracofage,Energy exchange,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Vaness,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Vaness,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+navi-spb,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+navi-spb,Energy exchange,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+zyx3d,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+zyx3d,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+zyx3d,Synchrophasotron,1,C,0,0,0,0,0,10,0,1,0,0,0,0,0,0,0,0,0,brute force
+alexey.enkov,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+alexey.enkov,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+alexey.enkov,Half-decay tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+dk123321,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+dk123321,Energy exchange,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Nadezhda,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Nadezhda,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+AC9,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+AC9,Energy exchange,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+soundsdx,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+soundsdx,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+soundsdx,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+poutiko,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+poutiko,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+asif_iut,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+shilov,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+shilov,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+dcp,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+dcp,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+serlis,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+serlis,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+middle_impulse,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+middle_impulse,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+dimoc,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+antonkov,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+antonkov,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+natsuki_i,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+natsuki_i,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+cgy4ever,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+cgy4ever,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+cgy4ever,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+cgy4ever,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+Jesus,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Jesus,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+tatsuyafw,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+hbuoc,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+hbuoc,Energy exchange,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+hbuoc,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+MaxBuzz,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+MaxBuzz,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+MaxBuzz,Half-decay tree,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+sina_uice,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+GaoYusong,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+GaoYusong,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+hogeover30,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+hogeover30,Energy exchange,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,binary search
+zeinab69,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+PanZverski,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+PanZverski,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+PanZverski,Synchrophasotron,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+amrSamir,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+amrSamir,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+lgarithm,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+lgarithm,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+chavit,Irrational problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+chavit,Energy exchange,1,B,1,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,binary search
+chavit,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+Inf_Zero,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Inf_Zero,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+bohuss,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+bohuss,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+coders1122,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+coders1122,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+vance,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+vance,Energy exchange,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Shiho,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Shiho,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+72VanVector_SevNTU,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+kasyankrak,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+kasyankrak,Energy exchange,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,binary search
+Austeritas,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"implementation,number theory"
+Austeritas,Energy exchange,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+ilya.korovin,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ilya.korovin,Energy exchange,1,B,1,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,binary search
+DoublePointer,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+DoublePointer,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+deximat,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Vedensky,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Vedensky,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Lepetrandr,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Lepetrandr,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+free0u,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+free0u,Energy exchange,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+yaoshimax,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+yaoshimax,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+yaoshimax,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+lijunle,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"implementation,number theory"
+lijunle,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+c_loud26,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+c_loud26,Energy exchange,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+jmendoza,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+jmendoza,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Shahriar_sust,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Etcho,Irrational problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Etcho,Energy exchange,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+zzldjk,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+zzldjk,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+zzldjk,Synchrophasotron,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+seen,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+seen,Energy exchange,1,B,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,binary search
+I_L_P,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+I_L_P,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+sunhaowen123,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+sunhaowen123,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+rayevg,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+rayevg,Energy exchange,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+neverous,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+AlexDmitriev,Irrational problem,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+AlexDmitriev,Energy exchange,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+metar,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+metar,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+AlexErofeev,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+AlexErofeev,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Efgen,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Efgen,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+primorial,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+primorial,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+rockaustin2k6,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+rockaustin2k6,Energy exchange,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+rockaustin2k6,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+Eugene,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Eugene,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Doratch,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ACube,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ACube,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ACube,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+Zhuravlyov.A,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+poao899,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+poao899,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+blueicey,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+fushar,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+fushar,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+mylyanyk.ivan,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+mylyanyk.ivan,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+baukaman,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+baukaman,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+UJ643,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+UJ643,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Elim,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Elim,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+pius_88,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+pius_88,Energy exchange,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+self_healing,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+self_healing,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ZzzZ,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+kuzmichev_dima,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+kuzmichev_dima,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+kuzmichev_dima,Synchrophasotron,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+codecrux,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+codecrux,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+rajatag12,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+rajatag12,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Timus,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Timus,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+iensen,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+iensen,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+twice_chq,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+twice_chq,Energy exchange,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+sas4eka,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+masha,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+masha,Energy exchange,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+egorka,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+kamranm,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+kamranm,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+delta_4d,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+delta_4d,Energy exchange,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Connector,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Connector,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Connector,Contact,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Padme,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Padme,Energy exchange,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,binary search
+DimaPhil,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+DimaPhil,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ahm.kam_92,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ahm.kam_92,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ahm.kam_92,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+ant.ermilov,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ant.ermilov,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+oleg.ivye,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Luzan,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Luzan,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+dalex,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+dalex,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+trukanduk,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+trukanduk,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+kyo_key,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+kyo_key,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+kyo_key,Half-decay tree,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+LayG,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+MakTraDe,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+MakTraDe,Energy exchange,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,binary search
+mohammad.mahmoodi,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+Spacejoker,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Spacejoker,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Spacejoker,Synchrophasotron,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,brute force
+piro1996,Irrational problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+tehqin,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+tehqin,Energy exchange,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+flowlight,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+flowlight,Energy exchange,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+sementry,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+sementry,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+whhone,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+whhone,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+whhone,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+ybc_c,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+cs_hamako,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+cs_hamako,Energy exchange,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,binary search
+dharusimu,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Mata,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Mata,Energy exchange,1,B,0,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,binary search
+biochem_fan,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+biochem_fan,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+biochem_fan,Half-decay tree,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+topsky,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+topsky,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Kpy,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+asami_KA,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+asami_KA,Energy exchange,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+KrK,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+KrK,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+KrK,Synchrophasotron,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+Darkhan,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Darkhan,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+litwin,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+litwin,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+litwin,Synchrophasotron,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,brute force
+ChamChi,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ChamChi,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+TajniAgent,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Urbanowicz,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+lightning_31,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+lightning_31,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+lightning_31,Synchrophasotron,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+CtrlAlt,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+CtrlAlt,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+notEphim,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+notEphim,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Medium,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Medium,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+jmichalc,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+jmichalc,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+rembocoder,Irrational problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+rembocoder,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+rembocoder,Half-decay tree,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+sebastian_g,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Erop,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Erop,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Erop,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+VUAcoder,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+VUAcoder,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+DmitriyH,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+DmitriyH,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+delta,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+delta,Energy exchange,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Witalia,Irrational problem,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+kormyshov,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+kormyshov,Energy exchange,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+Foton,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Foton,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+antonio081014,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+antonio081014,Energy exchange,0,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,binary search
+at1,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+at1,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+JalbaRu,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+JalbaRu,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Perlik,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Hadi_Asiaie,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Hadi_Asiaie,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Hadi_Asiaie,Synchrophasotron,1,C,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,brute force
+tetsuma,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+tetsuma,Energy exchange,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,binary search
+Jami_CSEDU,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Jami_CSEDU,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+intsashka,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+matsu4512,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+matsu4512,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+ahmed.farag1111,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+sazzad,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+sazzad,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Slamur,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+Slamur,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+macs,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+macs,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ATrosinenko,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ATrosinenko,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Enigma,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Enigma,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+prpr,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+prpr,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+shohag,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+shohag,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Gassa,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Gassa,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Gassa,Half-decay tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+HJWAJ,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+HJWAJ,Energy exchange,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,2,0,0,0,binary search
+grey_wind,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+grey_wind,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+yuscvscv,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+yuscvscv,Energy exchange,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Cyin,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Cyin,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+SobolS,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+foxermen,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+anastasov.bg,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+anastasov.bg,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+anastasov.bg,Synchrophasotron,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Templar,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+rofi,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+rofi,Energy exchange,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+kirakira,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+kirakira,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Lyova,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Lyova,Energy exchange,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+zeliboba,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+zeliboba,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+zeliboba,Half-decay tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+chengsir,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+chengsir,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+hanhan0912,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+hanhan0912,Energy exchange,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+soul_departed,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+soul_departed,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+MSPA,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+MSPA,Energy exchange,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+HeVy,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+pva701,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+vprakash.gayasen,Irrational problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+vprakash.gayasen,Energy exchange,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,binary search
+mohamed.gaber,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+mohamed.gaber,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+alexlz661,Irrational problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+alexlz661,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+KOKS,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+dimuthu,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+dimuthu,Energy exchange,1,B,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,binary search
+kzr.buet08,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+kzr.buet08,Energy exchange,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+buaamm,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+buaamm,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+hirosegolf,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+hirosegolf,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+nagochan,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+nagochan,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Anton92nd,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Anton92nd,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+VArt,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+VArt,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+muntasir,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+muntasir,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+krolbajtocji,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+krolbajtocji,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+krolbajtocji,Half-decay tree,1,D,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+your_conscience,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+your_conscience,Energy exchange,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Salat,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+manjunath426jc,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+manjunath426jc,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+alpc92,Irrational problem,0,A,1,0,0,1,0,5,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+alpc92,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Ahmed_Salama,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Ahmed_Salama,Energy exchange,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,binary search
+free999,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+free999,Energy exchange,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,binary search
+pavlin,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+pavlin,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+shtorm941,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ahmedsaad,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ahmedsaad,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+mirsaid_mir,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+mirsaid_mir,Energy exchange,1,B,0,0,0,1,0,10,0,0,0,0,0,0,0,0,0,0,0,binary search
+Petruchcho,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Petruchcho,Contact,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+darkl0rd,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+darkl0rd,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ardiyu07,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Serg,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Jason,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+fzvinicius,Irrational problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+mongolrgata,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+mongolrgata,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+NuM,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+NuM,Energy exchange,1,B,0,0,0,0,0,5,0,2,0,0,0,0,0,0,0,0,0,binary search
+eng.heshamali,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+eng.heshamali,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+miaout17,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+miaout17,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+miaout17,Half-decay tree,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+fura2,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+fura2,Energy exchange,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+masibonge,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+aumy,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+aumy,Energy exchange,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+GeKa,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+GeKa,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ErzhanDS,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ErzhanDS,Energy exchange,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+ameydhar,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ameydhar,Energy exchange,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+JiangYouNan,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+JiangYouNan,Energy exchange,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+logic_max,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+logic_max,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+weiqi,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+weiqi,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+nfs420,Irrational problem,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+gamegame151,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+gamegame151,Energy exchange,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Andronnix,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+IlyaLos,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+IlyaLos,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,binary search
+Toj_yuan1028,Irrational problem,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Toj_yuan1028,Energy exchange,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+timgaripov,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+timgaripov,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+yonjue,Irrational problem,1,A,1,0,0,2,1,4,0,1,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+nokia,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+testmhigashi,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+testmhigashi,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+TFTM,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ankit_shukla,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Melamori,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Melamori,Energy exchange,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+Krh2011,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Krh2011,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Krh2011,Synchrophasotron,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,2,0,0,brute force
+mrunique.01,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Eng.Dalia,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Shady,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Shady,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Commandos,Irrational problem,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Commandos,Energy exchange,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+fz1989,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+fz1989,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+MOHRE,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ksjuchi,Irrational problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ksjuchi,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ashi009,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ashi009,Energy exchange,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,binary search
+ashi009,Half-decay tree,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+Jorge_Tele,Irrational problem,1,A,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Jorge_Tele,Energy exchange,1,B,0,0,0,0,0,6,0,4,0,0,0,0,0,0,0,0,0,binary search
+Sultan,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+morteza.keshtkaran,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Nicolai_Kovrov,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Nicolai_Kovrov,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+piotr.kukla,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+piotr.kukla,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+GopCoder,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+GopCoder,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+myltik,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+myltik,Energy exchange,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+dhruv571,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+eater,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+eater,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+QZAR,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+evg-zhabotinsky,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+evg-zhabotinsky,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+evg-zhabotinsky,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+KenjiH,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+KenjiH,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+tigvarts,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+tigvarts,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+tigvarts,Half-decay tree,1,D,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,"data structures,divide and conquer,dp,probabilities"
+yogesh_sharma,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+yogesh_sharma,Energy exchange,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+a_bekzat,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+yuta1024,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+jackiesteed,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+jackiesteed,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+fookwood,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+liptonshmidt,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+liptonshmidt,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+wangzirui,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+wangzirui,Energy exchange,1,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+zunzun,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+timmy,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+timmy,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+NotImplemented,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+NotImplemented,Energy exchange,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,binary search
+enots,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Xerxes,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Xerxes,Energy exchange,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,binary search
+Nezquick,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Nezquick,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+AmazingCaddy,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+AmazingCaddy,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+kcany,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+kcany,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Nil_ct,Irrational problem,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+Nil_ct,Energy exchange,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,binary search
+choice,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+choice,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+manukranthk,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+manukranthk,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+e.mohamedabdelsalam,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+agrigoroi,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+agrigoroi,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+leijunkun,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Kenfly,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Kenfly,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+magdi,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+magdi,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+pratikmoona,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+pratikmoona,Energy exchange,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+pratikmoona,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+4ybakut2004,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Nox,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Nox,Energy exchange,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+BPA,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+fengzlzl,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+fengzlzl,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Shafaet,Irrational problem,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+fR0DDY,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+fR0DDY,Energy exchange,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+Rosetta,Irrational problem,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Fynn,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ibra,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ibra,Energy exchange,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ibra,Synchrophasotron,1,C,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,brute force
+Surogatov_S,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+TWiST,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+Monmoy,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+VorobeY1326,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+VorobeY1326,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Omar.Darwish,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Omar.Darwish,Energy exchange,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Megabyte,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Megabyte,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+alexej,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+alexej,Energy exchange,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Creed,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+Creed,Energy exchange,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+yasulib,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+yasulib,Energy exchange,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+MidNight,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+MidNight,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+camper,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Ever1989,Irrational problem,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+Ever1989,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+d1xlord,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+d1xlord,Energy exchange,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+yuanshi,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+yuanshi,Energy exchange,1,B,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+htrinh,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+htrinh,Energy exchange,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+mehas,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+mehas,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+mehas,Half-decay tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+marque,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+b.moogii09,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+yuanhang,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+yuanhang,Energy exchange,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,binary search
+hemant_baid,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+hemant_baid,Energy exchange,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+yuuki3655,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+yuuki3655,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Amrodis,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Amrodis,Energy exchange,1,B,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,binary search
+Hamzawy,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Hamzawy,Energy exchange,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Hondely,Irrational problem,1,A,1,0,0,2,0,5,0,1,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+okazaki,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+okazaki,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+kit1980,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+kit1980,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+kovi,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+akazz,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+akazz,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+mvc.c,Irrational problem,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+openxxx,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+openxxx,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+HwangScornedAsianTeams,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+HwangScornedAsianTeams,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Imba,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Imba,Synchrophasotron,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Imba,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+GamePr0graameR,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+pratvick,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+pcyu16,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+pcyu16,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+sarah.7394,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ishandutta2007,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+cavalier,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+cavalier,Energy exchange,1,B,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,binary search
+shhdup,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+shhdup,Energy exchange,1,B,0,0,0,0,2,7,0,0,0,0,0,0,0,0,0,0,0,binary search
+Shapo,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Shapo,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+KTY,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Anurag,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+bubnov,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+bubnov,Energy exchange,1,B,1,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,binary search
+pulsar314,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+segrey,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Isachenko,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Isachenko,Energy exchange,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+zhuraulevich,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+izhari,Irrational problem,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+Isa_rentacs,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Isa_rentacs,Energy exchange,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+BIT,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+BIT,Half-decay tree,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+ArtemKadeev,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ArtemKadeev,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ArtemKadeev,Half-decay tree,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+Qili,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+mbllllohok,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+mbllllohok,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+kvm,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+pumpkin,Irrational problem,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+pumpkin,Energy exchange,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,binary search
+death.night.sv,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+death.night.sv,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+LALAqq,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+LALAqq,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,binary search
+max777alex,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+max777alex,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Wahba,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+omir,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+SmartCoder,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Lmshonok,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+Lmshonok,Energy exchange,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+Belbesy,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Belbesy,Energy exchange,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+muhammad,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+muhammad,Energy exchange,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,binary search
+dmitry.uvarov,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+dmitry.uvarov,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+AVoz,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Miron95,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Miron95,Contact,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+frp,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+upoma,Irrational problem,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,2,0,0,0,"implementation,number theory"
+ald,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ald,Energy exchange,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+ekrilov92,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+DanDrago,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+DanDrago,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+sayefsakin,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+jimon,Irrational problem,1,A,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+jimon,Energy exchange,1,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+Tariqul,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Tariqul,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Kenny_HORROR,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Kenny_HORROR,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Kenny_HORROR,Half-decay tree,1,D,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+huangc,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+huangc,Energy exchange,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+M.Gaber,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+M.Gaber,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Shlakoblock,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Shlakoblock,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+minhtien_142,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+icyrhyme,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+icyrhyme,Energy exchange,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,binary search
+shou,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+shou,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+am-real,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+am-real,Energy exchange,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,binary search
+nise_nabe,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+gemu,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+gemu,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+RAF,Irrational problem,1,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+grizz,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ksh78,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ksh78,Energy exchange,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+ahyangyi,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ahyangyi,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ahyangyi,Synchrophasotron,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ahyangyi,Half-decay tree,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+amiOachi,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+amiOachi,Energy exchange,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+tmiyamon,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+tmiyamon,Energy exchange,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+DarkYoshi,Irrational problem,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+DarkYoshi,Energy exchange,0,B,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,binary search
+alvelcom,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+alvelcom,Energy exchange,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+sPplash,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Scientist1642,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Scientist1642,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+xiejunjun,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+xiejunjun,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Sanzee,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+a286729485,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+a286729485,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+aleksandr_gusarov,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Daiki_Ando,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Daiki_Ando,Energy exchange,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+ecjtuyizhenmi,Irrational problem,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Adai_is,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+TMandzu,Irrational problem,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+TMandzu,Energy exchange,1,B,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+tk_,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+tk_,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+mouse,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+mouse,Energy exchange,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+gravity,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+palcuiealex,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+palcuiealex,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+xdefedx,Irrational problem,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+xdefedx,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+dani93.f,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+dani93.f,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+zzsy_fox,Irrational problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+zzsy_fox,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+BenderRodriges,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ACfighter,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+emli,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+ania,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ania,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ania,Half-decay tree,1,D,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+Alexander-1709,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+igkhramtsov,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+igkhramtsov,Energy exchange,0,B,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,binary search
+LBoy,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+LBoy,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+dipto,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+Roowe,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Roowe,Energy exchange,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+wangshaobiao,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+wangshaobiao,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+julsa,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+julsa,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+bondoc73,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+UminchuR,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+UminchuR,Energy exchange,1,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+GoomboCode,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+GoomboCode,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+GoomboCode,Contact,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+titanik,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+titanik,Contact,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+abc235153452,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+abc235153452,Energy exchange,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,binary search
+nerve,Irrational problem,1,A,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+nerve,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Mike_K,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+berden,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+berden,Energy exchange,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+hardyyeh,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+hardyyeh,Energy exchange,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Roma-PKTL,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Roma-PKTL,Energy exchange,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+fremn,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+fremn,Energy exchange,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+khanaleemullah,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+kaynat,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+kaynat,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+i_love_daniel,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+kaifonaft,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+kaifonaft,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Anton_Rodick,Irrational problem,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+citxx,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+citxx,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Simeon,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ankulgarg,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ankulgarg,Energy exchange,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+nadya,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+sema08,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Algorithm,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+wpdvwa,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+cocoatomo,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+kingoduck,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+kingoduck,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+chenpengyu,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+chenpengyu,Energy exchange,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+Petrigr,Irrational problem,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Petrigr,Energy exchange,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Shark1919,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+mihaildemidoff,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+mihaildemidoff,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+flyvan,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+flyvan,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+1010,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+1010,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+feelTheForce,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Berzhik,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+zjy3186511,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+shakil,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+shakil,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+youdianlei,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+youdianlei,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Cenadar,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Cenadar,Energy exchange,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+jinchunpeng,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+jinchunpeng,Energy exchange,1,B,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+arakul163,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+cPlusPlus,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+alyaxey,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+alyaxey,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Ahmed.Ibrahem,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+hhddff,Energy exchange,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+hhddff,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+limiTed,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+limiTed,Energy exchange,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Mazeev,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+lnman,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Berestinsky,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Berestinsky,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Berestinsky,Half-decay tree,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+gondas,Irrational problem,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+PAG,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Djteam,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ruben,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,number theory"
+ruben,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ruben,Synchrophasotron,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Denor,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+acmwe,Irrational problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+rajib,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+S030902228,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+chorui12,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Istari,Irrational problem,0,A,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+fsb4000,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+vmgurov,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+vmgurov,Energy exchange,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+251083874,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+251083874,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ckl,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+pisarik,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+narik,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+luowenfeng,Irrational problem,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+midul,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+svrsvr,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+svrsvr,Energy exchange,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,binary search
+cupo_O,Irrational problem,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+rishabhm,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+rishabhm,Energy exchange,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+zjsxzy,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+lame,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+selfcheck,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+t0il3t_s0ap,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+lweibin3,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+lweibin3,Energy exchange,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,binary search
+otero1991,Irrational problem,1,A,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+idk_any_more,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Oily,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Krzhemelik,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+yimao,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Vitaly,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Simpfy,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+z-ghost,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+z-ghost,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+eisenheim,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+eisenheim,Energy exchange,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+EvAn,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+CKhye,Irrational problem,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+CKhye,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+husseincoder,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+xor1005,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+mashimaru,Irrational problem,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Gandzy,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+nitesh_nsit,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+nitesh_nsit,Half-decay tree,1,D,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,divide and conquer,dp,probabilities"
+abhiranjan,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+abhiranjan,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+pioneer,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+aktec,Irrational problem,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+xth1,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+dango3334,Irrational problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+paulus,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+punkant,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+conzha,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+conzha,Energy exchange,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,binary search
+atishayjain25,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+omit,Irrational problem,0,A,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+nurdaulet,Irrational problem,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+eng.MR,Irrational problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+mazikku,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ACKOKO,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ulyanick,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+KennY,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ruban,Irrational problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ruban,Energy exchange,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Kuldeep,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Kuldeep,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Imran_Bin_Azad,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+m_a_s_91,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Flynn,Irrational problem,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Flynn,Energy exchange,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Aslan.m,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Aslan.m,Energy exchange,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+.C0D3R,Irrational problem,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Sigizmynd,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+labi,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+liyuxing1990910,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+uditiiita,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+uditiiita,Energy exchange,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+Morozko,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+ilovechina,Energy exchange,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+ilovechina,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+codecoder,Energy exchange,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+codecoder,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Igorsheiko,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+altabas,Energy exchange,0,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,binary search
+altabas,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Polly007,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Bishnoi,Irrational problem,1,A,1,0,0,0,2,1,0,0,0,1,0,0,0,0,0,0,0,"implementation,number theory"
+DarkMit,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+iris,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+pavankrish1,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+tisha,Irrational problem,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+thaisen,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+SKIPPER,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+tygrysek,Energy exchange,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+tygrysek,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+djjoleM,Irrational problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+money,Irrational problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,number theory"
+BrightDays,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+mishanay,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Keerill,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+raza,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Yousef_Salama,Irrational problem,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+pichulia,Energy exchange,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+pichulia,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+deadman_22,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+islamhamdi,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+newx,Irrational problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+nox757,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+liujian727276959,Irrational problem,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+grigory51,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+00000,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+Petrushenko,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+vfix,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+robine,Irrational problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+pishu,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+duyonghui,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+BaturaDima,Energy exchange,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+BaturaDima,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+l0nwlf,Energy exchange,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,binary search
+boutcha,Irrational problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,number theory"
+vinayjulme,Contact,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry

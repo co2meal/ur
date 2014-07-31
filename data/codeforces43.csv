@@ -1,0 +1,1266 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+Mimino,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mimino,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Mimino,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mimino,Journey,0,D,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Mimino,Race,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+bubnov,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+bubnov,Letter,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+bubnov,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+bubnov,Journey,1,D,1,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+kyuridenamida,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kyuridenamida,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kyuridenamida,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kyuridenamida,Journey,1,D,1,0,0,0,0,2,2,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+pavel.chadnov,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pavel.chadnov,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+pavel.chadnov,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pavel.chadnov,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+5921.701,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+5921.701,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+5921.701,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+5921.701,Journey,1,D,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+St.satzh,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+St.satzh,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+St.satzh,Lucky Tickets,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+St.satzh,Journey,1,D,1,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,"brute force,constructive algorithms,implementation"
+St.satzh,Race,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+DanDrago,Football,0,A,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,strings
+DanDrago,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+DanDrago,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DanDrago,Journey,1,D,0,0,0,0,0,0,4,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Respect2D,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Respect2D,Letter,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Respect2D,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+rexim,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+rexim,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,strings"
+rexim,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Pro_Lamer,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Pro_Lamer,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Pro_Lamer,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Pro_Lamer,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+supo,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+supo,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+supo,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+supo,Race,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+supo,Journey,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+zlatkov,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+zlatkov,Letter,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+zlatkov,Lucky Tickets,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+zlatkov,Journey,0,D,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+dani93.f,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+dani93.f,Letter,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+dani93.f,Lucky Tickets,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+dani93.f,Journey,1,D,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Gantz,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Gantz,Letter,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Gantz,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Steelrat,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Steelrat,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Steelrat,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Steelrat,Journey,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+FurkoRoman,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+FurkoRoman,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+FurkoRoman,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+FurkoRoman,Journey,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Kharybin,Football,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Kharybin,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Kharybin,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kharybin,Journey,1,D,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+BrightDays,Football,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+BrightDays,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+BrightDays,Lucky Tickets,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+BrightDays,Journey,0,D,0,0,0,0,1,0,2,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+pva701,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pva701,Letter,0,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+pva701,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pva701,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Icemore,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Icemore,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Icemore,Journey,1,D,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Icemore,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ant.ermilov,Football,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ant.ermilov,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ant.ermilov,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ant.ermilov,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Palci-Udalci,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Palci-Udalci,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Palci-Udalci,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nikhil,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Nikhil,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Nikhil,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nikhil,Journey,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Nikhil,Race,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+Tatyana_Petrashko,Football,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Tatyana_Petrashko,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Tatyana_Petrashko,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Tatyana_Petrashko,Journey,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"brute force,constructive algorithms,implementation"
+thanhsonzorro,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+thanhsonzorro,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+thanhsonzorro,Lucky Tickets,0,C,1,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+thanhsonzorro,Journey,1,D,1,0,0,1,0,2,3,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+shibly,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+shibly,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+shibly,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dolphin,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Dolphin,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Dolphin,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dolphin,Journey,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"brute force,constructive algorithms,implementation"
+Dolphin,Race,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+megachuhancer,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+megachuhancer,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+megachuhancer,Journey,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+megachuhancer,Lucky Tickets,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+Kiberbit,Football,0,A,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Kiberbit,Letter,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Kiberbit,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kiberbit,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+m.sabouri,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+m.sabouri,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+m.sabouri,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+m.sabouri,Journey,1,D,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+MultiEnot,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+MultiEnot,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+MultiEnot,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MultiEnot,Journey,1,D,1,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,"brute force,constructive algorithms,implementation"
+Fei,Football,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,strings
+Fei,Letter,0,B,0,0,0,3,0,0,0,0,0,0,0,0,0,2,0,0,0,"implementation,strings"
+Perlik,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Perlik,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Perlik,Lucky Tickets,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+Perlik,Journey,0,D,0,0,0,0,0,1,2,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+valikluks1995,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+valikluks1995,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+valikluks1995,Lucky Tickets,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+valikluks1995,Journey,1,D,1,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+user002,Football,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+user002,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+user002,Lucky Tickets,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+user002,Journey,1,D,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+xiao_wu,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+xiao_wu,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+xiao_wu,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xiao_wu,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,"brute force,constructive algorithms,implementation"
+JackSparrow,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+JackSparrow,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+JackSparrow,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+JackSparrow,Journey,1,D,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+none,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+none,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+none,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+none,Journey,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+anton.akhi,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+anton.akhi,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+anton.akhi,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+anton.akhi,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+anton.akhi,Race,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+pavlin,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pavlin,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+pavlin,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pavlin,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Denor,Football,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Denor,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Denor,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Denor,Journey,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+BIV,Football,0,A,1,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,strings
+BIV,Letter,0,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+BIV,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+imslavko,Football,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+imslavko,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+imslavko,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+imslavko,Journey,1,D,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+robytzza,Football,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+robytzza,Letter,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+robytzza,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+robytzza,Journey,0,D,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+robytzza,Race,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+Xerxes,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Xerxes,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Xerxes,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Xerxes,Journey,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+ahmadabdolkader,Football,0,A,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,strings
+ahmadabdolkader,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ahmadabdolkader,Lucky Tickets,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sweetsc,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sweetsc,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+sweetsc,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sweetsc,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+sweetsc,Race,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+L.I.S.,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+L.I.S.,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+L.I.S.,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+L.I.S.,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Spacejoker,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Spacejoker,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Spacejoker,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+Spacejoker,Race,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+Spacejoker,Journey,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Roman-uragan,Football,0,A,1,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,strings
+Roman-uragan,Letter,1,B,1,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Roman-uragan,Lucky Tickets,1,C,0,0,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,greedy
+Malinovsky239,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Malinovsky239,Letter,0,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Malinovsky239,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Malinovsky239,Journey,1,D,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+undefined_thimpu,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+undefined_thimpu,Letter,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+undefined_thimpu,Lucky Tickets,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+freshman,Football,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+freshman,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+freshman,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KTY,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+dmitry.uvarov,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+dmitry.uvarov,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+dmitry.uvarov,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dmitry.uvarov,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+dmitry.uvarov,Race,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+Anton_Rodick,Football,0,A,1,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,strings
+Anton_Rodick,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Anton_Rodick,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Anton_Rodick,Journey,0,D,0,0,0,0,0,1,2,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+cyx5320856,Football,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+cyx5320856,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+cyx5320856,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cyx5320856,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Warxezz,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Warxezz,Letter,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Warxezz,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Warxezz,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+magzhan,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+magzhan,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+magzhan,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+magzhan,Journey,1,D,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+timurtibeyev,Football,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+timurtibeyev,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+timurtibeyev,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+timurtibeyev,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+muriloufg,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+muriloufg,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+muriloufg,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+muriloufg,Journey,1,D,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Dgut,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Dgut,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Dgut,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dgut,Journey,1,D,0,0,0,0,1,1,1,4,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+dronoff,Football,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+dronoff,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+dronoff,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dronoff,Journey,1,D,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+YeeeeHa,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+YeeeeHa,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+latvian,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+latvian,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+latvian,Lucky Tickets,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+Tahlil,Football,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Tahlil,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Tahlil,Lucky Tickets,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Tahlil,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+rudradevbasak,Football,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+rudradevbasak,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+rudradevbasak,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rudradevbasak,Journey,0,D,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+rudradevbasak,Race,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+mchweb,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mchweb,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+mchweb,Lucky Tickets,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+BogdanBugaev,Football,0,A,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,strings
+BogdanBugaev,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+BogdanBugaev,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+BogdanBugaev,Journey,1,D,0,0,0,0,0,1,2,1,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+xcr,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+xcr,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+xcr,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xcr,Journey,1,D,0,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+imbd,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+imbd,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+imbd,Lucky Tickets,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+almaz_kh,Football,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+almaz_kh,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+almaz_kh,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Rasifiel,Football,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Rasifiel,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Rasifiel,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Rasifiel,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Rasifiel,Race,0,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+acerwei,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+acerwei,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+acerwei,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+acerwei,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+acerwei,Race,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+Justforfun,Football,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+Justforfun,Letter,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Justforfun,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Justforfun,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,"brute force,constructive algorithms,implementation"
+Alexander-1709,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Alexander-1709,Letter,0,B,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Alexander-1709,Lucky Tickets,1,C,1,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ifrit,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ifrit,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ifrit,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ifrit,Journey,1,D,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+statusreport,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+statusreport,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+statusreport,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+statusreport,Journey,1,D,0,0,0,0,0,0,4,0,0,0,0,0,0,2,0,0,0,"brute force,constructive algorithms,implementation"
+akakiy,Football,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+akakiy,Letter,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+akakiy,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Waiter,Football,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Waiter,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Waiter,Lucky Tickets,1,C,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+LongCtrl,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+LongCtrl,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+LongCtrl,Lucky Tickets,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+LongCtrl,Journey,0,D,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Timur_Keks,Football,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Timur_Keks,Letter,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Timur_Keks,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Timur_Keks,Journey,1,D,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Timur_Keks,Race,0,E,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+Gelka,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Gelka,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Gelka,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gelka,Journey,1,D,1,0,0,0,0,0,3,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+aura,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+aura,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+aura,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+aura,Journey,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"brute force,constructive algorithms,implementation"
+aura,Race,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+jyliu27,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+jyliu27,Letter,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Saken,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Saken,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Saken,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Saken,Journey,1,D,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+msh_shiplu,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+msh_shiplu,Letter,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+msh_shiplu,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+msh_shiplu,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Andronnix,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Andronnix,Letter,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Andronnix,Lucky Tickets,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Empty,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Empty,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Empty,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Empty,Journey,1,D,0,0,0,0,0,2,3,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Mex-Mans,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mex-Mans,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Mex-Mans,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mex-Mans,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+mousavi.uk,Football,0,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,strings
+mousavi.uk,Lucky Tickets,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+mousavi.uk,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Roschin,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Roschin,Letter,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Roschin,Lucky Tickets,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Roschin,Journey,0,D,0,0,0,0,0,2,4,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+IlyaLos,Football,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+IlyaLos,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+IlyaLos,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+IlyaLos,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+aleksandr_gusarov,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+aleksandr_gusarov,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+napst101r,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+napst101r,Letter,0,B,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+napst101r,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+onlyillusion,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+onlyillusion,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+onlyillusion,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+onlyillusion,Journey,1,D,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Salat,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Salat,Letter,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Salat,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Salat,Journey,1,D,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+pius_88,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pius_88,Letter,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+pius_88,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pius_88,Journey,1,D,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+El_SiD,Football,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+El_SiD,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+El_SiD,Lucky Tickets,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+El_SiD,Journey,0,D,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+watson,Football,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+watson,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+watson,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+watson,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+kirill,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kirill,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kirill,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kirill,Journey,1,D,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Fynn,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Fynn,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Fynn,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yaoshimax,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+yaoshimax,Letter,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+yaoshimax,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yaoshimax,Journey,1,D,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+LinKin,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+LinKin,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+LinKin,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+LinKin,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"brute force,constructive algorithms,implementation"
+DarkMit,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+DarkMit,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+DarkMit,Lucky Tickets,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+Dias,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Dias,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dias,Letter,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+xiaoyoulei,Football,0,A,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+xiaoyoulei,Letter,0,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+xiaoyoulei,Lucky Tickets,0,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xiaoyoulei,Journey,1,D,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+xiaoyoulei,Race,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+Nicolai_Kovrov,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Nicolai_Kovrov,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Nicolai_Kovrov,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nicolai_Kovrov,Journey,1,D,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+yazh,Football,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+yazh,Letter,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+svnlog,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+svnlog,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+svnlog,Lucky Tickets,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+svnlog,Journey,1,D,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Pashcal,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Pashcal,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Pashcal,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Pashcal,Journey,1,D,0,0,0,0,0,3,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+middle_impulse,Football,0,A,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,strings
+middle_impulse,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,strings"
+middle_impulse,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+middle_impulse,Journey,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"brute force,constructive algorithms,implementation"
+Void,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Void,Lucky Tickets,1,C,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Void,Letter,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+peety12,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+peety12,Letter,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+peety12,Lucky Tickets,1,C,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,greedy
+ramywafa,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ramywafa,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ramywafa,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ramywafa,Journey,1,D,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+mystery_boy,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mystery_boy,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+mystery_boy,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mystery_boy,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+taichi,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+taichi,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+taichi,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+taichi,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+KungA,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+KungA,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+KungA,Lucky Tickets,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+bigbrain,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+bigbrain,Letter,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+bigbrain,Lucky Tickets,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+bigbrain,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+cashoid,Football,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+cashoid,Letter,0,B,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+cashoid,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cashoid,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Zeus,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Zeus,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Zeus,Lucky Tickets,1,C,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Zeus,Journey,0,D,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+HOYOHOYO,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+HOYOHOYO,Letter,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+HOYOHOYO,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+chitose,Football,1,A,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,strings
+chitose,Letter,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+chitose,Lucky Tickets,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+ViruZ,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ViruZ,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ViruZ,Journey,1,D,1,0,0,0,3,0,7,0,1,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+ViruZ,Lucky Tickets,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+magdi,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+magdi,Letter,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+magdi,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nivikz,Football,0,A,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Nivikz,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Nivikz,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kari,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kari,Letter,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kari,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kari,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"brute force,constructive algorithms,implementation"
+Padme,Football,0,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,strings
+Padme,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Padme,Lucky Tickets,1,C,0,0,0,0,0,4,0,2,0,0,0,0,0,1,0,0,0,greedy
+Padme,Journey,0,D,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+sune2,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sune2,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+sune2,Lucky Tickets,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+C.sis,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+C.sis,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+C.sis,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+C.sis,Journey,1,D,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+C.sis,Race,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+Nightmie,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Nightmie,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Nightmie,Lucky Tickets,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nightmie,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,"brute force,constructive algorithms,implementation"
+Nightmie,Race,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+tatsuyafw,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tatsuyafw,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+tatsuyafw,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tatsuyafw,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+tl268,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tl268,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+tl268,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+tl268,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+logN,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+logN,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+logN,Lucky Tickets,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+logN,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+tohuuquan,Football,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+tohuuquan,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+tohuuquan,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tohuuquan,Journey,1,D,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+bmsujon,Football,1,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,strings
+bmsujon,Lucky Tickets,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+bmsujon,Journey,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+bmsujon,Letter,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+4ybakut2004,Football,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,strings
+4ybakut2004,Letter,0,B,1,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,"implementation,strings"
+4ybakut2004,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+funny-shmunny,Football,0,A,1,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,strings
+funny-shmunny,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,strings"
+funny-shmunny,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+funny-shmunny,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+saodem74,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+saodem74,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+saodem74,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ondrah,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ondrah,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ondrah,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ondrah,Journey,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+PAG,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+PAG,Letter,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+PAG,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+PAG,Journey,1,D,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Abulkhair,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Abulkhair,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Abulkhair,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Abulkhair,Journey,1,D,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+adam_,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+adam_,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+adam_,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+adam_,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,"brute force,constructive algorithms,implementation"
+adam_,Race,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+Algorithm,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Algorithm,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Algorithm,Lucky Tickets,1,C,1,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Algorithm,Journey,1,D,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+pheonix,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pheonix,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+pheonix,Lucky Tickets,1,C,1,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+pheonix,Race,1,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+aatemplar,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+aatemplar,Letter,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+aatemplar,Lucky Tickets,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Michael_Spitzin,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Michael_Spitzin,Letter,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Michael_Spitzin,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Michael_Spitzin,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,"brute force,constructive algorithms,implementation"
+victoryland,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+victoryland,Letter,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+victoryland,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+victoryland,Journey,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+kioa,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+kioa,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kioa,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kioa,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+wangshaobiao,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+wangshaobiao,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+wangshaobiao,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+wangshaobiao,Journey,1,D,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+betterbearat,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+betterbearat,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+betterbearat,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+betterbearat,Journey,1,D,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+PavelParhomenko,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+PavelParhomenko,Letter,1,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+PavelParhomenko,Lucky Tickets,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Bearjie,Football,0,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,strings
+Bearjie,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Bearjie,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Bearjie,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Quazar,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Quazar,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Quazar,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Quazar,Journey,1,D,0,0,0,0,0,4,2,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Quazar,Race,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+kurakun,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+kurakun,Letter,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"implementation,strings"
+kurakun,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kurakun,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+England,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+England,Letter,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+England,Lucky Tickets,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ankit1990,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ankit1990,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ankit1990,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ankit1990,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Andark,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Andark,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Andark,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Andark,Journey,1,D,1,0,0,0,0,1,4,0,0,0,0,0,0,2,0,0,0,"brute force,constructive algorithms,implementation"
+delta,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+delta,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+delta,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+delta,Journey,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+galiver,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+galiver,Letter,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+galiver,Lucky Tickets,0,C,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,greedy
+Verdona0,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Verdona0,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Verdona0,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Verdona0,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+An4ik.D,Football,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+An4ik.D,Letter,0,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+An4ik.D,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+An4ik.D,Journey,1,D,1,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,"brute force,constructive algorithms,implementation"
+500xhp,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+500xhp,Letter,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+500xhp,Lucky Tickets,0,C,1,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+500xhp,Journey,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Ress,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Ress,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Ress,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ress,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+master_j,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+master_j,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+master_j,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fahad.sust,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+fahad.sust,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+fahad.sust,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+BenderRodriges,Football,0,A,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+BenderRodriges,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+BenderRodriges,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+BenderRodriges,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+meparter,Football,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+meparter,Letter,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+meparter,Lucky Tickets,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+prizrakc,Football,0,A,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,strings
+prizrakc,Letter,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+bohuss,Lucky Tickets,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,greedy
+bohuss,Letter,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+bohuss,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+bohuss,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+ardmn,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ardmn,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+WAVwind,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+WAVwind,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+WAVwind,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+WAVwind,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+WAVwind,Race,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+Hapuk,Football,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Hapuk,Letter,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Hapuk,Lucky Tickets,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Simeon,Football,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+Simeon,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Simeon,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+savant.2020,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+savant.2020,Letter,0,B,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+savant.2020,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sakyalol,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sakyalol,Letter,0,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+sakyalol,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sakyalol,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+NoobOK,Football,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+NoobOK,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NoobOK,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+TarifEzaz,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+TarifEzaz,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+TarifEzaz,Journey,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+blacksam3434,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+blacksam3434,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+blacksam3434,Lucky Tickets,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+blacksam3434,Journey,1,D,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Diman_yoyo,Football,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+Diman_yoyo,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Diman_yoyo,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Diman_yoyo,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+nayimsust,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+nayimsust,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+nayimsust,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Beast,Football,0,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,strings
+Beast,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Beast,Lucky Tickets,1,C,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,greedy
+Beast,Journey,0,D,0,0,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Shidfar,Football,0,A,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Shidfar,Letter,1,B,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Shidfar,Journey,1,D,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+hajan17,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+hajan17,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+hajan17,Lucky Tickets,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hajan17,Journey,1,D,0,0,0,0,0,2,2,1,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+akimonoiryou,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+akimonoiryou,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+akimonoiryou,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+akimonoiryou,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Brambar,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Brambar,Letter,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Brambar,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Brambar,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+katygolova,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+katygolova,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+katygolova,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+katygolova,Journey,1,D,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+ICOA,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ICOA,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ICOA,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ICOA,Journey,1,D,0,0,0,0,0,1,5,1,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Zugzug,Football,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+Zugzug,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Zugzug,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Atiq,Football,0,A,0,0,0,0,0,8,2,0,0,0,0,0,0,0,0,0,0,strings
+Atiq,Letter,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+tmiyamon,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tmiyamon,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+tmiyamon,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+avriskin,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+avriskin,Letter,0,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+avriskin,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+avriskin,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Ragvena,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Ragvena,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Ragvena,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rob.kh,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+rob.kh,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+rob.kh,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rob.kh,Journey,1,D,1,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+BMSmile,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+BMSmile,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+mbfilho91,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mbfilho91,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+mbfilho91,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mbfilho91,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"brute force,constructive algorithms,implementation"
+sydy,Football,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,strings
+sydy,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+sydy,Lucky Tickets,1,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,greedy
+sydy,Journey,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,"brute force,constructive algorithms,implementation"
+kunigami,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kunigami,Letter,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kunigami,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kunigami,Journey,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Deryugin,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Deryugin,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+htrinh,Football,0,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,strings
+htrinh,Letter,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+htrinh,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+morojenoe,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+morojenoe,Letter,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+morojenoe,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+morojenoe,Journey,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+shnell,Football,0,A,0,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,strings
+shnell,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shnell,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+shnell,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Zhandos,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Zhandos,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Zhandos,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Zhandos,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Tariqul,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Tariqul,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Tariqul,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Tariqul,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Opu,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Opu,Letter,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+skull,Football,0,A,1,0,0,1,0,0,6,0,0,0,0,0,0,0,0,0,0,strings
+skull,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+skull,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+skull,Journey,1,D,0,0,0,0,0,1,4,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+skull,Race,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+sandro_barna,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sandro_barna,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+sandro_barna,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sandro_barna,Journey,1,D,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Akramjon,Football,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Akramjon,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Akramjon,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Akramjon,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+dbalchev,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+dbalchev,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+dbalchev,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dbalchev,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"brute force,constructive algorithms,implementation"
+Mars314,Football,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+keqh,Football,0,A,1,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,strings
+keqh,Letter,1,B,1,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+keqh,Journey,1,D,0,0,0,1,0,0,4,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+keqh,Lucky Tickets,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+shadow.93.04,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+shadow.93.04,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+shadow.93.04,Journey,1,D,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+shadow.93.04,Lucky Tickets,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+iman_MC,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+iman_MC,Letter,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+andresilva91,Football,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+andresilva91,Letter,0,B,0,0,0,4,4,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+andresilva91,Lucky Tickets,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+moggiozzi,Football,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+moggiozzi,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+moggiozzi,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+moggiozzi,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Gantushig,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Gantushig,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+guiyiniu,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+guiyiniu,Letter,0,B,1,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+guiyiniu,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+komron_hkl,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+komron_hkl,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+komron_hkl,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+A_wu,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+A_wu,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+A_wu,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kwetril,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kwetril,Letter,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kwetril,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kwetril,Journey,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+sajjad_gh,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sajjad_gh,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sajjad_gh,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+siteshshrivastava,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+siteshshrivastava,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+siteshshrivastava,Lucky Tickets,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+siteshshrivastava,Journey,0,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Towhid,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Towhid,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Towhid,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Towhid,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+philip01169,Football,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+philip01169,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+philip01169,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+eZanaty,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,strings
+eZanaty,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+thePharaoh,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+thePharaoh,Letter,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+thePharaoh,Lucky Tickets,0,C,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+Conopus,Football,0,A,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,strings
+Conopus,Letter,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Conopus,Lucky Tickets,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Conopus,Journey,1,D,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+nerevar1n,Football,0,A,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,strings
+nerevar1n,Letter,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+mu_qingfeng,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mu_qingfeng,Letter,1,B,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,"implementation,strings"
+satoshii,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+satoshii,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+JIOCb_SPb,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+JIOCb_SPb,Journey,1,D,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+kotokur,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kotokur,Letter,1,B,1,0,0,0,3,6,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Woodpecker,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Woodpecker,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Woodpecker,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dimatomp,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+dimatomp,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+dimatomp,Journey,1,D,1,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+ray040123,Football,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ray040123,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ray040123,Lucky Tickets,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+hnu0314,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+hnu0314,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+hnu0314,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hnu0314,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Pingvi,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Pingvi,Letter,0,B,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Pingvi,Lucky Tickets,1,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,greedy
+Danik,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Danik,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,strings"
+Danik,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Danik,Journey,1,D,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+dark.coder,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+dark.coder,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+dark.coder,Lucky Tickets,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+dark.coder,Journey,1,D,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+camoroh13,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+camoroh13,Letter,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+camoroh13,Lucky Tickets,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+camoroh13,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+USTIN,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+USTIN,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+USTIN,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+USTIN,Journey,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,constructive algorithms,implementation"
+PaHaK,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+PaHaK,Letter,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+PaHaK,Lucky Tickets,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,greedy
+AhmedNasser,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+AhmedNasser,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+wahyuoi,Football,0,A,1,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,strings
+wahyuoi,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+wahyuoi,Journey,1,D,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+wahyuoi,Lucky Tickets,0,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+int21h,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+int21h,Letter,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+int21h,Lucky Tickets,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Carouselbeast,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Carouselbeast,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Carouselbeast,Lucky Tickets,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Joas,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Joas,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Joas,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tana,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tana,Letter,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+nfs420,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+nfs420,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+nfs420,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nfs420,Journey,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+nfs420,Race,0,E,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+pnikdel,Football,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pnikdel,Letter,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+prashanthkvs,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+prashanthkvs,Letter,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+lgvallejo,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+lgvallejo,Letter,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+lgvallejo,Lucky Tickets,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+lgvallejo,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+CJS,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+CJS,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+CJS,Lucky Tickets,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+Roowe,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Roowe,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Roowe,Letter,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+mbllllohok,Football,1,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mbllllohok,Letter,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+mbllllohok,Lucky Tickets,0,C,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+zurzic_doru,Football,0,A,1,0,0,5,0,0,3,0,0,0,0,0,0,0,0,0,0,strings
+zurzic_doru,Lucky Tickets,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zurzic_doru,Race,1,E,0,0,0,2,0,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+zurzic_doru,Letter,0,B,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+prateep,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+prateep,Lucky Tickets,0,C,0,0,0,0,1,4,1,0,0,0,0,0,0,0,0,0,0,greedy
+prateep,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Corwin,Football,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Corwin,Letter,1,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Corwin,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+lmm333,Football,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+lmm333,Letter,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Semenov_Petr,Football,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,strings
+Semenov_Petr,Lucky Tickets,0,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Semenov_Petr,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Melamori,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Melamori,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Melamori,Lucky Tickets,1,C,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+Melamori,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+ComradePetr,Football,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ComradePetr,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ComradePetr,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ComradePetr,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+DraG,Football,0,A,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,strings
+DraG,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+DraG,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DraG,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Ferdous_CUET,Football,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+Ferdous_CUET,Letter,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Ferdous_CUET,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Roma-PKTL,Football,0,A,1,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,strings
+Roma-PKTL,Letter,1,B,1,0,0,0,7,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+samshu,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+samshu,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Anurag,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Anurag,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Anurag,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lazzrov,Football,1,A,1,0,0,0,3,4,1,0,0,0,0,0,0,0,0,0,0,strings
+lazzrov,Letter,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+lazzrov,Lucky Tickets,0,C,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+okulov,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+okulov,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+okulov,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+okulov,Journey,1,D,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Firuz,Football,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Firuz,Letter,0,B,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,"implementation,strings"
+xlfd,Football,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+xlfd,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xlfd,Letter,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+mad,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mad,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+mad,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mad,Journey,1,D,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Jemie_Effendy,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+Jemie_Effendy,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Jemie_Effendy,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Jemie_Effendy,Journey,1,D,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+ald,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ald,Letter,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ald,Lucky Tickets,1,C,1,0,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+havi,Football,1,A,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,strings
+havi,Letter,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+sjbr,Football,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+sjbr,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+nhnghi,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+nhnghi,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+nhnghi,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nhnghi,Journey,1,D,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+tsvetujochka,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tsvetujochka,Letter,0,B,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+tsvetujochka,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ruban,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ruban,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ruban,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ruban,Journey,1,D,0,0,0,0,0,1,2,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+stoyanovd,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+stoyanovd,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+stoyanovd,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+stoyanovd,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+stoyanovd,Race,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+bacek,Football,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+bacek,Letter,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,strings"
+bacek,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+bacek,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+XuPoKaCaMa,Football,1,A,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,strings
+XuPoKaCaMa,Letter,1,B,0,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+XuPoKaCaMa,Lucky Tickets,0,C,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,greedy
+evader,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+evader,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+evader,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+evader,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+evader,Race,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+fayyaz,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+fayyaz,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+fayyaz,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fayyaz,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+worldxboy,Football,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+Sandman,Football,1,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,strings
+Sandman,Letter,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+pol,Football,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+pol,Letter,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+sergei.voroncov,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sergei.voroncov,Letter,1,B,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+sergei.voroncov,Lucky Tickets,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Scorpio,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pshtanko,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pshtanko,Letter,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+pshtanko,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+FireSpace,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+FireSpace,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Verwulf,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Verwulf,Letter,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+paulocezar,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+paulocezar,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+paulocezar,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+paulocezar,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+kon_an,Football,0,A,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kon_an,Letter,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kon_an,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kon_an,Journey,1,D,1,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,"brute force,constructive algorithms,implementation"
+Hedayet,Football,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Hedayet,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Hedayet,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hedayet,Journey,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"brute force,constructive algorithms,implementation"
+xeno,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+xeno,Letter,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Ne0n,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Ne0n,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Ne0n,Lucky Tickets,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AndreiD,Football,0,A,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,strings
+AndreiD,Letter,0,B,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+f.nasim,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+f.nasim,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+f.nasim,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nao,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+nao,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+nao,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ankit_shukla,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ankit_shukla,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ankit_shukla,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ankit_shukla,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+Goofy57,Football,0,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,strings
+Goofy57,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Goofy57,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Goofy57,Journey,1,D,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+shahbox,Football,0,A,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,strings
+max92,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+max92,Race,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,two pointers"
+Robert-Fouler,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Robert-Fouler,Letter,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Jami_CSEDU,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Jami_CSEDU,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Jami_CSEDU,Lucky Tickets,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Venture,Football,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+lobo,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+lobo,Letter,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+lobo,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+Isa,Football,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,strings
+Isa,Letter,0,B,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Isa,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Isa,Journey,1,D,0,0,0,2,0,1,2,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+ko_timur,Football,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ko_timur,Letter,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+AC9,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+AC9,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+AC9,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AC9,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+vilnasta,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+vilnasta,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+vilnasta,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Wahba,Football,0,A,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,strings
+Wahba,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Wahba,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+k_grady,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+Arsalan,Football,0,A,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,strings
+Arsalan,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+siyuefeng,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+siyuefeng,Letter,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+siyuefeng,Lucky Tickets,1,C,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+bayrhuu,Football,0,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,strings
+bayrhuu,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Alexsey_V,Football,0,A,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,0,strings
+DarkYoshi,Football,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+DarkYoshi,Letter,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+codewarrier,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+codewarrier,Letter,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+codewarrier,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+karburato,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sydr1991,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+sydr1991,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+sydr1991,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sydr1991,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+rufferzool,Football,0,A,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,strings
+rufferzool,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+rufferzool,Lucky Tickets,1,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,greedy
+rufferzool,Journey,1,D,0,0,0,1,0,1,3,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+gauravmunjal,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+gauravmunjal,Letter,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+gauravmunjal,Lucky Tickets,1,C,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+root5,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+root5,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+root5,Lucky Tickets,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+root5,Journey,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+daniil_tropin,Football,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+daniil_tropin,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+daniil_tropin,Journey,1,D,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Ahmed_Jamal,Football,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+Ahmed_Jamal,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Ahmed_Jamal,Lucky Tickets,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+fayaz_iut,Football,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+fayaz_iut,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+fayaz_iut,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+FERDOUS_06,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+FERDOUS_06,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+FERDOUS_06,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+izbaskanov,Football,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+izbaskanov,Letter,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+izbaskanov,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+asnelzin,Football,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+asnelzin,Letter,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+asnelzin,Lucky Tickets,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+asnelzin,Journey,0,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+buket,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Viktor,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Viktor,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Viktor,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Viktor,Journey,1,D,0,0,0,0,0,0,7,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,implementation"
+sakib.malek,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+sakib.malek,Football,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+sakib.malek,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+powail,Football,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+powail,Letter,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+powail,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+powail,Journey,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+era_kaz_93,Football,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+era_kaz_93,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+era_kaz_93,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+era_kaz_93,Journey,1,D,0,0,0,0,1,0,2,3,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+Dr.McKay,Letter,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+luky.kashyap,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+luky.kashyap,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+luky.kashyap,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+luky.kashyap,Journey,1,D,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+aknur94,Football,0,A,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,strings
+aknur94,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+aknur94,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+aknur94,Journey,1,D,0,0,0,1,0,0,4,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+TyVin,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+TyVin,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+TyVin,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+TyVin,Journey,1,D,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+babak,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+babak,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+babak,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+babak,Journey,1,D,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+FSOG,Football,1,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,strings
+FSOG,Letter,1,B,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+neronmoon,Football,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+neronmoon,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+neronmoon,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+15211243642,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+15211243642,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+adel_gilmullin,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+adel_gilmullin,Letter,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+adel_gilmullin,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MOPMblLLlKA,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+MOPMblLLlKA,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+MOPMblLLlKA,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MOPMblLLlKA,Journey,1,D,0,0,0,0,2,3,4,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+pedja,Football,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+pedja,Letter,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+pedja,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+algorr.pomorSU,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+algorr.pomorSU,Letter,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+hungamaboy,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+hungamaboy,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+hungamaboy,Lucky Tickets,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+RomaRoma,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+RomaRoma,Letter,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+RomaRoma,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Stanisl,Football,1,A,1,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,strings
+Ab.Sultan,Letter,0,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Ab.Sultan,Football,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+proger,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+proger,Letter,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Anastasia,Football,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,strings
+ViVi66,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ViVi66,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+prattsishunk,Football,0,A,0,0,0,0,6,3,0,0,0,0,0,0,0,0,0,0,0,strings
+Whiterock,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+Whiterock,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Whiterock,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Whiterock,Journey,1,D,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+nox757,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+nox757,Letter,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+ChRapO,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ChRapO,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ChRapO,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mukhamedgarif,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mukhamedgarif,Letter,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Mukhamedgarif,Lucky Tickets,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mitash.chaitanya,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mitash.chaitanya,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+mitash.chaitanya,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+SAH9l,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+SAH9l,Letter,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+SAH9l,Lucky Tickets,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+quocquan,Football,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,strings
+quocquan,Letter,1,B,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Dymonix,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Dymonix,Letter,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Dymonix,Lucky Tickets,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+Iain,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Iain,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+arifcsecu,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+arifcsecu,Letter,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+arifcsecu,Lucky Tickets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+CleRIC,Football,0,A,0,0,0,1,0,5,1,0,0,0,0,0,0,0,0,0,0,strings
+ToRMoZ,Football,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+foxermen,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+foxermen,Letter,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Han_ksp,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ZhaDDinA,Football,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ZhaDDinA,Letter,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+zjsxzy,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+zjsxzy,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Pirogok,Football,0,A,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Pirogok,Letter,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+koder_dima,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+koder_dima,Letter,0,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+koder_dima,Lucky Tickets,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+RezaSi,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+grigory51,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+grigory51,Letter,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+PaintKiller,Football,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+PaintKiller,Letter,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+PaintKiller,Journey,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"
+PaintKiller,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+happyxcygo,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+maniak,Football,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+RDR,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+maxis11,Football,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+neeraj541,Journey,0,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,implementation"

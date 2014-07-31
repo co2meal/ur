@@ -1,0 +1,771 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+Tepr,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tepr,Blog Photo,0,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Tepr,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Tepr,Physical Education,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+Tepr,Dead Ends,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+2a2l,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+2a2l,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+2a2l,Physical Education,1,D,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,sortings
+2a2l,Blog Photo,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+VK.ua,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+VK.ua,Blog Photo,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+VK.ua,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+VK.ua,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+free0u,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+free0u,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+free0u,Physical Education,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+free0u,Blog Photo,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+eka,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+eka,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+eka,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+eka,Dead Ends,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+unrated,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+unrated,Blog Photo,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+unrated,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+unrated,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+khabi,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+khabi,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+khabi,Physical Education,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+khabi,Blog Photo,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+rexim,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rexim,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+rexim,Physical Education,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+dronoff,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dronoff,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dronoff,Blog Photo,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,1,0,0,0,"binary search,implementation"
+Kh.Madi,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kh.Madi,Blog Photo,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,"binary search,implementation"
+Kh.Madi,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Kh.Madi,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+maxxx,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+maxxx,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+maxxx,Physical Education,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+OutSide,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+OutSide,Blog Photo,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,implementation"
+OutSide,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+OutSide,Physical Education,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+sggutier,Autocomplete,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sggutier,Blog Photo,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+sggutier,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+sggutier,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+sggutier,Dead Ends,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+pius_88,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pius_88,Blog Photo,0,B,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+pius_88,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+pius_88,Physical Education,1,D,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+Lapenkov,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+Lapenkov,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Lapenkov,Blog Photo,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Lapenkov,Physical Education,0,D,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+vinicius,Autocomplete,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vinicius,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+vinicius,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+_Vadim_,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+_Vadim_,Blog Photo,0,B,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+_Vadim_,Little Frog,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+_Vadim_,Physical Education,1,D,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,sortings
+adept,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+adept,Blog Photo,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+adept,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+adept,Physical Education,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+delphisourcer,Autocomplete,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+delphisourcer,Little Frog,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+abz,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+abz,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+abz,Physical Education,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+abz,Blog Photo,1,B,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Suvorov,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Suvorov,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Suvorov,Physical Education,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Suvorov,Blog Photo,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+ExZamer,Autocomplete,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ExZamer,Little Frog,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ExZamer,Physical Education,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+diogen,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+diogen,Little Frog,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+diogen,Blog Photo,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+diogen,Physical Education,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,sortings
+anuar_721,Autocomplete,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+anuar_721,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+anuar_721,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+msh_shiplu,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+msh_shiplu,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+msh_shiplu,Physical Education,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+msh_shiplu,Blog Photo,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+hogeover30,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hogeover30,Blog Photo,0,B,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+hogeover30,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+hogeover30,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ddraw,Autocomplete,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ddraw,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ddraw,Blog Photo,0,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+ddraw,Physical Education,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+Tahlil,Autocomplete,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tahlil,Physical Education,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Tahlil,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Allin,Autocomplete,0,A,1,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Allin,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Allin,Physical Education,1,D,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,sortings
+Allin,Blog Photo,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+kari,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kari,Blog Photo,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+kari,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+kari,Physical Education,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+mcsharma1990,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mcsharma1990,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mcsharma1990,Blog Photo,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+mcsharma1990,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+shibly,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shibly,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+shibly,Blog Photo,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+shibly,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Garun,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Garun,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Garun,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Garun,Blog Photo,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,implementation"
+mirsaid_mir,Autocomplete,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mirsaid_mir,Blog Photo,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+mirsaid_mir,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Brambar,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Brambar,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Brambar,Blog Photo,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+SyFy,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SyFy,Little Frog,0,C,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,constructive algorithms
+SyFy,Physical Education,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+SyFy,Blog Photo,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+kb.,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kb.,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+kb.,Physical Education,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+kb.,Blog Photo,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+asif_iut,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+asif_iut,Little Frog,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+magdi,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+magdi,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+htrinh,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+htrinh,Blog Photo,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+htrinh,Little Frog,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+htrinh,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+v1m,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+v1m,Blog Photo,0,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+v1m,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+v1m,Physical Education,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+edem.kwadzo,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+edem.kwadzo,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+edem.kwadzo,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+jlepack,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jlepack,Blog Photo,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+jlepack,Little Frog,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+neronmoon,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+neronmoon,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+neronmoon,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+oleg.ivye,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+oleg.ivye,Blog Photo,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+oleg.ivye,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+oleg.ivye,Physical Education,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Beast,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Beast,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Beast,Blog Photo,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+hindsight,Autocomplete,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,implementation
+hindsight,Blog Photo,0,B,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+hindsight,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+hindsight,Physical Education,1,D,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,sortings
+Padme,Autocomplete,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Padme,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Padme,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Padme,Blog Photo,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+JKeeJ1e30,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+JKeeJ1e30,Blog Photo,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+JKeeJ1e30,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+JKeeJ1e30,Physical Education,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+sandro_barna,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sandro_barna,Little Frog,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+sandro_barna,Blog Photo,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+pheonix,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pheonix,Physical Education,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+pheonix,Blog Photo,0,B,0,0,0,0,1,4,0,0,0,0,0,0,0,1,0,0,0,"binary search,implementation"
+pheonix,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+luckyi,Autocomplete,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+luckyi,Little Frog,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+luckyi,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+luckyi,Blog Photo,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+mixser.by,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mixser.by,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mixser.by,Physical Education,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+mixser.by,Blog Photo,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+diggin,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+diggin,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+diggin,Blog Photo,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+dudkamaster,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dudkamaster,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dudkamaster,Blog Photo,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+dudkamaster,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+YuRNeRo_KZ,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+YuRNeRo_KZ,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+YuRNeRo_KZ,Physical Education,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+trukanduk,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+trukanduk,Blog Photo,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,implementation"
+trukanduk,Little Frog,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+trukanduk,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+McLaren,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+McLaren,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+McLaren,Blog Photo,0,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+McLaren,Physical Education,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+koder_dima,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+koder_dima,Blog Photo,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+koder_dima,Little Frog,1,C,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Tigran92,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tigran92,Blog Photo,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Tigran92,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Waiter,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Waiter,Blog Photo,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Waiter,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Waiter,Physical Education,1,D,0,0,0,1,2,4,0,0,0,0,0,0,0,0,0,0,0,sortings
+Roschin,Autocomplete,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Roschin,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Roschin,Blog Photo,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Roschin,Physical Education,0,D,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,sortings
+ifrit,Autocomplete,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ifrit,Physical Education,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+Affina,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Affina,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Affina,Blog Photo,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Affina,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Jami_CSEDU,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jami_CSEDU,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Jami_CSEDU,Blog Photo,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Jami_CSEDU,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Anton_Rodick,Autocomplete,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Anton_Rodick,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Anton_Rodick,Blog Photo,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"binary search,implementation"
+Anton_Rodick,Physical Education,1,D,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,sortings
+mohammad.mahmoodi,Autocomplete,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mohammad.mahmoodi,Blog Photo,1,B,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+mohammad.mahmoodi,Little Frog,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mohammad.mahmoodi,Physical Education,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+Tokiru,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tokiru,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Tokiru,Physical Education,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+Tokiru,Blog Photo,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+natsuki_i,Autocomplete,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+natsuki_i,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+natsuki_i,Physical Education,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Xerxes,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Xerxes,Little Frog,0,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Xerxes,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Xerxes,Blog Photo,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+K0stIa,Autocomplete,0,A,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+K0stIa,Blog Photo,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,implementation"
+K0stIa,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+K0stIa,Physical Education,1,D,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,sortings
+AleksBannikov,Autocomplete,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+AleksBannikov,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+AleksBannikov,Physical Education,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,sortings
+AleksBannikov,Blog Photo,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+tardosmors,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tardosmors,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Ksunya,Autocomplete,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ksunya,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Ksunya,Physical Education,1,D,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,sortings
+Ksunya,Blog Photo,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+soul_departed,Autocomplete,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+soul_departed,Blog Photo,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+grigory51,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+grigory51,Blog Photo,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+grigory51,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+grigory51,Physical Education,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+fura,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fura,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+fura,Physical Education,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+DeZi,Autocomplete,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+DeZi,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+DeZi,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+morojenoe,Autocomplete,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+morojenoe,Little Frog,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+morojenoe,Blog Photo,1,B,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+rufferzool,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rufferzool,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+rufferzool,Physical Education,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+rufferzool,Blog Photo,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+2FED,Autocomplete,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+2FED,Blog Photo,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+peety12,Autocomplete,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+peety12,Blog Photo,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+taoshucai,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+taoshucai,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+taoshucai,Blog Photo,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+taoshucai,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+M.S.W,Autocomplete,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+M.S.W,Little Frog,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+codecrux,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+codecrux,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+codecrux,Blog Photo,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+delta,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+delta,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+delta,Blog Photo,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+delta,Physical Education,1,D,0,0,0,0,2,3,0,1,0,0,0,0,0,0,0,0,0,sortings
+sandygupta,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sandygupta,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+sandygupta,Physical Education,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+Xorand,Autocomplete,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Xorand,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Xorand,Physical Education,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+fayyaz,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fayyaz,Blog Photo,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+fayyaz,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+fayyaz,Physical Education,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+sajjad_gh,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sajjad_gh,Little Frog,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+sajjad_gh,Blog Photo,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+sajjad_gh,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+SupeR-MaN,Autocomplete,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+SupeR-MaN,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+SupeR-MaN,Physical Education,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+SupeR-MaN,Blog Photo,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,implementation"
+Susan,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+andrei.d,Little Frog,0,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+andrei.d,Blog Photo,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Souverain,Autocomplete,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Souverain,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+balepa,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+balepa,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+balepa,Dead Ends,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+Filins,Autocomplete,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Remstam,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Remstam,Autocomplete,1,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Remstam,Blog Photo,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+dosa,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dosa,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dosa,Blog Photo,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+dosa,Physical Education,0,D,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,sortings
+root5,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+root5,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+root5,Physical Education,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+root5,Blog Photo,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+deximat,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+deximat,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+deximat,Physical Education,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+Zhanadil,Autocomplete,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhanadil,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Zhanadil,Physical Education,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Alexander-1709,Autocomplete,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alexander-1709,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+master_j,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+master_j,Blog Photo,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+master_j,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+master_j,Physical Education,1,D,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,sortings
+Sasa_0824,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sasa_0824,Blog Photo,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,implementation"
+Sasa_0824,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+zafar_sust_bd,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zafar_sust_bd,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+zafar_sust_bd,Blog Photo,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+LongCtrl,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+LongCtrl,Blog Photo,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+LongCtrl,Little Frog,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+LongCtrl,Physical Education,1,D,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,sortings
+zhujieming2003,Autocomplete,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhujieming2003,Blog Photo,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+zhujieming2003,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+zhujieming2003,Physical Education,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+tana,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tana,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+72VanVector_SevNTU,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+72VanVector_SevNTU,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+72VanVector_SevNTU,Physical Education,1,D,0,0,0,0,0,14,0,1,0,0,0,0,0,0,0,0,0,sortings
+slip0110,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+slip0110,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+slip0110,Blog Photo,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+slip0110,Physical Education,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+milkyklim,Blog Photo,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+milkyklim,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+milkyklim,Physical Education,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+milkyklim,Autocomplete,1,A,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+Urbanowicz,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Urbanowicz,Blog Photo,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Urbanowicz,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Urbanowicz,Physical Education,1,D,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,sortings
+marser,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+marser,Little Frog,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+marser,Physical Education,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+marser,Blog Photo,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Denor,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Denor,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Denor,Physical Education,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Denor,Blog Photo,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Mars314,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mars314,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Mars314,Physical Education,1,D,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,sortings
+k06a,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+k06a,Blog Photo,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+k06a,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+k06a,Physical Education,1,D,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,sortings
+k06a,Dead Ends,0,E,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+piro1996,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+piro1996,Blog Photo,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+piro1996,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+piro1996,Physical Education,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,sortings
+Quazar,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Quazar,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Quazar,Blog Photo,0,B,0,0,0,1,0,6,0,3,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Quazar,Physical Education,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+4ybakut2004,Autocomplete,0,A,1,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+4ybakut2004,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mongolrgata,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mongolrgata,Blog Photo,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+mongolrgata,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mongolrgata,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Melamori,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Melamori,Blog Photo,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Melamori,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Melamori,Physical Education,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+mk74rus,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mk74rus,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mk74rus,Physical Education,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,sortings
+mk74rus,Blog Photo,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+plexus,Autocomplete,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+plexus,Blog Photo,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+plexus,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+meparter,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+meparter,Little Frog,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+meparter,Blog Photo,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+meparter,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+spyric,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+spyric,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+spyric,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+dimatomp,Autocomplete,0,A,0,0,0,0,1,5,0,0,0,1,0,0,0,0,0,0,0,implementation
+dimatomp,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+dimatomp,Physical Education,1,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+MOZGOLOM,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MOZGOLOM,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+MOZGOLOM,Physical Education,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+piyush.neo,Autocomplete,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+piyush.neo,Little Frog,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+piyush.neo,Physical Education,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+just_alisher,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+just_alisher,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+just_alisher,Blog Photo,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+just_alisher,Physical Education,0,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,sortings
+marvin666,Autocomplete,0,A,1,0,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,implementation
+marvin666,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+marvin666,Blog Photo,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+ololo,Autocomplete,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nep1965,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nep1965,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+nep1965,Physical Education,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+nep1965,Blog Photo,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,implementation"
+berden,Autocomplete,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+berden,Blog Photo,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+berden,Little Frog,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+camoroh13,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+camoroh13,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+camoroh13,Blog Photo,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+undefined_thimpu,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+undefined_thimpu,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+undefined_thimpu,Blog Photo,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+undefined_thimpu,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+platon,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+platon,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+platon,Physical Education,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+platon,Blog Photo,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Manish-Kumar,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Manish-Kumar,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Manish-Kumar,Physical Education,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+nayimsust,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nayimsust,Little Frog,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+nayimsust,Physical Education,1,D,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,sortings
+iman_MC,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+iman_MC,Blog Photo,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+iman_MC,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+xenocratus,Autocomplete,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xenocratus,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+xenocratus,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+xenocratus,Blog Photo,1,B,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Palci-Udalci,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Palci-Udalci,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+logic_max,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+logic_max,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+logic_max,Blog Photo,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+yuichirw,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yuichirw,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+yuichirw,Physical Education,1,D,0,0,0,0,0,2,0,3,1,0,0,0,0,0,0,0,0,sortings
+shuklaravi,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shuklaravi,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+shuklaravi,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Kreator,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kreator,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Kreator,Physical Education,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Damir,Autocomplete,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Damir,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Damir,Physical Education,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,sortings
+Mercer,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+Mercer,Little Frog,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Mercer,Blog Photo,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Mercer,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+maruf.csdu,Autocomplete,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+maruf.csdu,Blog Photo,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+maruf.csdu,Little Frog,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+maruf.csdu,Physical Education,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+bacek,Autocomplete,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mostafa,Autocomplete,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mostafa,Blog Photo,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+xiaoyoulei2,Autocomplete,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,implementation
+xiaoyoulei2,Physical Education,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+xiaoyoulei2,Little Frog,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+xiaoyoulei2,Blog Photo,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Anastasia,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+saeedeh,Autocomplete,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+saeedeh,Blog Photo,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+163max,Little Frog,0,C,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+163max,Autocomplete,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+163max,Physical Education,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+RomaRoma,Autocomplete,0,A,0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,implementation
+Anurag,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Anurag,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+programinvest,Autocomplete,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+programinvest,Blog Photo,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+programinvest,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+programinvest,Physical Education,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+new,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+new,Little Frog,0,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+new,Physical Education,1,D,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+vALP,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vALP,Blog Photo,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+vALP,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+demalah,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+demalah,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+demalah,Physical Education,1,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+4a1ka,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+4a1ka,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+4a1ka,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+samshu,Autocomplete,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kanau.anzur,Autocomplete,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kanau.anzur,Blog Photo,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+kanau.anzur,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+kanau.anzur,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+regmar,Autocomplete,0,A,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+regmar,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+NiceDay,Autocomplete,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+NiceDay,Little Frog,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+CleRIC,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CleRIC,Little Frog,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+CleRIC,Physical Education,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+CleRIC,Blog Photo,0,B,0,0,0,0,0,7,0,0,0,0,0,0,0,1,0,0,0,"binary search,implementation"
+Cromel,Autocomplete,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Cromel,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Cromel,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Cromel,Blog Photo,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+premprakash,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+premprakash,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+premprakash,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+a.s.savostyanov,Autocomplete,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+a.s.savostyanov,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+a.s.savostyanov,Physical Education,1,D,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+ruban,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruban,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ruban,Physical Education,1,D,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,sortings
+kidatwar,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kidatwar,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+kidatwar,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+leito,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+leito,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+leito,Physical Education,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+leito,Blog Photo,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+BenderRodriges,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+BenderRodriges,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+BenderRodriges,Physical Education,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,sortings
+JustSmile,Autocomplete,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+JustSmile,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+JustSmile,Physical Education,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+PAG,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PAG,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+PAG,Physical Education,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+PAG,Blog Photo,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+MIM,Autocomplete,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+tsvetujochka,Autocomplete,0,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+tsvetujochka,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+tudorsiminic1,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tudorsiminic1,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+tudorsiminic1,Physical Education,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+tudorsiminic1,Blog Photo,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+RaidBoss,Autocomplete,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+RaidBoss,Blog Photo,0,B,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+RaidBoss,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+tk_,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tk_,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+nicogu,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+nicogu,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+nicogu,Physical Education,1,D,1,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+TarifEzaz,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TarifEzaz,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+TarifEzaz,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+RomaKoks,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+RomaKoks,Blog Photo,0,B,0,0,0,0,3,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+segv,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+segv,Physical Education,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+segv,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+segv,Blog Photo,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"binary search,implementation"
+Proscriptus,Autocomplete,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Proscriptus,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Proscriptus,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Proscriptus,Blog Photo,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+yasulib,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yasulib,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+yasulib,Blog Photo,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Spiderman,Autocomplete,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Spiderman,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Spiderman,Physical Education,1,D,0,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,sortings
+kolbasunnet,Little Frog,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+gn13,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gn13,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+gn13,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+gn13,Blog Photo,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Djteam,Little Frog,0,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Datsik_Anton,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Datsik_Anton,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+hemant_baid,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+sergei.voroncov,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sergei.voroncov,Little Frog,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+sergei.voroncov,Physical Education,1,D,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+telik,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+telik,Little Frog,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+telik,Physical Education,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+extreme.ability,Autocomplete,0,A,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+A_rustam_rustam,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+A_rustam_rustam,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+A_rustam_rustam,Physical Education,1,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Tanin,Autocomplete,0,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tanin,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+rafsan,Autocomplete,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+m_hosny,Autocomplete,0,A,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ahmed.Ibrahem,Autocomplete,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Ahmed.Ibrahem,Blog Photo,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Heartless,Autocomplete,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Heartless,Little Frog,1,C,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Heartless,Physical Education,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+logN,Autocomplete,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+logN,Blog Photo,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+logN,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+logN,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+12341234,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+12341234,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+galiver,Autocomplete,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+galiver,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+galiver,Blog Photo,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+MaeSTRo,Blog Photo,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+MaeSTRo,Little Frog,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+MaeSTRo,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,implementation
+naaaag,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+naaaag,Blog Photo,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+naaaag,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Aybol,Blog Photo,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Aybol,Autocomplete,0,A,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+notEphim,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+notEphim,Little Frog,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+notEphim,Physical Education,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+JalbaRu,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+JalbaRu,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+JalbaRu,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+a.koldeybekov,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+a.koldeybekov,Physical Education,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+sakib122,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+sakib122,Little Frog,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+vlad,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+vlad,Autocomplete,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+vlad,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+EvAn,Autocomplete,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+EvAn,Little Frog,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+farhan_iut,Autocomplete,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+daniil_tropin,Autocomplete,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+daniil_tropin,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+jareen,Autocomplete,0,A,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+jareen,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+jareen,Physical Education,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+ViVi66,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ViVi66,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ishansrivastava90,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ishansrivastava90,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ishansrivastava90,Blog Photo,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+Yan_Kurganov_Kovrov_STA,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Lexington,Autocomplete,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Lexington,Blog Photo,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+ovionlogis,Blog Photo,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+ovionlogis,Little Frog,0,C,0,0,0,15,0,9,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Tamski,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Tamski,Autocomplete,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+t.gogniashvili,Autocomplete,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Diman_yoyo,Autocomplete,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Diman_yoyo,Little Frog,1,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mahamudsust,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mahamudsust,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Mehran-r,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mehran-r,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ViktorM,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ViktorM,Little Frog,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ViktorM,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+hallodogy,Autocomplete,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hallodogy,Physical Education,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,sortings
+hallodogy,Blog Photo,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+code.forces,Blog Photo,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+code.forces,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+code.forces,Autocomplete,1,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+Varlok,Autocomplete,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nurdaulet,Little Frog,0,C,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+nurdaulet,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+JIOPD-XCII,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+JIOPD-XCII,Autocomplete,1,A,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nivikz,Autocomplete,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nivikz,Little Frog,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mishanay,Autocomplete,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mishanay,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mishanay,Physical Education,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+upoma,Autocomplete,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+upoma,Little Frog,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+upoma,Blog Photo,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+foxermen,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+foxermen,Little Frog,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+DnS,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ameydhar,Autocomplete,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+ameydhar,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+avp,Autocomplete,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+avp,Little Frog,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+aleksei,Autocomplete,0,A,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+prijutme4ty,Autocomplete,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hapuk,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hapuk,Little Frog,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Hapuk,Physical Education,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+saif_noor_prottoy,Little Frog,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+saif_noor_prottoy,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+bashorov,Autocomplete,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+bashorov,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+archangel,Autocomplete,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+archangel,Blog Photo,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+UMysin,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+UMysin,Dead Ends,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+UMysin,Physical Education,1,D,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,sortings
+ald,Autocomplete,0,A,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+chakradarraju,Autocomplete,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+chakradarraju,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+chakradarraju,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Mozg7,Autocomplete,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mozg7,Little Frog,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+master_mind,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+master_mind,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+nhrahi_iut,Autocomplete,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+shovonshovo,Little Frog,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+shovonshovo,Autocomplete,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shovonshovo,Blog Photo,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+eoranged,Autocomplete,1,A,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shrishkrish,Autocomplete,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dias,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dias,Little Frog,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Dias,Physical Education,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Dias,Blog Photo,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation"
+neeraj541,Autocomplete,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+neeraj541,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Fedya,Autocomplete,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fedya,Little Frog,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Fedya,Physical Education,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+manoharprabhu,Little Frog,0,C,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,constructive algorithms
+EG0R,Autocomplete,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+EzhikOo,Autocomplete,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation

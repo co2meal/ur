@@ -1,0 +1,1753 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+Rosetta,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Rosetta,Progress Bar,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cvb,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+cvb,Progress Bar,1,B,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cvb,Round Table Knights,0,C,0,0,0,0,1,7,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+ant.ermilov,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ant.ermilov,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ant.ermilov,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+ant.ermilov,Solitaire,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+jariasf,Way Too Long Words,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+jariasf,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+jariasf,Round Table Knights,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+sdryapko,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sdryapko,Progress Bar,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+sdryapko,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,math,number theory"
+ideamonk,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ideamonk,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ideamonk,Round Table Knights,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+rexim,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+rexim,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rexim,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+suffix-array,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+suffix-array,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+suffix-array,Round Table Knights,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+suffix-array,Nuclear Fusion,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+suffix-array,Solitaire,1,D,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+McLaren,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+McLaren,Progress Bar,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+McLaren,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+o948,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+o948,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+o948,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+o948,Nuclear Fusion,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"bitmasks,dp"
+MatRush,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+MatRush,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+MatRush,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+MatRush,Nuclear Fusion,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+AguL,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+AguL,Progress Bar,1,B,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+AguL,Round Table Knights,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+aitbayev,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+aitbayev,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+aitbayev,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+l0nwlf,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+l0nwlf,Progress Bar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pavlin,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pavlin,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pavlin,Round Table Knights,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"dp,math,number theory"
+rinigan,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+rinigan,Progress Bar,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rinigan,Round Table Knights,0,C,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"dp,math,number theory"
+rinigan,Solitaire,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+oskimura,Way Too Long Words,1,A,1,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,strings
+oskimura,Progress Bar,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+liptonshmidt,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+liptonshmidt,Progress Bar,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+liptonshmidt,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+d_i,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+d_i,Progress Bar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Konstantin,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Konstantin,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Konstantin,Round Table Knights,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Konstantin,Nuclear Fusion,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+ANTANTA,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ANTANTA,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ANTANTA,Round Table Knights,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+pva701,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pva701,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pva701,Round Table Knights,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Konovalov_Nik,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Konovalov_Nik,Round Table Knights,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Konovalov_Nik,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Petruchcho,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Petruchcho,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Petruchcho,Round Table Knights,0,C,0,0,0,0,0,10,0,0,1,0,0,0,0,0,0,0,0,"dp,math,number theory"
+JKeeJ1e30,Way Too Long Words,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+JKeeJ1e30,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+JKeeJ1e30,Round Table Knights,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+testmhigashi,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+testmhigashi,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+testmhigashi,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+OutSide,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+OutSide,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+OutSide,Round Table Knights,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,math,number theory"
+OutSide,Nuclear Fusion,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+phyllipecesar,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+phyllipecesar,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+phyllipecesar,Round Table Knights,1,C,0,0,0,0,0,10,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+akshayk0406,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+akshayk0406,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+akshayk0406,Round Table Knights,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+EG0R,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+EG0R,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+EG0R,Round Table Knights,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+mohamed.gaber,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mohamed.gaber,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+mohamed.gaber,Round Table Knights,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+irrelephant,Way Too Long Words,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,strings
+irrelephant,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+irrelephant,Round Table Knights,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+irrelephant,Nuclear Fusion,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+Esenin,Way Too Long Words,0,A,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,strings
+Esenin,Progress Bar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Salat,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Salat,Progress Bar,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Salat,Round Table Knights,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"dp,math,number theory"
+karpinski,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+karpinski,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+karpinski,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+morojenoe,Way Too Long Words,1,A,1,0,0,1,0,4,0,0,0,0,0,0,0,0,1,0,0,strings
+morojenoe,Progress Bar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+dcp,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+dcp,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+dcp,Round Table Knights,1,C,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+shilov,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+shilov,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shilov,Round Table Knights,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+shilov,Solitaire,1,D,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Nikolai,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Nikolai,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Nikolai,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Nikolai,Solitaire,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Tokiru,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Tokiru,Round Table Knights,0,C,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Tokiru,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cs_hamako,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+cs_hamako,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cs_hamako,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+ankulgarg,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ankulgarg,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+ankulgarg,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"dp,math,number theory"
+masibonge,Way Too Long Words,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+masibonge,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+masibonge,Round Table Knights,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+muriloufg,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+muriloufg,Progress Bar,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sad_robot,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+sad_robot,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sad_robot,Round Table Knights,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"dp,math,number theory"
+sad_robot,Nuclear Fusion,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+rembocoder,Way Too Long Words,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+rembocoder,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rembocoder,Round Table Knights,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Zhuravlyov.A,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Zhuravlyov.A,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Zhuravlyov.A,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+gmunkhbaatarmn,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+gmunkhbaatarmn,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+gmunkhbaatarmn,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+A.I,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+A.I,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+A.I,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+gchebanov,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+gchebanov,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+gchebanov,Round Table Knights,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+gchebanov,Solitaire,1,D,1,0,0,1,1,9,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+DimaPhil,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+DimaPhil,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+DimaPhil,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Surogatov_S,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Surogatov_S,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Surogatov_S,Round Table Knights,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+sicasli,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sicasli,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sicasli,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,math,number theory"
+sicasli,Nuclear Fusion,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+uditiiita,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+uditiiita,Progress Bar,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+uditiiita,Round Table Knights,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Bidhan,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Bidhan,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Bidhan,Nuclear Fusion,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+v1m,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+v1m,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+v1m,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+deximat,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+deximat,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Shafaet,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Shafaet,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Shafaet,Round Table Knights,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+VChikh,Way Too Long Words,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+EzhikOo,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+EzhikOo,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+EzhikOo,Round Table Knights,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Parhomets,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Parhomets,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Parhomets,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+best.ua,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+best.ua,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+best.ua,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+egorka,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+egorka,Progress Bar,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kontr,Way Too Long Words,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kontr,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kontr,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,math,number theory"
+Goofy57,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Goofy57,Progress Bar,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Goofy57,Round Table Knights,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Goofy57,Solitaire,0,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mihaha,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mihaha,Progress Bar,0,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mihaha,Round Table Knights,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+mihaha,Solitaire,1,D,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Komaki,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Komaki,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Komaki,Round Table Knights,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Komaki,Nuclear Fusion,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"bitmasks,dp"
+Komaki,Solitaire,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Backs,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Backs,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Backs,Round Table Knights,1,C,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Denor,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Denor,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+Denor,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Denor,Solitaire,1,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mysterion,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mysterion,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mysterion,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Babushkin,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Babushkin,Progress Bar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Babushkin,Round Table Knights,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+fookwood,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+fookwood,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+fookwood,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+atetubou,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+atetubou,Progress Bar,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+atetubou,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+atetubou,Solitaire,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+bor.is,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+bor.is,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+bor.is,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+oxymaccy,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+oxymaccy,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+oxymaccy,Round Table Knights,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+kasyankrak,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kasyankrak,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kasyankrak,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,math,number theory"
+kasyankrak,Solitaire,1,D,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Padme,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Padme,Progress Bar,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+Padme,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Nox,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Nox,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Nox,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+android,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+android,Progress Bar,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+Aleksey,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Aleksey,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+Aleksey,Round Table Knights,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Aleksey,Nuclear Fusion,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+San_Sany4,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+San_Sany4,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+MOZGOLOM,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+MOZGOLOM,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+MOZGOLOM,Round Table Knights,0,C,0,0,0,0,2,7,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+odule,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+odule,Progress Bar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+odule,Round Table Knights,0,C,0,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Shark1919,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Shark1919,Progress Bar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Shark1919,Round Table Knights,1,C,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+TajniAgent,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+TajniAgent,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+TajniAgent,Round Table Knights,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Eclipse,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Eclipse,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Eclipse,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Eclipse,Solitaire,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+htrinh,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+htrinh,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+htrinh,Round Table Knights,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Beast,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Beast,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Beast,Round Table Knights,1,C,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+delta,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+delta,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+delta,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+haas,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+haas,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+haas,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+mamhh,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mamhh,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mamhh,Round Table Knights,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Alexey,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Alexey,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Alexey,Round Table Knights,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Alexey,Solitaire,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+949079968,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+949079968,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+949079968,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+75249,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+75249,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Seikang,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Seikang,Round Table Knights,0,C,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"dp,math,number theory"
+Seikang,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+TMandzu,Way Too Long Words,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+TMandzu,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+TMandzu,Round Table Knights,1,C,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+ChamChi,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ChamChi,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ChamChi,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+HwangScornedAsianTeams,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+HwangScornedAsianTeams,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+HwangScornedAsianTeams,Nuclear Fusion,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+HwangScornedAsianTeams,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+sandygupta,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sandygupta,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sandygupta,Round Table Knights,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+grizz,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+grizz,Progress Bar,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ZobninVladislav_It-Team,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ZobninVladislav_It-Team,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Alexander-1709,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Alexander-1709,Progress Bar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+eater,Way Too Long Words,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+eater,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+eater,Round Table Knights,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+alpc92,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+alpc92,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+alpc92,Round Table Knights,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+alpc92,Solitaire,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Fynn,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Fynn,Solitaire,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+soul_departed,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+soul_departed,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+soul_departed,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+mongolrgata,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mongolrgata,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mongolrgata,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+mongolrgata,Solitaire,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Zool,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Zool,Progress Bar,0,B,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+Zool,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+douglasantos,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+douglasantos,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+douglasantos,Round Table Knights,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+shtorm941,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+shtorm941,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shtorm941,Round Table Knights,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+wiw,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+wiw,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+wiw,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Coolzero,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Coolzero,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Coolzero,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+pzy3303,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pzy3303,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pzy3303,Round Table Knights,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+pzy3303,Nuclear Fusion,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+pzy3303,Solitaire,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+igkhramtsov,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+igkhramtsov,Progress Bar,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+igkhramtsov,Round Table Knights,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+none,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+none,Progress Bar,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+none,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+none,Solitaire,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Respect2D,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Respect2D,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+Respect2D,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,math,number theory"
+MSPA,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+MSPA,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+vishwakarma,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+vishwakarma,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mightyvoice,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mightyvoice,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+slalex,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+slalex,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+slalex,Round Table Knights,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+mayconmaia,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+mayconmaia,Progress Bar,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mayconmaia,Round Table Knights,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+arpit_s,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+arpit_s,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Astro,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Astro,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+meparter,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+meparter,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+meparter,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Mirovan,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mirovan,Progress Bar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Mirovan,Round Table Knights,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Choby,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Choby,Progress Bar,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+jdillet,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+jdillet,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+jdillet,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+gauravmunjal,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+osa_k,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+osa_k,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+osa_k,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+osa_k,Solitaire,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+_arjun,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+_arjun,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+_arjun,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Abulkhair,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Abulkhair,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Abulkhair,Round Table Knights,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+hemant_baid,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+hemant_baid,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+hemant_baid,Round Table Knights,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+zermx_011,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Max_Smolyakov,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Max_Smolyakov,Progress Bar,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Max_Smolyakov,Round Table Knights,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+WXYZ,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+WXYZ,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+WXYZ,Round Table Knights,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+WXYZ,Solitaire,1,D,1,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+WXYZ,Nuclear Fusion,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+guestonearth,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+guestonearth,Progress Bar,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+guestonearth,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Imran_Bin_Azad,Way Too Long Words,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+Imran_Bin_Azad,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Imran_Bin_Azad,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+iostream,Way Too Long Words,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+iostream,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+iostream,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+birbbit,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+birbbit,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+birbbit,Round Table Knights,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+birbbit,Solitaire,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sandro_barna,Way Too Long Words,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sandro_barna,Progress Bar,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sandro_barna,Round Table Knights,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+darksta5,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+darksta5,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+darksta5,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+littlealex,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+littlealex,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+littlealex,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+littlealex,Nuclear Fusion,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+arosh,Way Too Long Words,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+arosh,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+arosh,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+fobos,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+fobos,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+fobos,Round Table Knights,1,C,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+andrei.d,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+andrei.d,Round Table Knights,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+andrei.d,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+abhiranjan,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+abhiranjan,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+abhiranjan,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+wangshaobiao,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+wangshaobiao,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+wangshaobiao,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+fendy_k1,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+fendy_k1,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+seanwentzel42,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+seanwentzel42,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+seanwentzel42,Progress Bar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Kivi,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Kivi,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Kivi,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+labardan,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+labardan,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+labardan,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Roschin,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Roschin,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Ahmed_Salama,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Ahmed_Salama,Progress Bar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Ahmed_Salama,Round Table Knights,0,C,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+BenderRodriges,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+BenderRodriges,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+BenderRodriges,Round Table Knights,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+delta_4d,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+delta_4d,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+delta_4d,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+altabas,Way Too Long Words,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+altabas,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+altabas,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Nil_ct,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Nil_ct,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Nil_ct,Round Table Knights,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+kovi,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kovi,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kovi,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+peryaudo,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+peryaudo,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+peryaudo,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+segrey,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+segrey,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+segrey,Round Table Knights,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+aqpalex87,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+aqpalex87,Progress Bar,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+maxteneff,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+maxteneff,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+maxteneff,Round Table Knights,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Alexanderrrr,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Alexanderrrr,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Alexanderrrr,Round Table Knights,1,C,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+nkshn,Way Too Long Words,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+nkshn,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+nkshn,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+XKnight,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+XKnight,Progress Bar,1,B,1,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+XKnight,Round Table Knights,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+AmazingCaddy,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+AmazingCaddy,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+AmazingCaddy,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,math,number theory"
+Mazeev,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mazeev,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Mazeev,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,math,number theory"
+Algorithm,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Algorithm,Progress Bar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Algorithm,Round Table Knights,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Algorithm,Nuclear Fusion,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+sp2hari,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sp2hari,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rishabhm,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+rishabhm,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rishabhm,Round Table Knights,1,C,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+informatik,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+informatik,Round Table Knights,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+informatik,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+alexej,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+alexej,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+alexej,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Mata,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mata,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Mata,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,math,number theory"
+kzr.buet08,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kzr.buet08,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yuta1024,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+yuta1024,Progress Bar,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yuta1024,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+kabir.sohel,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kabir.sohel,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kabir.sohel,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Istari,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Istari,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Istari,Round Table Knights,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+jiangweiqi,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+jiangweiqi,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+jiangweiqi,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Xerxes,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Xerxes,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Scorpy,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Scorpy,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Scorpy,Round Table Knights,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+vlad,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+vlad,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+winterflame,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+winterflame,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+winterflame,Round Table Knights,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+pareshverma007,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pareshverma007,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+marque,Way Too Long Words,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+marque,Round Table Knights,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,math,number theory"
+marque,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pasin30055,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pasin30055,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pasin30055,Round Table Knights,0,C,1,0,0,1,0,10,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+pasin30055,Nuclear Fusion,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+pasin30055,Solitaire,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+snail,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+snail,Progress Bar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+snail,Round Table Knights,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+deadpadre,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+deadpadre,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+deadpadre,Round Table Knights,1,C,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+noriok,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+noriok,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+noriok,Round Table Knights,1,C,0,0,0,1,0,6,0,1,0,0,0,0,0,1,0,0,0,"dp,math,number theory"
+CleRIC,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+CleRIC,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+CleRIC,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+tcjuan,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tcjuan,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tcjuan,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+tcjuan,Nuclear Fusion,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+hiiit,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+hiiit,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+hiiit,Round Table Knights,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"dp,math,number theory"
+narik,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+narik,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+narik,Round Table Knights,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+narik,Solitaire,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+yimao,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+yimao,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yimao,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+4ybakut2004,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+4ybakut2004,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yt_siden,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+yt_siden,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+matsu4512,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+matsu4512,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+matsu4512,Round Table Knights,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+matsu4512,Solitaire,1,D,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+smolcoder,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+smolcoder,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+smolcoder,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Quazar,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Quazar,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Quazar,Nuclear Fusion,1,E,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+udayrocks2k8,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+udayrocks2k8,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+udayrocks2k8,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,math,number theory"
+sakib.malek,Way Too Long Words,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+sakib.malek,Progress Bar,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+TheOneWhoWillRock,Way Too Long Words,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+TheOneWhoWillRock,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+TheOneWhoWillRock,Round Table Knights,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Adai_is,Way Too Long Words,0,A,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Wahba,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Wahba,Progress Bar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Ever1989,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Ever1989,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Ever1989,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Mick,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mick,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Mick,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+pshtanko,Way Too Long Words,0,A,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pshtanko,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pshtanko,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+pshtanko,Solitaire,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Steelrat,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Steelrat,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Steelrat,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Steelrat,Nuclear Fusion,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+Templar,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Templar,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Templar,Round Table Knights,0,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+mouse,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mouse,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mouse,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+t.gogniashvili,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+t.gogniashvili,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+luckyi,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+luckyi,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+luckyi,Round Table Knights,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,math,number theory"
+sanchit_h,Way Too Long Words,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+sanchit_h,Progress Bar,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sanchit_h,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+mingrimingyue,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mingrimingyue,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+hector.almo,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+hector.almo,Progress Bar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+edem.kwadzo,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+edem.kwadzo,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+middle_impulse,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+middle_impulse,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+middle_impulse,Round Table Knights,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+max777alex,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+max777alex,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+max777alex,Round Table Knights,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Monmoy,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Monmoy,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+hacker007,Way Too Long Words,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+hacker007,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+hacker007,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+member666,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+member666,Progress Bar,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+member666,Round Table Knights,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+foxermen,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+paranoid,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+paranoid,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+paranoid,Round Table Knights,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Foosvald,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Foosvald,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Foosvald,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+strelok1918,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+strelok1918,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+strelok1918,Round Table Knights,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Ahmed.Ibrahem,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Ahmed.Ibrahem,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Ahmed.Ibrahem,Round Table Knights,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Morozko,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Morozko,Progress Bar,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Morozko,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+bekzhan29,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+bekzhan29,Round Table Knights,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+safin_pavel,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+safin_pavel,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+safin_pavel,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+BIT,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+BIT,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+BIT,Round Table Knights,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+bluesubzero,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+bluesubzero,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+bluesubzero,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Nursoltan,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Nursoltan,Progress Bar,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+seen,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+seen,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+seen,Round Table Knights,1,C,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+I_L_P,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+I_L_P,Progress Bar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Diabolic,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Diabolic,Progress Bar,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Diabolic,Round Table Knights,0,C,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,"dp,math,number theory"
+Blink,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Blink,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+Blink,Round Table Knights,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+PER,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+PER,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+PER,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+EdgeLuxe,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+EdgeLuxe,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+codingbunny,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+KA-95,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+KA-95,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+KA-95,Round Table Knights,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+A-shot,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+A-shot,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+A-shot,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+igsilya,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+igsilya,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+igsilya,Round Table Knights,1,C,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"dp,math,number theory"
+igor_kz,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+igor_kz,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+igor_kz,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+igor_kz,Nuclear Fusion,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+experience257,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+experience257,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+experience257,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+piro1996,Way Too Long Words,0,A,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+piro1996,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+piro1996,Round Table Knights,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+asif_iut,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+asif_iut,Progress Bar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+SkylineGTR,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+SkylineGTR,Progress Bar,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+SkylineGTR,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+MaGNetLei,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+MaGNetLei,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+MaGNetLei,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+master,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+master,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Sammax,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Sammax,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+Sammax,Round Table Knights,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+zimbabwe,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+zimbabwe,Progress Bar,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+zimbabwe,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+yuuki3655,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+yuuki3655,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yuuki3655,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+yuuki3655,Nuclear Fusion,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+Shiho,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Shiho,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Shiho,Round Table Knights,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+mohammad.mahmoodi,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mohammad.mahmoodi,Progress Bar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cornflow,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+cornflow,Progress Bar,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cornflow,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+stef,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+stef,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+stef,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+stef,Solitaire,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+afMartinez,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+afMartinez,Progress Bar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+afMartinez,Round Table Knights,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+xiaoyoulei2,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+xiaoyoulei2,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+xiaoyoulei2,Round Table Knights,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+dened,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+dened,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+dened,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+dened,Solitaire,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+spongebob,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+spongebob,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+spongebob,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Ralf,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Ralf,Progress Bar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rayevg,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+rayevg,Progress Bar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tatsuyafw,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+tatsuyafw,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tatsuyafw,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+tatsuyafw,Nuclear Fusion,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+yarrr,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+yarrr,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yarrr,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+yarrr,Nuclear Fusion,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+rafa.cipri,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+rafa.cipri,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rafa.cipri,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Ziklon,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Ziklon,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Ziklon,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+kterry,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kterry,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kterry,Round Table Knights,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+kterry,Solitaire,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+kterry,Nuclear Fusion,1,E,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+devilofaboy,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+devilofaboy,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+devilofaboy,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+CHarm,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+CHarm,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shou,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+shou,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shou,Round Table Knights,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+victoryland,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+victoryland,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+victoryland,Round Table Knights,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+T-30,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+T-30,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+T-30,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Gelka,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Gelka,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Gelka,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,math,number theory"
+NSV,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+NSV,Round Table Knights,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+NSV,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kgs,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kgs,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kgs,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+_jte_,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+_jte_,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+_jte_,Round Table Knights,1,C,1,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Amandyk,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Aizava,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Aizava,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+anuragb,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+anuragb,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+anuragb,Round Table Knights,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+niquefa,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+niquefa,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+niquefa,Round Table Knights,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+riktor,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+riktor,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+riktor,Round Table Knights,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+riktor,Nuclear Fusion,0,E,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+bormotov,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+bormotov,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+bormotov,Round Table Knights,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+ahxgw,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ahxgw,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ahxgw,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Jamik,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Jamik,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Jamik,Round Table Knights,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+neigerhidebu,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+neigerhidebu,Round Table Knights,0,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+neigerhidebu,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+f1aSk0.kz,Way Too Long Words,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+f1aSk0.kz,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+tekito,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tekito,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tekito,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+koudayu,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+koudayu,Progress Bar,1,B,1,0,0,0,0,12,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+ATrosinenko,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ATrosinenko,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ATrosinenko,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+huangdongfa,Way Too Long Words,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+huangdongfa,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ameydhar,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ameydhar,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+LongCtrl,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+LongCtrl,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+LongCtrl,Round Table Knights,1,C,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+xiaohongmusic,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+xiaohongmusic,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cupo_O,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+cupo_O,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cupo_O,Round Table Knights,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,math,number theory"
+alann,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+alann,Progress Bar,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+abdo_abdo5,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+abdo_abdo5,Progress Bar,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+abdo_abdo5,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+giongto35,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+giongto35,Progress Bar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+giongto35,Round Table Knights,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Irkhin,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Irkhin,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Irkhin,Round Table Knights,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Irkhin,Nuclear Fusion,1,E,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+zlly,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+zlly,Progress Bar,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+zlly,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+codeislands,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+codeislands,Progress Bar,0,B,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"implementation,math"
+codeislands,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+olekluka,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+olekluka,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+olekluka,Solitaire,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+aleksandr_gusarov,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+aleksandr_gusarov,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+aleksandr_gusarov,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+unicef,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+unicef,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+unicef,Round Table Knights,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+unicef,Solitaire,0,D,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+unicef,Nuclear Fusion,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+pratvick,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pratvick,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pratvick,Round Table Knights,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+streetfi8er,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+streetfi8er,Progress Bar,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+alexandret,Way Too Long Words,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+your_conscience,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+your_conscience,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+your_conscience,Round Table Knights,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+taichi,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+catupper,Way Too Long Words,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+catupper,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+catupper,Round Table Knights,1,C,0,0,0,0,0,8,0,0,0,0,0,0,0,1,0,0,0,"dp,math,number theory"
+tanitanin,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tanitanin,Progress Bar,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tanitanin,Round Table Knights,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+t0il3t_s0ap,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+t0il3t_s0ap,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+t0il3t_s0ap,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+xor1005,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+xor1005,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,math,number theory"
+matrix_sust,Way Too Long Words,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+matrix_sust,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+matrix_sust,Round Table Knights,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Hangibhom,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Hangibhom,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Hangibhom,Progress Bar,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Kuldeep,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Kuldeep,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Kuldeep,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+KoreanBoy,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+NikitaPogodin,Progress Bar,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+NikitaPogodin,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+NikitaPogodin,Round Table Knights,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+vova.bogatyrev,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+vova.bogatyrev,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+vova.bogatyrev,Round Table Knights,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+sh19910711,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+sh19910711,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sh19910711,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,math,number theory"
+rysiek,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+rysiek,Progress Bar,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+GDR,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+GDR,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+GDR,Round Table Knights,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+GDR,Nuclear Fusion,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+jimon,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+jimon,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+jimon,Round Table Knights,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+are,Way Too Long Words,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+are,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+zyx3d,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+zyx3d,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+zyx3d,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Yousef_Salama,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Yousef_Salama,Round Table Knights,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+johanhil,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+johanhil,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+eldar,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+eldar,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+eldar,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+born_coder,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+born_coder,Progress Bar,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+born_coder,Round Table Knights,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+GShark,Way Too Long Words,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+GShark,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+GShark,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+rigelbm,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+rigelbm,Progress Bar,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rigelbm,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+flowlight,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+flowlight,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+flowlight,Round Table Knights,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+akram,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+akram,Progress Bar,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+HJWAJ,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+HJWAJ,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+HJWAJ,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Diman_yoyo,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Diman_yoyo,Progress Bar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Diman_yoyo,Round Table Knights,0,C,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+boba,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+boba,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+amee_csedu,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+amee_csedu,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+farhan_iut,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+farhan_iut,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+farhan_iut,Round Table Knights,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+fayyaz,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+fayyaz,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+fayyaz,Nuclear Fusion,1,E,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+Pikeman,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Pikeman,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Pikeman,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Pikeman,Solitaire,1,D,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+fixed_sun,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+fixed_sun,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+fixed_sun,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+iris,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+iris,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Shuaib,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Shuaib,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Shuaib,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+lokeshgovindu,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+lokeshgovindu,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+lokeshgovindu,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+TAS,Way Too Long Words,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+rajatag12,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+rajatag12,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rajatag12,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+MIM,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+nisha2009331024,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+nisha2009331024,Round Table Knights,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+nisha2009331024,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+xDEMONx,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+xDEMONx,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+xDEMONx,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+keramer,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+keramer,Progress Bar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+keramer,Round Table Knights,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+nandar.rustam,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+nandar.rustam,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+nandar.rustam,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+ericksan,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ericksan,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ghostplant,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ghostplant,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ghostplant,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+ghostplant,Solitaire,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Muvuris,Way Too Long Words,0,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,strings
+Muvuris,Progress Bar,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+DarkYoshi,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+DarkYoshi,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+DarkYoshi,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+DarkYoshi,Nuclear Fusion,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+RezaSi,Way Too Long Words,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+RezaSi,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sas4eka,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sas4eka,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sas4eka,Round Table Knights,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+DancingLetter,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+DancingLetter,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+DancingLetter,Round Table Knights,1,C,0,0,0,0,0,5,0,1,0,0,0,0,0,0,1,0,0,"dp,math,number theory"
+DancingLetter,Nuclear Fusion,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+tk_,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tk_,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tk_,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+roku,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+roku,Progress Bar,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+roku,Round Table Knights,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+ishikado,Way Too Long Words,0,A,1,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+ishikado,Progress Bar,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+ishikado,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+berden,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+berden,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+berden,Round Table Knights,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+legend_ni,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+legend_ni,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+legend_ni,Round Table Knights,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+xkor,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+xkor,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+xkor,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+xiejunjun,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+xiejunjun,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+xiejunjun,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+powermelon,Way Too Long Words,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+powermelon,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+powermelon,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+i_love_daniel,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+i_love_daniel,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+i_love_daniel,Round Table Knights,1,C,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+kemo,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kemo,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kemo,Nuclear Fusion,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+NVAL,Way Too Long Words,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+NVAL,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+mbllllohok,Way Too Long Words,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+mbllllohok,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mbllllohok,Round Table Knights,1,C,0,0,0,4,5,4,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+sash6589,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sash6589,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sash6589,Round Table Knights,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Dremov,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Dremov,Progress Bar,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Dremov,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Dremov,Nuclear Fusion,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+tishin-anton,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+tishin-anton,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+morteza.keshtkaran,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+morteza.keshtkaran,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+morteza.keshtkaran,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+chenpengyu,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+chenpengyu,Progress Bar,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+chenpengyu,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,math,number theory"
+knst,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+knst,Progress Bar,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+knst,Round Table Knights,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+LesyaPhoenix,Way Too Long Words,0,A,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,strings
+LesyaPhoenix,Progress Bar,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Yera,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+SingWithMe,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+SingWithMe,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+SingWithMe,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+agrigoroi,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+agrigoroi,Progress Bar,0,B,1,0,0,1,0,11,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+agrigoroi,Round Table Knights,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+hnu0314,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+hnu0314,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+hnu0314,Round Table Knights,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+ilyakryukov,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ilyakryukov,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+lnman,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+lnman,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+lnman,Round Table Knights,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+rogu3,Way Too Long Words,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+rogu3,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+PAG,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+PAG,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+PAG,Round Table Knights,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+rainny,Way Too Long Words,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+rainny,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rainny,Round Table Knights,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+fsb4000,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+fsb4000,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+fsb4000,Round Table Knights,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+nikunj165,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+nikunj165,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+TecktonickKiller,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+TecktonickKiller,Progress Bar,1,B,0,0,0,2,0,4,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+TecktonickKiller,Solitaire,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+TecktonickKiller,Nuclear Fusion,0,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+anton,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+anton,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+anton,Round Table Knights,0,C,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+anton,Solitaire,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+riki,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+riki,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+UminchuR,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+UminchuR,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+UminchuR,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+kroykroy,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kroykroy,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kroykroy,Round Table Knights,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+f.nasim,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+f.nasim,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+f.nasim,Round Table Knights,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+nobody,Way Too Long Words,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+nobody,Progress Bar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Vasilisk,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Vasilisk,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Vasilisk,Round Table Knights,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Verdona0,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Verdona0,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Verdona0,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,math,number theory"
+alexlz661,Way Too Long Words,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+alexlz661,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+alexlz661,Round Table Knights,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+unki,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+unki,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+natsuki_i,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+natsuki_i,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+natsuki_i,Round Table Knights,1,C,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,"dp,math,number theory"
+peterae86,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+peterae86,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+peterae86,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+espy,Way Too Long Words,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+espy,Progress Bar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+blueicey,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+blueicey,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+lpeter,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+lpeter,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+lpeter,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+ekrilov92,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ekrilov92,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+oleg.ivye,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tushar1391,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+qwrq,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+qwrq,Progress Bar,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+qwrq,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+filipkatanic,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+filipkatanic,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+__Joker,Way Too Long Words,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+__Joker,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+__Joker,Round Table Knights,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+vfix,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+vfix,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+vfix,Round Table Knights,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Sigizmynd,Way Too Long Words,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+Sigizmynd,Round Table Knights,1,C,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Sigizmynd,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Lord_0f_D_C0des,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Lord_0f_D_C0des,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Lord_0f_D_C0des,Round Table Knights,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Arsalan,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Arsalan,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Qili,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Qili,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Qili,Round Table Knights,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+abdukodir,Way Too Long Words,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+abdukodir,Progress Bar,1,B,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+abdukodir,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+anton192,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+anton192,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+anton192,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+xelez,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+xelez,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Maksat,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Maksat,Progress Bar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Maksat,Round Table Knights,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+iman_MC,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+iman_MC,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Electronick,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Electronick,Progress Bar,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+Electronick,Round Table Knights,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+flash36,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+flash36,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+flash36,Round Table Knights,1,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+yrhsilence,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+yrhsilence,Progress Bar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tsyrya,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tsyrya,Progress Bar,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Pingvi,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Pingvi,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Pingvi,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+arch.,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+arch.,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+arch.,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+dango3334,Way Too Long Words,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+dango3334,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+dango3334,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+kuraku,Way Too Long Words,0,A,0,0,0,8,0,21,0,0,0,0,0,0,0,0,0,0,0,strings
+kuraku,Progress Bar,0,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+deadman_22,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+deadman_22,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+nurs,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+nurs,Round Table Knights,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+vinayjulme,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+vinayjulme,Progress Bar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Slamur,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Slamur,Progress Bar,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Slamur,Round Table Knights,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+can,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+can,Progress Bar,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+can,Round Table Knights,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+toxahak,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+toxahak,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+toxahak,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Eugene_nik,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Eugene_nik,Progress Bar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+D.M.,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+D.M.,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+fkrafi,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mahrud,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Mahrud,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Mahrud,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Sheloth,Way Too Long Words,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+Sheloth,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Sheloth,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+limiTed,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+limiTed,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+limiTed,Round Table Knights,1,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Tahmid,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Tahmid,Round Table Knights,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Tahmid,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+surath,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+surath,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+surath,Round Table Knights,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Och-Iv2000,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Och-Iv2000,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Och-Iv2000,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"dp,math,number theory"
+S030902228,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+S030902228,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Mercer,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mercer,Progress Bar,1,B,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Mercer,Round Table Knights,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+tatuyan_edson,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tatuyan_edson,Round Table Knights,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+tatuyan_edson,Way Too Long Words,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+noname,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+noname,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sujz,Way Too Long Words,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sujz,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sujz,Round Table Knights,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+scofield23,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+scofield23,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Python,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Python,Progress Bar,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Python,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+anadulcepadovan,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+arief.fik91,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Aeon_Industries,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Aeon_Industries,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Aeon_Industries,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+theriddler000,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+jinchunpeng,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+jinchunpeng,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+jinchunpeng,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Azadeh,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Azadeh,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+whitedeath,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+whitedeath,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+whitedeath,Round Table Knights,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+sajib.aust,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sajib.aust,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Mrs.Jehad,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+leaom,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+leaom,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+leaom,Round Table Knights,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+leaom,Nuclear Fusion,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+bondoc73,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+bondoc73,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+bondoc73,Round Table Knights,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+dhruv571,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+dhruv571,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+dhruv571,Round Table Knights,1,C,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+vasja_p,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Andro_mikulic,Way Too Long Words,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Lion,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Lion,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Lion,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+RDR,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+BAIZOR,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+BAIZOR,Round Table Knights,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+jarin,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+jarin,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Goshish,Way Too Long Words,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Goshish,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Goshish,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Bylinovich.Vladislav,Way Too Long Words,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Bylinovich.Vladislav,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Bylinovich.Vladislav,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Eilen,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Eilen,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Eilen,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+M03G11,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+M03G11,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+zjy3186511,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+zjy3186511,Progress Bar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+nhrahi_iut,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+nhrahi_iut,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Baha_ktl,Way Too Long Words,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+Baha_ktl,Progress Bar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+TRR,Nuclear Fusion,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+TRR,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+TRR,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+TRR,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+j_jiafei,Way Too Long Words,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+j_jiafei,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+j_jiafei,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+pol,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pol,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pol,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+maks9,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+maks9,Progress Bar,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+maks9,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Emettant,Way Too Long Words,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+Emettant,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Emettant,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+251083874,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+251083874,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+251083874,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,math,number theory"
+nise_nabe,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+winterwolf94,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+winterwolf94,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+winterwolf94,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+median0816,Way Too Long Words,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+median0816,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+median0816,Round Table Knights,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+youdianlei,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+youdianlei,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+youdianlei,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Millanezyo13,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Millanezyo13,Progress Bar,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Millanezyo13,Round Table Knights,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+ACKOKO,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ACKOKO,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rajib,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+rajib,Progress Bar,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rajib,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Mikle.Noman,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mikle.Noman,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+lukaszw,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+lukaszw,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+lukaszw,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+aleksei,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+aleksei,Progress Bar,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+reiracofage,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+reiracofage,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+reiracofage,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+reiracofage,Nuclear Fusion,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,5,0,0,"bitmasks,dp"
+Bujo0,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Bujo0,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+asakevarashvili,Way Too Long Words,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,strings
+asakevarashvili,Progress Bar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+asamarin,Way Too Long Words,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+00000,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+00000,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+gifer,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+gifer,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Stalker,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Stalker,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+zjshark,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+zjshark,Progress Bar,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+zjshark,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+sholeg,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sholeg,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sholeg,Round Table Knights,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+lastassassin,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+lastassassin,Progress Bar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tsvetujochka,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tsvetujochka,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tsvetujochka,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+ecjtu_qiumowu,Way Too Long Words,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+MikeNirzayanov,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Vasya,Way Too Long Words,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+dananger,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+dananger,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+dananger,Round Table Knights,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+dnike,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+dnike,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+dnike,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+fifa_iut,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+fifa_iut,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Petrushenko,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Petrushenko,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ferraritnl,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ferraritnl,Progress Bar,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Daniyar_7,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+Daniyar_7,Round Table Knights,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+LordArtur,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+LordArtur,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+LordArtur,Round Table Knights,1,C,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+PeterGriffin,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+PeterGriffin,Progress Bar,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+PeterGriffin,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Casio,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Casio,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+Casio,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+MOBIUSi,Way Too Long Words,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,strings
+MOBIUSi,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+loro,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+loro,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Olage,Way Too Long Words,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+Olage,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Olage,Round Table Knights,1,C,0,0,0,0,0,5,0,1,0,0,0,0,0,1,0,0,0,"dp,math,number theory"
+denny,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+denny,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+denny,Round Table Knights,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Lay_ec,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Lay_ec,Round Table Knights,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Lay_ec,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+dima11221122,Way Too Long Words,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+dima11221122,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yuanhang,Way Too Long Words,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+yuanhang,Progress Bar,1,B,0,0,0,0,0,2,0,2,0,0,0,0,0,0,2,0,0,"implementation,math"
+yuanhang,Round Table Knights,0,C,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+serik,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+serik,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+rudolf,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+rudolf,Progress Bar,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rudolf,Round Table Knights,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+HellCom,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+HellCom,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+majno,Way Too Long Words,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+ayushi_singh,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ayushi_singh,Progress Bar,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Fantomasdnb,Way Too Long Words,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+Fantomasdnb,Progress Bar,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sekiye,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+sekiye,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sekiye,Round Table Knights,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+aioros,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+aioros,Progress Bar,1,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Shadz07,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Shadz07,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Shadz07,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+denike-web,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+denike-web,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+denike-web,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+anshul27,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+anshul27,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+anshul27,Round Table Knights,1,C,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Iain,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Iain,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+dadongking,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+dadongking,Progress Bar,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+dadongking,Round Table Knights,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+KOKS,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+KOKS,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Melamori,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Melamori,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Melamori,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+n20084753,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+n20084753,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+n20084753,Round Table Knights,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+VlaMart,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+VlaMart,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+VlaMart,Round Table Knights,1,C,0,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+naaaag,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ty70,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ty70,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+iksuy,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+iksuy,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Petrigr,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Petrigr,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Petrigr,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+zunzun,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+zunzun,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+zunzun,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+tstusreg,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+tstusreg,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+jose,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,strings
+shankyboy,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+shankyboy,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+shankyboy,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+anon20016,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+anon20016,Round Table Knights,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"dp,math,number theory"
+anon20016,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+touyoubuntu,Way Too Long Words,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,strings
+touyoubuntu,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+touyoubuntu,Nuclear Fusion,1,E,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+ashi009,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ashi009,Progress Bar,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ashi009,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+algoritmus,Way Too Long Words,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+algoritmus,Progress Bar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+nachiketkb,Way Too Long Words,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+delmind,Way Too Long Words,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+PR0CESS0R,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+PR0CESS0R,Progress Bar,1,B,0,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+PR0CESS0R,Round Table Knights,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+bitjam,Progress Bar,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+bitjam,Way Too Long Words,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+mrunique.01,Round Table Knights,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+aakash01,Way Too Long Words,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+aakash01,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+aakash01,Round Table Knights,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+newx,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+newx,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+newx,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,math,number theory"
+Amadei,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Amadei,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tiirz,Way Too Long Words,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,strings
+tiirz,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+gravity,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Firuz,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Firuz,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+billionerdv,Progress Bar,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+billionerdv,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+billionerdv,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+lkssharma,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+lkssharma,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+BudAlNik,Way Too Long Words,0,A,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,strings
+sotonamitol,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sotonamitol,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sotonamitol,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Vasyl,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Vasyl,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Vasyl,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Nadezhda,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Nadezhda,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Nadezhda,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+moldabekov,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+moldabekov,Progress Bar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cartesio,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+cartesio,Progress Bar,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cartesio,Round Table Knights,1,C,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+pavankrish1,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pavankrish1,Progress Bar,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+KENT_0,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+KENT_0,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+acc1,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+PaHaK,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+yasser_adel,Way Too Long Words,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,strings
+madhu1990,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+efreet,Way Too Long Words,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+efreet,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+zhuraulevich,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+zhuraulevich,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+zhuraulevich,Round Table Knights,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+lex_t,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+lex_t,Progress Bar,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+wpdvwa,Way Too Long Words,0,A,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,strings
+wpdvwa,Progress Bar,0,B,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+aristokrat,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+aristokrat,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+navi-spb,Way Too Long Words,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+navi-spb,Progress Bar,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+4nddr3,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+4nddr3,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+4nddr3,Solitaire,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+kaushik777,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kaushik777,Progress Bar,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+funky,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+funky,Round Table Knights,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+ecjtuyizhenmi,Way Too Long Words,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+sema08,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sema08,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sema08,Round Table Knights,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Vitaly,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Vitaly,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Vitaly,Round Table Knights,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Inspired,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Inspired,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Bishnoi,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Bishnoi,Round Table Knights,1,C,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+AvaMight,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+AvaMight,Progress Bar,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ascrazy,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ascrazy,Progress Bar,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yana_t,Way Too Long Words,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,strings
+yana_t,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+khanhptnk,Round Table Knights,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,math,number theory"
+s-m-k-p,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+s-m-k-p,Progress Bar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+s-m-k-p,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+kaynat,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kaynat,Progress Bar,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Chernova_Katya,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Chernova_Katya,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Chernova_Katya,Round Table Knights,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+vietlong2110,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+vietlong2110,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+vietlong2110,Round Table Knights,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+tokens,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tokens,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tokens,Round Table Knights,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+pepodlypnov,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+rrevenantt,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+rrevenantt,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rrevenantt,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+ruban,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ruban,Progress Bar,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ruban,Round Table Knights,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+bigeye,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+bigeye,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+bigeye,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+bigeye,Nuclear Fusion,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,dp"
+dumb,Way Too Long Words,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ajay0221,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ajay0221,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+EvAn,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+EvAn,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+EvAn,Round Table Knights,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+einstein010,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+einstein010,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+trycoder,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+trycoder,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+trycoder,Round Table Knights,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Keerill,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Keerill,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+milpas999,Way Too Long Words,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Eather,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Eather,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+nusurge,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+nusurge,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Amrodis,Way Too Long Words,0,A,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+Amrodis,Progress Bar,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Amrodis,Round Table Knights,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+ItsLastDay,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+lobo,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+lobo,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+lobo,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+ZLATKO,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ZLATKO,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ZLATKO,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+kaifonaft,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kaifonaft,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rock,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+gonpijolu,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+gonpijolu,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+demonidzu,Round Table Knights,0,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+acm1448282414,Round Table Knights,1,C,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+eagleflying,Way Too Long Words,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+romil,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+romil,Progress Bar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+punkant,Way Too Long Words,1,A,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,strings
+xiao_wu,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+xiao_wu,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+xiao_wu,Round Table Knights,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+erudite,Way Too Long Words,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+erudite,Progress Bar,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+agegorin,Progress Bar,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+agegorin,Way Too Long Words,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Ab.Sultan,Way Too Long Words,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Ab.Sultan,Progress Bar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ACfighter,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ACfighter,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+lijunle,Way Too Long Words,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+lijunle,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+lijunle,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Mario88,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mario88,Progress Bar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Mario88,Round Table Knights,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+ViugiNik,Way Too Long Words,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+ViugiNik,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mirsaid_mir,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mirsaid_mir,Progress Bar,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sunkehappy,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sunkehappy,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sunkehappy,Round Table Knights,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+pichulia,Way Too Long Words,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+pichulia,Progress Bar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pichulia,Round Table Knights,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+WAVwind,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+WAVwind,Progress Bar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+WAVwind,Round Table Knights,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+ashawkat89,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+khanaleemullah,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+khanaleemullah,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+khanaleemullah,Round Table Knights,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+multisystem,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+multisystem,Progress Bar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+multisystem,Round Table Knights,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Etcho,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Etcho,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+alexander.petrichkovich,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+shopnobaj,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+OmirZhan,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+OmirZhan,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+OmirZhan,Round Table Knights,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+akashs.cse,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+akashs.cse,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+akashs.cse,Round Table Knights,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+darkl0rd,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+darkl0rd,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tisha,Way Too Long Words,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+ruben,Round Table Knights,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+ruben,Progress Bar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ruben,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Scipt,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Scipt,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+zer0,Round Table Knights,0,C,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+zer0,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ilovechina,Way Too Long Words,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+ilovechina,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+chenzeyu,Progress Bar,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+chenzeyu,Way Too Long Words,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Arthebald,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Arthebald,Round Table Knights,0,C,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Arthebald,Way Too Long Words,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+null_pointer,Way Too Long Words,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+null_pointer,Progress Bar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+alexandar92,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+alexandar92,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+most_wanted,Way Too Long Words,0,A,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,strings
+manjunath426jc,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+manjunath426jc,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+mabodx,Way Too Long Words,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mabodx,Progress Bar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mishastassen,Round Table Knights,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+Batyr_004,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+shopnil,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+fullaccepted,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+hello,Round Table Knights,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+dmitry.s,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+dmitry.s,Progress Bar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+JustSmile,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Fedyarer,Round Table Knights,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,number theory"
+JmJ,Way Too Long Words,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+qvazar,Progress Bar,0,B,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"

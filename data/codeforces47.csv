@@ -1,0 +1,808 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+delphicoder,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+delphicoder,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+delphicoder,Cannon,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+giongto35,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+giongto35,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AMIRKG,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+AMIRKG,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AMIRKG,Safe,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+AMIRKG,Cannon,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+sicasli,Triangular numbers,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+sicasli,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mr.trololo,Triangular numbers,0,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+mr.trololo,Coins,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mr.trololo,Crossword,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+dieglaube,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+dieglaube,Coins,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dieglaube,Cannon,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+dieglaube,Safe,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+ondrah,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+ondrah,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kari,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+kari,Coins,1,B,1,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,implementation
+kari,Crossword,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+DimaPhil,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+DimaPhil,Coins,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+DimaPhil,Cannon,1,E,0,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+midrux,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+midrux,Coins,1,B,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,implementation
+midrux,Crossword,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fura,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+fura,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+winterflame,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+winterflame,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+trulo_17,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+trulo_17,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+trulo_17,Crossword,1,C,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+trulo_17,Cannon,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+delta,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+delta,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+delta,Crossword,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+delta,Safe,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Alkaline,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Alkaline,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alkaline,Cannon,0,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+Alkaline,Crossword,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahmadabdolkader,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+ahmadabdolkader,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahmadabdolkader,Crossword,1,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+ahmadabdolkader,Cannon,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+lenden31,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,math"
+lenden31,Coins,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lenden31,Safe,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+PML,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+PML,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kiyoshi,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+kiyoshi,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kiyoshi,Safe,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+kiyoshi,Cannon,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+ghostof2007,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+ghostof2007,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gurovic,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+gurovic,Coins,0,B,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+gurovic,Crossword,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KTY,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+KTY,Coins,1,B,1,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+KTY,Cannon,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+andrehahn,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+andrehahn,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+andrehahn,Safe,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+andrehahn,Cannon,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+fsb4000,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+fsb4000,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xenocratus,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+xenocratus,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xenocratus,Cannon,1,E,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+mixser.by,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+mixser.by,Coins,1,B,0,0,0,0,1,8,0,0,0,0,0,0,0,0,0,0,0,implementation
+sune2,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+sune2,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sune2,Crossword,1,C,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,implementation
+nfs420,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+AVoz,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+AVoz,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+phamducgiam,Triangular numbers,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+phamducgiam,Coins,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+phamducgiam,Crossword,1,C,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,implementation
+Mex-Mans,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Mex-Mans,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mex-Mans,Crossword,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+katygolova,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,math"
+katygolova,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+katygolova,Cannon,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+VIB,Triangular numbers,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+VIB,Coins,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Roman-uragan,Triangular numbers,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+AnhDQ,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+AnhDQ,Coins,0,B,1,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+AnhDQ,Safe,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+AnhDQ,Crossword,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+lijunle,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+lijunle,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lijunle,Crossword,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Backs,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Backs,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Backs,Crossword,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Backs,Cannon,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+shhdup,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+shhdup,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shhdup,Crossword,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+rexim,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+rexim,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zjf.sjtu,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+zjf.sjtu,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zjf.sjtu,Safe,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+zjf.sjtu,Cannon,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+kurakun,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+kurakun,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kurakun,Safe,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+kurakun,Cannon,1,E,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+luckyi,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+luckyi,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AguL,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,math"
+AguL,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tahlil,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Tahlil,Coins,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+komron_hkl,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+komron_hkl,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+master_j,Triangular numbers,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+master_j,Coins,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chenchen1024,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+chenchen1024,Coins,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+unrated,Triangular numbers,0,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+unrated,Coins,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yongwhan,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+yongwhan,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yongwhan,Safe,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+kostya_by,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+kostya_by,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Goofy57,Triangular numbers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Goofy57,Coins,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Goofy57,Safe,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+morojenoe,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+morojenoe,Coins,1,B,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+cappy,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+cappy,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cappy,Crossword,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cappy,Safe,1,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Frodo94,Triangular numbers,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"brute force,math"
+Frodo94,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+_jte_,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+_jte_,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sydy,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+sydy,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Qulinxao,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Qulinxao,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ichyo,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+ichyo,Coins,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+ichyo,Cannon,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+Ress,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Ress,Coins,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ress,Safe,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Perlik,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Perlik,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Michael_Spitzin,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Michael_Spitzin,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fcspartakm,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+fcspartakm,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+towelenee,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+towelenee,Coins,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+towelenee,Safe,1,D,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,brute force
+Hamzawy,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,math"
+Hamzawy,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kiberbit,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Kiberbit,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kiberbit,Cannon,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+Kiberbit,Safe,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+Vladimir.Del,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Vladimir.Del,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+spown,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,math"
+spown,Coins,1,B,1,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+spown,Cannon,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+JIOCb_SPb,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+JIOCb_SPb,Coins,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+JIOCb_SPb,Cannon,1,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+McLaren,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,math"
+McLaren,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+delta_mj,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+delta_mj,Coins,1,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,implementation
+robb_billy,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+robb_billy,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+astrovsky,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+astrovsky,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TarifEzaz,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+TarifEzaz,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mhm.asghari,Triangular numbers,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+mhm.asghari,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mhm.asghari,Safe,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+myltik,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,math"
+myltik,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+myltik,Safe,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+sandro_barna,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+sandro_barna,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruban,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+ruban,Cannon,0,E,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,"data structures,geometry,sortings"
+ruban,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+onlyillusion,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+onlyillusion,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+onlyillusion,Crossword,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tatsuyafw,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+tatsuyafw,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MogoA,Triangular numbers,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+MogoA,Coins,1,B,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kassyi,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+kassyi,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+meparter,Triangular numbers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+meparter,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fujiyama,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+fujiyama,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fujiyama,Cannon,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+Spacejoker,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Spacejoker,Coins,1,B,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+Spacejoker,Safe,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+platinumthinker,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+platinumthinker,Coins,1,B,0,0,0,2,5,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+thejoyofit,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+thejoyofit,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+WOVVAN,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+WOVVAN,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sajjad_gh,Triangular numbers,0,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,math"
+sajjad_gh,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rupak,Triangular numbers,0,A,1,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,"brute force,math"
+Rupak,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ic110,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+ic110,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ic110,Crossword,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ic110,Cannon,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+tohuuquan,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+tohuuquan,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+whitedeath,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+whitedeath,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ald,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+ald,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhandos,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Zhandos,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dnike,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+dnike,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dnike,Cannon,1,E,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+dnike,Crossword,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kreator,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Kreator,Coins,1,B,0,0,0,0,0,6,3,0,0,0,0,0,0,0,0,0,0,implementation
+Oi.,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Oi.,Coins,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Allin,Triangular numbers,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Allin,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cyx5320856,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+cyx5320856,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+funny-shmunny,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+funny-shmunny,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+funny-shmunny,Crossword,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nep1965,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,math"
+nep1965,Coins,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Bearjie,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Bearjie,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Bearjie,Safe,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Saif,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Saif,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+htrinh,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+htrinh,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+neronmoon,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+neronmoon,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+neronmoon,Crossword,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ka1mik,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+ka1mik,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ka1mik,Crossword,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+mchweb,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+mchweb,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chitose,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+chitose,Coins,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+chitose,Crossword,1,C,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+atrades,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+atrades,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+atrades,Crossword,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+atrades,Cannon,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+pheonix,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+pheonix,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pheonix,Cannon,1,E,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+z4p,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+z4p,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+_dangerous_,Triangular numbers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+_dangerous_,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Void,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,math"
+Void,Coins,1,B,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,implementation
+ravi_villuri,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+ravi_villuri,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ravi_villuri,Crossword,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Akramjon,Triangular numbers,0,A,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Akramjon,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+adel_gilmullin,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Skird,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Skird,Coins,0,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Skird,Safe,1,D,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+samshu,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Pashcal,Coins,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pashcal,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Pashcal,Cannon,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+Simeon,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Simeon,Coins,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Anurag,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Anurag,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+England,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+England,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Salat,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Salat,Coins,1,B,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alexander-1709,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Alexander-1709,Coins,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+pius_88,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+pius_88,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aeon_Industries,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Aeon_Industries,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aeon_Industries,Cannon,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,geometry,sortings"
+Mars314,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Mars314,Coins,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mars314,Safe,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+andreyrmg,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+andreyrmg,Coins,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+andreyrmg,Cannon,1,E,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+kasyankrak,Triangular numbers,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+kasyankrak,Coins,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mercer,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Mercer,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zlatkov,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+zlatkov,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Surogatov_S,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Surogatov_S,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Surogatov_S,Crossword,1,C,0,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,0,implementation
+amiOachi,Triangular numbers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+amiOachi,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Och-Iv2000,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Och-Iv2000,Coins,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+4ybakut2004,Triangular numbers,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,math"
+4ybakut2004,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nz1,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+nz1,Coins,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+logN,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+logN,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+logN,Cannon,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+4a1ka,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+4a1ka,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+imslavko,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+imslavko,Coins,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+imslavko,Crossword,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Evgeni,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Evgeni,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+Ugzuzg,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Ugzuzg,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wenming17,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+wenming17,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wangshaobiao,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+wangshaobiao,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nerevar1n,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+nerevar1n,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyuridenamida,Coins,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyuridenamida,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Zachary,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Zachary,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Creed,Triangular numbers,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Creed,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tariqul,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Tariqul,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LongCtrl,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+LongCtrl,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LongCtrl,Crossword,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+z7oka,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+z7oka,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tsvetujochka,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+tsvetujochka,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Lapenkov,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Lapenkov,Triangular numbers,1,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,math"
+gauravmunjal,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+ib13681,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+ib13681,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ib13681,Cannon,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+rj7.1990,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+rj7.1990,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+NoobOK,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,math"
+NoobOK,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ksunya,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Ksunya,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+IlyaLos,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+IlyaLos,Coins,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+yazh,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+yazh,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mahfuz,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+mahfuz,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+anas17in,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+anas17in,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ViktorM,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+ViktorM,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ViktorM,Cannon,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+glukin,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+glukin,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+paulocezar,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+paulocezar,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ragvena,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Ragvena,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lazzrov,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,math"
+velraman,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+betterbearat,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+betterbearat,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+betterbearat,Cannon,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+Diman_yoyo,Triangular numbers,1,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Diman_yoyo,Coins,1,B,0,0,0,2,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+LEo,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"brute force,math"
+LEo,Coins,1,B,1,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,implementation
+era_kaz_93,Triangular numbers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+era_kaz_93,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+rajnesh,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+rajnesh,Coins,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+HeroShadow,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+HeroShadow,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nayimsust,Triangular numbers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+nayimsust,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ramywafa,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+ramywafa,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shoorickus,Triangular numbers,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,math"
+shoorickus,Coins,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tamilmani,Triangular numbers,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+tamilmani,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AhlyM,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+AhlyM,Coins,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+AhlyM,Safe,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+zafar_sust_bd,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+zafar_sust_bd,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nise_nabe,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+nise_nabe,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nise_nabe,Crossword,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Arsalan,Triangular numbers,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Arsalan,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tracyzhu,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+tracyzhu,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Conopus,Triangular numbers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,math"
+Conopus,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Conopus,Cannon,0,E,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+john_alter,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+john_alter,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PaHaK,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+PaHaK,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PaHaK,Safe,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+david.a.peter,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+david.a.peter,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dark.coder,Triangular numbers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+dark.coder,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shakil,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+shakil,Coins,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+shakil,Cannon,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+mohammad.mahmoodi,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+mohammad.mahmoodi,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+piro1996,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+piro1996,Coins,1,B,1,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Belonogov,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Belonogov,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CleRIC,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+CleRIC,Coins,1,B,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+saurabh29789,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+saurabh29789,Coins,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+OKOKOK,Triangular numbers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+OKOKOK,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+prashanthkvs,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+A_rustam_rustam,Triangular numbers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+A_rustam_rustam,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pingvi,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Pingvi,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Semenov_Petr,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Semenov_Petr,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shahbox,Triangular numbers,1,A,1,0,0,0,0,80,0,0,0,0,0,0,0,0,1,0,0,"brute force,math"
+Algorithm,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Algorithm,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zink,Triangular numbers,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+zink,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zink,Safe,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+PAG,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+PAG,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hnu0314,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+hnu0314,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Opu,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Opu,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Wahba,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+ankit_shukla,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+ankit_shukla,Coins,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ankit_shukla,Crossword,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Onix,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+d_t_nguyen,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+d_t_nguyen,Coins,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kolia,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+kolia,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kolia,Crossword,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+matrix_sust,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+matrix_sust,Coins,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ilsaf13,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+ilsaf13,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eather,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Eather,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rdik,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+vicky,Triangular numbers,1,A,1,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+TheMoon,Triangular numbers,0,A,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+2a2l,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+2a2l,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+anuar_721,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+anuar_721,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyonghun90,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+kyonghun90,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ViruZ,Triangular numbers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+ViruZ,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+root5,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Andronnix,Triangular numbers,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Andronnix,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Andronnix,Cannon,1,E,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+BatusaiX,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+BatusaiX,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ferdous_CUET,Triangular numbers,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Ferdous_CUET,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+rufferzool,Triangular numbers,1,A,1,0,0,0,1,3,5,1,0,0,0,0,0,0,0,0,0,"brute force,math"
+rufferzool,Coins,1,B,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,implementation
+sergei.voroncov,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+sergei.voroncov,Coins,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+m.elahi,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+m.elahi,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+m.elahi,Safe,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+just_alisher,Triangular numbers,0,A,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+just_alisher,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ryo,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+TwCode,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+TwCode,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sujz,Triangular numbers,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+sujz,Coins,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+sjbr,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+sjbr,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sourav_22,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+sourav_22,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+XuPoKaCaMa,Triangular numbers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+XuPoKaCaMa,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ab.Sultan,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Ab.Sultan,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+toxahak,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+toxahak,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wahyuoi,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+__Joker,Triangular numbers,0,A,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+__Joker,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+iRomchig,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+iRomchig,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MyXoBeK,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+MyXoBeK,Coins,1,B,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+spongebob,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+spongebob,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+JIOPD-XCII,Triangular numbers,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,math"
+koder_dima,Triangular numbers,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+koder_dima,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+koder_dima,Cannon,1,E,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+tudorsiminic1,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+tudorsiminic1,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kylejan,Triangular numbers,0,A,0,0,0,3,0,0,0,8,0,0,0,0,0,0,0,0,0,"brute force,math"
+fayyaz,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+fayyaz,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+fayyaz,Safe,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+galiver,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+galiver,Coins,1,B,1,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,implementation
+Denor,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Denor,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Denor,Cannon,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+EzhikOo,Triangular numbers,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+EzhikOo,Coins,1,B,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+shovonshovo,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+shovonshovo,Coins,1,B,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+ashi009,Triangular numbers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+ashi009,Coins,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ashi009,Crossword,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ashi009,Cannon,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+zermx_011,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+zermx_011,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Luzan,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Luzan,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Luzan,Crossword,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+fahad.sust,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+fahad.sust,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mitash.chaitanya,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,math"
+Anton_Rodick,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Anton_Rodick,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+agapios,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+agapios,Coins,1,B,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,implementation
+agapios,Cannon,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+zjsxzy,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+zjsxzy,Coins,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+dima11221122,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+dima11221122,Coins,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+quocquan,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+quocquan,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lmm333,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+lmm333,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mostafa_elabady,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+mostafa_elabady,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+edem.kwadzo,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+edem.kwadzo,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+15211243642,Triangular numbers,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,math"
+15211243642,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+unk,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+unk,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pirogok,Triangular numbers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Pirogok,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CJS,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+CJS,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nata_S,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Nata_S,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+berden,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+berden,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Skiminok,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Skiminok,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Skiminok,Crossword,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ViVi66,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+ViVi66,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zloypchel,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+zloypchel,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pol,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+pol,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ankit_sablok19,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+ankit_sablok19,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+amaury.vegzav,Triangular numbers,0,A,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+mishanay,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+mishanay,Coins,1,B,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,implementation
+ER.abd_off,Triangular numbers,0,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+ER.abd_off,Coins,1,B,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+asnelzin,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+72VanVector_SevNTU,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+72VanVector_SevNTU,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+72VanVector_SevNTU,Safe,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+Cassandra,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Cassandra,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BenderRodriges,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+BenderRodriges,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+anon20016,Triangular numbers,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+anon20016,Coins,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nna.noname,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+nna.noname,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eugene_nik,Coins,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eugene_nik,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+riki,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+riki,Coins,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+toshakins,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+UJ643,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+UJ643,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NiceDay,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+NiceDay,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shnell,Triangular numbers,0,A,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+shnell,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shnell,Cannon,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+cbingrui,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,math"
+josemourinho_IUT,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+semitr,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+semitr,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+cyber.njust,Triangular numbers,0,A,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,math"
+cyber.njust,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+anuragb,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,math"
+TEN2NAUGHT,Triangular numbers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+TEN2NAUGHT,Coins,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Cromel,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Cromel,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rafsan,Triangular numbers,1,A,1,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+saeedeh,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+saeedeh,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zyq,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Zyq,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+SAH9l,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+SAH9l,Coins,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mukhamedgarif,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+oskirych,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+oskirych,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PavelParhomenko,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+PavelParhomenko,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+FERDOUS_06,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+FERDOUS_06,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hungamaboy,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+hungamaboy,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dimatomp,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+dimatomp,Coins,1,B,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+TRR,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+TRR,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+madhu1990,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+madhu1990,Coins,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+iYoung,Coins,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+iYoung,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+amrzd,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+amrzd,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+RomaRoma,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+RomaRoma,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hallodogy,Triangular numbers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+hallodogy,Coins,1,B,1,0,0,1,0,5,3,0,0,0,0,0,0,0,0,0,0,implementation
+Roschin,Triangular numbers,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Roschin,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+link92,Triangular numbers,1,A,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,"brute force,math"
+DL123,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+DL123,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AleksBannikov,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AleksBannikov,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+AleksBannikov,Cannon,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+pashteiner,Triangular numbers,0,A,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,math"
+pashteiner,Coins,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Profvip.Abotaleb,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Profvip.Abotaleb,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+egypt.pharaoh,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+egypt.pharaoh,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+egypt.pharaoh,Crossword,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Oscar,Triangular numbers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Oscar,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+soundar,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+soundar,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+FSOG,Coins,0,B,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+FSOG,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+shababhsiddique,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+shababhsiddique,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Implemented,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Implemented,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Implemented,Crossword,0,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Implemented,Safe,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Implemented,Cannon,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+Tamski,Coins,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tamski,Triangular numbers,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Jamik,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,math"
+pein,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+pein,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tana,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Moskupols,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Moskupols,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Palci-Udalci,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Yan_Kurganov_Kovrov_STA,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Yan_Kurganov_Kovrov_STA,Coins,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+tsyrya,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Venture,Triangular numbers,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+lokeshcse,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+lokeshcse,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+AvaMight,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+AvaMight,Coins,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,implementation
+n_bool,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+n_bool,Coins,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Firuz,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+abdukodir,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"brute force,math"
+antiriddick,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+antiriddick,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+RomaKoks,Triangular numbers,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+RomaKoks,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rijul_CSEDU,Triangular numbers,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Rijul_CSEDU,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+jackoneilll,Triangular numbers,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,math"
+jackoneilll,Coins,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+jackoneilll,Cannon,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,geometry,sortings"
+free0u,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+victro_hugo,Triangular numbers,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+victro_hugo,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+flushfile,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+flushfile,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+flushfile,Cannon,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+Khaled91,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Khaled91,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rajat_Mathur90,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+thePharaoh,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+andresilva91,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+gigacoder,Triangular numbers,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,math"
+gigacoder,Coins,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+gigacoder,Cannon,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,geometry,sortings"
+al_x,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+delphisourcer,Triangular numbers,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,math"
+delphisourcer,Coins,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+delphisourcer,Cannon,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,geometry,sortings"
+resetfile,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+resetfile,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+resetfile,Cannon,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+romzes,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+romzes,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+d11091995,Triangular numbers,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,math"
+d11091995,Coins,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+d11091995,Cannon,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,geometry,sortings"
+demalah,Triangular numbers,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+mckay,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+mckay,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mckay,Cannon,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry,sortings"
+Affina,Triangular numbers,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Affina,Coins,1,B,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,implementation
+undefined_thimpu,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+undefined_thimpu,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CKBOP,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+AMANDEEP,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+gigacoder2,Triangular numbers,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,math"
+gigacoder2,Coins,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+gigacoder2,Cannon,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,geometry,sortings"
+closefile,Triangular numbers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+closefile,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+closefile,Cannon,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,geometry,sortings"
+matroskin,Triangular numbers,1,A,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Whiterock,Coins,0,B,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Whiterock,Triangular numbers,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+baiyu,Triangular numbers,0,A,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+notEphim,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+notEphim,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+lgvallejo,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lgvallejo,Triangular numbers,1,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+arifcsecu,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+UMysin,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"
+Anastasia,Triangular numbers,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,math"
+Figo,Triangular numbers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math"

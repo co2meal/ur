@@ -1,0 +1,650 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+Krig,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Krig,Relay Race,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Krig,Stars,1,D,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+Egor,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Egor,Numbers,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Egor,Relay Race,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Egor,Stars,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+Egor,Two Permutations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,hashing,strings"
+Andrew_Makar,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Andrew_Makar,Relay Race,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+ballon,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ballon,Relay Race,0,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+ballon,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+ballon,Stars,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+espr1t,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+espr1t,Numbers,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+espr1t,Relay Race,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+infrmtcs,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+infrmtcs,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+infrmtcs,Relay Race,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+KuroNeko,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+KuroNeko,Numbers,0,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+KuroNeko,Relay Race,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+KuroNeko,Stars,1,D,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+Petr,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Petr,Stars,0,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+Petr,Relay Race,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Petr,Two Permutations,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,strings"
+Petr,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+tourist,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+tourist,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+tourist,Relay Race,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+tourist,Stars,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+tourist,Two Permutations,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,strings"
+RAD,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+RAD,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+RAD,Relay Race,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+RAD,Stars,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+witua,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+witua,Relay Race,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+mitchell,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+mitchell,Stars,0,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+mitchell,Relay Race,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+rares.buhai,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+rares.buhai,Numbers,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+rares.buhai,Relay Race,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+package.zaic,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+package.zaic,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+package.zaic,Stars,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+Delusion,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Delusion,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Delusion,Relay Race,1,C,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+lavin,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+lavin,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+lavin,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Igor_Kudryashov,Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Igor_Kudryashov,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+shevchen,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+shevchen,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+shevchen,Stars,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+shevchen,Two Permutations,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,strings"
+shevchen,Relay Race,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+KADR,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+KADR,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+homo_sapiens,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+homo_sapiens,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+homo_sapiens,Relay Race,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+homo_sapiens,Stars,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+Taygrim,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Taygrim,Numbers,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+White_Bear,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+White_Bear,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+White_Bear,Relay Race,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+White_Bear,Stars,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+-DMYTRO-,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+-DMYTRO-,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+-DMYTRO-,Relay Race,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+-DMYTRO-,Stars,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+sths,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Jokser,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Jokser,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Jokser,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+wrong,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+wrong,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+wrong,Relay Race,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+wrong,Stars,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+cgy4ever,Game,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+cgy4ever,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+cgy4ever,Relay Race,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+cgy4ever,Stars,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+cgy4ever,Two Permutations,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,strings"
+Entuser,Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Entuser,Relay Race,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+arbesfeld,Game,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+arbesfeld,Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+arbesfeld,Relay Race,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+shangjingbo,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+shangjingbo,Relay Race,0,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+shangjingbo,Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+shangjingbo,Two Permutations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,strings"
+craus,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+craus,Numbers,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+craus,Stars,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+Al.Cash,Relay Race,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Al.Cash,Stars,0,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+Al.Cash,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Al.Cash,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+yukim,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+yukim,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+yukim,Relay Race,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+yarrr,Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+yarrr,Relay Race,1,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,dp
+hytirt,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+hytirt,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+hytirt,Relay Race,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+hytirt,Stars,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+carber,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+carber,Numbers,1,B,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+UESTC_Defense,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+UESTC_Defense,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+UESTC_Defense,Two Permutations,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,strings"
+RAVEman,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+RAVEman,Relay Race,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+RAVEman,Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+RAVEman,Stars,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+RAVEman,Two Permutations,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,strings"
+exod40,Numbers,0,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp"
+exod40,Relay Race,0,C,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+exod40,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+dergach,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+dergach,Numbers,1,B,1,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+fushar,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+fushar,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+logicmachine,Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+logicmachine,Relay Race,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+cjLD,Numbers,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+cjLD,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+cjLD,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+cjLD,Two Permutations,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,strings"
+sdryapko,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+sdryapko,Numbers,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+subscriber,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+subscriber,Relay Race,0,C,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,dp
+subscriber,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+subscriber,Stars,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+UESTC_Nocturne,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+UESTC_Nocturne,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+UESTC_Nocturne,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+UESTC_Nocturne,Stars,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+hogloid,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+hogloid,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+hogloid,Relay Race,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+hogloid,Stars,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+mmaxio,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+mmaxio,Numbers,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+mmaxio,Relay Race,0,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+mmaxio,Stars,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+zaq1xsw2tktk,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+zaq1xsw2tktk,Relay Race,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+zaq1xsw2tktk,Stars,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+punchit,Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+punchit,Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+valich,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+valich,Relay Race,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+valich,Stars,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+valich,Numbers,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+dancho,Numbers,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+dancho,Relay Race,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,dp
+Fefer_Ivan,Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Fefer_Ivan,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Fefer_Ivan,Relay Race,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Fefer_Ivan,Stars,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+JKeeJ1e30,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+vlad107,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+vlad107,Relay Race,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+vlad107,Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Goshish,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Goshish,Relay Race,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+huangjizuo,Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+huangjizuo,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+bcurcio,Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+bcurcio,Numbers,0,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Cepera,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Cepera,Relay Race,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Cepera,Game,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Cepera,Stars,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+Leewings,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Leewings,Relay Race,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+-XraY-,Relay Race,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+-XraY-,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+-XraY-,Numbers,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+-XraY-,Stars,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+guille,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+guille,Relay Race,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+guille,Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+balakrishnan,Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+balakrishnan,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+balakrishnan,Relay Race,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+knightL,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+knightL,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+knightL,Relay Race,1,C,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,dp
+__tutankhamun__,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+__tutankhamun__,Relay Race,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+YX201314,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+YX201314,Numbers,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+YX201314,Relay Race,0,C,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,dp
+YX201314,Stars,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+Cenadar,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Cenadar,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Cenadar,Relay Race,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+pperm,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+pperm,Game,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+pperm,Relay Race,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+mengpq,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+mengpq,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+mengpq,Relay Race,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+iroro,Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+iroro,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+iroro,Relay Race,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+wcwswswws,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+wcwswswws,Numbers,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+uwi,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+uwi,Game,1,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+uwi,Relay Race,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+AnnKats93,Game,1,A,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+fhlasek,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+fhlasek,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+fhlasek,Relay Race,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+fhlasek,Stars,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+MarioYC,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+MarioYC,Numbers,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+MarioYC,Relay Race,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+GreenWorm,Game,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+GreenWorm,Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+fura2,Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+fura2,Relay Race,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+kissbuaa,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+kissbuaa,Relay Race,1,C,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,0,0,dp
+kissbuaa,Stars,0,D,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+kennethsnow,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+kennethsnow,Relay Race,1,C,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,dp
+fagu,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+fagu,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+fagu,Relay Race,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+Malinovsky239,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Malinovsky239,Relay Race,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+choice,Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+choice,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Vaness,Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Vaness,Relay Race,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+havaliza,Numbers,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+havaliza,Relay Race,0,C,0,0,0,0,0,5,0,0,1,0,0,0,0,0,0,0,0,dp
+havaliza,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Fcdkbear,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Fcdkbear,Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Fcdkbear,Relay Race,1,C,1,0,0,0,0,2,0,1,2,0,0,0,0,0,0,0,0,dp
+AndreySiunov,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+AndreySiunov,Numbers,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+AndreySiunov,Relay Race,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,dp
+l.j.q.light,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+l.j.q.light,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+darkbtf,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+darkbtf,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+darkbtf,Relay Race,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+al13n,Relay Race,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+al13n,Stars,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+al13n,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+al13n,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Reshetnikov_Ivan,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Reshetnikov_Ivan,Stars,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+GagGuy,Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+GagGuy,Relay Race,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+GagGuy,Stars,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+sankear,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+sankear,Relay Race,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+sankear,Game,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+piob,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+piob,Relay Race,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+piob,Two Permutations,1,E,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,strings"
+HolkinPV,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+HolkinPV,Relay Race,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+lucien,Numbers,0,B,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+lucien,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+lucien,Relay Race,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+zplinti1,Numbers,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+zplinti1,Relay Race,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+enot.1.10,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+enot.1.10,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+enot.1.10,Relay Race,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,dp
+navi,Numbers,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+navi,Relay Race,0,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+navi,Stars,0,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+navi,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+dojiboy9,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+dojiboy9,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Monmoy,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Monmoy,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dmitry.uvarov,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+dmitry.uvarov,Stars,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+azizkhan,Relay Race,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+azizkhan,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+azizkhan,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Enchom,Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Enchom,Relay Race,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+sleepyhunt,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+sleepyhunt,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+sleepyhunt,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+AlexanderBolshakov,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+AlexanderBolshakov,Relay Race,1,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+dinosaurs,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+dinosaurs,Relay Race,1,C,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,dp
+dinosaurs,Stars,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+DEGwer,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+DEGwer,Relay Race,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Dmitry.Gerasimov,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Dmitry.Gerasimov,Relay Race,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+wo_,Relay Race,1,C,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,dp
+wo_,Game,1,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+sleepycoder,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+sleepycoder,Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+sleepycoder,Relay Race,0,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,dp
+matejbalog,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+FatSheep,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+FatSheep,Relay Race,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+FatSheep,Numbers,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+suminos,Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+jiangzhijie,Game,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+jiangzhijie,Relay Race,0,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+jiangzhijie,Stars,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+sazzad,Relay Race,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+bjin,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+bjin,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+bjin,Relay Race,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+bjin,Two Permutations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,strings"
+hydrastuff,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+hydrastuff,Game,1,A,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,0,0,"dfs and similar,greedy"
+hydrastuff,Relay Race,0,C,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,dp
+con_nha_ngheo,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+con_nha_ngheo,Relay Race,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+dreamoon,Relay Race,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+dreamoon,Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+dreamoon,Two Permutations,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,strings"
+dreamoon,Numbers,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+StrikeFreedom,Game,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+StrikeFreedom,Relay Race,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+StrikeFreedom,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+darknp,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+darknp,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+darknp,Relay Race,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,dp
+darknp,Stars,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+Shapo,Game,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Shapo,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Shapo,Relay Race,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+fenzhang,Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+fenzhang,Numbers,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+gogokefakefa,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+momo_vn,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+momo_vn,Relay Race,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+momo_vn,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+fatest,Game,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+fatest,Relay Race,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+fatest,Two Permutations,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,strings"
+buda,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+buda,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+yvasyliv,Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+yvasyliv,Numbers,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+yvasyliv,Relay Race,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+MorningSYJ,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+MorningSYJ,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+MorningSYJ,Relay Race,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,dp
+kyuridenamida,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+kyuridenamida,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+kyuridenamida,Relay Race,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+pencil_man,Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+sweetsc,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+sweetsc,Numbers,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+CleRIC,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+phyxnj,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+phyxnj,Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+phyxnj,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Azras,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Azras,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Azras,Relay Race,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+DamianS,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+DamianS,Relay Race,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+DamianS,Stars,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+DamianS,Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+daizhenyang,Relay Race,0,C,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+daizhenyang,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+daizhenyang,Two Permutations,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,strings"
+Dmitry_Egorov,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Dmitry_Egorov,Relay Race,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Dmitry_Egorov,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Dmitry_Egorov,Stars,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+SergeyLazarev,Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+SergeyLazarev,Relay Race,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Shik,Relay Race,0,C,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,dp
+Shik,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Ch0W,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+worldhealer,Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+worldhealer,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+KapJI,Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+KapJI,Relay Race,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+pele,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+pele,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+pele,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+pele,Two Permutations,1,E,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"data structures,hashing,strings"
+flashmt,Relay Race,0,C,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,dp
+flashmt,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+FoodIsGood,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+FoodIsGood,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+FoodIsGood,Relay Race,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Zhuravlyov.A,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+mzry1992,Numbers,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+mzry1992,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+mihail.dektyarow,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+AlexDmitriev,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+AlexDmitriev,Stars,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+kawazaki,Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+kawazaki,Relay Race,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+tclsm,Relay Race,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+tclsm,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+tclsm,Numbers,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+elizarov,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+elizarov,Numbers,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+kamitsutoshi,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+kamitsutoshi,Relay Race,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Monyura,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+naagi,Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy"
+naagi,Stars,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+naagi,Numbers,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ACube,Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+ACube,Relay Race,0,C,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+ACube,Numbers,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ACube,Stars,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+shioshiota,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+shioshiota,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Enterpaise,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Enterpaise,Relay Race,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Ilya_MSU,Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,greedy"
+Ilya_MSU,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Kostroma,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Kostroma,Relay Race,1,C,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,dp
+lamphanviet,Relay Race,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+lamphanviet,Stars,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+piotr.kukla,Game,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+piotr.kukla,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+zetsubou,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+zetsubou,Numbers,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+kawatea,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+kawatea,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+kawatea,Relay Race,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+kawatea,Stars,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+BaJIuK,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+brunoja,Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+shilov,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+shilov,Relay Race,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,dp
+shilov,Stars,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+R_R_,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+R_R_,Relay Race,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+R_R_,Stars,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+maximkoval,Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+maximkoval,Relay Race,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+ArtemKadeev,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+ArtemKadeev,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ArtemKadeev,Relay Race,1,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+haker4o,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+johnLate,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+johnLate,Relay Race,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+antonkov,Numbers,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+antonkov,Relay Race,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+mrtempo,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+mrtempo,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+mrtempo,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+arti1990,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+dudkamaster,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+dudkamaster,Numbers,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+fegla,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+fegla,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+m.radwan,Numbers,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+m.radwan,Relay Race,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+edly,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+edly,Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+edly,Relay Race,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+edly,Two Permutations,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,strings"
+smxrwzdx,Game,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+smxrwzdx,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Igel_SK,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Igel_SK,Relay Race,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Igel_SK,Stars,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+tkcn,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+tkcn,Relay Race,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+aropan,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+aropan,Numbers,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+lxc,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+lxc,Numbers,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+SkorKNURE,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+loveqinqin,Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy"
+loveqinqin,Numbers,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+NuM,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+NuM,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+NuM,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Anarivu,Game,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Anarivu,Relay Race,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+sggutier,Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+sggutier,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+dianbei,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+dianbei,Relay Race,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+prowindy,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+prowindy,Numbers,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+qwaker.00,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+qwaker.00,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+qwaker.00,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+qwaker.00,Stars,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+DimaPhil,Numbers,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+DimaPhil,Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Witalia,Numbers,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Witalia,Game,1,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+self_healing,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+self_healing,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+inker,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+---Grigor---,Game,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+---Grigor---,Stars,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+ib18,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ib18,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+ib18,Relay Race,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+rookie052,Relay Race,0,C,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+rookie052,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+sobhan.miryoosefi,Numbers,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+sobhan.miryoosefi,Relay Race,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+James,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+James,Relay Race,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+James,Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+AguL,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Captain_CoCo,Numbers,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Captain_CoCo,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Vitonka,Stars,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+Shahriar_sust,Numbers,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Shahriar_sust,Relay Race,0,C,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,dp
+trulo_17,Numbers,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+rofi,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+piyifan,Numbers,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+piyifan,Relay Race,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+pulkitg10,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+pulkitg10,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+zikisoy,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+zikisoy,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+zikisoy,Relay Race,1,C,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,dp
+Oryshych,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+kraskevich,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+kraskevich,Game,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Le-Nika,Game,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Bidhan,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Bidhan,Relay Race,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+Kostyazz,Numbers,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+olimpo,Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+olimpo,Relay Race,0,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,dp
+peria,Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+peria,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Cyin,Game,0,A,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Cyin,Numbers,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+tomcat,Relay Race,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+tomcat,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+tomcat,Game,1,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+hnu0314,Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+ryanaaa,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ryanaaa,Game,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+enzam,Game,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+enzam,Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ahmed_aly,Numbers,0,B,0,0,0,0,0,2,0,7,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ahmed_aly,Game,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+juwon,Game,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+the_saint,Relay Race,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+the_saint,Game,1,A,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+grey_wind,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+grey_wind,Numbers,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+phtniit,Numbers,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+spnautilus,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+spnautilus,Relay Race,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+spnautilus,Stars,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+dimka,Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+marcin_smu,Relay Race,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+marcin_smu,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+kontr,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+fiver,Game,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+xiaodao,Relay Race,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Eureka,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Eureka,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Eureka,Relay Race,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+nhap96,Relay Race,0,C,0,0,0,0,0,5,0,0,1,0,0,0,0,0,0,0,0,dp
+gen,Numbers,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ipaljak,Numbers,0,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+stubbscroll,Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+stubbscroll,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kilotaras,Relay Race,0,C,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+kilotaras,Stars,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+Timur_Sitdikov,Game,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Timur_Sitdikov,Numbers,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Barsuk_Alexey,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+seen,Game,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy"
+seen,Relay Race,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+eik0u,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+msh_shiplu,Relay Race,0,C,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,dp
+bdepwgjqet,Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+cyk2011,Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+cyk2011,Numbers,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+cyk2011,Relay Race,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+v.haralampiev,Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+v.haralampiev,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+takapt,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+treert,Relay Race,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,dp
+Sklyack,Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+VUAcoder,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+atetubou,Relay Race,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+ridowan007,Numbers,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ridowan007,Relay Race,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+diogen,Stars,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+nrg3,Relay Race,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+nrg3,Stars,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+peterae86,Game,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+peterae86,Numbers,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+dalex,Stars,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+dalex,Numbers,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Rubanenko,Two Permutations,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,"data structures,hashing,strings"
+Azat_Yusupov,Relay Race,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Hadi_Asiaie,Numbers,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Hadi_Asiaie,Relay Race,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+Hadi_Asiaie,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+yudaer,Numbers,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ishikado,Game,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+ishikado,Relay Race,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+nakari1124,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+nakari1124,Relay Race,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+sixteentons,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Balajiganapathi,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Balajiganapathi,Game,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+sune2,Relay Race,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,dp
+sune2,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ivan100sic,Stars,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,geometry"
+fcjy888,Relay Race,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+keivan,Relay Race,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+1guangnian,Game,0,A,0,0,0,0,0,5,0,0,1,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+kamranm,Relay Race,1,C,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+Neil,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+pragrame,Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+Qili,Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy"
+hanfei19910905,Numbers,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+thocevar,Relay Race,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+XiaoDan,Relay Race,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp

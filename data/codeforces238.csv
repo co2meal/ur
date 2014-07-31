@@ -1,0 +1,820 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+ACMonster,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ACMonster,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+tourist,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+tourist,World Eater Brothers,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+tourist,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+tourist,Meeting Her,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+subscriber,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+subscriber,World Eater Brothers,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+subscriber,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+subscriber,Tape Programming,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation"
+Swistakk,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Swistakk,Boring Partition,0,B,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Swistakk,World Eater Brothers,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Kostroma,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Kostroma,Boring Partition,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Kostroma,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+RAVEman,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+RAVEman,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+RAVEman,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+RAVEman,Meeting Her,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+blue.boy,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+blue.boy,World Eater Brothers,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+blue.boy,Boring Partition,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+blue.boy,Meeting Her,0,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+tomasz.kociumaka,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+tomasz.kociumaka,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+tomasz.kociumaka,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+tomasz.kociumaka,Tape Programming,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation"
+scott_wu,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+scott_wu,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+scott_wu,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Coder,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Coder,Boring Partition,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Coder,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Coder,Meeting Her,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+Dmitry_Egorov,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Dmitry_Egorov,Boring Partition,0,B,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+Dmitry_Egorov,World Eater Brothers,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Dmitry_Egorov,Meeting Her,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+MarioYC,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+MarioYC,Boring Partition,1,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+MarioYC,World Eater Brothers,0,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+roosephu,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+roosephu,Boring Partition,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+roosephu,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+maksay,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+maksay,Boring Partition,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+maksay,World Eater Brothers,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Ilya_MSU,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Ilya_MSU,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Ilya_MSU,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+-DMYTRO-,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+-DMYTRO-,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+-DMYTRO-,World Eater Brothers,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Anton_Lunyov,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Anton_Lunyov,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Anton_Lunyov,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,dp,greedy,trees"
+RAD,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+RAD,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+RAD,World Eater Brothers,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+GeLo,Not Wool Sequences,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+GeLo,Boring Partition,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mmaxio,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+mmaxio,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mmaxio,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Shef,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Shef,Boring Partition,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Shef,World Eater Brothers,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+__tutankhamun__,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+__tutankhamun__,Boring Partition,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+__tutankhamun__,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+piob,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+piob,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+piob,Boring Partition,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dj3500,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+dj3500,World Eater Brothers,1,C,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+GagGuy,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+GagGuy,Boring Partition,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+GagGuy,World Eater Brothers,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+GagGuy,Meeting Her,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,graphs,shortest paths"
+peter5O216,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+peter5O216,Boring Partition,1,B,0,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+peter5O216,Meeting Her,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+peter5O216,World Eater Brothers,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+ysyshtc,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ysyshtc,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ysyshtc,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+piloop,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+piloop,Boring Partition,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+piloop,World Eater Brothers,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+cerealguy,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+cerealguy,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+cerealguy,World Eater Brothers,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+cerealguy,Meeting Her,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+MBabin,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+MBabin,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+MBabin,Boring Partition,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ib18,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ib18,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ib18,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+GlebsHP,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+GlebsHP,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+GlebsHP,World Eater Brothers,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+KADR,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+KADR,Boring Partition,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+KADR,World Eater Brothers,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+daidailanlan,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+daidailanlan,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+daidailanlan,World Eater Brothers,1,C,0,0,0,0,0,7,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+sdryapko,Not Wool Sequences,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+sdryapko,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ainta,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ainta,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ainta,World Eater Brothers,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dp,greedy,trees"
+Rubanenko,Not Wool Sequences,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Rubanenko,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+aa2985759,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+aa2985759,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+aa2985759,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+aa2985759,Meeting Her,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+lazylie,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+lazylie,Boring Partition,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+lazylie,World Eater Brothers,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+m1ha1f,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+m1ha1f,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+m1ha1f,World Eater Brothers,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+zaq1xsw2tktk,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+zaq1xsw2tktk,Boring Partition,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Gabaum,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Gabaum,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Gabaum,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+keivan,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+keivan,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+-XraY-,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+-XraY-,Boring Partition,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+-XraY-,World Eater Brothers,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Gullesnuffs,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Gullesnuffs,Boring Partition,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Gullesnuffs,World Eater Brothers,1,C,1,0,0,1,0,3,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,dp,greedy,trees"
+stevenkplus,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+stevenkplus,Boring Partition,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+stevenkplus,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+al13n,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+al13n,World Eater Brothers,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+al13n,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Komaki,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Komaki,Boring Partition,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Komaki,World Eater Brothers,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Komaki,Meeting Her,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+Komaki,Tape Programming,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation"
+vfleaking,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+vfleaking,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+vfleaking,World Eater Brothers,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+adam_,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+adam_,Boring Partition,1,B,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+v.haralampiev,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+v.haralampiev,World Eater Brothers,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+v.haralampiev,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+forifchen,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+forifchen,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+poopi,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+poopi,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+poopi,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+haas,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+haas,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+haas,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+abacadaea,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+abacadaea,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+abacadaea,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Seter,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Seter,Boring Partition,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Seter,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+AstroConjecture,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+AstroConjecture,Boring Partition,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+AstroConjecture,World Eater Brothers,0,C,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Nicolas16,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Nicolas16,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Nicolas16,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Nicolas16,Meeting Her,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+cuiaoxiang,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+cuiaoxiang,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+cuiaoxiang,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+sapalskimichal,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+sapalskimichal,Meeting Her,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+sapalskimichal,World Eater Brothers,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+sobhan.miryoosefi,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+sobhan.miryoosefi,Boring Partition,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+SkyHawk,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,math"
+SkyHawk,Boring Partition,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+SkyHawk,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+PavelKunyavskiy,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+PavelKunyavskiy,Boring Partition,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+PavelKunyavskiy,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+PavelKunyavskiy,Meeting Her,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+Milanin,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Milanin,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Milanin,World Eater Brothers,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+ts10,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ts10,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ts10,World Eater Brothers,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+UESTC_Nocturne,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+UESTC_Nocturne,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+UESTC_Nocturne,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+gty3296,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+gty3296,Boring Partition,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+gty3296,World Eater Brothers,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Endagorion,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Endagorion,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Endagorion,Tape Programming,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation"
+hogloid,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+hogloid,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+hogloid,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+hogloid,Meeting Her,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+ljcc,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ljcc,World Eater Brothers,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+moonlight131,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+moonlight131,Boring Partition,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+moonlight131,World Eater Brothers,1,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+DAle,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+DAle,Boring Partition,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+DAle,World Eater Brothers,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+flashmt,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+flashmt,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+flashmt,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+malcolm,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+malcolm,Boring Partition,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+malcolm,World Eater Brothers,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+freak93,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+freak93,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+freak93,World Eater Brothers,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+marspeople,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+marspeople,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+marspeople,World Eater Brothers,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Igor_Kudryashov,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Igor_Kudryashov,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mjmjmj,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+mjmjmj,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+hytirt,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+hytirt,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+hytirt,World Eater Brothers,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+hytirt,Meeting Her,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+pele,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+pele,World Eater Brothers,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dp,greedy,trees"
+jzd,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+jzd,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+jzd,World Eater Brothers,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dp,greedy,trees"
+forest,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+forest,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+forest,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+fhlasek,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+fhlasek,Boring Partition,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+fhlasek,World Eater Brothers,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+niquefa_diego,Not Wool Sequences,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+niquefa_diego,Boring Partition,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+niquefa_diego,World Eater Brothers,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+wwwwodddd,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+wwwwodddd,Boring Partition,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+wwwwodddd,Tape Programming,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation"
+wwwwodddd,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+permin,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+permin,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+permin,Boring Partition,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+yoh149,Not Wool Sequences,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+logicmachine,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+logicmachine,Boring Partition,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+logicmachine,World Eater Brothers,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+xscape,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+xscape,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+StefanoT,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+StefanoT,Boring Partition,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+StefanoT,World Eater Brothers,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+zglicz,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+zglicz,Boring Partition,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Copymaster,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Copymaster,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Copymaster,World Eater Brothers,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+qwerty787788,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+qwerty787788,Boring Partition,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+qwerty787788,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+qwerty787788,Meeting Her,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+shef_2318,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+shef_2318,Boring Partition,1,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+WXYZ,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+WXYZ,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+WXYZ,World Eater Brothers,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dp,greedy,trees"
+fiver,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+fiver,Boring Partition,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+AlexDmitriev,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+AlexDmitriev,Boring Partition,1,B,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+cgy4ever,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+cgy4ever,Boring Partition,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+cgy4ever,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+cgy4ever,Meeting Her,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+porker2008,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+porker2008,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+hhoomn,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+hhoomn,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+architkarandikar,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+architkarandikar,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+darknp,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+darknp,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+darknp,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+it4.kp,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+it4.kp,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+it4.kp,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dp,greedy,trees"
+scottai1,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+scottai1,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+scottai1,World Eater Brothers,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+hanfei19910905,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+hanfei19910905,World Eater Brothers,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+hanfei19910905,Boring Partition,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+yvasyliv,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+yvasyliv,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+yvasyliv,World Eater Brothers,1,C,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+LeBron,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+LeBron,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+yaro,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+yaro,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+yaro,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+RAINBOW123,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+RAINBOW123,Boring Partition,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+RAINBOW123,World Eater Brothers,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Tadrion,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Arterm,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Arterm,Boring Partition,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ACube,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ACube,Boring Partition,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ACube,World Eater Brothers,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+ACube,Meeting Her,0,E,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+alex-mercer,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+alex-mercer,Boring Partition,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+alex-mercer,World Eater Brothers,1,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+hiphip,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+hiphip,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+miketcyue,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+miketcyue,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+balakrishnan,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+balakrishnan,Boring Partition,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+balakrishnan,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+sementry,Not Wool Sequences,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+sementry,Boring Partition,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+sementry,World Eater Brothers,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Mopriestt,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Mopriestt,World Eater Brothers,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+moshiur,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+moshiur,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+BSBandme,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+BSBandme,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+BSBandme,World Eater Brothers,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dp,greedy,trees"
+nakari1124,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+nakari1124,Boring Partition,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+nakari1124,World Eater Brothers,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+razimantv,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+razimantv,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+michal27,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+michal27,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+michal27,World Eater Brothers,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+nitegazer,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+nitegazer,Boring Partition,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+sexyprincess91,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+sexyprincess91,World Eater Brothers,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+sexyprincess91,Boring Partition,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+flowlight,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+flowlight,World Eater Brothers,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+flowlight,Boring Partition,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+__math,Not Wool Sequences,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+__math,Boring Partition,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+pershik,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+pershik,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+pershik,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+evgentu,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+evgentu,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+evgentu,World Eater Brothers,1,C,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+robert_rosolek,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+robert_rosolek,Boring Partition,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+robert_rosolek,World Eater Brothers,1,C,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+MeinKraft,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+R_R_,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+R_R_,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+R_R_,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+cfmode,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+cfmode,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+cfmode,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Balajiganapathi,Not Wool Sequences,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Andrew_Makar,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Andrew_Makar,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Andrew_Makar,World Eater Brothers,1,C,0,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+KAN,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+KAN,Boring Partition,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+KAN,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+fura2,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+fura2,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+fura2,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+fura2,Meeting Her,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+shettynamit,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+shettynamit,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+otakkanan,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+otakkanan,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+otakkanan,World Eater Brothers,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dp,greedy,trees"
+antonkov,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+antonkov,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+antonkov,World Eater Brothers,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dp,greedy,trees"
+Jokser,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Jokser,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+MehrdadM,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+MehrdadM,World Eater Brothers,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,"dfs and similar,dp,greedy,trees"
+espr1t,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+espr1t,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+espr1t,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Vaness,Not Wool Sequences,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Vaness,Boring Partition,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+klamathix,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+klamathix,Boring Partition,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+diogen,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+diogen,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Sereja,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Sereja,World Eater Brothers,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Sereja,Boring Partition,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Sereja,Meeting Her,0,E,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+xhsong,Not Wool Sequences,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+xhsong,World Eater Brothers,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dp,greedy,trees"
+xhsong,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+seanwu,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+seanwu,World Eater Brothers,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+seanwu,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+infrmtcs,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+infrmtcs,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+infrmtcs,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+pyshnograev,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+pyshnograev,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+kennethsnow,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+kennethsnow,Boring Partition,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+kennethsnow,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+ballon,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ballon,World Eater Brothers,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+ballon,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ballon,Meeting Her,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+Kornacker,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,math"
+Kornacker,Boring Partition,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+Kornacker,World Eater Brothers,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+HeroShadow,Not Wool Sequences,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+dancho,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+dancho,World Eater Brothers,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+dancho,Meeting Her,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,"dp,graphs,shortest paths"
+dancho,Boring Partition,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Captain_CoCo,Not Wool Sequences,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Captain_CoCo,Boring Partition,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Captain_CoCo,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+KuchumovIlya,Not Wool Sequences,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+KuchumovIlya,Boring Partition,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+KuchumovIlya,World Eater Brothers,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+roypalacios,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+roypalacios,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+roypalacios,World Eater Brothers,1,C,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+NALP,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+NALP,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+guille,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+guille,Boring Partition,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+guille,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+pdwd,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+pdwd,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+climpet,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+climpet,Boring Partition,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+climpet,World Eater Brothers,0,C,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+uwi,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+uwi,World Eater Brothers,1,C,1,0,0,0,1,3,0,2,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+uwi,Meeting Her,1,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+uwi,Boring Partition,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ivan100sic,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ivan100sic,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ivan100sic,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+xhae,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+xhae,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+xhae,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dp,greedy,trees"
+jki14,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+jki14,World Eater Brothers,1,C,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+jki14,Boring Partition,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+fish_ball,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+fish_ball,Boring Partition,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+rares.buhai,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+rares.buhai,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+rares.buhai,World Eater Brothers,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+bear26,Not Wool Sequences,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+bear26,Boring Partition,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+valentin.harsan10,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+valentin.harsan10,World Eater Brothers,1,C,1,0,0,0,3,5,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+valentin.harsan10,Tape Programming,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation"
+valentin.harsan10,Boring Partition,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+yukim,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+yukim,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+yukim,World Eater Brothers,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+b-inary,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+b-inary,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+b-inary,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+zeliboba,Not Wool Sequences,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+zeliboba,Boring Partition,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+zeliboba,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+vadym_doroshenko,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+vadym_doroshenko,Boring Partition,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+sharat1105,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+sharat1105,Boring Partition,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+self_healing,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+sths,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+sths,Boring Partition,0,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+sths,World Eater Brothers,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+i1s9m9s5,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+i1s9m9s5,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Fata1ist,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Fata1ist,Boring Partition,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+atetubou,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+djrkc,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+djrkc,Boring Partition,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+kissbuaa,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+kissbuaa,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ASPIRINKA,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ASPIRINKA,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+11223d,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+11223d,Boring Partition,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+11223d,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Al3kSaNdaR,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Al3kSaNdaR,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+naihuangbao,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+naihuangbao,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+Sayakiss,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Sayakiss,Boring Partition,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Mimino,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Mimino,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Mimino,World Eater Brothers,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+takapt,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+takapt,Boring Partition,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ikicic,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ikicic,Boring Partition,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ikicic,World Eater Brothers,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+lavin,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+lavin,Boring Partition,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+lavin,World Eater Brothers,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+AlexJH,Not Wool Sequences,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+AlexJH,Boring Partition,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+AlexJH,World Eater Brothers,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Cenadar,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Cenadar,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Ericcwang,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Ericcwang,Boring Partition,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+knightL,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+knightL,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+knightL,World Eater Brothers,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+homo_sapiens,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+homo_sapiens,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+homo_sapiens,World Eater Brothers,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Kokos,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Kokos,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+tunyash,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+tunyash,World Eater Brothers,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+tunyash,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Alireza,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Alireza,Boring Partition,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+doraemon,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+doraemon,Boring Partition,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+doraemon,World Eater Brothers,1,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Dimke,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Dimke,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Dimke,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+nikihub,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Martial,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+momo_vn,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+momo_vn,Boring Partition,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+xkszltl,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+xkszltl,World Eater Brothers,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+SourSpinach,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+SourSpinach,World Eater Brothers,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+SourSpinach,Boring Partition,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+andrey-tsb,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+andrey-tsb,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Shangke7788,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Shangke7788,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Shangke7788,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+hamlet_fiis,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+squarefk,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+squarefk,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ant.ermilov,Not Wool Sequences,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+JShmatov,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+JShmatov,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+vlady,Boring Partition,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Alpc_Necs,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Alpc_Necs,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+dani1373,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dani1373,World Eater Brothers,0,C,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+dani1373,Not Wool Sequences,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Affina,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Affina,Boring Partition,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+jablko,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+jablko,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+lxc,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+lxc,Boring Partition,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+lxc,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+msg555,Boring Partition,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+msg555,World Eater Brothers,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+msg555,Tape Programming,0,D,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation"
+msg555,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+msg555,Meeting Her,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+jonathanirvings,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+jonathanirvings,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+jonathanirvings,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,"dfs and similar,dp,greedy,trees"
+pablo.aguilar,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+pablo.aguilar,World Eater Brothers,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+jehad131,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+jehad131,World Eater Brothers,1,C,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+cxlove,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+cxlove,Boring Partition,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+fura,Not Wool Sequences,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+fura,Boring Partition,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+try_skycn,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+try_skycn,World Eater Brothers,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+yinthewind,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+yinthewind,Boring Partition,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+xiaodao,Not Wool Sequences,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+xiaodao,Tape Programming,0,D,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"data structures,implementation"
+xiaodao,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+xiaodao,Boring Partition,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+xiaodao,Meeting Her,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+Kamilot,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Kamilot,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Kamilot,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+TMandzu,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+TMandzu,Boring Partition,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dojiboy9,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+dojiboy9,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dojiboy9,World Eater Brothers,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+sweiss,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+niukuo,Not Wool Sequences,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+niukuo,World Eater Brothers,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+cjtoribio,Not Wool Sequences,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+cjtoribio,Boring Partition,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+cjtoribio,World Eater Brothers,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Mr.,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Mr.,Boring Partition,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+tigvarts,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+tigvarts,Not Wool Sequences,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+tigvarts,Meeting Her,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+alpc115,Not Wool Sequences,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+husheyn,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+husheyn,Boring Partition,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+husheyn,World Eater Brothers,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dp,greedy,trees"
+Avalanche,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Avalanche,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Avalanche,World Eater Brothers,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+RiKang,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+RiKang,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+RiKang,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+RiKang,Meeting Her,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"
+kwlyeo,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+kwlyeo,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+kwlyeo,Boring Partition,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+qidiot,Not Wool Sequences,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Obaida,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Obaida,Boring Partition,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ahmed_aly,World Eater Brothers,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dp,greedy,trees"
+ahmed_aly,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ahmed_aly,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+gridnevvvit,Not Wool Sequences,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+gridnevvvit,Boring Partition,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ionlylo2,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ionlylo2,World Eater Brothers,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dp,greedy,trees"
+ionlylo2,Boring Partition,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+wanbo,Not Wool Sequences,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Vergissmeinnicht,Not Wool Sequences,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Vergissmeinnicht,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Vergissmeinnicht,Tape Programming,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation"
+riad,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+riad,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+sankear,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+sankear,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+sankear,World Eater Brothers,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+FredaShi,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+FredaShi,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+con_nha_ngheo,Not Wool Sequences,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+con_nha_ngheo,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mihaipopa12,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Snusmumriken,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Snusmumriken,Not Wool Sequences,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Snusmumriken,World Eater Brothers,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+zhj5chengfeng,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+zhj5chengfeng,World Eater Brothers,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+m.raszyk,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+reiracofage,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+reiracofage,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+S.Yesipenko,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+S.Yesipenko,Boring Partition,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+S.Yesipenko,World Eater Brothers,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Fedyarer,Not Wool Sequences,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Fedyarer,Boring Partition,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+lamphanviet,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+lamphanviet,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+lamphanviet,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+piotr.kukla,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+piotr.kukla,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+piotr.kukla,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+AnnKats93,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+AnnKats93,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+AnnKats93,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Reza_H,Not Wool Sequences,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Reza_H,Boring Partition,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+Neroysq,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Neroysq,World Eater Brothers,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+ridowan007,Not Wool Sequences,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Kharybin,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Kharybin,Boring Partition,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+marcoskwkm,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+marcoskwkm,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+kb.,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+kb.,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+kb.,World Eater Brothers,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+jonathanso123456,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+jonathanso123456,Boring Partition,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+shenshanlaoyao,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+shenshanlaoyao,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+zlfengyi1,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+zlfengyi1,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+johnLate,Boring Partition,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+johnLate,World Eater Brothers,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+nrg3,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+nrg3,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+makeevvladx,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+makeevvladx,World Eater Brothers,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+makeevvladx,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+dalex,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+dalex,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dalex,World Eater Brothers,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Sphinx,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Sphinx,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Cromel,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Cromel,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+M0sTik,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+M0sTik,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Belonogov,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Belonogov,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+vinodreddy,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+fcjy888,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+fcjy888,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+nvilcins,World Eater Brothers,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+nvilcins,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+nvilcins,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ilovepink,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ilovepink,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ilovepink,World Eater Brothers,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+KFile,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+KFile,Boring Partition,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+pty,World Eater Brothers,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+pty,Boring Partition,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+pty,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+repp4radu,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+repp4radu,Boring Partition,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+timgaripov,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+chanming,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+chanming,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+White_Bear,World Eater Brothers,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+White_Bear,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+White_Bear,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+White_Bear,Tape Programming,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation"
+Vladl1313,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Vladl1313,World Eater Brothers,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+beginner1010,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+beginner1010,Boring Partition,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+kuailezhish,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+kuailezhish,World Eater Brothers,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dp,greedy,trees"
+kuailezhish,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+visanr,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,math"
+visanr,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Metamorphus,Not Wool Sequences,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Metamorphus,Boring Partition,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+135678942570,Boring Partition,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+135678942570,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+wack-a-mole,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Alisafe,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Barsuk_Alexey,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Barsuk_Alexey,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Barsuk_Alexey,World Eater Brothers,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+wolf1000,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+wolf1000,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dudkamaster,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+dudkamaster,Boring Partition,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Oryshych,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Oryshych,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+NikitaD,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+NikitaD,Boring Partition,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+liouzhou_101,Not Wool Sequences,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+liouzhou_101,World Eater Brothers,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+shubhanshu,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+cakcups,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Liaksiejka,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ralekseenkov,World Eater Brothers,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,dp,greedy,trees"
+elfus0,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+tyamgin,Boring Partition,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+tyamgin,Not Wool Sequences,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+mugurelionut,Boring Partition,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mugurelionut,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+KaiZeR,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+cjoa,World Eater Brothers,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dp,greedy,trees"
+fushar,World Eater Brothers,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+fushar,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Monmoy,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Monmoy,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+y346491470,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Delta003,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ulzha,World Eater Brothers,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+jjd5,Boring Partition,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+jjd5,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+mystd,Boring Partition,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mystd,Not Wool Sequences,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Kaga2,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,math"
+Kaga2,World Eater Brothers,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+kraskevich,World Eater Brothers,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+PlayLikeNeverB4,Not Wool Sequences,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,math"
+vubinh,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+vlade087,Not Wool Sequences,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+budabudimir,World Eater Brothers,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dp,greedy,trees"
+Atef,World Eater Brothers,0,C,0,0,0,0,3,5,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,dp,greedy,trees"
+__Shi,Not Wool Sequences,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+hacker,Meeting Her,0,E,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,shortest paths"

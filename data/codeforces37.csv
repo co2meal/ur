@@ -1,0 +1,1483 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+pavel.chadnov,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+volkhin,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+volkhin,Computer Game,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+volkhin,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+volkhin,Lesson Timetable,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+Amtrix,Towers,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Amtrix,Computer Game,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,implementation"
+Amtrix,Old Berland Language,1,C,0,0,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Seyaua,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Seyaua,Computer Game,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Seyaua,Lesson Timetable,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Seyaua,Old Berland Language,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+---Grigor---,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+---Grigor---,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+---Grigor---,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+wRabbits_AlMag,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+wRabbits_AlMag,Computer Game,1,B,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+IvayloS,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+IvayloS,Computer Game,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+IvayloS,Old Berland Language,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+IvayloS,Lesson Timetable,1,D,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+sdryapko,Towers,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+sdryapko,Computer Game,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation"
+sdryapko,Old Berland Language,0,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+tourist,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+tourist,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+tourist,Lesson Timetable,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+tourist,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Connector,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Connector,Old Berland Language,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Connector,Computer Game,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+juver,Towers,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+juver,Computer Game,0,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+juver,Old Berland Language,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Shtrix,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Shtrix,Computer Game,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Shtrix,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+espr1t,Towers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+espr1t,Computer Game,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+espr1t,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+espr1t,Lesson Timetable,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+v.haralampiev,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+v.haralampiev,Computer Game,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+v.haralampiev,Old Berland Language,1,C,1,0,0,0,1,4,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+jaaro,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+jaaro,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+jaaro,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+rem,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+rem,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+rem,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+rem,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Slavik,Towers,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Slavik,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Slavik,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Romka,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Romka,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Romka,Computer Game,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+SpookyCookie,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+SpookyCookie,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+SpookyCookie,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Alias,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Alias,Computer Game,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Alias,Old Berland Language,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Alias,Lesson Timetable,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+al13n,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+al13n,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+al13n,Lesson Timetable,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+al13n,Computer Game,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+gawry,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+gawry,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+gawry,Trial for Chief,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy,shortest paths"
+gawry,Lesson Timetable,1,D,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ivan.metelsky,Towers,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ivan.metelsky,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ivan.metelsky,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+ivan.metelsky,Lesson Timetable,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ChuYuxun,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ChuYuxun,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+ChuYuxun,Computer Game,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ChuYuxun,Lesson Timetable,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+RAVEman,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+RAVEman,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+RAVEman,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+RAVEman,Lesson Timetable,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ivan.popelyshev,Towers,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ivan.popelyshev,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ivan.popelyshev,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+ivan.popelyshev,Lesson Timetable,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+ivan.popelyshev,Trial for Chief,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy,shortest paths"
+Fefer_Ivan,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Fefer_Ivan,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Fefer_Ivan,Old Berland Language,0,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Fefer_Ivan,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+cyph1e,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+cyph1e,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+cyph1e,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+maksay,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+maksay,Computer Game,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+maksay,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+maksay,Lesson Timetable,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+maksay,Trial for Chief,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy,shortest paths"
+KADR,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+KADR,Computer Game,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+KADR,Old Berland Language,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+KADR,Trial for Chief,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy,shortest paths"
+obi1kenobi,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+obi1kenobi,Computer Game,0,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+obi1kenobi,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+ilyakor,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ilyakor,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ilyakor,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+ilyakor,Lesson Timetable,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ahmed_aly,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ahmed_aly,Computer Game,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ahmed_aly,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,greedy,trees"
+pperm,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+pperm,Computer Game,0,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+pperm,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+pperm,Old Berland Language,1,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Snipx,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Snipx,Computer Game,1,B,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Snipx,Old Berland Language,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Ra16bit,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Ra16bit,Computer Game,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Ra16bit,Old Berland Language,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Ra16bit,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Ra16bit,Trial for Chief,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy,shortest paths"
+ConanKudo,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ConanKudo,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ConanKudo,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Snusmumriken,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Snusmumriken,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Snusmumriken,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+eik0u,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+eik0u,Computer Game,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+eik0u,Old Berland Language,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Fdg,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Fdg,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Fdg,Old Berland Language,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Kh.Madi,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Kh.Madi,Old Berland Language,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Kh.Madi,Computer Game,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+abkqz,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+abkqz,Computer Game,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+abkqz,Old Berland Language,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Rubanenko,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Rubanenko,Computer Game,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+homo_sapiens,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+homo_sapiens,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+homo_sapiens,Old Berland Language,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Gerald,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Gerald,Computer Game,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Gerald,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Gerald,Lesson Timetable,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+NovaBlast,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+NovaBlast,Computer Game,1,B,0,0,0,0,0,7,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+voover,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+voover,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+voover,Computer Game,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+kenny59,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+kenny59,Computer Game,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+arseny30,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+arseny30,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+arseny30,Old Berland Language,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+arseny30,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+arseny30,Trial for Chief,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy,shortest paths"
+PavelKunyavskiy,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+PavelKunyavskiy,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+PavelKunyavskiy,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+PavelKunyavskiy,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+cuiaoxiang,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+cuiaoxiang,Computer Game,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+cuiaoxiang,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+murphy,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+murphy,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+murphy,Old Berland Language,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+murphy,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+buko,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+buko,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+buko,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+ShadowDancer,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ShadowDancer,Old Berland Language,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+luckman,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+luckman,Computer Game,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Omar_ElAzazy,Towers,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Omar_ElAzazy,Old Berland Language,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Omar_ElAzazy,Computer Game,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+slycelote,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+slycelote,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+slycelote,Old Berland Language,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+slycelote,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+nevidomy,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+nevidomy,Computer Game,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+nevidomy,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,greedy,trees"
+nevidomy,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+AleX,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+AleX,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+AleX,Old Berland Language,0,C,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+AleX,Lesson Timetable,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+AleX,Trial for Chief,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy,shortest paths"
+iakolzin,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+iakolzin,Computer Game,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+iakolzin,Old Berland Language,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+witua,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+witua,Computer Game,0,B,1,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+witua,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Akasha,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Akasha,Computer Game,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+vsb,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+vsb,Lesson Timetable,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+vsb,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+vsb,Computer Game,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+vsb,Trial for Chief,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy,shortest paths"
+AlTimin,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+AlTimin,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+AlTimin,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+AlTimin,Trial for Chief,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy,shortest paths"
+indy256,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+indy256,Computer Game,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+indy256,Old Berland Language,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+ifsmirnov,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ifsmirnov,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ifsmirnov,Old Berland Language,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+username17920,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+username17920,Computer Game,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+pank.dm,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+pank.dm,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+pank.dm,Computer Game,1,B,1,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Jonasz,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Jonasz,Computer Game,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Jonasz,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Jonasz,Lesson Timetable,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+AliD,Towers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+AliD,Computer Game,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation"
+AliD,Old Berland Language,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+ACube,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ACube,Computer Game,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation"
+ACube,Old Berland Language,0,C,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+dolphinigle,Towers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+dolphinigle,Computer Game,0,B,1,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+dolphinigle,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+dolphinigle,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Andrew_Makar,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Andrew_Makar,Computer Game,1,B,1,0,0,0,0,11,0,0,0,0,0,0,0,0,1,0,0,"greedy,implementation"
+wiw,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+wiw,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+wiw,Old Berland Language,0,C,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+CherryTree,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+CherryTree,Computer Game,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+CherryTree,Old Berland Language,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+codder90,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+codder90,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+codder90,Lesson Timetable,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+zpl2,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+zpl2,Computer Game,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+zpl2,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+sankear,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+sankear,Computer Game,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+sankear,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+sankear,Trial for Chief,1,E,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy,shortest paths"
+cfc,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+fura,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+fura,Computer Game,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+havaliza,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+havaliza,Computer Game,0,B,1,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+havaliza,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+alexey.enkov,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+alexey.enkov,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+alexey.enkov,Old Berland Language,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+alexey.enkov,Lesson Timetable,1,D,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Mahdi,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Mahdi,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,implementation"
+Mahdi,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+natalia,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+natalia,Computer Game,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+natalia,Old Berland Language,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+natalia,Lesson Timetable,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+natalia,Trial for Chief,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy,shortest paths"
+Skiminok,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Skiminok,Computer Game,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Skiminok,Old Berland Language,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+niyaznigmatul,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+niyaznigmatul,Computer Game,0,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+niyaznigmatul,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+niyaznigmatul,Lesson Timetable,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Konstantin,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+SeMeKh,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+SeMeKh,Computer Game,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+SeMeKh,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+NSL,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+NSL,Computer Game,0,B,1,0,0,0,0,10,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+NSL,Old Berland Language,1,C,1,0,0,0,1,4,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+vot,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+vot,Computer Game,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+vot,Old Berland Language,0,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+vot,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+vot,Trial for Chief,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy,shortest paths"
+ant.ermilov,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ant.ermilov,Old Berland Language,1,C,0,0,0,0,0,2,1,1,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+2222,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+2222,Computer Game,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"greedy,implementation"
+2222,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+2222,Trial for Chief,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy,shortest paths"
+2222,Lesson Timetable,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Igor_Kudryashov,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Igor_Kudryashov,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Igor_Kudryashov,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Artishok,Towers,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Artishok,Computer Game,0,B,1,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Artishok,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+ltaravilse,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ltaravilse,Computer Game,1,B,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Genyaz,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Genyaz,Computer Game,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Kenny_HORROR,Towers,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Kenny_HORROR,Computer Game,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Kenny_HORROR,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Kenny_HORROR,Lesson Timetable,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+VladGavrila,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+VladGavrila,Computer Game,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+VladGavrila,Old Berland Language,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+VladGavrila,Lesson Timetable,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Timus,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Timus,Computer Game,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Timus,Old Berland Language,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"data structures,greedy,trees"
+Shik,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Shik,Computer Game,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Shik,Old Berland Language,1,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+DDDDDDDDDDDDDDDDDDDDDDDD,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+DDDDDDDDDDDDDDDDDDDDDDDD,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+DDDDDDDDDDDDDDDDDDDDDDDD,Computer Game,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+package.zaic,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+package.zaic,Computer Game,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+package.zaic,Old Berland Language,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+mohamed.gaber,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+permin,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+permin,Computer Game,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+permin,Old Berland Language,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+permin,Lesson Timetable,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+CezarMocan,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+CezarMocan,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+CezarMocan,Old Berland Language,0,C,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+BrightDays,Towers,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+BrightDays,Computer Game,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+valikluks1995,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+valikluks1995,Computer Game,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+valikluks1995,Old Berland Language,1,C,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+ir5,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ir5,Computer Game,0,B,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ir5,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Medium,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Medium,Computer Game,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Medium,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+rng_58,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+rng_58,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+rng_58,Lesson Timetable,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+rng_58,Trial for Chief,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy,shortest paths"
+Ferlon,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Ferlon,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Ferlon,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Ferlon,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Dabek,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Dabek,Computer Game,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Dabek,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Dabek,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+skaramouche,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+skaramouche,Computer Game,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+skaramouche,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+livingroom,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+livingroom,Computer Game,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation"
+Steps09,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Steps09,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Steps09,Old Berland Language,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Steps09,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+allocator,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+allocator,Computer Game,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+allocator,Old Berland Language,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+alper,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+HolkinPV,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+HolkinPV,Computer Game,0,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+HolkinPV,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+yasith,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+yasith,Computer Game,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+A.I,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+A.I,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+andrey-tsb,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+andrey-tsb,Computer Game,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+andrey-tsb,Old Berland Language,1,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+johnfn,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+johnfn,Computer Game,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+johnfn,Old Berland Language,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+shhdup,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+shhdup,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+primorial,Towers,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+primorial,Computer Game,0,B,0,0,0,0,0,7,3,1,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Yuliy,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+alexander.musman,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+alexander.musman,Computer Game,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+alexander.musman,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+metar,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+metar,Computer Game,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+metar,Old Berland Language,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+gourav.bit,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Brisingr,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Brisingr,Computer Game,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Brisingr,Old Berland Language,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+quyse,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+quyse,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+quyse,Computer Game,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Debugcool,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+dmitrydyatlov,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+dmitrydyatlov,Computer Game,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+dmitrydyatlov,Old Berland Language,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+szefo617,Towers,0,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,sortings
+szefo617,Computer Game,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Slevin,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Slevin,Computer Game,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Slevin,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Slevin,Lesson Timetable,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+mrc88,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+mrc88,Computer Game,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+mrc88,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Deamon,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Deamon,Computer Game,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Deamon,Old Berland Language,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Steelrat,Towers,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Steelrat,Computer Game,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Hadi_Asiaie,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Hadi_Asiaie,Computer Game,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Mark_tven,Old Berland Language,0,C,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Mark_tven,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Mark_tven,Computer Game,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Atef,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Atef,Computer Game,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+sazzad,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+sazzad,Computer Game,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Monyura,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Monyura,Computer Game,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Monyura,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Fcdkbear,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Fcdkbear,Computer Game,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Fcdkbear,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+KirillB,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+KirillB,Computer Game,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,implementation"
+KirillB,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+bubnov,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+bubnov,Computer Game,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+UC2,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+UC2,Computer Game,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+UC2,Old Berland Language,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+KhaustovPavel,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+KhaustovPavel,Computer Game,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+KhaustovPavel,Old Berland Language,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+KhaustovPavel,Lesson Timetable,1,D,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ChaRiL,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Babanin_Ivan,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Babanin_Ivan,Computer Game,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+dyussenaliyev,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+dyussenaliyev,Computer Game,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+iamD,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+iamD,Old Berland Language,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+era_kaz_93,Towers,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+era_kaz_93,Computer Game,1,B,0,0,0,1,0,5,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+JOZHEG,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+JOZHEG,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Jens,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Jens,Computer Game,1,B,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+mohammadkotb,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+mohammadkotb,Old Berland Language,1,C,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+mohammadkotb,Computer Game,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Rock.Spartacus,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Rock.Spartacus,Computer Game,1,B,0,0,0,0,0,6,0,2,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Balajiganapathi,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Balajiganapathi,Computer Game,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+M0sTik,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+M0sTik,Computer Game,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Austeritas,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Austeritas,Computer Game,0,B,0,0,0,0,0,10,1,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Austeritas,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+FedyuninV,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+FedyuninV,Computer Game,1,B,1,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+SergeyLazarev,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+SergeyLazarev,Old Berland Language,1,C,1,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+SergeyLazarev,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+taras.klaskovsky,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+taras.klaskovsky,Computer Game,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+taras.klaskovsky,Old Berland Language,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+taras.klaskovsky,Lesson Timetable,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Copymaster,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Copymaster,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Copymaster,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+imrankane2005,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+imrankane2005,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Efgen,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,sortings
+Efgen,Computer Game,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Efgen,Old Berland Language,1,C,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Mex-Mans,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Mex-Mans,Computer Game,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ainu7,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ainu7,Computer Game,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ainu7,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+ainu7,Lesson Timetable,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Sergey.Akimov,Towers,0,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,sortings
+Sergey.Akimov,Computer Game,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Sergey.Akimov,Old Berland Language,1,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+zeliboba,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+zeliboba,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+zeliboba,Computer Game,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Tatyana_Petrashko,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ruslan.sennov,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,sortings
+ruslan.sennov,Old Berland Language,1,C,0,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+asollo,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+asollo,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Quazar,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Quazar,Computer Game,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+yuscvscv,Towers,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+yuscvscv,Computer Game,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+yuscvscv,Old Berland Language,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+chronotable,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+chronotable,Computer Game,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+chronotable,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Kipok,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Kipok,Computer Game,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Kipok,Old Berland Language,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+bor.is,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+bor.is,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Farzam,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Farzam,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Farzam,Computer Game,1,B,0,0,0,0,3,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+S.Yesipenko,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+S.Yesipenko,Computer Game,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+S.Yesipenko,Old Berland Language,1,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+birbbit,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+birbbit,Computer Game,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,implementation"
+Thekid,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Thekid,Computer Game,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Thekid,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Thekid,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+osa_k,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+osa_k,Computer Game,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+osa_k,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+dani93.f,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+dani93.f,Computer Game,1,B,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+t__nt,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+t__nt,Computer Game,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+t__nt,Old Berland Language,0,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+t__nt,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+evader,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+evader,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+YeeeeHa,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Sereja,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Sereja,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+moshiur,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+moshiur,Computer Game,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+moshiur,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+dziadek,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+dziadek,Computer Game,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+komiya,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+komiya,Old Berland Language,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+komiya,Computer Game,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Vaness,Towers,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+Vaness,Computer Game,1,B,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Vaness,Old Berland Language,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+AndreyP,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+AndreyP,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+akshayk0406,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+akshayk0406,Computer Game,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+slalex,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+slalex,Computer Game,1,B,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+jovank,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+jovank,Computer Game,1,B,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+scottai1,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+scottai1,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+scottai1,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+scottai1,Lesson Timetable,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+IwfWcf,Towers,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+IwfWcf,Old Berland Language,0,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+IwfWcf,Computer Game,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+DPR-pavlin,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+DPR-pavlin,Old Berland Language,0,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+DPR-pavlin,Computer Game,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,"greedy,implementation"
+quimeyv,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+quimeyv,Computer Game,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+quimeyv,Old Berland Language,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+sky58,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+sky58,Computer Game,0,B,1,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+sky58,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+sky58,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+arosusti,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+arosusti,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+arosusti,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+emo,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+emo,Computer Game,1,B,1,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+douglasantos,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+douglasantos,Computer Game,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation"
+douglasantos,Old Berland Language,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+tuananh93,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+tuananh93,Computer Game,1,B,0,0,0,0,2,3,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation"
+tuananh93,Old Berland Language,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+RedAnt,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+RedAnt,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,implementation"
+RedAnt,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+lyrics,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+lyrics,Computer Game,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+lyrics,Old Berland Language,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+stormsky,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+stormsky,Computer Game,1,B,0,0,0,0,0,8,1,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+stormsky,Old Berland Language,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Alireza,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Alireza,Computer Game,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Alireza,Old Berland Language,1,C,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+wistful,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+wistful,Old Berland Language,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+wistful,Computer Game,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation"
+AKGMA,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+AKGMA,Old Berland Language,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+dronoff,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+dronoff,Old Berland Language,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+shioshiota,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+shioshiota,Computer Game,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+shioshiota,Old Berland Language,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+shioshiota,Lesson Timetable,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+SavchukAM,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+SavchukAM,Computer Game,1,B,0,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+freak93,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+freak93,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+freak93,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+AmazingCaddy,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+LayCurse,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+LayCurse,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+LayCurse,Computer Game,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+LayCurse,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Surogatov_S,Towers,1,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+Surogatov_S,Computer Game,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+akimonoiryou,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+akimonoiryou,Old Berland Language,1,C,1,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+masha,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+masha,Computer Game,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+strelok1918,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+diogen,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+diogen,Old Berland Language,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+dschlyter,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+dschlyter,Computer Game,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+dschlyter,Old Berland Language,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+maxusivanov,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+maxusivanov,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+maxusivanov,Old Berland Language,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+wangzhihao,Towers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+wangzhihao,Old Berland Language,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+wangzhihao,Computer Game,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+kyo_key,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+kyo_key,Computer Game,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+kyo_key,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+duolon,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+duolon,Old Berland Language,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+duolon,Computer Game,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Tahlil,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+PanZverski,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+PanZverski,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+PanZverski,Computer Game,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+kasra,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+kasra,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+kasra,Lesson Timetable,1,D,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+vish,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+vish,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,implementation"
+vish,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,greedy,trees"
+mrButt,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+mrButt,Computer Game,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+mrButt,Old Berland Language,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"data structures,greedy,trees"
+Fedya,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Fedya,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation"
+soundsdx,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+soundsdx,Computer Game,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+niquefa,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+trulo_17,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+trulo_17,Computer Game,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+trulo_17,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Diabolic,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Kiberbit,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Kiberbit,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Kiberbit,Old Berland Language,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Andronnix,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Andronnix,Computer Game,1,B,0,0,0,0,0,7,0,2,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Icemore,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Icemore,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+hpfdf,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,sortings
+hpfdf,Old Berland Language,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+hpfdf,Computer Game,1,B,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+mikev,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+mikev,Old Berland Language,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,greedy,trees"
+aleksandr_gusarov,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+aleksandr_gusarov,Computer Game,1,B,0,0,0,0,2,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ahm.kam_92,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ahm.kam_92,Old Berland Language,1,C,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+hogeover30,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+hogeover30,Computer Game,1,B,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+atrades,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+atrades,Computer Game,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+atrades,Old Berland Language,0,C,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+icek,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+icek,Computer Game,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+icek,Old Berland Language,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+juggler,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+juggler,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+DDBull,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+DDBull,Computer Game,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+guspiel,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+guspiel,Old Berland Language,1,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+guspiel,Computer Game,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+magdi,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+a286729485,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+a286729485,Computer Game,1,B,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+kris13,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+kris13,Computer Game,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+paulocezar,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+paulocezar,Computer Game,1,B,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+kabir.sohel,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+kabir.sohel,Computer Game,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+AVoz,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+AVoz,Old Berland Language,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+AVoz,Computer Game,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+arash,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+shilov,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+shilov,Computer Game,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+shilov,Old Berland Language,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+yak_ex,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+yak_ex,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation"
+yak_ex,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Souverain,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+uwi,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+uwi,Old Berland Language,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+uwi,Computer Game,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation"
+uwi,Trial for Chief,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy,shortest paths"
+bsrkaditya,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+bsrkaditya,Computer Game,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Sleepwalker,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Sleepwalker,Computer Game,1,B,1,0,0,0,3,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+PML,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+PML,Computer Game,1,B,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Janis_Gruzis,Towers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Janis_Gruzis,Computer Game,1,B,1,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+nise_nabe,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+nise_nabe,Old Berland Language,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+asif_iut,Towers,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+hadesgames,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+hadesgames,Computer Game,0,B,1,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+hadesgames,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+orangenius,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+orangenius,Computer Game,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+orangenius,Old Berland Language,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Sanya_M,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Sanya_M,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+nab,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+nab,Computer Game,1,B,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+mongolrgata,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+mongolrgata,Computer Game,1,B,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+jjchat,Towers,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,sortings
+sabbathist,Towers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+sabbathist,Computer Game,1,B,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Asterik,Towers,1,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Sedols,Towers,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+Sedols,Computer Game,1,B,1,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Sedols,Old Berland Language,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+chitose,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+chitose,Computer Game,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+chitose,Lesson Timetable,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+anhdt,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+anhdt,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+anhdt,Old Berland Language,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+wywcgs,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+wywcgs,Computer Game,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+wywcgs,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+wywcgs,Lesson Timetable,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Egor,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Egor,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Egor,Computer Game,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Egor,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Seemann,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Seemann,Computer Game,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Seemann,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+ysyshtc,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ysyshtc,Old Berland Language,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+ysyshtc,Computer Game,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+69-64-79,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+69-64-79,Computer Game,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+babak,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+babak,Old Berland Language,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Scientist1642,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Scientist1642,Old Berland Language,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Frodo94,Computer Game,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Frodo94,Old Berland Language,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Frodo94,Towers,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,sortings
+saigono,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+gaoyuan,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+gaoyuan,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation"
+finomen812,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+finomen812,Computer Game,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+finomen812,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Lapenkov,Towers,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Lapenkov,Computer Game,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+xiaoyoulei,Towers,1,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,sortings
+xiaoyoulei,Computer Game,1,B,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+GodBaby,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+GodBaby,Computer Game,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+luizribeiro,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+luizribeiro,Computer Game,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+luizribeiro,Old Berland Language,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+komron_hkl,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+-RooneY-,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+-RooneY-,Computer Game,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+KeMmIo,Towers,1,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+iwiwi,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+iwiwi,Computer Game,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+iwiwi,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+iwiwi,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Snich,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Snich,Computer Game,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation"
+Snich,Old Berland Language,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+taichi,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+taichi,Computer Game,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+cswudi0,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+cswudi0,Computer Game,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+cswudi0,Old Berland Language,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+DmitriyH,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+DmitriyH,Computer Game,1,B,1,0,0,0,0,5,1,0,0,0,0,0,0,0,1,0,0,"greedy,implementation"
+whoami,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+whoami,Old Berland Language,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Kasparyan_Mihail,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Kasparyan_Mihail,Computer Game,0,B,0,0,0,1,0,13,1,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Kasparyan_Mihail,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+peria,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+peria,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+nokia,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+nokia,Old Berland Language,1,C,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+free999,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+free999,Old Berland Language,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+tohuuquan,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+tohuuquan,Computer Game,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Berzhik,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Berzhik,Computer Game,1,B,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Fata1ist,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Ress,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Ress,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Barsuk_Alexey,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Barsuk_Alexey,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Barsuk_Alexey,Computer Game,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+alik,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+alik,Computer Game,1,B,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+kssilveira,Towers,0,A,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,sortings
+kssilveira,Computer Game,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+kssilveira,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+VanDerGbdrm,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+VanDerGbdrm,Computer Game,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation"
+delta_4d,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Dronte,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Sefidr,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+mfkhr,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+mfkhr,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+mandarinka,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+saeedeh,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+saeedeh,Old Berland Language,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Shiho,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Shiho,Old Berland Language,1,C,1,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+ZaviOr,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ZaviOr,Old Berland Language,1,C,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+m.sabouri,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+m.sabouri,Computer Game,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+m.sabouri,Old Berland Language,0,C,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+hydrastuff,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+hydrastuff,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+hydrastuff,Computer Game,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+aknur94,Towers,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+aknur94,Old Berland Language,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+190510,Towers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+190510,Computer Game,1,B,1,0,0,0,0,13,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation"
+todo,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+todo,Computer Game,1,B,1,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+cyx5320856,Towers,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+cyx5320856,Old Berland Language,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+cyx5320856,Computer Game,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation"
+SAMueL,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+SAMueL,Computer Game,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+SAMueL,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+SAMueL,Lesson Timetable,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+_Vadim_,Towers,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,sortings
+FriendNew,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+FriendNew,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+mark063,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+iroro,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+iroro,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+kle0fas,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Mukhamedgarif,Towers,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Mukhamedgarif,Computer Game,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+agus.mw,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+agus.mw,Computer Game,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+agus.mw,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+ershad,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+regmar,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+tamer.eldeeb,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Saif,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+dronimal,Towers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+dronimal,Computer Game,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+yechencheng,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+yechencheng,Old Berland Language,0,C,1,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+yechencheng,Computer Game,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+zlly,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+zlly,Computer Game,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ErzhanDS,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ErzhanDS,Computer Game,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,implementation"
+dark.coder,Towers,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+dark.coder,Old Berland Language,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+nel215,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+nel215,Computer Game,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+nel215,Old Berland Language,1,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+lex4051,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+lex4051,Computer Game,1,B,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ravi_villuri,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ravi_villuri,Old Berland Language,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+lijunle,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+lijunle,Old Berland Language,1,C,1,0,0,0,0,2,1,0,0,0,0,0,0,1,0,0,0,"data structures,greedy,trees"
+navi,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+navi,Old Berland Language,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+navi,Lesson Timetable,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+User30000,Towers,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+User30000,Old Berland Language,1,C,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+NemesisII,Towers,1,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Gassa,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Gassa,Computer Game,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Gassa,Old Berland Language,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Gassa,Lesson Timetable,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+wooyaggo,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+wooyaggo,Computer Game,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+msagimbekov,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+San_Sany4,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+San_Sany4,Computer Game,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+hujiaxi,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+hujiaxi,Old Berland Language,1,C,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+bm_anas,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+bm_anas,Computer Game,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+idivyanshu,Towers,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+idivyanshu,Computer Game,1,B,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+DELETED02,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+yvasyliv,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+yvasyliv,Computer Game,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+yvasyliv,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+zhasikz,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+shibly,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+shibly,Computer Game,1,B,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+meparter,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+meparter,Old Berland Language,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Nox,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Nox,Computer Game,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Nox,Old Berland Language,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+zafar_sust_bd,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Padme,Towers,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Padme,Computer Game,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Xerxes,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Xerxes,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+pt1989,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+pt1989,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+pt1989,Lesson Timetable,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+pt1989,Computer Game,1,B,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+morojenoe,Towers,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+PowerIVQ,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+PowerIVQ,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+paranoid,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+paranoid,Computer Game,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+felix_halim,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+felix_halim,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+felix_halim,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+mrtempo,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+mrtempo,Computer Game,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+mrtempo,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Minori,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Minori,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+flabby,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+kiyoshi,Towers,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,sortings
+kiyoshi,Old Berland Language,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+dark_ai,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+NiceDay,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+KTR,Towers,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,sortings
+KTR,Old Berland Language,1,C,1,0,0,0,0,3,0,1,0,0,0,0,0,0,2,0,0,"data structures,greedy,trees"
+Alexander,Towers,0,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,sortings
+Alexander,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Alexander,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+ankit1990,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ankit1990,Computer Game,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+master_j,Towers,0,A,1,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,sortings
+master_j,Computer Game,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Oryshych,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Oryshych,Computer Game,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"greedy,implementation"
+naagi,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+naagi,Old Berland Language,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Shidfar,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Shidfar,Old Berland Language,1,C,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+c_loud26,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+c_loud26,Computer Game,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+zjf.sjtu,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+zjf.sjtu,Computer Game,0,B,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+zjf.sjtu,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Behrooz,Towers,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Behrooz,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Behrooz,Computer Game,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Nikolai,Towers,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Nikolai,Computer Game,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Nikolai,Old Berland Language,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+weiqi,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+weiqi,Computer Game,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+iensen,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+iensen,Computer Game,1,B,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+hemant_baid,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Bearjie,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Bearjie,Computer Game,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+DNNX,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+DNNX,Old Berland Language,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+deadpadre,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+deadpadre,Computer Game,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+bohuss,Towers,0,A,1,0,0,0,7,0,5,0,0,0,0,0,0,0,0,0,0,sortings
+bohuss,Computer Game,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ctna,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+cosmin,Towers,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+cosmin,Old Berland Language,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+kusano,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+kusano,Computer Game,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+kusano,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+codecrux,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+lwc626,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+lwc626,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+lwc626,Computer Game,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+winterflame,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+xelez,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+xelez,Computer Game,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Dias,Towers,1,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,sortings
+hallucinogen,Towers,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+hallucinogen,Computer Game,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+hallucinogen,Old Berland Language,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+cafelier,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+cafelier,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+cafelier,Old Berland Language,1,C,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+cafelier,Lesson Timetable,1,D,0,0,0,0,1,4,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+almaz_kh,Towers,1,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Swrrt,Towers,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Swrrt,Computer Game,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+lonelyprog,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+rofi,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+wcwswswws,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+wcwswswws,Computer Game,0,B,0,0,0,0,0,12,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+wcwswswws,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+amit.codename13,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+amit.codename13,Old Berland Language,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+khanhptnk,Towers,0,A,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,sortings
+khanhptnk,Computer Game,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+khanhptnk,Old Berland Language,1,C,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+wangshaobiao,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+tanzaku,Towers,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+tanzaku,Computer Game,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+tanzaku,Old Berland Language,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Maksat,Towers,1,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,sortings
+yowa,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+yowa,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+yowa,Old Berland Language,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Eather,Towers,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,sortings
+sixujie,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+sixujie,Old Berland Language,1,C,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+kontr,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+victoryland,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+srivatsan_vn,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+xuanflyer,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,sortings
+xuanflyer,Old Berland Language,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+gauravmunjal,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+4a1ka,Towers,0,A,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+vermapratyush,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+it4.kp,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+it4.kp,Old Berland Language,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+it4.kp,Computer Game,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+it4.kp,Lesson Timetable,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+kiseljovkn,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+kiseljovkn,Old Berland Language,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+dulat,Towers,1,A,1,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+topskychen,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+topskychen,Computer Game,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+topskychen,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+lordke,Towers,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+lordke,Computer Game,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Semmi,Towers,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Semmi,Computer Game,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+icyrhyme,Towers,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+sabottenda,Towers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+sabottenda,Computer Game,1,B,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+beni.oncea,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+beni.oncea,Computer Game,1,B,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+beni.oncea,Old Berland Language,0,C,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+koder_dima,Towers,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+tatsuyafw,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+RoyalSFlush,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+RoyalSFlush,Computer Game,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+iostream,Towers,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+iostream,Computer Game,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+mghost,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+devils13,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+devils13,Computer Game,1,B,1,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Vasilisk,Towers,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Vasilisk,Computer Game,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+akazz,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+htrinh,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+htrinh,Old Berland Language,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+tokens,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+K_operafan,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+anuar_721,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+navid.azami,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+headsome,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+siteshshrivastava,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Liaksiejka,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Liaksiejka,Computer Game,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Liaksiejka,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Psilocybe,Towers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Psilocybe,Computer Game,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Orfest,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Orfest,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Orfest,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Orfest,Lesson Timetable,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+fR0DDY,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+xlfd,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+xlfd,Computer Game,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Dolphin,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Dolphin,Computer Game,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Dolphin,Old Berland Language,0,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+OmarEl-Mohandes,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+OmarEl-Mohandes,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+anohovsky,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+giongto35,Towers,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+giongto35,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+ridowan007,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ridowan007,Computer Game,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+sjbr,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+kvm,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+kvm,Computer Game,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Abra,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Abra,Computer Game,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Abra,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+ichyo,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ichyo,Computer Game,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ramywafa,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ramywafa,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+anmolkapoormail,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Mars314,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+qu317058542,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+qu317058542,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+qu317058542,Computer Game,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+introduction,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+etfl,Towers,0,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,sortings
+etfl,Computer Game,0,B,0,0,0,0,1,16,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation"
+etfl,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+samshu,Towers,1,A,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,sortings
+pius_88,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+root5,Towers,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Anastasia,Towers,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,sortings
+mcsharma1990,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+mcsharma1990,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+U_E_D,Towers,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+U_E_D,Computer Game,1,B,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+U_E_D,Old Berland Language,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Ignorance,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Ignorance,Computer Game,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+kyubuns,Towers,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,sortings
+kyubuns,Old Berland Language,0,C,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+sdya,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+sdya,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+sdya,Old Berland Language,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+sdya,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+demalah,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ansaryfantastic,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+calculus.saransh,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Manish-Kumar,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ifrit,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+okulov,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+okulov,Computer Game,1,B,0,0,0,1,0,14,1,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+xiao_wu,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+xiao_wu,Computer Game,1,B,0,0,0,0,2,8,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+matrix_sust,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+daniil_tropin,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+daniil_tropin,Old Berland Language,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+bsg,Towers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+bsg,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+bsg,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+daizhenyang,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+daizhenyang,Old Berland Language,1,C,1,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+dashka_z,Towers,0,A,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,sortings
+delta,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+mk74rus,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+logicmachine,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+logicmachine,Old Berland Language,0,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+logicmachine,Computer Game,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,implementation"
+ruban,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ruban,Old Berland Language,1,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+vladimir_nedev,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+vladimir_nedev,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+vladimir_nedev,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+wand125,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+wand125,Computer Game,1,B,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+slip0110,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+slip0110,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Ch0W,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Ch0W,Old Berland Language,0,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Ch0W,Computer Game,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ftiasch,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+MihailTyomkin,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+MihailTyomkin,Computer Game,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Wahba,Towers,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,sortings
+Wahba,Old Berland Language,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+atetubou,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+qjklw,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+qjklw,Computer Game,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+liuyang_elvis,Towers,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+KIT,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+parklinkivic,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+mahamudsust,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+mahamudsust,Old Berland Language,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Aizava,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Aizava,Computer Game,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+tranhaidangfpt,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+dejandenib,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,sortings
+dejandenib,Old Berland Language,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+DStepanenko,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+DStepanenko,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+DStepanenko,Lesson Timetable,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+DStepanenko,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+KashinYana.,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+KashinYana.,Old Berland Language,1,C,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+AnnaS,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+filipbitola,Towers,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+skull,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+PaintKiller,Towers,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+PaintKiller,Computer Game,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Algorithm,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Algorithm,Lesson Timetable,1,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+sidi,Towers,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,sortings
+sidi,Computer Game,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+HeVy,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+HeVy,Computer Game,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ViktorM,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+xhsong,Computer Game,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+xhsong,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+xhsong,Old Berland Language,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Terminal,Towers,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+Terminal,Computer Game,1,B,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Tribal,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Tribal,Computer Game,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Khaled91,Towers,1,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+topman3758,Towers,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+nima101,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+nima101,Old Berland Language,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Aule,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Aule,Computer Game,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+nayimsust,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+gn13,Towers,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,sortings
+HellCom,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+4ybakut2004,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+natali_solovyeva,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+sbcd90,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,sortings
+edem.kwadzo,Towers,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ardmn,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+buchipper,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+buchipper,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+shilcare,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Beast,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Beast,Old Berland Language,1,C,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Anton_Rodick,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+haytham,Towers,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+poojac,Towers,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,sortings
+Alexander-1709,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+fahad.sust,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+BenderRodriges,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,sortings
+arpit_s,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+sight,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Diman_yoyo,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+liympanda,Towers,0,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+liympanda,Computer Game,0,B,1,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+liympanda,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+fura2,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+fura2,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+fura2,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Simeon,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+chenchen1024,Towers,1,A,1,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,0,sortings
+TRR,Towers,1,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,sortings
+dzhulgakov,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+dzhulgakov,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+dzhulgakov,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+dzhulgakov,Lesson Timetable,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+sea.ashari,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+BogdanK,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+BogdanK,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+20092100003,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Light_Yagami,Towers,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+cyber.njust,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+cyber.njust,Old Berland Language,1,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+kirr,Towers,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+kirr,Computer Game,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ald,Towers,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,sortings
+ald,Old Berland Language,1,C,0,0,0,2,0,8,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Obaida,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Obaida,Computer Game,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Obaida,Old Berland Language,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Remstam,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+0x895962,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+AndreiD,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+lobo,Towers,1,A,1,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,sortings
+anvar1101,Towers,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,sortings
+anvar1101,Old Berland Language,0,C,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+muriloufg,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+leon_l,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+leon_l,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Langostinko,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Langostinko,Computer Game,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+checkmate,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Waiter,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+IOI_2014,Towers,0,A,0,0,0,0,2,3,0,0,0,0,0,0,0,1,0,0,0,sortings
+Bjorn,Towers,1,A,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,sortings
+Bjorn,Computer Game,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+stefandechev,Towers,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+stefandechev,Computer Game,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ciprianfarcasanu,Computer Game,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ciprianfarcasanu,Old Berland Language,0,C,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+15211243642,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+bongssi,Towers,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+whitedeath,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+whitedeath,Computer Game,1,B,0,0,0,0,0,5,2,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+onoffon,Towers,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+onoffon,Old Berland Language,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Nursoltan,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Nursoltan,Old Berland Language,1,C,0,0,0,1,0,9,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+bschaudhari972,Towers,0,A,0,0,0,5,0,0,1,0,0,0,0,0,0,0,0,0,0,sortings
+vishwakarma,Towers,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+mipt.vi002,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+mipt.vi002,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+mipt.vi002,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+fookwood,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+zxiy,Towers,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+zxiy,Computer Game,1,B,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+FSOG,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+RomaRoma,Towers,0,A,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,sortings
+AleksBannikov,Towers,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+kirakira,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Codemacher,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Anurag,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Mercer,Towers,1,A,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,sortings
+falcon,Towers,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+ucq,Old Berland Language,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+nhnghi,Towers,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+rashid,Towers,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+glukin,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+JustRoo,Towers,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,sortings
+rajnesh,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+kassyi,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+DarkYoshi,Towers,1,A,1,0,0,4,8,0,5,1,0,0,0,0,0,0,0,0,0,sortings
+china-sos,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+SWUN_Azuki,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+arduous,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+havi,Towers,0,A,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+sergey.dolinin,Towers,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+hnu0314,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+hnu0314,Computer Game,1,B,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+galiver,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Alisafe,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+acsaga,Computer Game,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+acsaga,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+acsaga,Old Berland Language,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+ZaGaT,Towers,0,A,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,sortings
+bsshanghai,Towers,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+1guangnian,Towers,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,sortings
+lkssharma,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+cmepiii,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+cmepiii,Old Berland Language,1,C,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Gtt,Towers,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+zyx3d,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+zyx3d,Computer Game,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+zyx3d,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+apostol.vlz,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+apostol.vlz,Computer Game,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+delphisourcer,Towers,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,sortings
+delphisourcer,Computer Game,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation"
+minhtien_142,Towers,1,A,1,0,0,2,0,2,0,0,0,1,0,0,0,0,0,0,0,sortings
+zhouxingxing,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Humersun,Towers,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+bablu,Towers,0,A,0,0,0,4,0,3,1,0,0,0,0,0,0,0,0,0,0,sortings
+pdwd,Computer Game,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,implementation"
+pdwd,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+dima11221122,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+yudaer,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+yudaer,Old Berland Language,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Pashcal,Towers,1,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+zjy3186511,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+kinodjnz,Computer Game,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+kinodjnz,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+kinodjnz,Old Berland Language,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+ika,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+ika,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Katran,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+CuTX,Towers,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,sortings
+sunzuhan,Towers,0,A,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,sortings
+mdanesh,Old Berland Language,0,C,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Roschin,Towers,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Roschin,Trial for Chief,1,E,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,greedy,shortest paths"
+vanchope,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+vanchope,Old Berland Language,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Cunch,Towers,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+bmsujon,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+bmsujon,Old Berland Language,1,C,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+filipp,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,sortings
+filipp,Computer Game,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+PaHaK,Towers,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+PaHaK,Computer Game,1,B,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,"greedy,implementation"
+CYanAn,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+soodabe,Towers,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+eagleflying,Towers,0,A,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,sortings
+eagleflying,Old Berland Language,0,C,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+linus.droid,Towers,0,A,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,sortings
+Chepurnoy.A,Towers,1,A,1,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,sortings
+Stanislav,Towers,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+itchyny,Old Berland Language,0,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+itchyny,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,sortings
+itchyny,Lesson Timetable,1,D,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+zhangjianing,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+SCV_Vulture,Towers,1,A,1,0,0,2,8,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+Linogor,Towers,0,A,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,0,sortings
+oxilor,Towers,0,A,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,0,0,sortings
+oxilor,Computer Game,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+fayaz_iut,Towers,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+mandarvv,Towers,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ksjuchi,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ksjuchi,Computer Game,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+steiner,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+steiner,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+steiner,Lesson Timetable,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+DuX,Old Berland Language,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+DuX,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+DuX,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation"
+SerhioUA,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+lakha,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+xeronix,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+xeronix,Computer Game,1,B,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+robb_billy,Towers,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,sortings
+El_SiD,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+El_SiD,Computer Game,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Alex_4,Towers,1,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,sortings
+gestapolur,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+gestapolur,Computer Game,1,B,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Amrodis,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Amrodis,Computer Game,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+syco,Lesson Timetable,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+syco,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+syco,Computer Game,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+david.a.peter,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+david.a.peter,Computer Game,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+mounikasiva,Towers,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+zzldjk,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+zzldjk,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+Towhid,Computer Game,0,B,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Towhid,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Skoch92,Towers,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Skoch92,Computer Game,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+iman_MC,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Togop,Towers,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Togop,Old Berland Language,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,trees"
+im_mh,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+vxv12,Towers,1,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,sortings
+Toj_yuan1028,Towers,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+shnell,Towers,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Han_ksp,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+pisnicsergei,Towers,0,A,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+hzshuai,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+hzshuai,Computer Game,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+grigory51,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+m.h.sankar,Towers,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+n_bool,Towers,0,A,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+nguyentiennam2910,Towers,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+haydar_karrar,Towers,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Filins,Towers,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+yayaha,Computer Game,0,B,0,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+fr3aky,Towers,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+nishijo,Towers,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,sortings
+malcolm,Towers,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings

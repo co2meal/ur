@@ -1,0 +1,1083 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+scottai1,Almost Arithmetical Progression,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+scottai1,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+scottai1,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+scottai1,Lucky Arrays,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+vagnard,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+vagnard,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+vagnard,Furlo and Rublo and Game,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,games
+marcin_smu,Almost Arithmetical Progression,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+marcin_smu,Furlo and Rublo and Game,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2,0,0,games
+marcin_smu,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+squarefk,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+squarefk,Mr. Bender and Square,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+squarefk,Furlo and Rublo and Game,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,games
+mochavic,Almost Arithmetical Progression,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+mochavic,Mr. Bender and Square,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+mochavic,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+bohuss,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ksun48,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ksun48,Mr. Bender and Square,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+ksun48,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,games
+ksun48,Lucky Arrays,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+spnautilus,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+spnautilus,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+spnautilus,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+ryz,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ryz,Furlo and Rublo and Game,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,games
+ryz,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Vergissmeinnicht,Almost Arithmetical Progression,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+Vergissmeinnicht,Mr. Bender and Square,0,B,0,0,0,1,0,5,0,1,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Apple_Cplus,Almost Arithmetical Progression,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Apple_Cplus,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Apple_Cplus,Furlo and Rublo and Game,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+kcm1700,Almost Arithmetical Progression,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+kcm1700,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+kcm1700,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Arterm,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Arterm,Mr. Bender and Square,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,math"
+Arterm,Furlo and Rublo and Game,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+naagi,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+naagi,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+ACMonster,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ACMonster,Mr. Bender and Square,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+ACMonster,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+ACMonster,Lucky Arrays,1,E,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+__math,Almost Arithmetical Progression,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+__math,Mr. Bender and Square,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+__math,Furlo and Rublo and Game,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+smilitude,Almost Arithmetical Progression,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+mylyanyk.ivan,Almost Arithmetical Progression,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+momo_vn,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+momo_vn,Mr. Bender and Square,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+WJMZBMR,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+WJMZBMR,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+WJMZBMR,Lucky Arrays,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+WJMZBMR,Liars and Serge,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+WJMZBMR,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+BIT_silence,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+BIT_silence,Furlo and Rublo and Game,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Reshetnikov_Ivan,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Reshetnikov_Ivan,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+thphong,Almost Arithmetical Progression,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Aleksander94,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Aleksander94,Mr. Bender and Square,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Archon.JK,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Archon.JK,Mr. Bender and Square,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Archon.JK,Furlo and Rublo and Game,0,C,0,0,0,0,0,3,0,1,0,0,0,0,0,1,0,0,0,games
+Archon.JK,Lucky Arrays,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+djrkc,Almost Arithmetical Progression,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+gridnevvvit,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+hanfei19910905,Almost Arithmetical Progression,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+hanfei19910905,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Olja,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Olja,Mr. Bender and Square,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Olja,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+ivan100sic,Almost Arithmetical Progression,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+ivan100sic,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+ivan100sic,Liars and Serge,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+ftiasch,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ftiasch,Mr. Bender and Square,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+ftiasch,Furlo and Rublo and Game,1,C,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,games
+ftiasch,Lucky Arrays,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+gskhirtladze,Almost Arithmetical Progression,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+qidiot,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+qidiot,Furlo and Rublo and Game,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,games
+barty,Almost Arithmetical Progression,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+barty,Mr. Bender and Square,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+barty,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Komaki,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+Komaki,Mr. Bender and Square,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Komaki,Furlo and Rublo and Game,1,C,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,games
+Komaki,Lucky Arrays,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+lyoz,Almost Arithmetical Progression,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+lyoz,Mr. Bender and Square,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+lyoz,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+ziki,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+ziki,Mr. Bender and Square,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+ziki,Furlo and Rublo and Game,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+ACube,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ACube,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+ACube,Furlo and Rublo and Game,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+ACube,Lucky Arrays,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+cmd,Almost Arithmetical Progression,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+cmd,Mr. Bender and Square,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+__tutankhamun__,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+__tutankhamun__,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+__tutankhamun__,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Xnewfolder,Almost Arithmetical Progression,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Xnewfolder,Mr. Bender and Square,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+jupanul,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+roypalacios,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+roypalacios,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+heyihong,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+heyihong,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+mugurelionut,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+mugurelionut,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+mugurelionut,Furlo and Rublo and Game,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,games
+mugurelionut,Liars and Serge,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+blue.boy,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+blue.boy,Lucky Arrays,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+blue.boy,Furlo and Rublo and Game,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,games
+blue.boy,Mr. Bender and Square,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+blue.boy,Liars and Serge,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+hytirt,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+hytirt,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+hytirt,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+stevenkplus,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+stevenkplus,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+FattyChicken,Almost Arithmetical Progression,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+FattyChicken,Furlo and Rublo and Game,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,games
+FattyChicken,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+lpp_,Almost Arithmetical Progression,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,0,"binary search,dp,two pointers"
+lpp_,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+AndreySiunov,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+AndreySiunov,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Erop,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Erop,Mr. Bender and Square,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Erop,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+KADR,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+KADR,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+KADR,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+KADR,Lucky Arrays,1,E,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+KADR,Liars and Serge,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+rares.buhai,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+rares.buhai,Mr. Bender and Square,1,B,1,0,0,0,0,8,0,0,0,0,0,0,0,0,1,0,0,"binary search,brute force,math"
+rares.buhai,Lucky Arrays,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+mR.ilchi,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+mR.ilchi,Furlo and Rublo and Game,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+mR.ilchi,Mr. Bender and Square,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+mR.ilchi,Liars and Serge,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+imbanoob,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+imbanoob,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+imbanoob,Furlo and Rublo and Game,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+imbanoob,Lucky Arrays,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Applejack,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+dowlet,Almost Arithmetical Progression,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+dowlet,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,games
+watashi,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+watashi,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+watashi,Mr. Bender and Square,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+watashi,Lucky Arrays,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+XilinX,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+XilinX,Mr. Bender and Square,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+XilinX,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+roosephu,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+roosephu,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+roosephu,Lucky Arrays,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+takapt,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+takapt,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+hydrastuff,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+hydrastuff,Furlo and Rublo and Game,0,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,games
+hydrastuff,Mr. Bender and Square,1,B,1,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+yukim,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+yukim,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+yukim,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+phtniit,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+phtniit,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+carber,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+carber,Mr. Bender and Square,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+NotOnlySuccess,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+NotOnlySuccess,Mr. Bender and Square,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Witalia,Almost Arithmetical Progression,0,A,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Witalia,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+alger95,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+alger95,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+darrenhp,Almost Arithmetical Progression,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+darrenhp,Mr. Bender and Square,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+liouzhou_101,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+liouzhou_101,Mr. Bender and Square,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+liouzhou_101,Furlo and Rublo and Game,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+liouzhou_101,Lucky Arrays,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+navi,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+navi,Mr. Bender and Square,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+navi,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Zlobober,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Zlobober,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,brute force,math"
+Zlobober,Furlo and Rublo and Game,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,games
+Zlobober,Lucky Arrays,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+Merlininice,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+it4.kp,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+it4.kp,Mr. Bender and Square,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+it4.kp,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+ConanKudo,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ConanKudo,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+ConanKudo,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+yoh149,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+yoh149,Mr. Bender and Square,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+yoh149,Furlo and Rublo and Game,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,games
+SamanSami,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+SamanSami,Furlo and Rublo and Game,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+espr1t,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,two pointers"
+espr1t,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+espr1t,Furlo and Rublo and Game,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+timd,Almost Arithmetical Progression,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+timd,Furlo and Rublo and Game,1,C,1,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,games
+haas,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+haas,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+haas,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+sapalskimichal,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+sapalskimichal,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+sapalskimichal,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+AleX,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+AleX,Mr. Bender and Square,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+AleX,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+AleX,Lucky Arrays,1,E,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,data structures
+rng_58,Furlo and Rublo and Game,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+rng_58,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+rng_58,Liars and Serge,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+rng_58,Lucky Arrays,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+rng_58,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+scott_wu,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+scott_wu,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+scott_wu,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+scott_wu,Lucky Arrays,1,E,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,0,0,data structures
+luzilon1,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+luzilon1,Mr. Bender and Square,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,math"
+Mahdi,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Mahdi,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+lxhgww,Almost Arithmetical Progression,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+lxhgww,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+ainta,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ainta,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+ainta,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+ainta,Liars and Serge,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+binhminh410,Almost Arithmetical Progression,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,two pointers"
+binhminh410,Mr. Bender and Square,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+seen,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+seen,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+seen,Furlo and Rublo and Game,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+kawatea,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+kawatea,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+kawatea,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+adam_,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+adam_,Furlo and Rublo and Game,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,games
+Nomad,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Nomad,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Shik,Almost Arithmetical Progression,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Shik,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Shik,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Egor,Almost Arithmetical Progression,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Egor,Mr. Bender and Square,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Egor,Furlo and Rublo and Game,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Egor,Lucky Arrays,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Egor,Liars and Serge,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+KhaustovPavel,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+KhaustovPavel,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+KhaustovPavel,Furlo and Rublo and Game,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+aitzhan.askar,Almost Arithmetical Progression,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+aitzhan.askar,Mr. Bender and Square,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+subscriber,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+subscriber,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+subscriber,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+subscriber,Lucky Arrays,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+dreamoon,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+dreamoon,Furlo and Rublo and Game,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+dreamoon,Mr. Bender and Square,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+flydutchman,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+flydutchman,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+flydutchman,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+zcwwzdjn,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,two pointers"
+zcwwzdjn,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+zcwwzdjn,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+gogokefakefa,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+gogokefakefa,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+shytangyuan,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+shytangyuan,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+shytangyuan,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,games
+pele,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+pele,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,games
+RAD,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+RAD,Mr. Bender and Square,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+RAD,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+RAD,Liars and Serge,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+GlebsHP,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+GlebsHP,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+GlebsHP,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+GlebsHP,Lucky Arrays,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Igor_Kudryashov,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Igor_Kudryashov,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+lnminusone,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+lnminusone,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+sleepycoder,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+sleepycoder,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+sleepycoder,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+mmaxio,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+mmaxio,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+mmaxio,Furlo and Rublo and Game,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+mmaxio,Liars and Serge,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+tuananh93,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+tuananh93,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+tuananh93,Furlo and Rublo and Game,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,games
+VArtem,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+VArtem,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+VArtem,Furlo and Rublo and Game,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+VArtem,Lucky Arrays,1,E,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+takaramono,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,two pointers"
+takaramono,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,brute force,math"
+takaramono,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+takaramono,Lucky Arrays,1,E,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+portal,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+portal,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+portal,Lucky Arrays,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+portal,Liars and Serge,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+portal,Furlo and Rublo and Game,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+ptrrsn_1,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ptrrsn_1,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+ptrrsn_1,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+tourist2,Lucky Arrays,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+tourist2,Furlo and Rublo and Game,0,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+tourist2,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+tourist2,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+RomaWhite,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+RomaWhite,Mr. Bender and Square,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+RomaWhite,Furlo and Rublo and Game,1,C,1,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,games
+Monyura,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Monyura,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+kraskevich,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+kraskevich,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+kraskevich,Lucky Arrays,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+alexey.enkov,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+alexey.enkov,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+alexey.enkov,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+moonlight131,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"binary search,dp,two pointers"
+moonlight131,Mr. Bender and Square,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+al13n,Almost Arithmetical Progression,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+al13n,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+al13n,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+al13n,Liars and Serge,0,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+al13n,Lucky Arrays,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Yousef_Salama,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Yousef_Salama,Furlo and Rublo and Game,1,C,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,games
+flowlight,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+flowlight,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+thocevar,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+thocevar,Furlo and Rublo and Game,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+thocevar,Mr. Bender and Square,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+haker4o,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+haker4o,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+haker4o,Liars and Serge,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+daizhenyang,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+daizhenyang,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,games
+hogloid,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+hogloid,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Endagorion,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Endagorion,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Endagorion,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Endagorion,Lucky Arrays,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+guille,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+guille,Mr. Bender and Square,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+fagu,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+fagu,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,games
+fagu,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+cup_of_tea,Almost Arithmetical Progression,0,A,0,0,0,2,0,1,0,2,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+cup_of_tea,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+azaky,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+azaky,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+kissbuaa,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+kissbuaa,Mr. Bender and Square,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+kissbuaa,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+pratikmoona,Almost Arithmetical Progression,0,A,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+pratikmoona,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+zaq1xsw2tktk,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+zaq1xsw2tktk,Mr. Bender and Square,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+zaq1xsw2tktk,Furlo and Rublo and Game,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+R_R_,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+R_R_,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+R_R_,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,games
+kilnyy,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+kilnyy,Mr. Bender and Square,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,math"
+kilnyy,Furlo and Rublo and Game,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+fmm,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+fmm,Furlo and Rublo and Game,1,C,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,games
+fmm,Liars and Serge,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+jskhirtladze,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+jskhirtladze,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+jskhirtladze,Furlo and Rublo and Game,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,games
+komiya,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+komiya,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+komiya,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+MarioYC,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+MarioYC,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Kenny_HORROR,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Kenny_HORROR,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Kenny_HORROR,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Kenny_HORROR,Liars and Serge,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+piotr.kukla,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+piotr.kukla,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+zglicz,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+zglicz,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+zglicz,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+simsa.st,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+simsa.st,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+simsa.st,Furlo and Rublo and Game,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+cjoa,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+cjoa,Mr. Bender and Square,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+_sunny,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+_sunny,Furlo and Rublo and Game,1,C,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,games
+Hohol,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Hohol,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Hohol,Furlo and Rublo and Game,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,games
+hlwt,Almost Arithmetical Progression,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+hlwt,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"binary search,brute force,math"
+Andrekk,Almost Arithmetical Progression,0,A,0,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+reiracofage,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+reiracofage,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+reiracofage,Mr. Bender and Square,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+forest,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+forest,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+fhlasek,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+fhlasek,Furlo and Rublo and Game,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+fhlasek,Mr. Bender and Square,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+kb.,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+kb.,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+kb.,Furlo and Rublo and Game,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Spumote,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Spumote,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,brute force,math"
+Spumote,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Leo_Yu,Almost Arithmetical Progression,0,A,1,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Leo_Yu,Mr. Bender and Square,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Leo_Yu,Furlo and Rublo and Game,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Leo_Yu,Lucky Arrays,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+islam-al-aarag,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+islam-al-aarag,Furlo and Rublo and Game,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+Rotsor,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Rotsor,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+sune2,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+sune2,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+sune2,Furlo and Rublo and Game,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,games
+gopdoly,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,dp,two pointers"
+gopdoly,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Aksenov239,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Aksenov239,Mr. Bender and Square,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Aksenov239,Furlo and Rublo and Game,1,C,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,games
+Antoniuk,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,"binary search,dp,two pointers"
+Antoniuk,Mr. Bender and Square,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+natsugiri,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+natsugiri,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+ibra,Almost Arithmetical Progression,0,A,1,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ibra,Mr. Bender and Square,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+AstroConjecture,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+AstroConjecture,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+AstroConjecture,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+lydrainbowcat,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+lydrainbowcat,Mr. Bender and Square,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,math"
+lydrainbowcat,Furlo and Rublo and Game,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,games
+lydrainbowcat,Lucky Arrays,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+haxxpop,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+haxxpop,Mr. Bender and Square,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+11223d,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+11223d,Mr. Bender and Square,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+11223d,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+matrix,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+matrix,Mr. Bender and Square,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+matrix,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+AekdyCoin,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+AekdyCoin,Furlo and Rublo and Game,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,games
+AekdyCoin,Mr. Bender and Square,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,math"
+bmerry,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+bmerry,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+bmerry,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+bmerry,Lucky Arrays,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+bmerry,Liars and Serge,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+kelvin,Almost Arithmetical Progression,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+kelvin,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,games
+kelvin,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+helThazar,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+helThazar,Furlo and Rublo and Game,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+rankalee,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,"binary search,dp,two pointers"
+rankalee,Furlo and Rublo and Game,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,games
+rankalee,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+sths,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+sths,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+sths,Furlo and Rublo and Game,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,games
+OVR,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+OVR,Mr. Bender and Square,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+OVR,Furlo and Rublo and Game,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+study_english,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+study_english,Mr. Bender and Square,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+KAN,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+KAN,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+KAN,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+KAN,Lucky Arrays,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+TMandzu,Almost Arithmetical Progression,0,A,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+StefanoT,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+StefanoT,Mr. Bender and Square,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+StefanoT,Furlo and Rublo and Game,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,games
+NuM,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+NuM,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+NuM,Furlo and Rublo and Game,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,games
+seanwu,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+seanwu,Mr. Bender and Square,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+seanwu,Lucky Arrays,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+seanwu,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+impetus,Almost Arithmetical Progression,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+impetus,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+impetus,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Avalanche,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Avalanche,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Avalanche,Furlo and Rublo and Game,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+ballon,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ballon,Furlo and Rublo and Game,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Logvinov_Leon,Almost Arithmetical Progression,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Logvinov_Leon,Furlo and Rublo and Game,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+lonelyboy,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+lonelyboy,Mr. Bender and Square,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+uwi,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+uwi,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+uwi,Lucky Arrays,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+uwi,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+duoxida,Almost Arithmetical Progression,1,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+duoxida,Mr. Bender and Square,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+totalfrank,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+totalfrank,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+DAle,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+DAle,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+DAle,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Yevgen,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Yevgen,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+fenzhang,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+fenzhang,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+sweiss,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+sweiss,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Swistakk,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Swistakk,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+iscsi,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+iscsi,Mr. Bender and Square,1,B,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+sjynoi,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+sjynoi,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+sjynoi,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+shindannin,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+shindannin,Mr. Bender and Square,0,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+ramtin95,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Fdg,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Fdg,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Fdg,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+marcoskwkm,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+marcoskwkm,Furlo and Rublo and Game,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,games
+tsfn,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+tsfn,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+danbanica,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+danbanica,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+fura,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+fura,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+fura,Liars and Serge,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+sillyboy,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+sillyboy,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+tloinuy,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+tloinuy,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+tloinuy,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+AcOnFingers,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+AcOnFingers,Furlo and Rublo and Game,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+AcOnFingers,Mr. Bender and Square,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+luckman,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+luckman,Mr. Bender and Square,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+luckman,Furlo and Rublo and Game,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+shef_2318,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+UESTC_ElemeNtLz,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+UESTC_ElemeNtLz,Mr. Bender and Square,1,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+littlefriend,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+littlefriend,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+littlefriend,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Timur_Keks,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Timur_Keks,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+amir_sh,Almost Arithmetical Progression,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+amir_sh,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+amir_sh,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,games
+Ming.Shen,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Ming.Shen,Furlo and Rublo and Game,1,C,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,games
+Ming.Shen,Mr. Bender and Square,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+architkarandikar,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+architkarandikar,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+architkarandikar,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+lcch,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+lcch,Mr. Bender and Square,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+lcch,Furlo and Rublo and Game,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,games
+FredaShi,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+FredaShi,Mr. Bender and Square,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+FredaShi,Furlo and Rublo and Game,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,games
+pauldb,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+pauldb,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+pauldb,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Al3kSaNdaR,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Al3kSaNdaR,Mr. Bender and Square,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+evgentu,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,two pointers"
+evgentu,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+evgentu,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+hamlet_fiis,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+hamlet_fiis,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+ifsmirnov,Mr. Bender and Square,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+ifsmirnov,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+ifsmirnov,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Rydberg,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+m.raszyk,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+m.raszyk,Furlo and Rublo and Game,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,games
+m.raszyk,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Night_Fury,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Night_Fury,Mr. Bender and Square,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,math"
+Konstantin,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Konstantin,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+andrey-tsb,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+andrey-tsb,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+andrey-tsb,Furlo and Rublo and Game,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+ridowan007,Almost Arithmetical Progression,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ridowan007,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+wcwswswws,Almost Arithmetical Progression,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+wcwswswws,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+wcwswswws,Furlo and Rublo and Game,1,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,games
+kannaduki,Almost Arithmetical Progression,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+kannaduki,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+cjtoribio,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+cjtoribio,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+MakiseKurisu,Almost Arithmetical Progression,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Jokser,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Jokser,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Jokser,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Jokser,Lucky Arrays,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+onetwothree,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+onetwothree,Mr. Bender and Square,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+BenZ,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+BenZ,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,brute force,math"
+BenZ,Lucky Arrays,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ktesar,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ktesar,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+ktesar,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Hachiikung,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+dusty.and.rusty,Almost Arithmetical Progression,0,A,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+dusty.and.rusty,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+xiaodao,Almost Arithmetical Progression,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+xiaodao,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,games
+xiaodao,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,math"
+xiaodao,Lucky Arrays,1,E,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+lsc36,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+lsc36,Furlo and Rublo and Game,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+Hynek,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Hynek,Mr. Bender and Square,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Hynek,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+kyuridenamida,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+abbababab,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+abbababab,Furlo and Rublo and Game,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+dziadek,Almost Arithmetical Progression,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Dabek,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Xellos,Almost Arithmetical Progression,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+AminoAcid,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+AminoAcid,Lucky Arrays,0,E,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+AminoAcid,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+AminoAcid,Mr. Bender and Square,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,brute force,math"
+ershov.stanislav,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ershov.stanislav,Mr. Bender and Square,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+infrmtcs,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+infrmtcs,Furlo and Rublo and Game,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+the_saint,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,two pointers"
+jonathanasdf,Almost Arithmetical Progression,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+jonathanasdf,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,games
+jonathanasdf,Liars and Serge,0,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+boleyn.su,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+boleyn.su,Mr. Bender and Square,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+boleyn.su,Furlo and Rublo and Game,0,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,games
+RAINBOW123,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+RAINBOW123,Mr. Bender and Square,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+kennethsnow,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+kennethsnow,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+kennethsnow,Furlo and Rublo and Game,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,games
+Anarivu,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Anarivu,Mr. Bender and Square,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Anarivu,Furlo and Rublo and Game,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+pulkitg10,Almost Arithmetical Progression,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+pulkitg10,Mr. Bender and Square,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+dianbei,Almost Arithmetical Progression,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+dianbei,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+pty,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+pty,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+pty,Furlo and Rublo and Game,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+Fbulatov,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Jovfer,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Jovfer,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Jovfer,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+m.radwan,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+m.radwan,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+GTmac,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+GTmac,Furlo and Rublo and Game,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+Landertxu,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Landertxu,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Landertxu,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+akalm,Almost Arithmetical Progression,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+akalm,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+wwwwodddd,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+wwwwodddd,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+wwwwodddd,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+wwwwodddd,Lucky Arrays,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Bega,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Bega,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Rubanenko,Mr. Bender and Square,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Rubanenko,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Neroysq,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Neroysq,Mr. Bender and Square,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Gullesnuffs,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Gullesnuffs,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Gullesnuffs,Furlo and Rublo and Game,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,games
+Vaness,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Vaness,Mr. Bender and Square,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Vaness,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+stan,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+stan,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+stan,Furlo and Rublo and Game,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+hanhan0912,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+hanhan0912,Mr. Bender and Square,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+SkyHawk,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+SkyHawk,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Parsa.pordel,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+lxc,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+lxc,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+moshiur,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+moshiur,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+SergeyLazarev,Almost Arithmetical Progression,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+SergeyLazarev,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+mjmjmj,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+mjmjmj,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Breakun,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Breakun,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Azras,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Azras,Liars and Serge,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+marspeople,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+marspeople,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+marspeople,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+wnlolnw,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Bidhan,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Bidhan,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,games
+arijit91,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+arijit91,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+arijit91,Furlo and Rublo and Game,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,games
+lisang,Mr. Bender and Square,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+lisang,Almost Arithmetical Progression,1,A,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+lisang,Furlo and Rublo and Game,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,games
+ztxz16,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ztxz16,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+ztxz16,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+kuailezhish,Almost Arithmetical Progression,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+kuailezhish,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+kuailezhish,Furlo and Rublo and Game,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+nrg3,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+PeterGriffin,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,two pointers"
+PeterGriffin,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+PeterGriffin,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+bojan.serafimov,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+bojan.serafimov,Mr. Bender and Square,0,B,0,0,0,0,4,11,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+kzr.buet08,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+kzr.buet08,Mr. Bender and Square,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+KirillB,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+KirillB,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Alireza,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Alireza,Furlo and Rublo and Game,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,games
+bigbrain,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+bigbrain,Mr. Bender and Square,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+For_the_Love,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+For_the_Love,Furlo and Rublo and Game,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+For_the_Love,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+amylase,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+amylase,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+amylase,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+amylase,Liars and Serge,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+EriKKo,Almost Arithmetical Progression,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+EriKKo,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+EriKKo,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+dancho,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+dancho,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+zgmf_x56s,Almost Arithmetical Progression,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+zgmf_x56s,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,games
+zgmf_x56s,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+robert_rosolek,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+robert_rosolek,Mr. Bender and Square,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+lamphanviet,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+Free777Man,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Free777Man,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Free777Man,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,games
+mrtempo,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+mrtempo,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+mrtempo,Furlo and Rublo and Game,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,games
+mukel,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+mukel,Furlo and Rublo and Game,1,C,0,0,0,2,0,0,0,2,0,0,0,0,0,1,0,0,0,games
+sameer47,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+sameer47,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Skird,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Skird,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Skird,Lucky Arrays,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+Izot_NNSTU,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Cyin,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+Cyin,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Troy1118,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Troy1118,Mr. Bender and Square,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+quimeyv,Almost Arithmetical Progression,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Tadrion,Almost Arithmetical Progression,0,A,0,0,0,1,0,7,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ryo_issy,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,dp,two pointers"
+ryo_issy,Mr. Bender and Square,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"binary search,brute force,math"
+ryo_issy,Furlo and Rublo and Game,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,games
+DEGwer,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+DEGwer,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,two pointers"
+thomas0809,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+thomas0809,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+thomas0809,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,games
+jehad131,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+jehad131,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+Sphinx,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Sphinx,Mr. Bender and Square,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+pkqs90,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+pkqs90,Furlo and Rublo and Game,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+naihuangbao,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+naihuangbao,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,games
+UESTC_Nocturne,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+UESTC_Nocturne,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+UESTC_Nocturne,Mr. Bender and Square,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Petrushenko,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Petrushenko,Mr. Bender and Square,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Sklyack,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+DmitriyH,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+DmitriyH,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+lemonwu,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+lemonwu,Mr. Bender and Square,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+paulocezar,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+paulocezar,Mr. Bender and Square,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+paulocezar,Lucky Arrays,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ayakut,Almost Arithmetical Progression,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ayakut,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Silent_coder,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+niquefa_diego,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+niquefa_diego,Almost Arithmetical Progression,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+zhanyl,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+zhanyl,Mr. Bender and Square,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Flandre_Scarlet,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Flandre_Scarlet,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+knightL,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+knightL,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,brute force,math"
+azneyes,Almost Arithmetical Progression,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+azneyes,Furlo and Rublo and Game,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+tyamgin,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+tyamgin,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+gdisastery,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Riatre,Almost Arithmetical Progression,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Riatre,Mr. Bender and Square,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Riatre,Lucky Arrays,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+chavit,Almost Arithmetical Progression,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+chavit,Furlo and Rublo and Game,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+Serenade,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Serenade,Furlo and Rublo and Game,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,games
+Metamorphus,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Metamorphus,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+API,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+API,Mr. Bender and Square,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Kokos,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Kokos,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Kokos,Furlo and Rublo and Game,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,games
+pva701,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+pva701,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+amirrr,Almost Arithmetical Progression,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+Depool,Almost Arithmetical Progression,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Depool,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,brute force,math"
+Ilya_MSU,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Ilya_MSU,Mr. Bender and Square,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+joinsung,Mr. Bender and Square,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,math"
+flashmt,Almost Arithmetical Progression,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+flashmt,Furlo and Rublo and Game,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+flashmt,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Woodpecker,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Woodpecker,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Electronick,Almost Arithmetical Progression,1,A,1,0,0,0,0,5,0,0,1,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Electronick,Mr. Bender and Square,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+aropan,Almost Arithmetical Progression,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+aropan,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+aste,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+bearrice,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+bearrice,Mr. Bender and Square,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,math"
+135678942570,Almost Arithmetical Progression,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+135678942570,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,games
+balakrishnan,Almost Arithmetical Progression,0,A,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+balakrishnan,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+balakrishnan,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+oGhost,Almost Arithmetical Progression,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+zeliboba,Almost Arithmetical Progression,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+zeliboba,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+zeliboba,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+poopi,Furlo and Rublo and Game,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+poopi,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+alpc115,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+alpc115,Mr. Bender and Square,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Neil,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Neil,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+BSBandme,Almost Arithmetical Progression,0,A,0,0,0,0,3,3,0,1,2,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+BSBandme,Mr. Bender and Square,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+maciejk,Mr. Bender and Square,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+maciejk,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+maciejk,Lucky Arrays,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+sokokaleb,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+sokokaleb,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+PlayLikeNeverB4,Almost Arithmetical Progression,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+19891101,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+19891101,Furlo and Rublo and Game,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,games
+19891101,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Fata1ist,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Fata1ist,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Fata1ist,Furlo and Rublo and Game,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,games
+AlphaStream,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+AlphaStream,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+meteorcloudy,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+meteorcloudy,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+DenXX,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+evader,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+evader,Lucky Arrays,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+evader,Mr. Bender and Square,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Odeen,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+DDDDDDDDDDDDDDDDDDDDDDDD,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+DDDDDDDDDDDDDDDDDDDDDDDD,Mr. Bender and Square,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+DDDDDDDDDDDDDDDDDDDDDDDD,Furlo and Rublo and Game,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,games
+fushar,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+radix.ru,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+dudkamaster,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+aumy,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+metar,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+metar,Mr. Bender and Square,0,B,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+MeinKraft,Mr. Bender and Square,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"binary search,brute force,math"
+MeinKraft,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+urahara,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+kamranm,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,two pointers"
+kamranm,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+kamranm,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+CMHJT,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+CMHJT,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+CMHJT,Mr. Bender and Square,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+TeCNoYoTTa,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+TeCNoYoTTa,Furlo and Rublo and Game,0,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+TeCNoYoTTa,Mr. Bender and Square,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Toshik,Almost Arithmetical Progression,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Toshik,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+AlirezaN,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+AlirezaN,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+AnnKats93,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+AnnKats93,Mr. Bender and Square,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+ixxa,Almost Arithmetical Progression,0,A,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ixxa,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+huangriq,Almost Arithmetical Progression,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+huangriq,Mr. Bender and Square,1,B,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+sakyalol,Furlo and Rublo and Game,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,games
+sakyalol,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+sakyalol,Mr. Bender and Square,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+qph-Jeremy,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+qph-Jeremy,Furlo and Rublo and Game,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+Aman,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+MrDindows,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+MrDindows,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+vfleaking,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+vfleaking,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+vfleaking,Lucky Arrays,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Noskov,Almost Arithmetical Progression,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+SkorKNURE,Almost Arithmetical Progression,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ftfish,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+alex_tolstov,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+alex_tolstov,Mr. Bender and Square,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Shkiper,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Shkiper,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+vshantarin,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+vshantarin,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+alpc104,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+alpc104,Furlo and Rublo and Game,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,games
+alpc104,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+perennial_fanatic,Almost Arithmetical Progression,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+perennial_fanatic,Furlo and Rublo and Game,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Austeritas,Almost Arithmetical Progression,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+fitter,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+knok16,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+knok16,Lucky Arrays,1,E,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+douglasantos,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+douglasantos,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+ADJA,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ADJA,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+fedimser,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+fedimser,Almost Arithmetical Progression,1,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+undefin3d,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+undefin3d,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+vlad107,Furlo and Rublo and Game,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,games
+vlad107,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+sjq,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+sjq,Mr. Bender and Square,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+hama-du,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+hama-du,Almost Arithmetical Progression,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+anmtcel,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+wolf1000,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+wolf1000,Mr. Bender and Square,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+PER,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+PER,Furlo and Rublo and Game,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,games
+wil93,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+wil93,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Azat_Yusupov,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+cacophonix,Almost Arithmetical Progression,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+cacophonix,Furlo and Rublo and Game,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,games
+xscape,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+xscape,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+xwings,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+xwings,Almost Arithmetical Progression,1,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Galkowsky,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Galkowsky,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+beginner1010,Almost Arithmetical Progression,0,A,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+beginner1010,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+hcretescu,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Bugman,Lucky Arrays,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Bugman,Mr. Bender and Square,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Bugman,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+fiver,Almost Arithmetical Progression,1,A,1,0,0,0,0,4,0,0,3,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+fiver,Mr. Bender and Square,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+fiver,Furlo and Rublo and Game,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Muali,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Muali,Mr. Bender and Square,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+alex.sokols,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,dp,two pointers"
+derbaer,Mr. Bender and Square,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+techxacm,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+techxacm,Mr. Bender and Square,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+ArkChar,Lucky Arrays,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ArkChar,Almost Arithmetical Progression,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+AguL,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Ramsey,Almost Arithmetical Progression,0,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Ramsey,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+maksimkzn,Mr. Bender and Square,1,B,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+ArseniySavin,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+wanbo,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+wanbo,Furlo and Rublo and Game,1,C,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,games
+Enchom,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Excelsiour,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Berezin,Almost Arithmetical Progression,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+Berezin,Furlo and Rublo and Game,0,C,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,games
+huzecong,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+huzecong,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+vitux,Almost Arithmetical Progression,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,two pointers"
+mbfilho91,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,two pointers"
+bsrkaditya,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+bsrkaditya,Mr. Bender and Square,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Bnkaki,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Bnkaki,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Misha100896,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+---Grigor---,Liars and Serge,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+---Grigor---,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ecnerwal,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ecnerwal,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Kharybin,Almost Arithmetical Progression,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+nhandi,Almost Arithmetical Progression,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Daniyar_7,Almost Arithmetical Progression,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+trillioner,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+coderbd,Furlo and Rublo and Game,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,games
+Snusmumriken,Mr. Bender and Square,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Snusmumriken,Almost Arithmetical Progression,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+Corei13,Liars and Serge,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+boba,Mr. Bender and Square,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Dianochka,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+Dianochka,Almost Arithmetical Progression,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,two pointers"
+Perticas,Liars and Serge,0,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+MBabin,Lucky Arrays,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+MBabin,Furlo and Rublo and Game,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,games
+Monmoy,Furlo and Rublo and Game,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Monmoy,Almost Arithmetical Progression,1,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+hithere,Almost Arithmetical Progression,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+memo1288,Mr. Bender and Square,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+memo1288,Almost Arithmetical Progression,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+memo1288,Liars and Serge,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+VUAcoder,Mr. Bender and Square,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"
+VUAcoder,Almost Arithmetical Progression,1,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,two pointers"
+LFLONG,Almost Arithmetical Progression,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,two pointers"
+ruban,Mr. Bender and Square,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,math"

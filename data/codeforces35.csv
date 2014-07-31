@@ -1,0 +1,675 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+anshusaurav,Shell Game,0,A,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,implementation
+anshusaurav,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+anshusaurav,Animals,1,D,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"dp,greedy"
+lucasmelo,Shell Game,0,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+lucasmelo,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lucasmelo,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+lucasmelo,Animals,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+lucasmelo,Parade,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,sortings"
+Aquila,Shell Game,0,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+Aquila,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Aquila,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aquila,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Yuliy,Shell Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Yuliy,Warehouse,0,B,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,implementation
+Yuliy,Fire Again,0,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,"brute force,dfs and similar,shortest paths"
+Yuliy,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+lima.natan,Shell Game,0,A,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,implementation
+lima.natan,Warehouse,0,B,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+lima.natan,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+lima.natan,Animals,1,D,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"dp,greedy"
+Tahlil,Shell Game,0,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+Tahlil,Warehouse,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tahlil,Fire Again,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Tahlil,Animals,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Timus,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Timus,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Timus,Fire Again,1,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Timus,Animals,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+mihaildemidoff,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mihaildemidoff,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mihaildemidoff,Fire Again,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+mihaildemidoff,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Khaled91,Shell Game,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+Khaled91,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Khaled91,Fire Again,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Khaled91,Animals,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+vector9x,Shell Game,1,A,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+vector9x,Warehouse,1,B,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,implementation
+vector9x,Fire Again,0,C,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+vector9x,Animals,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Salat,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Salat,Fire Again,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Salat,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Salat,Animals,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+ichyo,Shell Game,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+ichyo,Fire Again,1,C,0,0,0,0,0,2,2,0,1,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+ichyo,Warehouse,0,B,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+cyx5320856,Shell Game,0,A,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,implementation
+cyx5320856,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+cyx5320856,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+cyx5320856,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+gauravs,Shell Game,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+gauravs,Fire Again,0,C,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+gauravs,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gauravs,Animals,1,D,1,0,0,2,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,greedy"
+Andrex_fp,Shell Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+DanielH,Shell Game,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DanielH,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+DanielH,Fire Again,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+DanielH,Animals,0,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+nguyentiennam2910,Shell Game,1,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+nguyentiennam2910,Fire Again,1,C,0,0,0,0,0,0,6,0,1,1,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+satoshii,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+satoshii,Warehouse,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+satoshii,Fire Again,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+root5,Shell Game,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+root5,Fire Again,1,C,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+root5,Warehouse,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Spoorock,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Spoorock,Warehouse,0,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Spoorock,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Spoorock,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+maxteneff,Shell Game,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+maxteneff,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+sdryapko,Shell Game,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+sdryapko,Fire Again,0,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+sdryapko,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sdryapko,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+kouki_aizu,Shell Game,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shahriar_sust,Shell Game,0,A,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,implementation
+Shahriar_sust,Warehouse,0,B,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+shnell,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,implementation
+shnell,Fire Again,0,C,0,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+shnell,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+zxy_snow,Shell Game,1,A,1,0,0,1,0,0,0,0,0,7,0,0,0,0,0,0,0,implementation
+zxy_snow,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zxy_snow,Fire Again,0,C,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+msagimbekov,Shell Game,0,A,1,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,implementation
+msagimbekov,Animals,0,D,0,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0,"dp,greedy"
+msagimbekov,Warehouse,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+msagimbekov,Fire Again,1,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+amit.codename13,Shell Game,1,A,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,implementation
+amit.codename13,Warehouse,1,B,0,0,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,implementation
+amit.codename13,Fire Again,0,C,0,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+neronmoon,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hogeover30,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hogeover30,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hogeover30,Fire Again,1,C,1,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+hogeover30,Animals,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Alexander-1709,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alexander-1709,Fire Again,1,C,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+apostol.vlz,Shell Game,0,A,1,0,0,2,0,0,0,0,0,4,0,0,0,0,2,0,0,implementation
+apostol.vlz,Fire Again,0,C,0,0,0,0,0,0,0,1,0,1,0,0,0,0,1,0,0,"brute force,dfs and similar,shortest paths"
+apostol.vlz,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+apostol.vlz,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+AVoz,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AVoz,Fire Again,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+AVoz,Animals,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+AVoz,Warehouse,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+maxusivanov,Shell Game,0,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+maxusivanov,Warehouse,0,B,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,implementation
+maxusivanov,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+maxusivanov,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+minibotan,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+minibotan,Fire Again,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+minibotan,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+minibotan,Animals,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+liuyang_elvis,Shell Game,0,A,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,implementation
+liuyang_elvis,Warehouse,0,B,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,implementation
+liuyang_elvis,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+liuyang_elvis,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+dyussenaliyev,Shell Game,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dyussenaliyev,Fire Again,1,C,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+dyussenaliyev,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dyussenaliyev,Animals,0,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+harrymwz,Shell Game,0,A,1,0,0,3,0,0,0,0,0,10,0,0,0,0,0,0,0,implementation
+harrymwz,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+harrymwz,Fire Again,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+gauravmunjal,Shell Game,0,A,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,implementation
+gauravmunjal,Warehouse,1,B,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+mfkhr,Shell Game,0,A,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+mfkhr,Warehouse,0,B,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+mfkhr,Fire Again,0,C,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+mfkhr,Animals,0,D,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"dp,greedy"
+ksameluk,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ksameluk,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ksameluk,Fire Again,0,C,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+ksameluk,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+romanov.andrey,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+romanov.andrey,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+romanov.andrey,Fire Again,0,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+romanov.andrey,Animals,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+tk2,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tk2,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tk2,Fire Again,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+tk2,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Scientist1642,Shell Game,0,A,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,implementation
+Scientist1642,Warehouse,1,B,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+Scientist1642,Fire Again,1,C,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"brute force,dfs and similar,shortest paths"
+asif_iut,Shell Game,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+asif_iut,Fire Again,1,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+asif_iut,Warehouse,0,B,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,implementation
+asif_iut,Animals,0,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+sajjad_gh,Shell Game,1,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+almaz_kh,Shell Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+almaz_kh,Warehouse,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+isnowfy,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+isnowfy,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+isnowfy,Warehouse,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+isnowfy,Animals,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+adel_gilmullin,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+adel_gilmullin,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+muntasir,Shell Game,0,A,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,implementation
+muntasir,Warehouse,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+muntasir,Fire Again,0,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+muntasir,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+-3A-,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+-3A-,Fire Again,0,C,0,0,0,0,0,2,0,5,1,0,0,0,0,1,0,0,0,"brute force,dfs and similar,shortest paths"
+-3A-,Warehouse,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+-3A-,Animals,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+filipp,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+filipp,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+filipp,Fire Again,0,C,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Passerby,Shell Game,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Passerby,Fire Again,0,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Passerby,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Passerby,Warehouse,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+Passerby,Parade,0,E,0,0,0,5,0,1,0,0,1,0,0,0,0,0,0,0,0,"data structures,sortings"
+Diabolic,Shell Game,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Diabolic,Animals,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+Diabolic,Fire Again,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+kaming,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kaming,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+kaming,Animals,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+kaming,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kaming,Parade,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,sortings"
+Naginchik,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Naginchik,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Naginchik,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Naginchik,Animals,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Naginchik,Parade,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,sortings"
+Aduuchin,Shell Game,0,A,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,implementation
+kyriapelagia,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyriapelagia,Warehouse,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyriapelagia,Fire Again,0,C,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+kyriapelagia,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+kenny59,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kenny59,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kenny59,Animals,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+kenny59,Fire Again,1,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+SABB,Shell Game,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+SABB,Fire Again,0,C,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+SABB,Warehouse,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+SABB,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+qq20091200,Shell Game,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+qq20091200,Fire Again,0,C,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+qq20091200,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+qq20091200,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+betterbearat,Shell Game,1,A,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,implementation
+Sanzee,Shell Game,1,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+yasulib,Shell Game,0,A,1,0,0,1,0,0,0,0,0,5,0,0,0,0,0,0,0,implementation
+yasulib,Warehouse,1,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yasulib,Fire Again,1,C,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+berden,Shell Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+berden,Fire Again,1,C,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+berden,Animals,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+alexeigor,Shell Game,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+alexeigor,Warehouse,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexeigor,Fire Again,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+alexeigor,Animals,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,greedy"
+Skoch92,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Skoch92,Fire Again,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Skoch92,Warehouse,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+zibada,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zibada,Warehouse,0,B,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+zibada,Fire Again,0,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+zibada,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+zibada,Parade,1,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,sortings"
+SWUN_YB,Shell Game,0,A,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,implementation
+SWUN_YB,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SWUN_YB,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+SWUN_YB,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+123pro,Shell Game,1,A,1,0,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,implementation
+123pro,Warehouse,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+devils13,Shell Game,1,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+devils13,Warehouse,1,B,0,0,0,0,1,3,0,0,0,1,0,0,0,0,0,0,0,implementation
+devils13,Fire Again,0,C,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+RoyalSFlush,Shell Game,0,A,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,implementation
+RoyalSFlush,Warehouse,0,B,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+RoyalSFlush,Fire Again,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+RoyalSFlush,Animals,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+SupeR-MaN,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SupeR-MaN,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+SupeR-MaN,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+SupeR-MaN,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+codecrux,Shell Game,1,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+mikevalladolid,Shell Game,0,A,0,0,0,2,2,0,2,0,0,19,0,0,0,0,0,0,0,implementation
+Dias,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dias,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dias,Animals,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+UhoYGw,Shell Game,0,A,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+m.zandy,Shell Game,1,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+m.zandy,Warehouse,1,B,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,implementation
+m.zandy,Fire Again,0,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+anrieff,Shell Game,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+anrieff,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+anrieff,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+anrieff,Animals,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+anrieff,Parade,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,sortings"
+Waiter,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Waiter,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Waiter,Fire Again,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Waiter,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+powail,Shell Game,0,A,0,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,implementation
+yowa,Shell Game,1,A,1,0,0,2,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+yowa,Warehouse,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+yowa,Fire Again,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+yowa,Animals,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Quazar,Shell Game,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,implementation
+Quazar,Warehouse,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,implementation
+Quazar,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,dfs and similar,shortest paths"
+Quazar,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+demalah,Shell Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+demalah,Fire Again,0,C,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+victoryland,Shell Game,0,A,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,implementation
+victoryland,Warehouse,0,B,1,0,0,0,1,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+victoryland,Fire Again,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Veldrin,Shell Game,0,A,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+Veldrin,Fire Again,1,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Veldrin,Warehouse,1,B,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mghost,Shell Game,0,A,1,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,implementation
+mghost,Fire Again,1,C,1,0,0,0,0,0,1,2,0,2,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+winterflame,Shell Game,1,A,1,0,0,1,0,0,2,0,0,3,0,0,0,0,0,0,0,implementation
+winterflame,Fire Again,1,C,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+ViktorM,Shell Game,0,A,1,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+ViktorM,Fire Again,0,C,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+ViktorM,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+zhuxi,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhuxi,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+zhuxi,Animals,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+zhuxi,Parade,1,E,1,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,"data structures,sortings"
+drew47qq,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+drew47qq,Warehouse,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+drew47qq,Fire Again,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+trance,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+trance,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+trance,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+trance,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+hadesgames,Shell Game,0,A,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,implementation
+hadesgames,Parade,0,E,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,"data structures,sortings"
+hadesgames,Animals,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+hadesgames,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+hadesgames,Warehouse,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+M0sTik,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+M0sTik,Warehouse,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+M0sTik,Fire Again,0,C,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,"brute force,dfs and similar,shortest paths"
+M0sTik,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Tribal,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tribal,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tribal,Fire Again,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+DDBull,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DDBull,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DDBull,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+DDBull,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+akshayk0406,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+akshayk0406,Warehouse,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+akshayk0406,Fire Again,1,C,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+akshayk0406,Animals,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+alik,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alik,Warehouse,1,B,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,implementation
+alik,Fire Again,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+alik,Animals,0,D,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,"dp,greedy"
+evernight,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+evernight,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+evernight,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+evernight,Animals,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+evernight,Parade,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,sortings"
+olimpus,Shell Game,0,A,1,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,implementation
+olimpus,Fire Again,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,dfs and similar,shortest paths"
+olimpus,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+olimpus,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+michael.bbtiger,Shell Game,0,A,0,0,0,1,2,0,2,0,0,2,0,0,0,0,0,0,0,implementation
+mohammad.mahmoodi,Shell Game,0,A,0,0,0,0,1,0,0,0,0,3,0,0,0,0,0,0,0,implementation
+Elmi,Shell Game,1,A,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,implementation
+juggler,Shell Game,0,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+juggler,Warehouse,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+juggler,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+juggler,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+jfguo,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jfguo,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jfguo,Fire Again,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+jfguo,Animals,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+vishwakarma,Shell Game,1,A,1,0,0,3,0,0,0,0,0,4,0,0,0,0,0,0,0,implementation
+vishwakarma,Animals,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+ansaryfantastic,Shell Game,0,A,1,0,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,implementation
+ansaryfantastic,Fire Again,0,C,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+ansaryfantastic,Warehouse,1,B,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+Sergey.Akimov,Shell Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sergey.Akimov,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Sergey.Akimov,Animals,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Sergey.Akimov,Warehouse,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jaey,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jaey,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+jaey,Fire Again,1,C,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+nokia,Shell Game,0,A,1,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0,implementation
+nokia,Fire Again,0,C,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+nokia,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nokia,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+HeVy,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+HeVy,Warehouse,1,B,0,0,0,1,0,1,1,0,0,0,0,0,0,1,0,0,0,implementation
+HeVy,Fire Again,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+kool.coder,Shell Game,0,A,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,implementation
+kool.coder,Fire Again,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+kool.coder,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kool.coder,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+RomaRoma,Shell Game,1,A,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,implementation
+qjklw,Shell Game,0,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+qjklw,Warehouse,0,B,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+qjklw,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+qjklw,Animals,1,D,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+qwrq,Shell Game,1,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+qwrq,Fire Again,1,C,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Serg,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Serg,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Serg,Fire Again,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+patsp,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+patsp,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+patsp,Fire Again,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+227,Shell Game,1,A,1,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,implementation
+227,Fire Again,1,C,0,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+227,Warehouse,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+BenderRodriges,Shell Game,0,A,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+BenderRodriges,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+scistu,Shell Game,0,A,0,0,0,0,0,0,1,0,0,5,0,0,0,0,0,0,0,implementation
+scistu,Fire Again,0,C,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+dark.coder,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dark.coder,Warehouse,1,B,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,implementation
+190510,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+190510,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+190510,Fire Again,0,C,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+190510,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,greedy"
+katakana,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+katakana,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+katakana,Fire Again,0,C,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+katakana,Animals,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+romzes,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+romzes,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+romzes,Fire Again,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+prog.delphin,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sazzad,Warehouse,0,B,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+sazzad,Shell Game,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+sazzad,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+sazzad,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+tardosmors,Shell Game,0,A,1,0,0,0,0,2,0,0,0,1,0,0,0,0,1,0,0,implementation
+tardosmors,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+nolze,Shell Game,1,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+nolze,Warehouse,1,B,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,implementation
+vlade087,Shell Game,0,A,1,0,0,2,0,0,0,0,0,4,0,0,0,0,0,0,0,implementation
+vlade087,Fire Again,1,C,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+vlade087,Animals,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+lanctina,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+frisky,Shell Game,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+1guangnian,Shell Game,0,A,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,implementation
+1guangnian,Warehouse,0,B,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+1guangnian,Fire Again,1,C,1,0,0,0,0,0,4,0,1,1,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+fahad.sust,Shell Game,0,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+fahad.sust,Fire Again,1,C,1,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+fahad.sust,Warehouse,1,B,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+Simonov,Shell Game,0,A,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,implementation
+Simonov,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Simonov,Warehouse,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+darkavenger,Shell Game,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+ruban,Shell Game,0,A,1,0,0,1,0,0,0,0,0,4,0,0,0,0,0,0,0,implementation
+ruban,Fire Again,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+DraganM,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DraganM,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+DraganM,Fire Again,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Jamik,Shell Game,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jamik,Warehouse,1,B,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,implementation
+Jamik,Fire Again,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,dfs and similar,shortest paths"
+nise_nabe,Shell Game,1,A,1,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0,implementation
+nise_nabe,Fire Again,1,C,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+nise_nabe,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+phillip,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+phillip,Warehouse,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+phillip,Fire Again,1,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+phillip,Animals,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+ZobninVladislav_It-Team,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ZobninVladislav_It-Team,Fire Again,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+ZobninVladislav_It-Team,Animals,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+NoobOK,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NoobOK,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Light_Yagami,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Light_Yagami,Warehouse,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Light_Yagami,Fire Again,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Light_Yagami,Animals,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+lgq1205,Shell Game,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+lgq1205,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lgq1205,Fire Again,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Tkei,Shell Game,1,A,1,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,implementation
+Tkei,Fire Again,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+trinhthithu,Shell Game,1,A,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+trinhthithu,Warehouse,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+birbbit,Warehouse,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+birbbit,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+birbbit,Fire Again,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+birbbit,Animals,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+zafar_sust_bd,Shell Game,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+zafar_sust_bd,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zafar_sust_bd,Fire Again,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+zafar_sust_bd,Animals,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+mayank876,Shell Game,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+mayank876,Fire Again,1,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+phrock2,Shell Game,0,A,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,implementation
+phrock2,Warehouse,0,B,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+phrock2,Fire Again,1,C,1,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+phrock2,Animals,1,D,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,"dp,greedy"
+phrock2,Parade,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,sortings"
+mostafa.saad.fci,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mostafa.saad.fci,Warehouse,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mostafa.saad.fci,Fire Again,1,C,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+mostafa.saad.fci,Animals,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+coproizvedenie,Shell Game,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+coproizvedenie,Fire Again,0,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+coproizvedenie,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+TRR,Shell Game,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TRR,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kazem.mirzadi,Shell Game,1,A,1,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,implementation
+Bjorn,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Bjorn,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Bjorn,Fire Again,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+SWUN_Azuki,Shell Game,1,A,1,0,0,0,0,1,0,0,0,2,0,0,0,0,1,0,0,implementation
+Nursoltan,Shell Game,0,A,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,implementation
+Diman_yoyo,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+Diman_yoyo,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+undefined_thimpu,Shell Game,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+undefined_thimpu,Fire Again,1,C,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Mario88,Shell Game,0,A,1,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+Mario88,Fire Again,0,C,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Mario88,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Filins,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Filins,Warehouse,1,B,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,implementation
+n_bool,Shell Game,1,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+n_bool,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+n_bool,Animals,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Obaida,Shell Game,0,A,1,0,0,0,1,0,1,0,0,5,0,0,0,0,0,0,0,implementation
+Obaida,Fire Again,0,C,1,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Obaida,Warehouse,1,B,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+Dennis1091,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dennis1091,Fire Again,0,C,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Dennis1091,Warehouse,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dennis1091,Animals,1,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+sjbr,Shell Game,1,A,1,0,0,0,0,0,1,0,0,4,0,0,0,0,0,0,0,implementation
+sjbr,Warehouse,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Brawny,Shell Game,0,A,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+vanchope,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+vanchope,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vanchope,Fire Again,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+vanchope,Animals,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+mrButt,Fire Again,0,C,0,0,0,0,0,0,4,0,0,2,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+mrButt,Shell Game,0,A,0,0,0,1,0,2,0,0,0,2,0,0,0,0,0,0,0,implementation
+4a1ka,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+4a1ka,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+PAG,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PAG,Fire Again,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+saferif,Shell Game,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+saferif,Warehouse,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Linogor,Shell Game,0,A,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+Grim,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Grim,Warehouse,0,B,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Grim,Fire Again,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+mahfuz,Shell Game,1,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+mahfuz,Warehouse,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+myltik,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+myltik,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,dfs and similar,shortest paths"
+myltik,Warehouse,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,implementation
+myltik,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+piro1996,Shell Game,1,A,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,implementation
+piro1996,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+piro1996,Fire Again,0,C,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Mex-Mans,Shell Game,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mex-Mans,Warehouse,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,implementation
+Mex-Mans,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Mex-Mans,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Fedya,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fedya,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fedya,Fire Again,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Fedya,Animals,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+master_j,Shell Game,1,A,1,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+master_j,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nayimsust,Shell Game,1,A,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,implementation
+nayimsust,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Opu,Shell Game,1,A,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,implementation
+Opu,Fire Again,1,C,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+iman_MC,Shell Game,1,A,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+Umedjon,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+komron_hkl,Shell Game,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+heike567,Fire Again,0,C,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+heike567,Shell Game,1,A,1,0,0,0,0,3,0,0,0,2,0,0,0,0,0,0,0,implementation
+heike567,Warehouse,1,B,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+swun_railgun,Shell Game,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+Respect2D,Shell Game,0,A,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,implementation
+Respect2D,Fire Again,0,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Respect2D,Warehouse,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gvnavin32,Shell Game,1,A,1,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+ald,Shell Game,0,A,0,0,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,implementation
+ald,Fire Again,0,C,0,0,0,3,0,0,0,0,0,2,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+mehrnaz,Shell Game,1,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+mehrnaz,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+bsshanghai,Shell Game,1,A,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+bsshanghai,Fire Again,1,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+itcp2010,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+itcp2010,Fire Again,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Alisafe,Shell Game,0,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+Alisafe,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alisafe,Fire Again,1,C,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,"brute force,dfs and similar,shortest paths"
+ER.abd_off,Shell Game,0,A,0,0,0,4,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+edem.kwadzo,Shell Game,1,A,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,implementation
+edem.kwadzo,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+edem.kwadzo,Animals,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Ksunya,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Stanislav,Shell Game,1,A,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,implementation
+HwangScornedAsianTeams,Shell Game,0,A,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,implementation
+HwangScornedAsianTeams,Warehouse,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+HwangScornedAsianTeams,Fire Again,1,C,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+HwangScornedAsianTeams,Animals,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Xerxes,Shell Game,1,A,1,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,implementation
+Xerxes,Fire Again,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Xerxes,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ViVi66,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+viktor533,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+viktor533,Warehouse,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TALGAT,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,implementation
+TALGAT,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dark.wizard,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dark.wizard,Warehouse,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+enot.1.10,Shell Game,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+enot.1.10,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+enot.1.10,Fire Again,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+U_E_D,Shell Game,1,A,1,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+Zhandos,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Zhandos,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhandos,Warehouse,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhandos,Animals,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+im_mh,Shell Game,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Surogatov_S,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Surogatov_S,Fire Again,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,dfs and similar,shortest paths"
+Surogatov_S,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Surogatov_S,Animals,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,greedy"
+sunzuhan,Shell Game,0,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+sunzuhan,Warehouse,1,B,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+TY31102149,Shell Game,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+TY31102149,Fire Again,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+beybit,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Remstam,Shell Game,1,A,1,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,implementation
+arturs,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+arturs,Animals,0,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+arturs,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shahriaroo,Shell Game,0,A,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,implementation
+shahriaroo,Warehouse,0,B,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,implementation
+shahriaroo,Fire Again,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Manish-Kumar,Shell Game,1,A,1,0,0,0,2,0,0,0,0,3,0,0,0,0,0,0,0,implementation
+Iain,Shell Game,1,A,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,implementation
+SWUN_LXQ,Shell Game,0,A,0,0,0,1,0,0,0,0,0,6,0,0,0,0,0,0,0,implementation
+matrix_sust,Shell Game,1,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+matrix_sust,Warehouse,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+azonium,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+azonium,Fire Again,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+dulat,Shell Game,0,A,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,implementation
+dulat,Warehouse,0,B,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+hrenovich,Shell Game,0,A,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mahamudsust,Shell Game,1,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mahamudsust,Warehouse,1,B,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,implementation
+Codemacher,Fire Again,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Codemacher,Warehouse,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Codemacher,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Codemacher,Animals,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+sapphire,Shell Game,0,A,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,implementation
+sapphire,Animals,0,D,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"dp,greedy"
+Isachenko,Shell Game,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Isachenko,Fire Again,0,C,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Isachenko,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Isachenko,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+SWUN_PCC,Shell Game,0,A,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,implementation
+SWUN_PCC,Warehouse,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aizava,Shell Game,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+samshu,Shell Game,0,A,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,implementation
+Algorithm,Shell Game,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+Algorithm,Animals,1,D,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+user001,Animals,0,D,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"dp,greedy"
+user001,Parade,0,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,sortings"
+4ybakut2004,Shell Game,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+4ybakut2004,Animals,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+Eather,Shell Game,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+Eather,Warehouse,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Swun_sun,Shell Game,1,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Roschin,Fire Again,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+Roschin,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lkssharma,Shell Game,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lkssharma,Animals,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy"
+EzhikOo,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Anton_Rodick,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Anton_Rodick,Fire Again,1,C,0,0,0,0,1,0,1,0,3,0,0,0,0,1,0,0,0,"brute force,dfs and similar,shortest paths"
+Anton_Rodick,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+y-savelev,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fookwood,Shell Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fookwood,Fire Again,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+fookwood,Animals,1,D,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,"dp,greedy"
+airat1601,Warehouse,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+airat1601,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zoe,Shell Game,0,A,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+Zoe,Warehouse,0,B,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+tsyrya,Shell Game,0,A,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,implementation
+esraiak,Shell Game,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+esraiak,Fire Again,1,C,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,"brute force,dfs and similar,shortest paths"
+esraiak,Parade,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,sortings"
+esraiak,Animals,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,greedy"
+zjy3186511,Shell Game,1,A,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+helihui,Shell Game,1,A,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,implementation
+andrei_10,Shell Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+K_operafan,Shell Game,1,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+K_operafan,Warehouse,1,B,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,implementation
+zhangjianing,Shell Game,1,A,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+kaareln,Shell Game,0,A,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation

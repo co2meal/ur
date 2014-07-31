@@ -1,0 +1,678 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+RAVEman,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+RAVEman,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+RAVEman,Vectors,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+RAVEman,Castle,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+RAVEman,Candies and Stones,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+ACRush,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ACRush,Vectors,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ACRush,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ACRush,Castle,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+ACRush,Candies and Stones,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+SergeyRogulenko,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SergeyRogulenko,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+SergeyRogulenko,Vectors,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+SergeyRogulenko,Castle,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+SergeyRogulenko,Candies and Stones,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+meret,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+meret,Buses,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+meret,Castle,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+meret,Vectors,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tourist,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tourist,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+tourist,Candies and Stones,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+tourist,Castle,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+tourist,Vectors,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yeputons,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yeputons,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+yeputons,Vectors,0,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yeputons,Castle,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+kcm1700,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kcm1700,Buses,0,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kcm1700,Castle,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+kcm1700,Candies and Stones,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+dolphinigle,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dolphinigle,Buses,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+dolphinigle,Vectors,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+dolphinigle,Candies and Stones,0,E,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+havaliza,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+havaliza,Buses,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+havaliza,Vectors,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+volkhin,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+volkhin,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+volkhin,Vectors,1,C,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+nevidomy,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nevidomy,Buses,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+nevidomy,Vectors,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pieguy,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pieguy,Buses,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+pieguy,Vectors,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pieguy,Candies and Stones,1,E,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+venkateshb,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+venkateshb,Buses,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+venkateshb,Vectors,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Shef,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shef,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Shef,Vectors,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Shef,Castle,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+Shef,Candies and Stones,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+Amtrix,Homework,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Amtrix,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Amtrix,Vectors,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+chhung6,Homework,0,A,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+chhung6,Buses,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+chhung6,Vectors,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+chhung6,Castle,0,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+ilyakor,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ilyakor,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ilyakor,Vectors,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ilyakor,Castle,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+ilyakor,Candies and Stones,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+MauricioC,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MauricioC,Buses,1,B,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+chEEtah,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+chEEtah,Buses,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+chEEtah,Candies and Stones,1,E,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+bayleef,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+bayleef,Buses,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+bayleef,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+stgatilov,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+stgatilov,Buses,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+stgatilov,Vectors,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+stgatilov,Candies and Stones,1,E,1,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+stgatilov,Castle,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+AleX,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AleX,Buses,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+AleX,Castle,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+rudradevbasak,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rudradevbasak,Buses,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+rudradevbasak,Vectors,0,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rudradevbasak,Castle,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+rudradevbasak,Candies and Stones,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+homo_sapiens,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+homo_sapiens,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+homo_sapiens,Vectors,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+homo_sapiens,Castle,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+permin,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+permin,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+permin,Vectors,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+permin,Castle,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+Narg,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Narg,Buses,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Narg,Vectors,1,C,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cmd,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cmd,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+cmd,Vectors,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+espr1t,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+espr1t,Buses,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ivan.popelyshev,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ivan.popelyshev,Buses,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ivan.popelyshev,Vectors,0,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ivan.popelyshev,Castle,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+Gerald,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gerald,Buses,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Gerald,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+seanwu,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+seanwu,Vectors,0,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+seanwu,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+al13n,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+al13n,Buses,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+al13n,Vectors,0,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+al13n,Castle,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+al13n,Candies and Stones,1,E,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+dj3500,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dj3500,Vectors,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+dj3500,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Steps09,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Steps09,Buses,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Steps09,Vectors,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+poopi,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+poopi,Buses,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+poopi,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+poopi,Castle,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+witua,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+witua,Buses,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+CherryTree,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+CherryTree,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+CherryTree,Candies and Stones,1,E,0,0,0,1,0,9,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+sankear,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sankear,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+sankear,Vectors,1,C,0,0,0,0,0,1,0,4,0,0,0,0,0,1,0,0,0,"implementation,math"
+Xhark,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Xhark,Candies and Stones,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+Xhark,Castle,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+Xhark,Vectors,0,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Ruslan,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ruslan,Buses,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Ruslan,Vectors,0,C,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+smilitude,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DamianS,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DamianS,Buses,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+DamianS,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Alias,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Alias,Buses,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Alias,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Alias,Castle,1,D,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+goryinyich,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+goryinyich,Buses,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+goryinyich,Vectors,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ania,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ania,Buses,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ania,Vectors,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+maksay,Homework,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+maksay,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+maksay,Vectors,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+maksay,Castle,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+shevchen,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NALP,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NALP,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+NALP,Vectors,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+NALP,Castle,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+vitar,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vitar,Buses,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+vitar,Vectors,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+vitar,Castle,1,D,0,0,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+Sereja,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sereja,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Sereja,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Sereja,Candies and Stones,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+Efgen,Homework,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+hydrastuff,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hydrastuff,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+hydrastuff,Castle,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+eik0u,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+eik0u,Vectors,0,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+eik0u,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Xazker,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Xazker,Buses,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Zhukov_Dmitry,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Zhukov_Dmitry,Buses,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Zhukov_Dmitry,Vectors,0,C,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Zhukov_Dmitry,Candies and Stones,1,E,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+buko,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+buko,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+buko,Vectors,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+juver,Homework,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+juver,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+juver,Vectors,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+daizhenyang,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+daizhenyang,Buses,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Nightmie,Homework,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nightmie,Buses,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+Nightmie,Vectors,1,C,0,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Commandos,Homework,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Commandos,Buses,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Commandos,Vectors,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+iakolzin,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+iakolzin,Buses,1,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+iakolzin,Vectors,0,C,0,0,0,0,1,2,0,2,0,0,0,0,0,0,0,0,0,"implementation,math"
+opiekacz,Homework,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+opiekacz,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+opiekacz,Vectors,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+opiekacz,Castle,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+Pavlo_Lviv_NU,Homework,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Pavlo_Lviv_NU,Buses,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+zhouxingxing,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zhouxingxing,Buses,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+zhouxingxing,Vectors,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+zhouxingxing,Castle,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+Fcdkbear,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Fcdkbear,Buses,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Fcdkbear,Vectors,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,"implementation,math"
+Shtrix,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shtrix,Buses,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Shtrix,Vectors,1,C,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Dmitry_Egorov,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dmitry_Egorov,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Dmitry_Egorov,Vectors,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Dmitry_Egorov,Castle,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+portal,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+portal,Vectors,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+qu1ck,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+qu1ck,Buses,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+kennethsnow,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kennethsnow,Buses,0,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kennethsnow,Vectors,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+die.saito,Homework,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+die.saito,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+KADR,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KADR,Buses,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+KADR,Vectors,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+enot.1.10,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+enot.1.10,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+enot.1.10,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+enot.1.10,Castle,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+RedAnt,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+RedAnt,Buses,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp"
+RedAnt,Vectors,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Ixanezis,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ixanezis,Buses,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp"
+uwi,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+uwi,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+uwi,Vectors,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+scott_wu,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+scott_wu,Buses,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+scott_wu,Vectors,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pt1989,Homework,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pt1989,Buses,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kolesov93,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kolesov93,Buses,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kolesov93,Vectors,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pab2,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pab2,Buses,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+pab2,Vectors,1,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+OutSide,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+watashi,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+watashi,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+watashi,Vectors,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+watashi,Castle,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+watashi,Candies and Stones,1,E,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+rizar,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rizar,Buses,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+rizar,Vectors,0,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rizar,Castle,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+knightL,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+knightL,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+knightL,Vectors,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+AntonDubovik,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AntonDubovik,Buses,0,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+AntonDubovik,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shilov,Homework,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shapo,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shapo,Vectors,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Shapo,Buses,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+TheRaven,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+TheRaven,Buses,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+TheRaven,Vectors,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Monyura,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+Monyura,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Monyura,Vectors,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+fhlasek,Homework,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fhlasek,Buses,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+fhlasek,Vectors,1,C,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ralekseenkov,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ralekseenkov,Buses,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ralekseenkov,Vectors,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ralekseenkov,Castle,0,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+Chubcheg,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Chubcheg,Buses,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Rubanenko,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Rubanenko,Vectors,0,C,0,0,0,0,0,1,0,3,0,0,0,0,0,2,0,0,0,"implementation,math"
+Rubanenko,Buses,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+mukel,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mukel,Buses,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+package.zaic,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+package.zaic,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+package.zaic,Vectors,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+AndreySiunov,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AndreySiunov,Buses,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+AndreySiunov,Vectors,1,C,1,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+wiw,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+wiw,Buses,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+---Grigor---,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+---Grigor---,Buses,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+---Grigor---,Vectors,1,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+haker4o,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+haker4o,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+wcao,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+wcao,Buses,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+wcao,Vectors,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+wcao,Castle,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+subscriber,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+subscriber,Buses,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+subscriber,Vectors,1,C,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Unicorn,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Unicorn,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Unicorn,Candies and Stones,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+suhendry,Homework,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+suhendry,Buses,1,B,0,0,0,0,1,8,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+suhendry,Vectors,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Igor_Kudryashov,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Igor_Kudryashov,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+dreamoon,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dreamoon,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+dreamoon,Vectors,1,C,1,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+evader,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Erop,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Erop,Buses,0,B,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Erop,Vectors,1,C,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+vlad107,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vlad107,Buses,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+vlad107,Vectors,1,C,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Kenny_HORROR,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kenny_HORROR,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Kenny_HORROR,Vectors,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Kenny_HORROR,Castle,0,D,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+Medium,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Medium,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Medium,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+LGM,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+LGM,Buses,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+LGM,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+phinfinity,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+phinfinity,Buses,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+phinfinity,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Seryi,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Seryi,Buses,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+OgieKako,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+OgieKako,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+piva,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+piva,Buses,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+indy256,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+indy256,Buses,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+S.Yesipenko,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+S.Yesipenko,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+S.Yesipenko,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+SobolS,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SobolS,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+SobolS,Vectors,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+SobolS,Castle,0,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+haas,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+haas,Buses,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+haas,Vectors,0,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Andrew_Makar,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Andrew_Makar,Buses,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Andrew_Makar,Vectors,1,C,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Alireza,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Alireza,Vectors,1,C,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+KrK,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KrK,Buses,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+msg555,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+msg555,Buses,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+msg555,Vectors,0,C,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+msg555,Castle,1,D,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+tuananh93,Homework,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+tuananh93,Buses,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+tuananh93,Vectors,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+CroDoc,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+CroDoc,Buses,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kormyshov,Homework,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kormyshov,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kormyshov,Vectors,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+SkidanovAlex,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SkidanovAlex,Vectors,0,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+SkidanovAlex,Buses,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+SkidanovAlex,Castle,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+pdwd,Homework,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+pdwd,Buses,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+pdwd,Vectors,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Deamon,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Deamon,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+it4.kp,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+it4.kp,Buses,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+it4.kp,Vectors,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sune2,Homework,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sune2,Vectors,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+sune2,Buses,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+kontr,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+kontr,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+mmaxio,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mmaxio,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+mmaxio,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mmaxio,Castle,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+mbfilho91,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mbfilho91,Buses,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+nadeem,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Soultaker,Homework,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Soultaker,Buses,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+Soultaker,Castle,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+Cepera,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Cepera,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Cepera,Vectors,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+MSGM,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MSGM,Buses,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+MSGM,Vectors,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Piter,Homework,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Piter,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Dener,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dener,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Dener,Candies and Stones,1,E,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+Dener,Vectors,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+fmm,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fmm,Buses,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+fmm,Vectors,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Ferlon,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ferlon,Buses,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Ferlon,Vectors,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Ferlon,Castle,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+UC2,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+UC2,Buses,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+jthread,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jthread,Castle,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+kelvin,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kelvin,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kilotaras,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kilotaras,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kilotaras,Castle,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+muliguishou,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+muliguishou,Buses,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+muliguishou,Vectors,0,C,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+muliguishou,Castle,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+eduardische,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+eduardische,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+eduardische,Vectors,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+kyuridenamida,Homework,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kyuridenamida,Buses,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+imrankane2005,Homework,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+imrankane2005,Vectors,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+mR.ilchi,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mR.ilchi,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+mR.ilchi,Castle,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+ft.azadi,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ft.azadi,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ft.azadi,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+frp,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+frp,Buses,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Zlobober,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Zlobober,Buses,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Zlobober,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Zlobober,Castle,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+UESTC_Defense,Homework,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+UESTC_Defense,Vectors,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+UESTC_Defense,Buses,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+serbanstan,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+serbanstan,Buses,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+suh_ash2008,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+suh_ash2008,Buses,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+QZAR,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+QZAR,Buses,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+zaq1xsw2tktk,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zaq1xsw2tktk,Buses,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+zaq1xsw2tktk,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+andre.linhares,Homework,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+andre.linhares,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+andre.linhares,Castle,1,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+jiangzhijie,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jiangzhijie,Castle,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+vovapolu,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vovapolu,Buses,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+EbTech,Homework,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+EbTech,Buses,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+EbTech,Vectors,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+EbTech,Castle,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+self_healing,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+self_healing,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+self_healing,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+self_healing,Castle,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+glassices,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+glassices,Buses,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+glassices,Vectors,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+glassices,Castle,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"dp,greedy,probabilities,sortings,trees"
+glassices,Candies and Stones,1,E,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+xiaodao,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xiaodao,Buses,1,B,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+xiaodao,Vectors,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+xiaodao,Castle,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+dyussenaliyev,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dyussenaliyev,Vectors,1,C,0,0,0,2,6,7,0,3,0,0,0,0,0,0,0,0,0,"implementation,math"
+Igel_SK,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Igel_SK,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Igel_SK,Vectors,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Nikhil,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nikhil,Buses,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Nikhil,Vectors,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+rajatag12,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rajatag12,Buses,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Malinovsky239,Homework,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,greedy
+Malinovsky239,Vectors,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+DryukAlex,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DryukAlex,Buses,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+DryukAlex,Vectors,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+juarez.paulino,Homework,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,greedy
+Slevin,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Slevin,Buses,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Slevin,Vectors,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Bo_Odya,Homework,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Bo_Odya,Buses,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+azizkhan,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+azizkhan,Buses,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+azizkhan,Vectors,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+azizkhan,Candies and Stones,0,E,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+azizkhan,Castle,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+_sunny,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+_sunny,Buses,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+_sunny,Vectors,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+MAK,Homework,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MAK,Buses,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+MAK,Castle,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+thphong,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+thphong,Buses,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+thphong,Castle,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+NikitaD,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NikitaD,Buses,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+NikitaD,Vectors,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"implementation,math"
+Oryshych,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Oryshych,Buses,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ArchMaG,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ArchMaG,Buses,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Bugman,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+Bugman,Buses,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp"
+Bugman,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+siuvit,Homework,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+siuvit,Buses,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+siuvit,Vectors,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sillyboy,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sillyboy,Buses,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+NovaBlast,Homework,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+ilya.korovin,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ilya.korovin,Vectors,0,C,0,0,0,0,1,3,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+ilya.korovin,Buses,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ksjuchi,Homework,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Seikang,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Seikang,Vectors,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Seikang,Buses,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+iensen,Homework,0,A,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+iensen,Buses,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+tkcn,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tkcn,Buses,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+tkcn,Vectors,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+reiracofage,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+reiracofage,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+undef,Homework,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ankit1990,Homework,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Snich,Homework,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+Snich,Buses,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+a70babat,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+GagGuy,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp"
+GagGuy,Castle,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+GagGuy,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+GagGuy,Vectors,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kdalex,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kdalex,Buses,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+riversouther,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+riversouther,Buses,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+NotFat,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NotFat,Castle,1,D,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+RaceBug,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+RaceBug,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+RaceBug,Vectors,1,C,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+lgarcia,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lgarcia,Buses,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+edward_mj,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+edward_mj,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+m7nika,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gassa,Homework,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gassa,Vectors,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Gassa,Castle,1,D,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+botay,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+botay,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+botay,Buses,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+mcsharma1990,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+redox,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+redox,Buses,1,B,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+LinKin,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+LinKin,Buses,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+shadow_codeforces,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shadow_codeforces,Buses,1,B,0,0,0,0,10,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+andreyv,Homework,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,greedy
+andreyv,Buses,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+Rasifiel,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Rasifiel,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+igor_kz,Homework,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+SkorKNURE,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SkorKNURE,Buses,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+SkorKNURE,Vectors,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+victor.juquila,Homework,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+victor.juquila,Buses,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Oleg805,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Oleg805,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+makeevvladx,Homework,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+makeevvladx,Buses,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+YuliaChe,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+olimpo,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+olimpo,Buses,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+gogokefakefa,Buses,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+gogokefakefa,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+gogokefakefa,Vectors,1,C,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+NKolotey,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NKolotey,Buses,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp"
+RoyalSFlush,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+balakrishnan,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+balakrishnan,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+balakrishnan,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+idivyanshu,Buses,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+idivyanshu,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Komaki,Vectors,0,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+Komaki,Castle,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+GaoYusong,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+GaoYusong,Buses,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+GaoYusong,Vectors,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+LALAqq,Homework,0,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+LALAqq,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ValenKof,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ValenKof,Buses,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ValenKof,Castle,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+HolkinPV,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+HolkinPV,Buses,1,B,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+dergach,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dergach,Buses,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+lijunle,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lijunle,Buses,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+avriskin,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+avriskin,Castle,1,D,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,"dp,greedy,probabilities,sortings,trees"
+macs,Vectors,0,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+macs,Homework,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+macs,Buses,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+diver_ru,Homework,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+diver_ru,Buses,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+HRM,Homework,0,A,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+HRM,Buses,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+alexej,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+JalbaRu,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+JalbaRu,Buses,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+JalbaRu,Vectors,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+gen,Homework,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+gen,Buses,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+gen,Vectors,0,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Googly,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Googly,Buses,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+itoasquall,Homework,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+ziliang,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rofi,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nagochan,Homework,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+nagochan,Buses,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+emppu,Candies and Stones,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+MBabin,Candies and Stones,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,dp"
+MBabin,Vectors,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kamranm,Buses,0,B,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kamranm,Homework,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy

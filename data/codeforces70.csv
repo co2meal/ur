@@ -1,0 +1,1840 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+mmaxio,Cookies,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+mmaxio,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+arshuaz,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+arshuaz,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+arshuaz,Lucky Tickets,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Zlobober,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Zlobober,Text Messaging,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,2,0,0,0,"expression parsing,greedy,strings"
+Zlobober,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+vepifanov,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vepifanov,Text Messaging,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+vepifanov,Lucky Tickets,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+vepifanov,Information Reform,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,implementation,trees"
+Xazker,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+Xazker,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Xazker,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Petr,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Petr,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Petr,Professor's task,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+Petr,Information Reform,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,implementation,trees"
+Petr,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+ant.ermilov,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ant.ermilov,Text Messaging,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+sky58,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sky58,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Sigizmynd,Cookies,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+Sigizmynd,Text Messaging,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+LeBron,Cookies,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,math
+LeBron,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+watashi,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+watashi,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+watashi,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Zhukov_Dmitry,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Zhukov_Dmitry,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Zhukov_Dmitry,Professor's task,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+Zhukov_Dmitry,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+I_love_ilona,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+I_love_ilona,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+I_love_ilona,Lucky Tickets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+nai_62,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+nai_62,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+nai_62,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,sortings,two pointers"
+ConanKudo,Cookies,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+ConanKudo,Text Messaging,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ConanKudo,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+ktuan,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ktuan,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ktuan,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Belonogov,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Belonogov,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ashmelev,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ashmelev,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ashmelev,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+gen,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+gen,Text Messaging,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Ripatti,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Ripatti,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+UESTC_Nocturne,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+UESTC_Nocturne,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+UESTC_Nocturne,Lucky Tickets,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Jokser,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Jokser,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Jokser,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+chhung6,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+chhung6,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+AlTimin,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AlTimin,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+AlTimin,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Sisu,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,math
+Sisu,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Sisu,Lucky Tickets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Sisu,Professor's task,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+toshima,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+toshima,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ftiasch,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ilyakor,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ilyakor,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ilyakor,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+rng_58,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rng_58,Information Reform,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,implementation,trees"
+rng_58,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+rng_58,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,sortings,two pointers"
+Evilin,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Evilin,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+AguL,Cookies,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+AguL,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,greedy,strings"
+gmunkhbaatarmn,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+gmunkhbaatarmn,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+dj3500,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dj3500,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+sakyalol,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sakyalol,Text Messaging,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+robotdron,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+robotdron,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+yeputons,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yeputons,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+yeputons,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+yeputons,Professor's task,1,D,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+fura2,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+fura2,Text Messaging,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Gassa,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Gassa,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Gassa,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Orfest,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Orfest,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Orfest,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,sortings,two pointers"
+Orfest,Information Reform,1,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,implementation,trees"
+freopen,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+freopen,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+freopen,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+lijunle,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+lijunle,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ltaravilse,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ltaravilse,Text Messaging,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+nardneran,Cookies,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+AntonDubovik,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+AntonDubovik,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+AntonDubovik,Lucky Tickets,1,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+NeverQuarrel,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+NeverQuarrel,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+NeverQuarrel,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+tian,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+tian,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+tian,Lucky Tickets,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+NALP,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+NALP,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+NALP,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Smylic,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Smylic,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Egor,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Egor,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Egor,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Egor,Professor's task,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+wRabbits_AlMag,Cookies,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+wRabbits_AlMag,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+PavelKunyavskiy,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+PavelKunyavskiy,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+PavelKunyavskiy,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Komaki,Cookies,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+Komaki,Text Messaging,0,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Komaki,Lucky Tickets,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+simp1eton,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+simp1eton,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+MBabin,Cookies,0,A,1,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,math
+MBabin,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+al13n,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+al13n,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+al13n,Information Reform,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,implementation,trees"
+seanwentzel42,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+seanwentzel42,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,greedy,strings"
+Mirovan,Cookies,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+Mirovan,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Mirovan,Lucky Tickets,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+yaro,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yaro,Lucky Tickets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+yaro,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+wiw,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+wiw,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+tomerun,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+tomerun,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+t__nt,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+t__nt,Text Messaging,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+zzldjk,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+zzldjk,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Imba,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Imba,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Imba,Lucky Tickets,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Alias,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Alias,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Alias,Professor's task,1,D,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+marek.cygan,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+marek.cygan,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+marek.cygan,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+marek.cygan,Information Reform,1,E,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dp,implementation,trees"
+mukas,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mukas,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Mex-Mans,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Mex-Mans,Text Messaging,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+DDDDDDDDDDDDDDDDDDDDDDDD,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+DDDDDDDDDDDDDDDDDDDDDDDD,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+nevidomy,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+nevidomy,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+nevidomy,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+simsa.st,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+simsa.st,Text Messaging,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Borisp,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Borisp,Text Messaging,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Borisp,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+ACube,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ACube,Text Messaging,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ACube,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+ATrosinenko,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ATrosinenko,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+dimozzz,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dimozzz,Text Messaging,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Ra16bit,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Ra16bit,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Ra16bit,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+hkrcn,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+hkrcn,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+maksay,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+maksay,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+maksay,Lucky Tickets,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+giongto35,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+giongto35,Text Messaging,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+lcqbest,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lcqbest,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+yowa,Cookies,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+yowa,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+yowa,Lucky Tickets,1,C,0,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+kilotaras,Cookies,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+kilotaras,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+m.sabouri,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+m.sabouri,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+frost_nova,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+frost_nova,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+frost_nova,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Proscriptus,Cookies,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+Proscriptus,Text Messaging,1,B,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+lyoz,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+lyoz,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+lyoz,Lucky Tickets,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,data structures,sortings,two pointers"
+kormyshov,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kormyshov,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+alger95,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+alger95,Text Messaging,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"expression parsing,greedy,strings"
+alger95,Lucky Tickets,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+LayCurse,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+LayCurse,Text Messaging,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+LayCurse,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+hasi,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hasi,Text Messaging,1,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+choice,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+choice,Text Messaging,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Skird,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Skird,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+oioi98,Cookies,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+oioi98,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+oioi98,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,sortings,two pointers"
+dejandenib,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+dejandenib,Text Messaging,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"expression parsing,greedy,strings"
+flashmt,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+flashmt,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+flashmt,Lucky Tickets,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+lgarcia,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lgarcia,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+pperm,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pperm,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+pperm,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+v.haralampiev,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+v.haralampiev,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+v.haralampiev,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+ployee,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ployee,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+tomek,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tomek,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+tomek,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+tomek,Professor's task,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+tomek,Information Reform,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,implementation,trees"
+aropan,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+aropan,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+aropan,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+vout,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vout,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,greedy,strings"
+bubnov,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+bubnov,Text Messaging,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+.Khaled.,Cookies,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,math
+.Khaled.,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+AleX,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AleX,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+AleX,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+marschenly,Cookies,0,A,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+islam-al-aarag,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+islam-al-aarag,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+fhlasek,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+fhlasek,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+fhlasek,Professor's task,1,D,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+AlexErofeev,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AlexErofeev,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+daizhenyang,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dalex,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dalex,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+VladGavrila,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+VladGavrila,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+VladGavrila,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+VladGavrila,Professor's task,0,D,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+S.Yesipenko,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+S.Yesipenko,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+S.Yesipenko,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+LGM,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,math
+LGM,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+dolphinigle,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+dolphinigle,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+dolphinigle,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+dolphinigle,Information Reform,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,implementation,trees"
+naagi,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+naagi,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+GagGuy,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+GagGuy,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+GagGuy,Lucky Tickets,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+liangjiaxing57,Cookies,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+liangjiaxing57,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+pt1989,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pt1989,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+pt1989,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+natalia,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+natalia,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+natalia,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+krhgg,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+krhgg,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+kuzmichev_dima,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kuzmichev_dima,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+rinigan,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,math
+rinigan,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ardiankp,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ardiankp,Text Messaging,1,B,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Hackson,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Hackson,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+SpookyCookie,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+SpookyCookie,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,greedy,strings"
+SpookyCookie,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+ifsmirnov,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ifsmirnov,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ifsmirnov,Lucky Tickets,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+magicdlf,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+magicdlf,Text Messaging,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+EG0R,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+EG0R,Text Messaging,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+AleksBannikov,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+AleksBannikov,Text Messaging,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ahmed.abdrabo,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ahmed.abdrabo,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+delta,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+delta,Text Messaging,1,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+grey_wind,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+grey_wind,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ivan.popelyshev,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ivan.popelyshev,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ivan.popelyshev,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Bugman,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Bugman,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Aleksey,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+Aleksey,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+quyse,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+quyse,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+quyse,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+dreamoon,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dreamoon,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+dreamoon,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Scorpy,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Scorpy,Text Messaging,1,B,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+A.I,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+A.I,Text Messaging,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+vaibhavpandey,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+vaibhavpandey,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+SergeyLazarev,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+SergeyLazarev,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+cvb,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+cvb,Text Messaging,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+espr1t,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+espr1t,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+espr1t,Information Reform,1,E,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"dp,implementation,trees"
+espr1t,Lucky Tickets,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+LinesPrower,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+LinesPrower,Text Messaging,0,B,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+LinesPrower,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+teams2ua,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+teams2ua,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Saeed_Reza,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Saeed_Reza,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Saeed_Reza,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Megalusion,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Megalusion,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+suhendry,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+suhendry,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+suhendry,Lucky Tickets,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Bashuk,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Bashuk,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+shindo,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+shindo,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+dmitrydyatlov,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+dmitrydyatlov,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+dmitrydyatlov,Professor's task,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+FoodIsGood,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+FoodIsGood,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+FoodIsGood,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+C.sis,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+C.sis,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Medium,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Medium,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Medium,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+birbbit,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+birbbit,Text Messaging,1,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+krolbajtocji,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+krolbajtocji,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+krolbajtocji,Lucky Tickets,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Bogdan,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Bogdan,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Bogdan,Lucky Tickets,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+K_operafan,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+K_operafan,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+K_operafan,Professor's task,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+smilitude,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+smilitude,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+smilitude,Lucky Tickets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+fushar,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fushar,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+nodchip,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+nodchip,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Shinta,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Shinta,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Shinta,Lucky Tickets,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+kawatea,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kawatea,Text Messaging,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+poles_p,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+poles_p,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+rembocoder,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rembocoder,Text Messaging,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+shhdup,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+shhdup,Text Messaging,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+durt,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+durt,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ohoh430,Cookies,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+ohoh430,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+package.zaic,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+package.zaic,Text Messaging,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"expression parsing,greedy,strings"
+package.zaic,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+nobody,Cookies,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,math
+Duc,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Duc,Text Messaging,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Duc,Professor's task,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+Duc,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Gifts,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+Gifts,Text Messaging,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+mikhailt,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+mikhailt,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+fsouza,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fsouza,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+fsouza,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+fsouza,Professor's task,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+delta_4d,Cookies,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+delta_4d,Text Messaging,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+johar,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+johar,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+voover,Cookies,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+voover,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+voover,Professor's task,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+whhone,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+whhone,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+whhone,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+evernight,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+evernight,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+LALAqq,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,math
+LALAqq,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Ardavel,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Ardavel,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+CleRIC,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+CleRIC,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Kostroma,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Kostroma,Text Messaging,1,B,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+adavydow,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+adavydow,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+adavydow,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,sortings,two pointers"
+yak_ex,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yak_ex,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Daiki_Ando,Cookies,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+Daiki_Ando,Text Messaging,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+pragrame,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pragrame,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+pragrame,Lucky Tickets,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+R_R_,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+R_R_,Text Messaging,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+R_R_,Lucky Tickets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Gyosh,Cookies,0,A,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,math
+Gyosh,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+portal,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+portal,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Jughead,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Jughead,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+zgmf_x56s,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zgmf_x56s,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+imrankane2005,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+imrankane2005,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+imrankane2005,Lucky Tickets,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+BudAlNik,Cookies,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+BudAlNik,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+xavier_lt,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xavier_lt,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+xavier_lt,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+anhdt,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+anhdt,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Kenny_HORROR,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Kenny_HORROR,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Kenny_HORROR,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+syntax_error,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,math
+syntax_error,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+syntax_error,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+PanZverski,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,math
+PanZverski,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+PanZverski,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+bormotov,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+bormotov,Text Messaging,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+mcsharma1990,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+mcsharma1990,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ryuzmukhametov,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+ryuzmukhametov,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+peria,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+peria,Text Messaging,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Gantz,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Gantz,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+neal,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+neal,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+neal,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+neal,Professor's task,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+Jesus,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,math
+Jesus,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Steps09,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Steps09,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+NikitaD,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+NikitaD,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Dabek,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Dabek,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+BillyBones,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+BillyBones,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+logicmachine,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+logicmachine,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+logicmachine,Professor's task,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+biochem_fan,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+biochem_fan,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,greedy,strings"
+chyx,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+chyx,Text Messaging,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+chyx,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Ixanezis,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+Ixanezis,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+xiao_wu,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+xiao_wu,Text Messaging,1,B,0,0,0,0,1,8,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+kyonghun90,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kyonghun90,Text Messaging,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Chaker,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Chaker,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Chaker,Lucky Tickets,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+crbtmac,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+crbtmac,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+leefour,Cookies,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+leefour,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"expression parsing,greedy,strings"
+Fcdkbear,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Fcdkbear,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Fcdkbear,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,sortings,two pointers"
+avriskin,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+avriskin,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+avriskin,Lucky Tickets,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+macs,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+macs,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+macs,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+pdwd,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pdwd,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,greedy,strings"
+tkcn,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tkcn,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+tkcn,Lucky Tickets,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+tkcn,Professor's task,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+Nadezhda,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Nadezhda,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+K0stIa,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+K0stIa,Text Messaging,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+K0stIa,Lucky Tickets,1,C,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+atol,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+atol,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+UC2,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+UC2,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+BlackBerry,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+BlackBerry,Text Messaging,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+igsilya,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+igsilya,Text Messaging,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Dod,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Dod,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ir5,Cookies,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+ir5,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ir5,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+ir5,Professor's task,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+julsa,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+julsa,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Leonid,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Leonid,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Baz93,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Baz93,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+SkidanovAlex,Cookies,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+SkidanovAlex,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Ignat,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Ignat,Cookies,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Ignat,Lucky Tickets,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+fsb4000,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+fsb4000,Text Messaging,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+fixme,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fixme,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+aitbayev,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+aitbayev,Text Messaging,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+aitbayev,Lucky Tickets,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+undef,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+undef,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+sunhaowen123,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sunhaowen123,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+sunhaowen123,Lucky Tickets,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+litstrong,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+litstrong,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+sementry,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sementry,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Alireza,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Alireza,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ahmed_aly,Cookies,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+ahmed_aly,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+dragoon,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dragoon,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+dragoon,Lucky Tickets,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+balakrishnan,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+balakrishnan,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+balakrishnan,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+esam091,Cookies,1,A,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,math
+esam091,Text Messaging,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+esam091,Lucky Tickets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+JKeeJ1e30,Cookies,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+JKeeJ1e30,Text Messaging,1,B,1,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Dmitry.Gerasimov,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Dmitry.Gerasimov,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+komiya,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+komiya,Text Messaging,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+NSL,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+NSL,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+tuananh93,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tuananh93,Text Messaging,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+blazerer,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+blazerer,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+blazerer,Professor's task,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+pank.dm,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pank.dm,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+pank.dm,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+none,Cookies,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+none,Text Messaging,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+nicola,Cookies,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+nicola,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+GaoYusong,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+GaoYusong,Text Messaging,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+polmauri,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+polmauri,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+polmauri,Information Reform,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,implementation,trees"
+ashawkat89,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+mancle,Cookies,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+kunaljain,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+kunaljain,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+uwi,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+uwi,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+uwi,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+SmirnovBoris,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+SmirnovBoris,Text Messaging,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+forest,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+forest,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+forest,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Python,Cookies,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+Python,Text Messaging,1,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+venkateshb,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+venkateshb,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+venkateshb,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+daftcoder,Cookies,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+daftcoder,Text Messaging,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Skiminok,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Skiminok,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+evader,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+evader,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+KirillB,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+KirillB,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+leaom,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+leaom,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+DStepanenko,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+DStepanenko,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+DStepanenko,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+STAJIKER,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,math
+STAJIKER,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+mylyanyk.ivan,Cookies,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+mylyanyk.ivan,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Mario88,Cookies,1,A,1,0,0,0,0,2,0,0,2,0,0,0,0,2,0,0,0,math
+liympanda,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+liympanda,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+liympanda,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+liympanda,Professor's task,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+flowlight,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+flowlight,Text Messaging,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+c_loud26,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+c_loud26,Text Messaging,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+topskychen,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+topskychen,Text Messaging,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+RedAnt,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+RedAnt,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+RedAnt,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+shtorm941,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+shtorm941,Text Messaging,1,B,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Cruiser,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Cruiser,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Cruiser,Lucky Tickets,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+SobolS,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+SobolS,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+lqp18_31,Cookies,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+lqp18_31,Text Messaging,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+lqp18_31,Lucky Tickets,1,C,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+felix_halim,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+felix_halim,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+felix_halim,Professor's task,1,D,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+jackiesteed,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Vintik,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Vintik,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Vintik,Information Reform,1,E,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,implementation,trees"
+spartac,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+spartac,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+e-maxx,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+e-maxx,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+e-maxx,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+e-maxx,Professor's task,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+e-maxx,Information Reform,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,implementation,trees"
+yayamao,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+yayamao,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+kyo_key,Cookies,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+kyo_key,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ZobninVladislav_It-Team,Cookies,0,A,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Parhomets,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Parhomets,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Dumpty,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Dumpty,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+palmeida,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+palmeida,Text Messaging,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+kb.,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kb.,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+sazzad,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sazzad,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Sulta,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Sulta,Text Messaging,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+latvian,Cookies,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+latvian,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+soundsdx,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+soundsdx,Text Messaging,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+HJWAJ,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+HJWAJ,Text Messaging,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+metar,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+metar,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+forifchen,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+forifchen,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+yuanhang,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+yuanhang,Text Messaging,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+yuanhang,Lucky Tickets,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+kovi,Information Reform,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,implementation,trees"
+kovi,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kovi,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+kovi,Professor's task,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+abdo_abdo5,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+abdo_abdo5,Text Messaging,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+abdo_abdo5,Professor's task,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+erepb1991,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+erepb1991,Text Messaging,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+alexej,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+alexej,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Hadi_Asiaie,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Hadi_Asiaie,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Hadi_Asiaie,Lucky Tickets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+alvelcom,Cookies,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,math
+alvelcom,Text Messaging,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Lepetrandr,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Lepetrandr,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+safariworldcom,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+safariworldcom,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Coolzero,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Coolzero,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Sigmar,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Sigmar,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+hydrastuff,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+hydrastuff,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ksjuchi,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ksjuchi,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+pratikmoona,Cookies,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+pratikmoona,Text Messaging,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+cgy4ever,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+cgy4ever,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+cgy4ever,Lucky Tickets,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Oleg805,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Oleg805,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+aleksei,Cookies,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+aleksei,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+abhijith,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+abhijith,Text Messaging,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Commandos,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Commandos,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+knightL,Cookies,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+knightL,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+VladBelous,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+VladBelous,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Amtrix,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Amtrix,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+trukanduk,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+trukanduk,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+z-ghost,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+z-ghost,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+skaramouche,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+skaramouche,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+foxermen,Cookies,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+l.j.q.light,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+l.j.q.light,Text Messaging,1,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+unrated,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+unrated,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Scientist1642,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Scientist1642,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+enots,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+enots,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+yuuki3655,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+yuuki3655,Text Messaging,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Rosetta,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+Rosetta,Text Messaging,0,B,0,0,0,0,2,7,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Vedensky,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Vedensky,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Vedensky,Lucky Tickets,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,sortings,two pointers"
+sankear,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sankear,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+sankear,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+sankear,Professor's task,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+kohyatoh,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kohyatoh,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+kohyatoh,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+kohyatoh,Information Reform,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,implementation,trees"
+makagonov,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+makagonov,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+STINGER,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+kozikow,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kozikow,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+testmhigashi,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+testmhigashi,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Nikolai,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,math
+Nikolai,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Nikolai,Lucky Tickets,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,sortings,two pointers"
+Slavik,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Slavik,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Slavik,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+radireza,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+radireza,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+sidky,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sidky,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+juarez.paulino,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+juarez.paulino,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+tanas,Cookies,1,A,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,math
+tanas,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+MciprianM,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+MciprianM,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+CtrlAlt,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+CtrlAlt,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+winterwolf94,Cookies,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+winterwolf94,Text Messaging,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Shtrix,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Shtrix,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Shtrix,Lucky Tickets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+chenpengyu,Cookies,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+chenpengyu,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ahmed_thabet,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ahmed_thabet,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+lyrics,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lyrics,Text Messaging,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+girishkadlinitk,Cookies,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+Ruslan,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Ruslan,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Ruslan,Lucky Tickets,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,sortings,two pointers"
+DraG,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+DraG,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Spacejoker,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Spacejoker,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ruban,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ruban,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+sixujie,Cookies,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+sixujie,Text Messaging,1,B,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+mongolrgata,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+mongolrgata,Text Messaging,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+handojo1,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+handojo1,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+eordano,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+eordano,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+hbuoc,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+hbuoc,Text Messaging,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+hbuoc,Lucky Tickets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+fuch,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fuch,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+fuch,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+scorpion,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ChamChi,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ChamChi,Text Messaging,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+joy32812,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+joy32812,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+emo,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+emo,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,greedy,strings"
+Slevin,Cookies,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Slevin,Text Messaging,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Slevin,Professor's task,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+utkarshl,Cookies,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+utkarshl,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Le-Nika,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Le-Nika,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ArtemKadeev,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ArtemKadeev,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+dened,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+dened,Text Messaging,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+dened,Lucky Tickets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Monmoy,Cookies,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+Monmoy,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Surogatov_S,Text Messaging,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+mitim,Cookies,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+mitim,Text Messaging,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+hogeover30,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+hogeover30,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,greedy,strings"
+pius_88,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pius_88,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+nise_nabe,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+nise_nabe,Text Messaging,0,B,0,0,0,3,0,11,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+nel215,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+nel215,Text Messaging,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+nel215,Professor's task,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+svrsvr,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+svrsvr,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+simoncao,Cookies,1,A,1,0,0,0,0,2,0,0,1,0,0,0,0,1,0,0,0,math
+simoncao,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+magzhan,Cookies,1,A,1,0,0,0,0,9,0,0,0,0,0,0,0,1,0,0,0,math
+magzhan,Text Messaging,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+philolo1,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+philolo1,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+pareshverma007,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+pareshverma007,Text Messaging,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+khanhptnk,Cookies,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+khanhptnk,Text Messaging,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+20092100003,Cookies,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+20092100003,Text Messaging,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+iwiwi,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+iwiwi,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+iwiwi,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+iwiwi,Professor's task,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,geometry"
+azizkhan,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+azizkhan,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+tatsuyafw,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tatsuyafw,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+masibonge,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+masibonge,Text Messaging,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+masibonge,Professor's task,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+masibonge,Lucky Tickets,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+007.chandru.vels,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+007.chandru.vels,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+-.-,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+-.-,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+freak93,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+freak93,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fengzlzl,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fengzlzl,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+fengzlzl,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+else,Cookies,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+else,Text Messaging,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+shevchen,Cookies,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+shevchen,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+shevchen,Lucky Tickets,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+b_idler,Cookies,1,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+shalinmangar,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Hero,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Hero,Text Messaging,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,greedy,strings"
+Efgen,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Efgen,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Efgen,Lucky Tickets,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+prpr,Cookies,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+prpr,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+prpr,Professor's task,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+kennethsnow,Cookies,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+kennethsnow,Text Messaging,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+root85,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+root85,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+sanchit_h,Cookies,0,A,1,0,0,0,1,4,0,0,0,0,0,0,0,1,0,0,0,math
+sanchit_h,Text Messaging,1,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Eugene,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Eugene,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+karpinski,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+karpinski,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+karpinski,Lucky Tickets,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+xscape,Cookies,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+xscape,Text Messaging,1,B,1,0,0,1,0,4,0,0,0,0,0,0,0,2,0,0,0,"expression parsing,greedy,strings"
+tmiyamon,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+tmiyamon,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+atetubou,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+atetubou,Text Messaging,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+DNNX,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+DNNX,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+niquefa_diego,Cookies,1,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,math
+niquefa_diego,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Muhammed,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+timmy,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+timmy,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Volha,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Volha,Text Messaging,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ias,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,math
+ias,Text Messaging,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Logout,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kuwa32,Cookies,1,A,1,0,0,0,0,10,0,0,0,0,0,0,0,2,0,0,0,math
+kuwa32,Text Messaging,1,B,0,0,0,1,0,9,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+BPA,Cookies,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+BPA,Text Messaging,1,B,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Slamur,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,math
+Slamur,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+GeLo,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+GeLo,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ft.azadi,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ft.azadi,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Leikari,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+neigerhidebu,Cookies,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+neigerhidebu,Text Messaging,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+hs484,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hs484,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+hs484,Lucky Tickets,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,sortings,two pointers"
+_jte_,Cookies,0,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,math
+_jte_,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+toxahak,Cookies,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+toxahak,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Fata1ist,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Fata1ist,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Fata1ist,Lucky Tickets,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Shiho,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Shiho,Text Messaging,1,B,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+labardan,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+labardan,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+fatboy_cw,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,math
+fatboy_cw,Text Messaging,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ptrrsn_1,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ptrrsn_1,Text Messaging,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+San_Sany4,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+sonyckson,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sonyckson,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+sonyckson,Lucky Tickets,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+o948,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,math
+o948,Text Messaging,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+o948,Lucky Tickets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+kgs,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kgs,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+vova.bogatyrev,Cookies,0,A,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,math
+kangbb,Cookies,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+kangbb,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+zer0,Cookies,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,2,0,0,math
+zer0,Text Messaging,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ZorN,Cookies,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ZorN,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+dudkamaster,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dudkamaster,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+dudkamaster,Professor's task,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+eka,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+eka,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+MaChao,Cookies,0,A,1,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,math
+MaChao,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+TFTM,Cookies,0,A,1,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+TFTM,Text Messaging,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+jayesh02,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+jayesh02,Text Messaging,1,B,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+ham,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ham,Text Messaging,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+lne,Cookies,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+lne,Text Messaging,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ErzhanDS,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ErzhanDS,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+L.I.S.,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+L.I.S.,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+nkshn,Cookies,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+mightyvoice,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+mightyvoice,Text Messaging,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+navi,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+navi,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+navi,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+slip0110,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+ziv,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ziv,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+rajatag12,Text Messaging,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+rajatag12,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+michaelrpg,Cookies,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+michaelrpg,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Beast,Cookies,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+Beast,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+haker4o,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+haker4o,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Horuka,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Horuka,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+shohag,Cookies,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+gangil,Cookies,1,A,1,0,0,1,0,5,0,0,0,0,0,0,0,2,0,0,0,math
+gangil,Text Messaging,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+kyuridenamida,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+kyuridenamida,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Nursoltan,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Nursoltan,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+zzsy_fox,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+zzsy_fox,Text Messaging,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+z__jj,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+z__jj,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+z__jj,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+ckl,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ckl,Text Messaging,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+daffes,Cookies,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+daffes,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+daffes,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+nagochan,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+nagochan,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+nagochan,Lucky Tickets,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Aleksander,Cookies,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Aleksander,Text Messaging,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+seen,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+seen,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+surath,Cookies,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+surath,Text Messaging,1,B,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+cavalier,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+cavalier,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+acmwe,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+acmwe,Text Messaging,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+jimon,Cookies,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+jimon,Text Messaging,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+alik,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+alik,Text Messaging,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+altabas,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+altabas,Text Messaging,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+altabas,Lucky Tickets,0,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+chengsir,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+chengsir,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+okazaki,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+okazaki,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+okazaki,Professor's task,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+kreep,Cookies,0,A,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,math
+kreep,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+kreep,Lucky Tickets,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,sortings,two pointers"
+amrSamir,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+amrSamir,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ciniml,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ciniml,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ciniml,Professor's task,1,D,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+moshiur,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+moshiur,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+moshiur,Lucky Tickets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+aleksandr_gusarov,Cookies,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+aleksandr_gusarov,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+rexim,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rexim,Text Messaging,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Shlakoblock,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Shlakoblock,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+RAF,Cookies,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+RAF,Text Messaging,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+thadoutr,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+thadoutr,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+pepodlypnov,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+weiqi,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+weiqi,Text Messaging,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Zahra,Cookies,1,A,1,0,0,0,0,8,0,0,0,0,0,0,0,1,0,0,0,math
+251083874,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+251083874,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+rishabhm,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+rishabhm,Text Messaging,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Di735,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Di735,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+QZAR,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+QZAR,Text Messaging,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+AlexAlvarez,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AlexAlvarez,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+dumperize,Cookies,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+dumperize,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+_sunny,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+_sunny,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Quazar,Cookies,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,math
+Quazar,Text Messaging,1,B,0,0,0,1,0,5,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+EbTech,Cookies,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+EbTech,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+vish,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+vish,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+lunae,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+lunae,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+UESTC_Defense,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+UESTC_Defense,Text Messaging,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+UESTC_Defense,Lucky Tickets,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Arkadiy,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Arkadiy,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+vudduu,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+vudduu,Text Messaging,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+vudduu,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+guestonearth,Cookies,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,2,0,0,0,math
+guestonearth,Text Messaging,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+marque,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+marque,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+evg-zhabotinsky,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+evg-zhabotinsky,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+kirakira,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+kirakira,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+zimbabwe,Text Messaging,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+zimbabwe,Cookies,1,A,1,0,0,1,0,4,0,0,0,0,0,0,0,1,0,0,0,math
+KrK,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+KrK,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Gareve25,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Gareve25,Text Messaging,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Deryugin,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+navi-spb,Cookies,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+navi-spb,Text Messaging,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,0,"expression parsing,greedy,strings"
+227,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+ichyo,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+ichyo,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+shoring,Text Messaging,0,B,0,0,0,2,0,3,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+S030902228,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+S030902228,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Vaness,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Vaness,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Vaness,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+alpc92,Cookies,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+alpc92,Text Messaging,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+MOHRE,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+MOHRE,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+stan,Cookies,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+stan,Text Messaging,1,B,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+pavankrish1,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,math
+pavankrish1,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Ramzes2,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Ramzes2,Text Messaging,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+xiaoyoulei,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xiaoyoulei,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+f.nasim,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+f.nasim,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+gondas,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+gondas,Text Messaging,0,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+cupo_O,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+cupo_O,Text Messaging,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+zlly,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+zlly,Text Messaging,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,greedy,strings"
+noriok,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+fegla,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fegla,Text Messaging,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+OmirZhan,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+OmirZhan,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+pmachado,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+pmachado,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Azadeh,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Azadeh,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+sbaldrich,Cookies,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,math
+saigono,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+bitekas,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+bitekas,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Melamori,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Melamori,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+safin_pavel,Cookies,0,A,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,math
+self_healing,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+self_healing,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+siuvit,Information Reform,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,implementation,trees"
+siuvit,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+siuvit,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ahm.kam_92,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ahm.kam_92,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+DimaPhil,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+DimaPhil,Text Messaging,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,greedy,strings"
+Omar.Darwish,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Omar.Darwish,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Ferlon,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Ferlon,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+mrunique.01,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+denny,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+denny,Text Messaging,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+denny,Lucky Tickets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+Mata,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Mata,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ilovechina,Cookies,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+ilovechina,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+tanzaku,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tanzaku,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+st0le,Cookies,1,A,1,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+st0le,Text Messaging,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+st0le,Lucky Tickets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+vishwakarma,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+vishwakarma,Text Messaging,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+free0u,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+free0u,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+Bearjie,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Bearjie,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+sandygupta,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sandygupta,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,3,0,0,0,"expression parsing,greedy,strings"
+middle_impulse,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+middle_impulse,Text Messaging,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+yarrr,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+yarrr,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+yarrr,Lucky Tickets,0,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+ymondelo20,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ymondelo20,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+natsuki_i,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Amadei,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+Amadei,Text Messaging,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+SkorKNURE,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+SkorKNURE,Text Messaging,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+fremn,Cookies,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fremn,Text Messaging,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Malinovsky239,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Malinovsky239,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+luowenfeng,Cookies,0,A,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,math
+ahmed.farag1111,Cookies,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+ahmed.farag1111,Text Messaging,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+lazybonesid,Cookies,0,A,0,0,0,6,0,15,0,0,0,0,0,0,0,1,0,0,0,math
+zsjzer,Cookies,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+reiracofage,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+reiracofage,Text Messaging,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+reiracofage,Lucky Tickets,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,sortings,two pointers"
+volkhin,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+volkhin,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+kurakun,Cookies,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+kurakun,Text Messaging,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Amrodis,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Amrodis,Text Messaging,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+zjsxzy,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zjsxzy,Text Messaging,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Inf_Zero,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Inf_Zero,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+lpeter,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kitayuta,Cookies,0,A,1,0,0,0,1,2,0,0,0,0,0,0,0,2,0,0,0,math
+kitayuta,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+yogesh_sharma,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+yogesh_sharma,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Hedayet,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Hedayet,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+dango3334,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+dango3334,Text Messaging,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Gorgol,Cookies,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+ViktorM,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Tigran92,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Babanin_Ivan,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Babanin_Ivan,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Babanin_Ivan,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+ecjtu_wanwenqing,Cookies,0,A,0,0,0,3,0,5,0,0,0,0,0,0,0,1,0,0,0,math
+ecjtu_wanwenqing,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+segv,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+segv,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+median0816,Cookies,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+ascrazy,Cookies,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,math
+NickSerg,Professor's task,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+NickSerg,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,math
+NickSerg,Text Messaging,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+K1R,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+K1R,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+manjunath426jc,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,math
+manjunath426jc,Text Messaging,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+arosh,Cookies,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+arosh,Text Messaging,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+mostafa_elabady,Cookies,1,A,1,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,math
+mostafa_elabady,Text Messaging,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+leijunkun,Cookies,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+leijunkun,Text Messaging,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Kuldeep,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Kuldeep,Text Messaging,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+muriloufg,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+muriloufg,Text Messaging,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+SmartCoder,Cookies,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+roxion1377,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+roxion1377,Text Messaging,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+roxion1377,Lucky Tickets,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+rysiek,Cookies,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+DamianS,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+DamianS,Text Messaging,1,B,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+avm,Cookies,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+avm,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+avm,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+rainny,Cookies,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+rainny,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+pietrzkiewicz,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+pietrzkiewicz,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+eldar,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+eldar,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+DIT,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+DIT,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+sicasli,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+sicasli,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,greedy,strings"
+Anurag,Cookies,0,A,0,0,0,0,0,26,0,0,0,0,0,0,0,1,0,0,0,math
+Brambar,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,math
+Brambar,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Narg,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Narg,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,greedy,strings"
+uditiiita,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,math
+uditiiita,Text Messaging,0,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+lightning_31,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lightning_31,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+VUAcoder,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+VUAcoder,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+VorobeY1326,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+VorobeY1326,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+phyllipecesar,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+phyllipecesar,Text Messaging,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+starwars,Cookies,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+shindannin,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+shindannin,Text Messaging,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+fzvinicius,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+fzvinicius,Text Messaging,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+hd_james,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,math
+hd_james,Text Messaging,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+hd_james,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+ondrah,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ondrah,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ondrah,Professor's task,1,D,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+Arsalan,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,math
+asif_iut,Text Messaging,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+cs_hamako,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cs_hamako,Text Messaging,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+cauchyk,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+cauchyk,Text Messaging,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+OutSide,Cookies,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+OutSide,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+paulus,Cookies,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,math
+hhddff,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+CroDoc,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+CroDoc,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+69-64-79,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+69-64-79,Text Messaging,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+rifat,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+ka1mik,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ka1mik,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Fynn,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Fynn,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+strelok1918,Cookies,0,A,1,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,math
+strelok1918,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+segrey,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+segrey,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Bidhan,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+at1,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+at1,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+at1,Professor's task,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+TRUONG,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+sash6589,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sash6589,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+cpphamza,Cookies,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,math
+cpphamza,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+MazeGame,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+MazeGame,Text Messaging,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+noname,Cookies,1,A,1,0,0,0,1,12,0,0,0,0,0,0,0,0,0,0,0,math
+noname,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Icemore,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Icemore,Text Messaging,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+lttaltta,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+lttaltta,Text Messaging,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+vatruh,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vatruh,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+sholeg,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sholeg,Text Messaging,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Byond,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+Byond,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+kaushik.mv3,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+kaushik.mv3,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+mehas,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mehas,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+legend_ni,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+legend_ni,Text Messaging,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Salat,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"expression parsing,greedy,strings"
+yuta1024,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+yuta1024,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Istari,Cookies,0,A,0,0,0,4,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+Istari,Text Messaging,0,B,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+alexlz661,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+alexlz661,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Obaida,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Obaida,Text Messaging,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+vance,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+vance,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+rampage,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+pshtanko,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+pshtanko,Cookies,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+shilov,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+shilov,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+jmendoza,Cookies,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+jmendoza,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ichattopadhyaya,Cookies,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,math
+ichattopadhyaya,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Petruchcho,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Petruchcho,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kaifonaft,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+kaifonaft,Cookies,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Nicolay_R,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+Nicolay_R,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,greedy,strings"
+kzr.buet08,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kzr.buet08,Text Messaging,1,B,0,0,0,2,0,5,0,0,2,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+shuklaravi,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+darkstar1863,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+darkstar1863,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+winterflame,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+best.ua,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+best.ua,Text Messaging,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+liyuxing1990910,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+ruben,Text Messaging,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ruben,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ruben,Professor's task,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+anuragb,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+anuragb,Text Messaging,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+titan293,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+titan293,Text Messaging,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ACKOKO,Cookies,1,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,math
+ACKOKO,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+eng.heshamali,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+eng.heshamali,Text Messaging,0,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ishikado,Cookies,0,A,0,0,0,5,0,16,0,2,0,0,0,0,0,1,0,0,0,math
+Denor,Text Messaging,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+osst,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+osst,Text Messaging,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Chernova_Katya,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Chernova_Katya,Text Messaging,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+ufo008ahw,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ufo008ahw,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+am-real,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+am-real,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xor1005,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,math
+xor1005,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Olage,Cookies,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,1,0,0,0,math
+bebecap,Text Messaging,0,B,0,0,0,0,1,4,0,2,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Maksat,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+Maksat,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+magdi,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+magdi,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+amr.nabil,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+amr.nabil,Text Messaging,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,"expression parsing,greedy,strings"
+SAH9l,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+kotokur,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+olimpo,Cookies,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,math
+olimpo,Text Messaging,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+asakevarashvili,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mabodx,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+mabodx,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+yeojin,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+spongebob,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+spongebob,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+nikunj165,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+ghost016,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+abhiranjan,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+abhiranjan,Text Messaging,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+dcp,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dcp,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+peterae86,Cookies,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+peterae86,Text Messaging,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ilyakryukov,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ilyakryukov,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ct.e3,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ct.e3,Text Messaging,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Xerxes,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Xerxes,Text Messaging,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+mojiii,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mojiii,Text Messaging,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Tadrion,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Tadrion,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+july,Cookies,0,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+july,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+july,Professor's task,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+fahimpatel,Cookies,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+fahimpatel,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+beginner1010,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+beginner1010,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+codecrux,Cookies,1,A,1,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,math
+codecrux,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+coder_iitu,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+coder_iitu,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+khanaleemullah,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,math
+Kandyman,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Kandyman,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+askhatish,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+askhatish,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+edward_mj,Cookies,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+edward_mj,Text Messaging,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+hemant_baid,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+hemant_baid,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ecjtuyizhenmi,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+MarioYC,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+MarioYC,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+hakomo,Cookies,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+rperez13,Text Messaging,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+rperez13,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+can,Cookies,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+can,Text Messaging,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+BenderRodriges,Text Messaging,0,B,1,0,0,1,0,4,0,0,0,1,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+BenderRodriges,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+dmitry.s,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dmitry.s,Text Messaging,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+dmitry.s,Lucky Tickets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+ajay0221,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+TaTa,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Tariqul,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Tariqul,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Sheloth,Cookies,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+Sheloth,Text Messaging,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Wahba,Cookies,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+Wahba,Text Messaging,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+soul_departed,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+soul_departed,Text Messaging,1,B,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+soul_departed,Lucky Tickets,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+max777alex,Text Messaging,0,B,1,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+max777alex,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+egorow29,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+egorow29,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+tamer.eldeeb,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+tamer.eldeeb,Cookies,1,A,1,0,0,0,0,3,0,1,2,0,0,0,0,1,0,0,0,math
+ymuto,Text Messaging,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+l0nwlf,Cookies,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+l0nwlf,Text Messaging,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+duyonghui,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+tasneem_ewu,Text Messaging,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+-RooneY-,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+-RooneY-,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+sebastian_g,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+prerak17,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pisarik,Text Messaging,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"expression parsing,greedy,strings"
+pisarik,Lucky Tickets,0,C,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+cfc,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+cfc,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+merkator,Cookies,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+theriddler000,Text Messaging,0,B,0,0,0,0,3,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+ashi009,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+kabir.sohel,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,math
+kabir.sohel,Text Messaging,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Beast_of_prey,Cookies,0,A,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+rrevenantt,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rrevenantt,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Pratham,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Pratham,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+tajbir2000,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+tajbir2000,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+hommiak,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+MarwanPP,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+MarwanPP,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Och-Iv2000,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Och-Iv2000,Text Messaging,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+nitesh_pro,Cookies,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+camper,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,math
+camper,Text Messaging,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+xeronix,Cookies,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+xeronix,Text Messaging,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Respect2D,Text Messaging,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Respect2D,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mary-zr,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+mary-zr,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rayafjyblue,Cookies,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,math
+rayafjyblue,Text Messaging,1,B,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+goldwin,Cookies,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+goldwin,Text Messaging,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+MrPapaya,Cookies,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+saronger,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+saronger,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+indy256,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+indy256,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+greengrass,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+greengrass,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+QuasHouse,Cookies,1,A,1,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,math
+liujian727276959,Cookies,1,A,1,0,0,1,0,5,0,0,0,0,0,0,0,1,0,0,0,math
+shou,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+shou,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+hari6988,Text Messaging,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+hari6988,Lucky Tickets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+JustSmile,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+JustSmile,Lucky Tickets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+vietlong2110,Text Messaging,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+yonjue,Cookies,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+PashaAC,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+PashaAC,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+lonelyprog,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lonelyprog,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Perlik,Text Messaging,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+mbllllohok,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+htrinh,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+htrinh,Text Messaging,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Qili,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Qili,Text Messaging,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+LongCtrl,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+LongCtrl,Text Messaging,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+member666,Cookies,0,A,0,0,0,0,0,3,0,0,1,0,0,0,0,1,0,0,0,math
+member666,Text Messaging,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+thaisen,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Lay_ec,Cookies,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+.C0D3R,Cookies,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,math
+.C0D3R,Text Messaging,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+exromany,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+BAIZOR,Cookies,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,math
+BAIZOR,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+paranoid,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+paranoid,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+born_coder,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+born_coder,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"expression parsing,greedy,strings"
+mouse,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+mouse,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ololo,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ololo,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Tachikawa,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ramon.ua,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ramon.ua,Text Messaging,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+sas4eka,Cookies,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+sas4eka,Text Messaging,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+peryaudo,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Hinidu,Cookies,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+Hinidu,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+guayo,Text Messaging,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+arpit_s,Text Messaging,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+arpit_s,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Gowtham,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+BlackEagle,Text Messaging,0,B,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+BlackEagle,Professor's task,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+BlackEagle,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+pein,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+pein,Text Messaging,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Morozko,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+Morozko,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+Sectrait,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Sectrait,Text Messaging,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+gravity,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+darkl0rd,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ferraritnl,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+ferraritnl,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+arpit_mittal,Cookies,1,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+arpit_mittal,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+jinchunpeng,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,math
+jinchunpeng,Text Messaging,1,B,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+pol,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+espy,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+espy,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Lord_0f_D_C0des,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Lord_0f_D_C0des,Text Messaging,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+dhruv571,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+nlnl,Cookies,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+rigelbm,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rigelbm,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+xiejunjun,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,math
+xiejunjun,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Muvuris,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,math
+einstein010,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+einstein010,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+zyx3d,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zyx3d,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Isa_rentacs,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Isa_rentacs,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+vab_nig,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+trycoder,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+YuRNeRo_KZ,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kemo,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+kemo,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kemo,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+youdianlei,Cookies,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,3,0,0,0,math
+meparter,Text Messaging,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+meparter,Cookies,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+tovValentin,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tovValentin,Text Messaging,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+PAG,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+PAG,Text Messaging,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+01Omar10,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+wil93,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,math
+wil93,Text Messaging,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+master_mind,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+ahmedsaad,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ahmedsaad,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Alexey,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Alexey,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+xkor,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+xkor,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+pratvick,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+lobo,Text Messaging,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+lobo,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Marishka,Text Messaging,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Marishka,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+experience257,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+nhrahi_iut,Cookies,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,math
+NuM,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+NuM,Text Messaging,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+vijay_kansal,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+MaGNetLei,Text Messaging,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+MaGNetLei,Cookies,1,A,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,math
+NSV,Text Messaging,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+NSV,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+limiTed,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,math
+limiTed,Text Messaging,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+codingbunny,Cookies,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+gemu,Cookies,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,0,math
+LBoy,Cookies,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+LBoy,Text Messaging,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Condor,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+AKGMA,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AKGMA,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Stirpar,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Stirpar,Cookies,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+flash36,Cookies,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+edogrigqv2,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+anon20016,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+anon20016,Text Messaging,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+kaynat,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+kroykroy,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kroykroy,Text Messaging,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+KENT_0,Cookies,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+streetfi8er,Text Messaging,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+streetfi8er,Cookies,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Shafaet,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+Variag,Text Messaging,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,greedy,strings"
+Variag,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+denike-web,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+denike-web,Text Messaging,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+maksatserikov,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+__Joker,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+raza,Cookies,0,A,0,0,0,2,0,0,0,0,0,0,0,0,0,2,0,0,0,math
+raza,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Yousef_Salama,Cookies,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+loro,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+aioros,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+shopnobaj,Text Messaging,0,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+ViugiNik,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+santak90,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+EvAn,Cookies,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+EvAn,Text Messaging,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+s-m-k-p,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+yimao,Text Messaging,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"expression parsing,greedy,strings"
+yimao,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ik_fib,Text Messaging,0,B,0,0,0,0,2,7,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+neeraj541,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+neeraj541,Text Messaging,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+dananger,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+bondoc73,Lucky Tickets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+tstusreg,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+empe,Cookies,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+red_skull,Text Messaging,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,greedy,strings"
+lokeshgovindu,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+JIOPD-XCII,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+selfcheck,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tjsin,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+LordArtur,Lucky Tickets,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+LordArtur,Information Reform,0,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,implementation,trees"
+shankyboy,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+shankyboy,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+PALMAR,Text Messaging,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Vasyl,Cookies,1,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+kharazmi,Cookies,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Lloyd,Text Messaging,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+kaushik777,Text Messaging,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+yiran,Cookies,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+m_a_s_91,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+touyoubuntu,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+touyoubuntu,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+1179798441,Cookies,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+omargr,Cookies,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+vfix,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+TeRanFTL,Cookies,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Mikle.Noman,Text Messaging,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+Mikle.Noman,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+Mary,Text Messaging,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+aakash01,Cookies,0,A,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+bitjam,Cookies,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+qvazar,Lucky Tickets,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings,two pointers"
+denis321,Cookies,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+denis321,Text Messaging,1,B,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,greedy,strings"
+tatuyan_edson,Professor's task,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"
+riktor,Professor's task,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,geometry"

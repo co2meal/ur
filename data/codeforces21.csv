@@ -1,0 +1,521 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+Egor,Intersection,0,B,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Egor,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Egor,Stripe 2,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+Egor,Traveling Graph,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+qwaker.00,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+qwaker.00,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+qwaker.00,Jabber ID,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+qwaker.00,Traveling Graph,0,D,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,"bitmasks,graph matchings,graphs"
+daizhenyang,Traveling Graph,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"bitmasks,graph matchings,graphs"
+daizhenyang,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+daizhenyang,Stripe 2,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+CherryTree,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+CherryTree,Jabber ID,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+CherryTree,Stripe 2,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+subscriber,Intersection,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+subscriber,Stripe 2,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+subscriber,Jabber ID,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+altertain,Intersection,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+altertain,Traveling Graph,1,D,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,"bitmasks,graph matchings,graphs"
+altertain,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+balakrishnan,Intersection,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+balakrishnan,Jabber ID,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+balakrishnan,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,sortings"
+ballon,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+ballon,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+ballon,Stripe 2,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+sdryapko,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+sdryapko,Stripe 2,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+HolkinPV,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+HolkinPV,Jabber ID,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tourist,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tourist,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+tourist,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+tourist,Traveling Graph,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"bitmasks,graph matchings,graphs"
+Burunduk1,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Burunduk1,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Burunduk1,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+Burunduk1,Traveling Graph,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"bitmasks,graph matchings,graphs"
+RedAnt,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+RedAnt,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+RedAnt,Stripe 2,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+daftcoder,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+daftcoder,Jabber ID,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ivanromanov,Jabber ID,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ivanromanov,Intersection,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+ivanromanov,Stripe 2,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+artie,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+artie,Stripe 2,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+artie,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+jbernadas,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jbernadas,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+jbernadas,Traveling Graph,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+jbernadas,Stripe 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+SergeyRogulenko,Jabber ID,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+SergeyRogulenko,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+SergeyRogulenko,Stripe 2,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+SergeyRogulenko,Traveling Graph,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+RAD,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+RAD,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+RAD,Stripe 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+RAD,Traveling Graph,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"bitmasks,graph matchings,graphs"
+alexey.enkov,Jabber ID,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,implementation
+alexey.enkov,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+alexey.enkov,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+ikatanic,Jabber ID,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+ikatanic,Intersection,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+ikatanic,Stripe 2,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+ikatanic,Traveling Graph,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+okulov,Intersection,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+okulov,Jabber ID,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,implementation
+abhijith,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+abhijith,Stripe 2,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+trash_account,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+trash_account,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+trash_account,Stripe 2,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+trash_account,Traveling Graph,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+rng_58,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rng_58,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rng_58,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+rng_58,Traveling Graph,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+Orfest,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Orfest,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Orfest,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+Orfest,Traveling Graph,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"bitmasks,graph matchings,graphs"
+kalinov,Jabber ID,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+kalinov,Intersection,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+kalinov,Stripe 2,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+kalinov,Traveling Graph,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"bitmasks,graph matchings,graphs"
+Petr,Traveling Graph,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"bitmasks,graph matchings,graphs"
+Petr,Stripe 2,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+Petr,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Petr,Jabber ID,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rheni,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+Rheni,Intersection,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+Rheni,Stripe 2,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+Rheni,Traveling Graph,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+gojira,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gojira,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+gojira,Stripe 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+vlad107,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+vlad107,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+vlad107,Stripe 2,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+ilyakor,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ilyakor,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+ilyakor,Stripe 2,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+ilyakor,Traveling Graph,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+yjulica,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+yjulica,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+ACube,Jabber ID,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+ACube,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+sementry,Jabber ID,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+sementry,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+uwi,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+uwi,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+uwi,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+uwi,Traveling Graph,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"bitmasks,graph matchings,graphs"
+sevenkplus,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+sevenkplus,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,"implementation,math"
+sevenkplus,Stripe 2,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+Gassa,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Gassa,Intersection,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+Gassa,Stripe 2,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+fetetriste,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+fetetriste,Intersection,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+fetetriste,Stripe 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+mmaxio,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mmaxio,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mmaxio,Stripe 2,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+mmaxio,Traveling Graph,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+SergeiFedorov,Jabber ID,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+SergeiFedorov,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+SergeiFedorov,Intersection,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+rocket323,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+rocket323,Traveling Graph,0,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+yeputons,Jabber ID,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yeputons,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+yeputons,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+sign_in158,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+sign_in158,Intersection,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+sign_in158,Stripe 2,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+kolesov93,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kolesov93,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+kolesov93,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+antonkov,Jabber ID,0,A,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,implementation
+antonkov,Stripe 2,0,C,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+antonkov,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+ChuYuxun,Jabber ID,0,A,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ChuYuxun,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ChuYuxun,Traveling Graph,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+ChuYuxun,Stripe 2,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+asif_iut,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+ir5,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ir5,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+ir5,Stripe 2,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+stubbscroll,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+stubbscroll,Traveling Graph,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"bitmasks,graph matchings,graphs"
+stubbscroll,Intersection,1,B,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+suneast,Jabber ID,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+suneast,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+suneast,Traveling Graph,0,D,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"bitmasks,graph matchings,graphs"
+karpinski,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,implementation
+karpinski,Intersection,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+romanandreev,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+romanandreev,Intersection,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+romanandreev,Stripe 2,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+romanandreev,Traveling Graph,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+cgy4ever,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cgy4ever,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+cgy4ever,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+cgy4ever,Traveling Graph,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,0,"bitmasks,graph matchings,graphs"
+ikicic,Jabber ID,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ikicic,Intersection,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ikicic,Stripe 2,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+SNU,Jabber ID,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+SNU,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+SNU,Stripe 2,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+vish,Jabber ID,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+abz,Jabber ID,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,2,0,0,0,implementation
+abz,Intersection,0,B,0,0,0,0,0,4,3,0,0,0,0,0,0,3,0,0,0,"implementation,math"
+abz,Stripe 2,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+sdya,Stripe 2,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+sdya,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sdya,Jabber ID,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sdya,Traveling Graph,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"bitmasks,graph matchings,graphs"
+eik0u,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+eik0u,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+eik0u,Stripe 2,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+AChudov,Jabber ID,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+AChudov,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+AChudov,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,sortings"
+AChudov,Traveling Graph,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"bitmasks,graph matchings,graphs"
+PavelKunyavskiy,Jabber ID,0,A,1,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,implementation
+PavelKunyavskiy,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+PavelKunyavskiy,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+SpookyCookie,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+SpookyCookie,Intersection,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+SpookyCookie,Stripe 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+dzhulgakov,Traveling Graph,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+dzhulgakov,Stripe 2,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+dzhulgakov,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+dzhulgakov,Jabber ID,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+homo_sapiens,Jabber ID,0,A,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,implementation
+homo_sapiens,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+homo_sapiens,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+homo_sapiens,Traveling Graph,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"bitmasks,graph matchings,graphs"
+NikitaD,Jabber ID,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NikitaD,Intersection,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Xazker,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Xazker,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Xazker,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+indy256,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+indy256,Stripe 2,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+indy256,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+niyaznigmatul,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,implementation
+niyaznigmatul,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+niyaznigmatul,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+Artishok,Jabber ID,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+Artishok,Intersection,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Artishok,Stripe 2,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+Tactic,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Tactic,Intersection,0,B,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Tactic,Stripe 2,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+vot,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vot,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+vot,Stripe 2,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+vot,Traveling Graph,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+shindo,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shindo,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+shindo,Stripe 2,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+kirill,Intersection,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+kirill,Stripe 2,0,C,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+zbwmqlw,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zbwmqlw,Intersection,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+zbwmqlw,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+zbwmqlw,Traveling Graph,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"bitmasks,graph matchings,graphs"
+todo,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+todo,Intersection,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,3,0,0,0,"implementation,math"
+todo,Stripe 2,1,C,0,0,0,0,0,0,0,4,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+david.a.peter,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+david.a.peter,Intersection,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+david.a.peter,Stripe 2,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+jurong,Intersection,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+jurong,Stripe 2,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+Vasya.V,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Vasya.V,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Vasya.V,Stripe 2,1,C,1,0,0,0,2,7,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+Seyaua,Intersection,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Seyaua,Stripe 2,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+Seyaua,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,implementation
+Seyaua,Traveling Graph,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"bitmasks,graph matchings,graphs"
+witua,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+kozima,Jabber ID,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+kozima,Intersection,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+kozima,Traveling Graph,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+kozima,Stripe 2,0,C,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+dogbox,Jabber ID,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dogbox,Intersection,1,B,0,0,0,0,2,1,0,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+dogbox,Stripe 2,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+tanzaku,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tanzaku,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tanzaku,Stripe 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+durt,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+durt,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+durt,Stripe 2,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+kantianfadai,Jabber ID,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+kantianfadai,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+kantianfadai,Stripe 2,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+kantianfadai,Traveling Graph,1,D,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"bitmasks,graph matchings,graphs"
+MciprianM,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+MciprianM,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cyph1e,Jabber ID,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tahlil,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,implementation
+Tahlil,Intersection,0,B,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+iensen,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+iensen,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+iensen,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+iensen,Traveling Graph,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+chebanov,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+chebanov,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+chebanov,Stripe 2,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+ivan.popelyshev,Traveling Graph,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+ivan.popelyshev,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+ivan.popelyshev,Intersection,0,B,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+ivan.popelyshev,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+Babanin_Ivan,Intersection,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Babanin_Ivan,Jabber ID,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+satja,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+satja,Intersection,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+satja,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+satja,Traveling Graph,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+SeMeKh,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+SeMeKh,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+SeMeKh,Stripe 2,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+Spacejoker,Intersection,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+amoc,Intersection,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+amoc,Jabber ID,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+amoc,Stripe 2,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+mirac,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mirac,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+mirac,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+mirac,Traveling Graph,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"bitmasks,graph matchings,graphs"
+qq20091200,Jabber ID,0,A,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,implementation
+dmitrydyatlov,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+dmitrydyatlov,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cswudi0,Traveling Graph,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+cswudi0,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+cswudi0,Jabber ID,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+sky58,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sky58,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sky58,Stripe 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+sky58,Traveling Graph,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+Kandyman,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kandyman,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Kandyman,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+md5,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+alger95,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+alger95,Stripe 2,1,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+alger95,Jabber ID,1,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+truongbom,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+truongbom,Jabber ID,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+ByFlash,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+ByFlash,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+ByFlash,Stripe 2,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+ZumZoom,Jabber ID,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+ZumZoom,Intersection,0,B,0,0,0,3,0,2,0,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+ZumZoom,Stripe 2,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+a.max95,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+a.max95,Intersection,0,B,1,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,"implementation,math"
+a.max95,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+Andrbw,Jabber ID,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Andrbw,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Andrbw,Stripe 2,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+weiqi,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+weiqi,Intersection,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+anhdt,Jabber ID,0,A,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+anhdt,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+anhdt,Stripe 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+AVoz,Intersection,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+AVoz,Stripe 2,0,C,0,0,0,1,0,13,0,4,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+AVoz,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+indraraj007,Intersection,0,B,0,0,0,0,0,8,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+indraraj007,Stripe 2,0,C,0,0,0,0,0,2,0,2,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+thinfaifai,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+thinfaifai,Intersection,0,B,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+thinfaifai,Stripe 2,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+thinfaifai,Traveling Graph,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+Anton92nd,Jabber ID,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Anton92nd,Intersection,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+demo,Stripe 2,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+alexeykuzmin0,Jabber ID,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexeykuzmin0,Intersection,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+alexeykuzmin0,Stripe 2,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,sortings"
+ydnl,Intersection,0,B,0,0,0,0,1,9,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kodec,Jabber ID,0,A,0,0,0,0,0,9,0,0,0,0,0,0,0,5,0,0,0,implementation
+kodec,Intersection,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Avalanche,Jabber ID,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Avalanche,Intersection,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Avalanche,Stripe 2,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+miki,Jabber ID,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+miki,Intersection,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+miki,Stripe 2,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+akimonoiryou,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+ufo008ahw,Intersection,0,B,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ufo008ahw,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ufo008ahw,Stripe 2,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+swcai,Jabber ID,0,A,0,0,0,0,2,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+swcai,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tigvarts,Intersection,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+tigvarts,Jabber ID,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+tigvarts,Stripe 2,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+theNinthDay,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+avriskin,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+avriskin,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+avriskin,Stripe 2,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+Fcdkbear,Jabber ID,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+Fcdkbear,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+Fcdkbear,Stripe 2,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+yak_ex,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yak_ex,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+yak_ex,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+chavit,Jabber ID,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+chavit,Intersection,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+chavit,Stripe 2,1,C,1,0,0,3,1,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+cksharma_skt,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+cksharma_skt,Intersection,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+OutSide,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+OutSide,Stripe 2,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+OutSide,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kyo_key,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kyo_key,Stripe 2,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+kyo_key,Jabber ID,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyo_key,Traveling Graph,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+johnfn,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+johnfn,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+johnfn,Stripe 2,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+o948,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,implementation
+o948,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Mark_tven,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mark_tven,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Mark_tven,Stripe 2,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+slycelote,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+slycelote,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+slycelote,Stripe 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+slycelote,Traveling Graph,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"bitmasks,graph matchings,graphs"
+Serega,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Serega,Intersection,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Serega,Stripe 2,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+Konstantin,Jabber ID,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Konstantin,Intersection,0,B,0,0,0,0,0,5,2,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+evader,Jabber ID,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+evader,Intersection,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+seyyed,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+seyyed,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Shuaib,Jabber ID,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,implementation
+jyoteshrc,Jabber ID,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+b3cta3,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+b3cta3,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+b3cta3,Stripe 2,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+mohamed.gaber,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+mohamed.gaber,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,"implementation,math"
+hlahuhkln,Intersection,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+hlahuhkln,Stripe 2,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+hlahuhkln,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+enoyhs,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+zermx_011,Jabber ID,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+thinkers,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+thinkers,Intersection,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+sixujie,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sixujie,Intersection,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+sixujie,Stripe 2,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,"binary search,dp,sortings"
+Aksenov239,Jabber ID,0,A,1,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aksenov239,Intersection,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Aksenov239,Stripe 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+zyx3d,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zyx3d,Stripe 2,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+zyx3d,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sixteentons,Jabber ID,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sixteentons,Intersection,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+Anurag,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Anurag,Stripe 2,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+july,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+JOZHEG,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+JOZHEG,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+JOZHEG,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,sortings"
+fujiyama,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+fujiyama,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+fujiyama,Stripe 2,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+GlebsHP,Jabber ID,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mex-Mans,Jabber ID,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mex-Mans,Intersection,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Mex-Mans,Stripe 2,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+intheway,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,implementation
+intheway,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+intheway,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+fura2,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+fura2,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+fura2,Stripe 2,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+rrpai,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+rrpai,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ilcapt,Jabber ID,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ilcapt,Stripe 2,0,C,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+kiyot,Jabber ID,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kiyot,Intersection,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+kiyot,Stripe 2,0,C,0,0,0,0,0,2,0,3,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+ft.azadi,Jabber ID,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ft.azadi,Intersection,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+ft.azadi,Stripe 2,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+radhakrishnancegit,Jabber ID,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+kuzmichev_dima,Stripe 2,0,C,0,0,0,0,0,3,0,3,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+kuzmichev_dima,Intersection,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+S.Yesipenko,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+S.Yesipenko,Intersection,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+S.Yesipenko,Stripe 2,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+cortez,Stripe 2,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+AliDiep,Jabber ID,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+AliDiep,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+AliDiep,Stripe 2,0,C,0,0,0,0,0,8,0,7,0,0,0,0,0,1,0,0,0,"binary search,dp,sortings"
+nise_nabe,Jabber ID,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nise_nabe,Intersection,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+magdi,Jabber ID,0,A,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,implementation
+magdi,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+zogo,Intersection,0,B,0,0,0,0,0,2,1,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+zogo,Jabber ID,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,implementation
+goryinyich,Jabber ID,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+goryinyich,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+goryinyich,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+fanxian,Jabber ID,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+YeeeeHa,Jabber ID,0,A,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,implementation
+buko,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+buko,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+buko,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+al13n,Jabber ID,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+al13n,Intersection,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+al13n,Stripe 2,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+al13n,Traveling Graph,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,graph matchings,graphs"
+Shtrix,Jabber ID,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Shtrix,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+iroro,Stripe 2,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+iroro,Intersection,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,4,0,0,0,"implementation,math"
+mmmmm,Jabber ID,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+ahm.kam_92,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Xerxes,Jabber ID,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+hogeover30,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+hogeover30,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+hogeover30,Stripe 2,0,C,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+searcher769,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+urutom,Intersection,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+urutom,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+urutom,Stripe 2,0,C,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,"binary search,dp,sortings"
+shibly,Intersection,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+KLaus,Jabber ID,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KLaus,Intersection,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+riki,Intersection,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+spider853,Jabber ID,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+spider853,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+shindannin,Jabber ID,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shindannin,Intersection,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Alisafe,Jabber ID,0,A,0,0,0,0,0,4,1,0,0,0,0,0,0,1,0,0,0,implementation
+rien,Jabber ID,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+rien,Intersection,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"

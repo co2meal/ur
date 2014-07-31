@@ -1,0 +1,1521 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+absi2011,Secrets,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+KADR,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KADR,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KADR,Characteristics of Rectangles,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+KADR,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+KADR,Summer Earnings,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+qwerty787788,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+qwerty787788,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+qwerty787788,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+qwerty787788,Summer Earnings,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+qwerty787788,Lucky Tickets,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+tanzaku,Secrets,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+tanzaku,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tanzaku,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+asi1024,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+asi1024,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+matrix,Secrets,1,A,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,greedy
+matrix,Chips,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+matrix,Characteristics of Rectangles,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Endagorion,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Endagorion,Lucky Tickets,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+Endagorion,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Endagorion,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+scipianus,Secrets,0,A,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,greedy
+scipianus,Chips,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+scipianus,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+komarov,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+komarov,Chips,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+komarov,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+komarov,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+LeBron,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+LeBron,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+LeBron,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Sisu,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sisu,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sisu,Characteristics of Rectangles,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+jolteon,Secrets,0,A,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+jolteon,Chips,0,B,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+jolteon,Characteristics of Rectangles,1,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+jolteon,Summer Earnings,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+chaotic_iak,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+chaotic_iak,Chips,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+rishabhnigam31,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kmjp,Secrets,0,A,0,0,0,0,0,16,0,0,0,0,0,0,0,0,0,0,0,greedy
+Romka,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Romka,Chips,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Romka,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Romka,Summer Earnings,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+wolf1000,Secrets,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+wolf1000,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+MikhailRubinchik,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MikhailRubinchik,Chips,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+MikhailRubinchik,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+roosaphu,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+roosaphu,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+roosaphu,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+roosaphu,Summer Earnings,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+RAD,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+RAD,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+RAD,Characteristics of Rectangles,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+RAD,Summer Earnings,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+RAD,Lucky Tickets,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+RAVEman,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+RAVEman,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+RAVEman,Characteristics of Rectangles,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+RAVEman,Summer Earnings,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+RAVEman,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+boleyn.su,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+boleyn.su,Chips,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+boleyn.su,Characteristics of Rectangles,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Egor,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Egor,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Egor,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+Egor,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Egor,Summer Earnings,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+RomaWhite,Secrets,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+RomaWhite,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+RomaWhite,Characteristics of Rectangles,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+RomaWhite,Summer Earnings,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+betaveros,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+betaveros,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+betaveros,Lucky Tickets,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+betaveros,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+dreamoon,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+dreamoon,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dreamoon,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+dreamoon,Summer Earnings,0,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+PavelKunyavskiy,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+PavelKunyavskiy,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+PavelKunyavskiy,Characteristics of Rectangles,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+PavelKunyavskiy,Summer Earnings,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+Flyrise,Secrets,0,A,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,greedy
+didins,Chips,0,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+didins,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SYSU_LoveBY,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+SYSU_LoveBY,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+hjx1212,Secrets,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+hjx1212,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hjx1212,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+olimpo,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+olimpo,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+olimpo,Chips,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ilya_MSU,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ilya_MSU,Chips,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ilya_MSU,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+sweiss,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sweiss,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sweiss,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+sweiss,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Xellos,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Xellos,Chips,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Riatre,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Riatre,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Riatre,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Riatre,Summer Earnings,1,E,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+thocevar,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+thocevar,Chips,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+thocevar,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+cherudim9,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cherudim9,Chips,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+cherudim9,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+cherudim9,Summer Earnings,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+i1s9m9s5,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+i1s9m9s5,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+i1s9m9s5,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+slycelote,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+slycelote,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+slycelote,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+hechuan,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+hechuan,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hechuan,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+natalia,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+natalia,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+natalia,Lucky Tickets,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+natalia,Characteristics of Rectangles,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+natalia,Summer Earnings,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+amitsaharana,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+amitsaharana,Chips,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+amitsaharana,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Parsa.pordel,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Parsa.pordel,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Parsa.pordel,Characteristics of Rectangles,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Parsa.pordel,Summer Earnings,0,E,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+mlc,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+mlc,Chips,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shef,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shef,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shef,Characteristics of Rectangles,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Shef,Summer Earnings,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+Shef,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+seland,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+seland,Chips,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+seland,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+rowdark,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rowdark,Chips,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+rowdark,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+rowdark,Summer Earnings,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+ReekinAcer,Secrets,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+ReekinAcer,Chips,1,B,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,greedy
+AlexDmitriev,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+AlexDmitriev,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+AlexDmitriev,Characteristics of Rectangles,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+AlexDmitriev,Summer Earnings,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+FattyPenguin,Secrets,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+FattyPenguin,Chips,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+FattyPenguin,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+bubnov,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+bubnov,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+bubnov,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+nhirokinet,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nhirokinet,Lucky Tickets,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+Eureka,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Eureka,Chips,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Eureka,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Dabek,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dabek,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+TeaPot,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+TeaPot,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+TeaPot,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+adamant,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+adamant,Chips,1,B,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+adamant,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Fcdkbear,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Fcdkbear,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Fcdkbear,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+miketcyue,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+miketcyue,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+miketcyue,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+miketcyue,Summer Earnings,0,E,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+woot,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+woot,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ysyshtc,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ysyshtc,Chips,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+ysyshtc,Characteristics of Rectangles,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Ecthelion,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ecthelion,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+walk_upon,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+walk_upon,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Frommi,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Frommi,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Frommi,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+aa2985759,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+aa2985759,Chips,0,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+aa2985759,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+aa2985759,Summer Earnings,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+vitux,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vitux,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vitux,Characteristics of Rectangles,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+__tutankhamun__,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+__tutankhamun__,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+__tutankhamun__,Summer Earnings,1,E,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+__tutankhamun__,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+ainu7,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ainu7,Chips,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+ainu7,Summer Earnings,1,E,0,0,0,1,0,0,0,2,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+ainu7,Characteristics of Rectangles,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+jonathanpaulson,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+jonathanpaulson,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+jonathanpaulson,Characteristics of Rectangles,1,D,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+jonathanpaulson,Summer Earnings,0,E,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+KungA,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+KungA,Chips,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+KungA,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+gendelpiekel,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+gendelpiekel,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+gendelpiekel,Summer Earnings,1,E,0,0,0,0,0,5,0,2,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+chnlich,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+chnlich,Chips,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+chnlich,Characteristics of Rectangles,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+chnlich,Summer Earnings,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+cvm,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+cvm,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+cvm,Summer Earnings,1,E,0,0,0,0,0,5,0,2,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+Dmitry_Egorov,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dmitry_Egorov,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dmitry_Egorov,Characteristics of Rectangles,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Dmitry_Egorov,Summer Earnings,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+riad,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+riad,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+riad,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+QuantumKnight,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+QuantumKnight,Chips,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+QuantumKnight,Characteristics of Rectangles,0,D,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+ivan100sic,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ivan100sic,Chips,1,B,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,greedy
+ivan100sic,Characteristics of Rectangles,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+isti757,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+isti757,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+isti757,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+wolf_sothe,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+wolf_sothe,Chips,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+wolf_sothe,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Metamorphus,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Metamorphus,Chips,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+fitter,Secrets,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+fitter,Characteristics of Rectangles,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+fitter,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fitter,Summer Earnings,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+naagi,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+naagi,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+naagi,Summer Earnings,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+cgy4ever,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cgy4ever,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cgy4ever,Lucky Tickets,0,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+cgy4ever,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+cgy4ever,Summer Earnings,1,E,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+Pavlo_Lviv_NU,Secrets,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Pavlo_Lviv_NU,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Pavlo_Lviv_NU,Characteristics of Rectangles,1,D,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+tyamgin,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tyamgin,Characteristics of Rectangles,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+ft.azadi,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ft.azadi,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ft.azadi,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+shacha,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+shacha,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+shacha,Characteristics of Rectangles,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Slayer_,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Slayer_,Characteristics of Rectangles,1,D,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Simplex,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Simplex,Chips,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+malcolm,Secrets,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+malcolm,Characteristics of Rectangles,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+malcolm,Summer Earnings,0,E,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+buko,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+buko,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+buko,Characteristics of Rectangles,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+buko,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+E_Fantacy,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+E_Fantacy,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+ziki,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ziki,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+mlz000,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mlz000,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+UESTC_Nocturne,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+UESTC_Nocturne,Chips,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+UESTC_Nocturne,Characteristics of Rectangles,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+UESTC_Nocturne,Summer Earnings,1,E,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+DAle,Secrets,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+DAle,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DAle,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+136873448,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+136873448,Chips,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fenzhang,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+fenzhang,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+WildUtah,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+WildUtah,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+WildUtah,Summer Earnings,1,E,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+WildUtah,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+mayank99,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Monyura,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Monyura,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Monyura,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Monyura,Summer Earnings,1,E,0,0,0,0,0,2,0,3,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+Monyura,Lucky Tickets,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+MrDindows,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+MrDindows,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MrDindows,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+kuviman,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kuviman,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kuviman,Characteristics of Rectangles,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+crx,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+crx,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+crx,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+jablko,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jablko,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+jablko,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+SourSpinach,Secrets,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+SourSpinach,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+SourSpinach,Summer Earnings,1,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+poopi,Secrets,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+poopi,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+poopi,Characteristics of Rectangles,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+poopi,Summer Earnings,1,E,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+ichyo,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ichyo,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+qwaker.00,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+qwaker.00,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+qwaker.00,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+izban,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+izban,Chips,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+izban,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+yosupo,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yosupo,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yosupo,Characteristics of Rectangles,1,D,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+mruxim,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mruxim,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+mruxim,Characteristics of Rectangles,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Milanin,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Milanin,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Milanin,Lucky Tickets,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+Milanin,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Milanin,Summer Earnings,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+Anarivu,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Anarivu,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Anarivu,Summer Earnings,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+pnomarev,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+pnomarev,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+No_stop,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+No_stop,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+No_stop,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+kAc,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kAc,Characteristics of Rectangles,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+kAc,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kAc,Summer Earnings,1,E,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+Serenade,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Serenade,Chips,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+pulkitg10,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+pulkitg10,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+pulkitg10,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+ruptins,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ruptins,Chips,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+ruptins,Characteristics of Rectangles,1,D,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+huzecong,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+huzecong,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+huzecong,Characteristics of Rectangles,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+sy2006,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sy2006,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sy2006,Summer Earnings,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+sy2006,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+sequence,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sequence,Chips,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+yubowenok,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+yubowenok,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+yubowenok,Lucky Tickets,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+Hujiwara,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hujiwara,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hujiwara,Lucky Tickets,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+Hujiwara,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+hanfei19910905,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hanfei19910905,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hanfei19910905,Characteristics of Rectangles,1,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+BSBandme,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+BSBandme,Chips,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+BSBandme,Characteristics of Rectangles,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+liympanda,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+liympanda,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+liympanda,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+liympanda,Summer Earnings,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+darkshadows,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+darkshadows,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+shine_yin520,Secrets,0,A,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+shine_yin520,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+TankEngineer,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+TankEngineer,Chips,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+TankEngineer,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+TankEngineer,Summer Earnings,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+GagGuy,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+GagGuy,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+GagGuy,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+GagGuy,Summer Earnings,1,E,0,0,0,0,0,1,0,2,0,0,0,0,0,0,2,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+v.haralampiev,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+v.haralampiev,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+v.haralampiev,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+frp,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+frp,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Fefer_Ivan,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Fefer_Ivan,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Fefer_Ivan,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Fefer_Ivan,Summer Earnings,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+marat.snowbear,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+marat.snowbear,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Omelyanenko,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Omelyanenko,Chips,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+Omelyanenko,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+ILoveftiasch,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ILoveftiasch,Chips,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+ILoveftiasch,Characteristics of Rectangles,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+mmaxio,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mmaxio,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mmaxio,Characteristics of Rectangles,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+mmaxio,Summer Earnings,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+Nikitosh,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nikitosh,Chips,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nikitosh,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+muliguishou,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+muliguishou,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+muliguishou,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+lazylie,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lazylie,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+lazylie,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Revain,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Revain,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+dreamyyou,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+dreamyyou,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dawidp,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dawidp,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Dembel,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dembel,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dembel,Summer Earnings,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+ai00,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ai00,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ai00,Characteristics of Rectangles,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+ZloyNegr,Secrets,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+ZloyNegr,Chips,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+iTwin,Secrets,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+iTwin,Chips,0,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+iTwin,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+profit,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+profit,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+profit,Characteristics of Rectangles,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+profit,Summer Earnings,1,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+DamianS,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DamianS,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DamianS,Characteristics of Rectangles,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+DamianS,Summer Earnings,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+qinhang3,Secrets,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+qinhang3,Chips,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Neil,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Neil,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Neil,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+alexeykuzmin0,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alexeykuzmin0,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+1nikhil9,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+1nikhil9,Chips,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+feyat,Secrets,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+feyat,Chips,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+feyat,Characteristics of Rectangles,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+evima,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+evima,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+evima,Characteristics of Rectangles,1,D,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+nrg3,Secrets,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+nrg3,Chips,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+windhunterSB,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+windhunterSB,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+windhunterSB,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+windhunterSB,Summer Earnings,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+Sfairat,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sfairat,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sfairat,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Sfairat,Summer Earnings,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+Reshetnikov_Ivan,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Reshetnikov_Ivan,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Reshetnikov_Ivan,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+impetus,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+impetus,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+impetus,Summer Earnings,1,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+1106100116,Secrets,1,A,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,greedy
+yutaka1999,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+yutaka1999,Chips,1,B,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+Swistakk,Secrets,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Swistakk,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Swistakk,Characteristics of Rectangles,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Swistakk,Summer Earnings,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+tzupengwang,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tzupengwang,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+tzupengwang,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tzupengwang,Summer Earnings,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+mrunique.01,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+savlik5,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+savlik5,Lucky Tickets,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+savlik5,Characteristics of Rectangles,0,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+ryz,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ryz,Chips,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+ryz,Characteristics of Rectangles,0,D,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+ryz,Summer Earnings,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+harun_gunaydin,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+harun_gunaydin,Chips,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gassa,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gassa,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gassa,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Gassa,Summer Earnings,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+gen,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+gen,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kennethsnow,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kennethsnow,Chips,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+kennethsnow,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+michal27,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+michal27,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+michal27,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+SergeyLazarev,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SergeyLazarev,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SergeyLazarev,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+ridowan007,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ridowan007,Chips,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+xyz111,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xyz111,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xyz111,Characteristics of Rectangles,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+xyz111,Summer Earnings,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+dj3500,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dj3500,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+dj3500,Characteristics of Rectangles,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+dj3500,Summer Earnings,1,E,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+aandrew,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+aandrew,Chips,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+aandrew,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+rares.buhai,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+rares.buhai,Chips,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+rares.buhai,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+rares.buhai,Summer Earnings,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+liouzhou_101,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+liouzhou_101,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+liouzhou_101,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+liouzhou_101,Summer Earnings,1,E,1,0,0,0,0,0,0,5,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+ahmed_aly,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ahmed_aly,Chips,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Beriand,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Beriand,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Beriand,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Vergissmeinnicht,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Vergissmeinnicht,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Vergissmeinnicht,Characteristics of Rectangles,1,D,1,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Vergissmeinnicht,Summer Earnings,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+Merlininice,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Merlininice,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,greedy
+edly02,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+edly02,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+edly02,Characteristics of Rectangles,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+lxyxynt,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lxyxynt,Chips,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+lxyxynt,Characteristics of Rectangles,1,D,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+alex-mercer,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alex-mercer,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+alex-mercer,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NALP,Secrets,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+NALP,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NALP,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+NALP,Summer Earnings,0,E,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+klamathix,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+klamathix,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+klamathix,Summer Earnings,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+HIR180,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+HIR180,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+lifeich1,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lifeich1,Chips,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+romanova,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+romanova,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sharph,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sharph,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rcx92,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+rcx92,Chips,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+rcx92,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+rcx92,Summer Earnings,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+sysy,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+sysy,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+becauseofyou,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+becauseofyou,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+becauseofyou,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+piloop,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+piloop,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+piloop,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+piloop,Lucky Tickets,0,C,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+ItsLastDay,Secrets,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+sameer47,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sameer47,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+sameer47,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+espr1t,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+espr1t,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+PERNEKHAN,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+PERNEKHAN,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+chavit,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+chavit,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+chavit,Characteristics of Rectangles,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+chavit,Summer Earnings,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+wcwswswws,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+wcwswswws,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+wcwswswws,Characteristics of Rectangles,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+wcwswswws,Summer Earnings,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+bookgetter,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+bookgetter,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+bookgetter,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Timer,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Timer,Summer Earnings,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+Timer,Characteristics of Rectangles,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+witua,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+witua,Chips,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+witua,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+I-juice,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+I-juice,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+I-juice,Summer Earnings,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+I-juice,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+xscape,Secrets,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+xscape,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+xscape,Characteristics of Rectangles,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+xscape,Lucky Tickets,0,C,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+s0en1it,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+s0en1it,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+s0en1it,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+moshiur,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+moshiur,Chips,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+moshiur,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Rubanenko,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Rubanenko,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Rubanenko,Characteristics of Rectangles,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Doc,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+Doc,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Doc,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+nurs,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+jonathanasdf,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jonathanasdf,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jonathanasdf,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+jonathanasdf,Summer Earnings,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+magicdlf,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+magicdlf,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+magicdlf,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+zhyang,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zhyang,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ShayanH,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ShayanH,Chips,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+ShayanH,Characteristics of Rectangles,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+ccdd4211,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ccdd4211,Chips,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+dingshu,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+dingshu,Chips,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+dingshu,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+E478,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+E478,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+OutSide,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+OmniLRenegadE,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+OmniLRenegadE,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+knightL,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+knightL,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+knightL,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+niyaznigmatul,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+niyaznigmatul,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+niyaznigmatul,Characteristics of Rectangles,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+niyaznigmatul,Summer Earnings,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+365050244,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,greedy
+365050244,Chips,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+hdu_flyingship,Secrets,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+hdu_flyingship,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Slovinsky,Secrets,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Slovinsky,Chips,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+gpac,Secrets,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+elshin,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+elshin,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+capythm,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+capythm,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Landertxu,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Landertxu,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Landertxu,Characteristics of Rectangles,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+baolaoban,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+baolaoban,Chips,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+baolaoban,Characteristics of Rectangles,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+AguL,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AguL,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+azlhust,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+azlhust,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+azlhust,Characteristics of Rectangles,0,D,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+123qws,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+123qws,Chips,1,B,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+123qws,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+916852,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+916852,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+916852,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+916852,Summer Earnings,0,E,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+this_isssssyy,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+this_isssssyy,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+this_isssssyy,Characteristics of Rectangles,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+zyh,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+zyh,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+mR.ilchi,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mR.ilchi,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+mR.ilchi,Chips,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+lydrainbowcat,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lydrainbowcat,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lydrainbowcat,Summer Earnings,1,E,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+lydrainbowcat,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+dasko1,Secrets,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+dasko1,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dasko1,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+dasko1,Summer Earnings,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+Affina,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Affina,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Affina,Lucky Tickets,1,C,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+ruban,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ruban,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ruban,Summer Earnings,1,E,0,0,0,1,0,5,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+ruban,Characteristics of Rectangles,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+NEIL74,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NEIL74,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+NEIL74,Characteristics of Rectangles,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+qph-Jeremy,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+qph-Jeremy,Chips,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+nakari1124,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nakari1124,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+__math,Secrets,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+__math,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+__math,Chips,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+nihalpi1,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+nihalpi1,Characteristics of Rectangles,1,D,0,0,0,1,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Jokser,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Jokser,Chips,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Jokser,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Jokser,Lucky Tickets,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+kuangbin,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kuangbin,Chips,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+kuangbin,Summer Earnings,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+Up1,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Up1,Chips,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Up1,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+lsmll,Secrets,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+lsmll,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+logicmachine,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+logicmachine,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+logicmachine,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+logicmachine,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+ccssqq112233,Secrets,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+ccssqq112233,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,greedy
+hs484,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+hs484,Chips,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+hs484,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Amirnasr,Secrets,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Amirnasr,Chips,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+Amirnasr,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+chipchip3412,Chips,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+chipchip3412,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+chipchip3412,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+chipchip3412,Summer Earnings,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+gongbaoa,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+gongbaoa,Chips,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+gongbaoa,Characteristics of Rectangles,1,D,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+yanjieru,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yanjieru,Characteristics of Rectangles,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+yanjieru,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yanjieru,Summer Earnings,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+plusplus7,Secrets,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+plusplus7,Chips,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+plusplus7,Summer Earnings,0,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+silver__bullet,Secrets,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+silver__bullet,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+NVAL,Secrets,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+NVAL,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+NVAL,Characteristics of Rectangles,1,D,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+hirosegolf,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hirosegolf,Lucky Tickets,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+hirosegolf,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+CA72,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+CA72,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+CA72,Characteristics of Rectangles,1,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+lzl65825,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+lzl65825,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+lzl65825,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+mzry1992,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mzry1992,Characteristics of Rectangles,0,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+mzry1992,Summer Earnings,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+mzry1992,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+i_love_daniel,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+i_love_daniel,Chips,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Muali,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Muali,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Muali,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+viv001,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+viv001,Chips,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+Algiz,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Algiz,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Algiz,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+dvdreddy,Secrets,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+dvdreddy,Chips,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+muslim,Secrets,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+alpc172,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alpc172,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dut200901102,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dut200901102,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+dut200901102,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dut200901102,Summer Earnings,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+dovegx,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dovegx,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dovegx,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+dovegx,Summer Earnings,0,E,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+shytangyuan,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+shytangyuan,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+shytangyuan,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+rprp2012,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rprp2012,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rprp2012,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Avitella,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Avitella,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Avitella,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Avitella,Summer Earnings,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+Cromel,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Cromel,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Cromel,Characteristics of Rectangles,1,D,0,0,0,1,0,1,0,4,0,0,0,0,0,2,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Cromel,Summer Earnings,0,E,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+ZEROm,Secrets,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+ZEROm,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ZEROm,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+yongheng5871,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yongheng5871,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+yongheng5871,Chips,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+yongheng5871,Summer Earnings,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+cxlove,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cxlove,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+gjh,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+gjh,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Olga24912,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Olga24912,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Olga24912,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+mengpq,Secrets,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+mengpq,Chips,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+mengpq,Characteristics of Rectangles,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+pragrame,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+pragrame,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AnnKats93,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AnnKats93,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AnnKats93,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+mrkorkai,Secrets,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+mrkorkai,Chips,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+tonkosi,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+tonkosi,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tonkosi,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+KarlisS,Secrets,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+KarlisS,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Williamacm,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Williamacm,Characteristics of Rectangles,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Williamacm,Summer Earnings,0,E,0,0,0,1,1,2,0,3,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+Williamacm,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NateRiverxkh,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NateRiverxkh,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NateRiverxkh,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+ikbal,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ikbal,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Eternal_Answer,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Eternal_Answer,Chips,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Eternal_Answer,Characteristics of Rectangles,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+wyest,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+wyest,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+chyx,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+chyx,Characteristics of Rectangles,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+chyx,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+bookcity_clock,Secrets,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+bookcity_clock,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+bookcity_clock,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+cchao,Secrets,1,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+cchao,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Skird,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Skird,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Skird,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+spentplaying,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+spentplaying,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+vinodreddy,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+vinodreddy,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Enchom,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Enchom,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Enchom,Chips,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+nfssdq,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nfssdq,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+nfssdq,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+limed,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+limed,Chips,1,B,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,greedy
+filo,Secrets,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+filo,Chips,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+vivalafun,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vivalafun,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+vivalafun,Summer Earnings,0,E,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+vivalafun,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+gh_ost,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+gh_ost,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Akhtyamov_Pavel,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Akhtyamov_Pavel,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Akhtyamov_Pavel,Characteristics of Rectangles,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+error202,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+error202,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+error202,Chips,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+error202,Summer Earnings,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+abczz,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+abczz,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Schullz,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Schullz,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+taorunz,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+taorunz,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+taorunz,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+killerdjo,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+killerdjo,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+killerdjo,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+maximkoval,Secrets,0,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+maximkoval,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+maximkoval,Characteristics of Rectangles,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+pedrosorio,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pedrosorio,Chips,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+pedrosorio,Characteristics of Rectangles,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+jys123,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jys123,Chips,1,B,1,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+indy256,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+indy256,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+indy256,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+akashin,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+akashin,Chips,0,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,greedy
+akashin,Characteristics of Rectangles,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+yxdb,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+yxdb,Chips,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+yxdb,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+yxdb,Summer Earnings,1,E,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+Logic_IU,Characteristics of Rectangles,0,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Logic_IU,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Logic_IU,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Logic_IU,Summer Earnings,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+clouilt,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+clouilt,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+praveen123,Secrets,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+praveen123,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+seanwu,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+seanwu,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+seanwu,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+seanwu,Summer Earnings,0,E,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+M.M.Z,Secrets,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+M.M.Z,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+wangyisong1996,Secrets,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+wangyisong1996,Chips,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+wangyisong1996,Summer Earnings,0,E,0,0,0,1,0,3,0,0,0,0,0,0,0,0,5,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+guille,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+guille,Characteristics of Rectangles,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+guille,Summer Earnings,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+guille,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sspa,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sspa,Characteristics of Rectangles,0,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+sspa,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sspa,Summer Earnings,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+haas,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+haas,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+haas,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+marcoskwkm,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+marcoskwkm,Chips,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+jupanul,Chips,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+jupanul,Secrets,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+dimatomp,Secrets,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+dimatomp,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+SpiritsUnite,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+phidnight,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+phidnight,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+phidnight,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+ddyyxx,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ddyyxx,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nobik_Glem,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nobik_Glem,Chips,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nobik_Glem,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Spooky,Secrets,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Spooky,Chips,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Korvin79,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Korvin79,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Korvin79,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+lawsonh,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lawsonh,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+data_h,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+data_h,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+data_h,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+data_h,Summer Earnings,0,E,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+JayYe,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+JayYe,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+JayYe,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+forest,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+forest,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+forest,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+wodesuck,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Goldbach,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+out_of_theblue,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+out_of_theblue,Chips,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+pawel.jasinski1986,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+pawel.jasinski1986,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pawel.jasinski1986,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+pawel.jasinski1986,Summer Earnings,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+wesuixi,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+wesuixi,Lucky Tickets,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+fajrinazis,Secrets,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+fajrinazis,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fengzlzl,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fengzlzl,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+fengzlzl,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+IgorS,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+IgorS,Chips,1,B,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Darsein,Secrets,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Darsein,Chips,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kianoosh,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kianoosh,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+horseleat,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+horseleat,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+horseleat,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+horseleat,Summer Earnings,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+CyberZHG,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+CyberZHG,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+CyberZHG,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+luyuncheng,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+luyuncheng,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+rongbin,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+rongbin,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+135678942570,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+135678942570,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+135678942570,Characteristics of Rectangles,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+akshatb,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+akshatb,Chips,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+blabla404,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+blabla404,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+dianbei,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dianbei,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,greedy
+dianbei,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+mareksom,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mareksom,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+mareksom,Lucky Tickets,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+Fatedayt,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Fatedayt,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Fatedayt,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+guizeyanhua,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+guizeyanhua,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+guizeyanhua,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+guizeyanhua,Summer Earnings,1,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+hlwt,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hlwt,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hlwt,Characteristics of Rectangles,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+sbasrik,Secrets,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+sbasrik,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+gtas5,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+gtas5,Characteristics of Rectangles,1,D,0,0,0,0,0,5,0,2,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+gtas5,Chips,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nanaya,Secrets,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nanaya,Chips,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hinidu,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+Hinidu,Chips,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hinidu,Characteristics of Rectangles,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+juver,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+juver,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+deepangupta91,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+deepangupta91,Chips,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ximera,Secrets,1,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ximera,Chips,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+climpet,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+climpet,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+climpet,Characteristics of Rectangles,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+ksjuchi,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+ksjuchi,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ksjuchi,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+qwdqkh1,Secrets,1,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kostyazz,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kostyazz,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dtalamas24,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+aayushchugh07,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sdq11111,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sdq11111,Chips,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+sdq11111,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+HorgH,Secrets,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+HorgH,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ilya.krokus,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ilya.krokus,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zhudhjen,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zhudhjen,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ishikado,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ishikado,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+chanming,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+chanming,Chips,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Zhiying,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Zhiying,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Zhiying,Characteristics of Rectangles,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Zhiying,Summer Earnings,1,E,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+IvanSol,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+IvanSol,Chips,1,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hachiikung,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hachiikung,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+wuhuajun,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+wuhuajun,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+xiaoke,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xiaoke,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xiaoke,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+kuailezhish,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kuailezhish,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+NickSerg,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+NickSerg,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SDU_Lucy,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SDU_Lucy,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+NlogN,Secrets,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+tomas.svab,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+tomas.svab,Chips,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+shef_2318,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+shef_2318,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shef_2318,Summer Earnings,1,E,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+alpc128,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,greedy
+alpc128,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+haxxpop,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+haxxpop,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+haxxpop,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+xrz199721,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xrz199721,Chips,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+Logvinov_Leon,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Logvinov_Leon,Characteristics of Rectangles,0,D,0,0,0,0,0,3,0,3,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Logvinov_Leon,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+eha,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+eha,Chips,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+eha,Summer Earnings,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+yimmon,Secrets,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+yimmon,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+zhusha,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zhusha,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+azneyes,Secrets,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+azneyes,Chips,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+pty,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pty,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pty,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+pty,Summer Earnings,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+pty,Lucky Tickets,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+gxnncrx1993,Secrets,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+gxnncrx1993,Chips,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+pershik,Secrets,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+pershik,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+pershik,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+fairylights,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+fairylights,Chips,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+soy_sauce,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+soy_sauce,Summer Earnings,0,E,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+soy_sauce,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+littleMine,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+littleMine,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+littleMine,Summer Earnings,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+alapshin,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alapshin,Chips,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+alapshin,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+jingo_gogogo,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jingo_gogogo,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Dianochka,Secrets,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dianochka,Chips,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Alien.kz,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Alien.kz,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Alien.kz,Lucky Tickets,1,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+Alien.kz,Summer Earnings,0,E,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+herstruboy,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+herstruboy,Chips,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+squarefk,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+squarefk,Chips,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+squarefk,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+squarefk,Summer Earnings,1,E,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+alpc115,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alpc115,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+hiukim,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hiukim,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+darius,Secrets,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+autotaker,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yefllower,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yefllower,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+yefllower,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+TheRaven,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+TheRaven,Chips,1,B,1,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nik_Storm_2010,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nik_Storm_2010,Chips,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+strongoier,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+strongoier,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+strongoier,Summer Earnings,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+discover.,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+discover.,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+cjrzh,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+cjrzh,Chips,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kaban-5,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kaban-5,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kaban-5,Summer Earnings,1,E,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+Shangke7788,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shangke7788,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shangke7788,Characteristics of Rectangles,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+qqwqert007,Secrets,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+qqwqert007,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nedragnez,Secrets,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+nedragnez,Chips,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+nedragnez,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Tranvick,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Tranvick,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+Tranvick,Characteristics of Rectangles,1,D,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Zarg,Secrets,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Zarg,Chips,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kira96,Secrets,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kira96,Chips,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+taurus123,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+taurus123,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+taurus123,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+takapt,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+takapt,Chips,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+lzsb,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+lzsb,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+lzsb,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+sigma425,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sigma425,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+c_loud26,Secrets,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+c_loud26,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+natsugiri,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+natsugiri,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mex-Mans,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mex-Mans,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mex-Mans,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Mex-Mans,Summer Earnings,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+nims11,Secrets,0,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+nims11,Chips,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+sdryapko,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sdryapko,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ealevel,Secrets,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+ealevel,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+abhineet08,Secrets,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+abhineet08,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+suanrong,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+suanrong,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+otero1991,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+otero1991,Chips,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+alpc164,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alpc164,Chips,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+alpc164,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+ralekseenkov,Secrets,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ralekseenkov,Chips,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+ralekseenkov,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+SeyedParsa,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SeyedParsa,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Shtrix,Secrets,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shtrix,Chips,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shtrix,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+nownikhil,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+nownikhil,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+BIT_silence,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+BIT_silence,Chips,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+BIT_silence,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+whd,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+whd,Chips,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+lost3030,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lost3030,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lost3030,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+ydc,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ydc,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ufo,Secrets,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+ufo,Characteristics of Rectangles,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+ufo,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ufo,Summer Earnings,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+max777alex,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+max777alex,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mark_Fan,Secrets,0,A,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,greedy
+nishu271,Secrets,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+nishu271,Chips,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+gdisastery,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+gdisastery,Chips,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+gdisastery,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+abdukodir,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+abdukodir,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+LGM,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+LGM,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+LGM,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+tiinthp,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+tiinthp,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tiinthp,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+tiinthp,Summer Earnings,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+HwangScornedAsianTeams,Secrets,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+HwangScornedAsianTeams,Chips,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+huicpc0328,Secrets,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+huicpc0328,Chips,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+dalex,Secrets,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+dalex,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+honghaijie,Secrets,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+IgorL,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+IgorL,Characteristics of Rectangles,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+chaos_king,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+201101050424,Secrets,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+3141592653ly,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+3111006139,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+3111006139,Chips,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+fushar,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+fushar,Characteristics of Rectangles,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+fushar,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fushar,Summer Earnings,1,E,0,0,0,0,0,2,0,5,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+LinKin,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+LinKin,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+LinKin,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+proVIDec,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+proVIDec,Chips,1,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,greedy
+ZeRoGerc,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ZeRoGerc,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+alpc104,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alpc104,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+alpc104,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+LoveZx,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+LoveZx,Chips,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+LoveZx,Characteristics of Rectangles,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+zetamoo,Secrets,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+zetamoo,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+zhj5chengfeng,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alpc105,Secrets,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alpc105,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ashwin1907,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ashwin1907,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ashwin1907,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+kyuridenamida,Secrets,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,greedy
+kyuridenamida,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Artoemius,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Artoemius,Chips,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+hytirt,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+hytirt,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dborgir,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dborgir,Chips,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ruki,Secrets,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+XiaoDan,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+XiaoDan,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+pakh,Secrets,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+pakh,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+pakh,Chips,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+gopdoly,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+gopdoly,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+zhzm,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zhzm,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mickeyandkaka,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mickeyandkaka,Chips,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+jingg.cxy,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jingg.cxy,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ufo_go,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ufo_go,Chips,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+DebutantGY,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DebutantGY,Summer Earnings,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+DebutantGY,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+LongTimeNoThin,Secrets,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+LongTimeNoThin,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+James,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+James,Characteristics of Rectangles,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+James,Summer Earnings,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+James,Secrets,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+SebiSebi,Secrets,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+SebiSebi,Chips,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+meteorcloudy,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+meteorcloudy,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sune2,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sune2,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sune2,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+nemomojie,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nemomojie,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nox,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nox,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+parina1,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+parina1,Chips,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+htc550605125,Secrets,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+htc550605125,Chips,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Choojae,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Choojae,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+wind,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+wind,Chips,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+shamir14,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+shamir14,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+alex_or,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+alex_or,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+alex_or,Characteristics of Rectangles,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+KevinTan,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+scottai1,Characteristics of Rectangles,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+scottai1,Summer Earnings,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+scottai1,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+phantom11,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+phantom11,Chips,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+lamphanviet,Secrets,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+lamphanviet,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+lamphanviet,Characteristics of Rectangles,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+dr.ikros,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dr.ikros,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Omar_Obeya,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Omar_Obeya,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Omar_Obeya,Characteristics of Rectangles,1,D,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+dancho,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dancho,Characteristics of Rectangles,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+gridnevvvit,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+gridnevvvit,Chips,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+chm517,Secrets,1,A,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+chm517,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+udalov,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+udalov,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+udalov,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+OS2012,Secrets,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+OS2012,Chips,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+343649190,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+343649190,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NSV,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NSV,Chips,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+DotACM,Secrets,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+DotACM,Chips,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+DotACM,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Desert,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Desert,Chips,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+night10101,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+night10101,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+doubleH,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+doubleH,Chips,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,greedy
+Goooly,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Goooly,Chips,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+DmitriyH,Secrets,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+DmitriyH,Chips,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+DmitriyH,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+wgh,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+wgh,Chips,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ekaing,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ekaing,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+permin,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+permin,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+permin,Secrets,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+M0sTik,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+M0sTik,Chips,1,B,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+For_the_Love,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+For_the_Love,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+For_the_Love,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+MAXX,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MAXX,Chips,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+firmsnail,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+firmsnail,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+penhuforever,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+penhuforever,Chips,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+xing89gs,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,greedy
+xing89gs,Chips,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+yejinru,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yejinru,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+pineapple,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+pineapple,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hama-du,Chips,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+purplest,Secrets,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+SkyFire,Summer Earnings,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+SkyFire,Secrets,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+SkyFire,Chips,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+lxgsbqylbk,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+lxgsbqylbk,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+lxgsbqylbk,Chips,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shapo,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Shapo,Chips,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shapo,Secrets,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shapo,Summer Earnings,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+kawazaki,Characteristics of Rectangles,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+kawazaki,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+nineright,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nineright,Chips,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+seryp,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+seryp,Secrets,1,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+omegaga,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+omegaga,Chips,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+wo_,Characteristics of Rectangles,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+wo_,Secrets,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+wo_,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+snuke,Characteristics of Rectangles,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+snuke,Lucky Tickets,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+skyvn97,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+skyvn97,Chips,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+S.Yesipenko,Characteristics of Rectangles,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+S.Yesipenko,Chips,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+S.Yesipenko,Summer Earnings,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+S.Yesipenko,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+krijgertje,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+krijgertje,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+adurysk,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+tunyash,Characteristics of Rectangles,0,D,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+tunyash,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tunyash,Chips,1,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tunyash,Lucky Tickets,1,C,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms"
+grey_wind,Chips,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+Totktonada,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Totktonada,Summer Earnings,1,E,0,0,0,0,0,3,0,4,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,geometry,sortings"
+Totktonada,Chips,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sasha.sochka,Chips,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+sasha.sochka,Secrets,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+goooooooopan,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+goooooooopan,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+goooooooopan,Characteristics of Rectangles,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+R6044,Secrets,0,A,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+dongockhanh1997,Secrets,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dongockhanh1997,Chips,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Azat_Yusupov,Secrets,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Azat_Yusupov,Chips,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+pllk,Characteristics of Rectangles,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+pllk,Chips,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pllk,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sn23581,Chips,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sn23581,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pkqs90,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Azras,Characteristics of Rectangles,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+Azras,Secrets,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mihaipopa12,Characteristics of Rectangles,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"
+mihaipopa12,Secrets,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+lxc,Secrets,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+lxc,Chips,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+devilqxect,Secrets,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+devilqxect,Chips,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+S7012MY,Secrets,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hamition,Characteristics of Rectangles,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,bitmasks,brute force,implementation,sortings"

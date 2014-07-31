@@ -1,0 +1,746 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+SyFy,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+SyFy,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+SyFy,Flea,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+SyFy,Constellation,0,D,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+fcspartakm,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+fcspartakm,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+fcspartakm,Flea,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fcspartakm,Constellation,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+FunnyWarp,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+FunnyWarp,Constellation,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+FunnyWarp,Flea,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+FunnyWarp,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+FunnyWarp,Hide-and-Seek,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+alive,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+alive,Borze,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+alive,Flea,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+alive,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alive,Hide-and-Seek,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+Serj95,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Serj95,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Serj95,Flea,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Serj95,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Veldrin,Reconnaissance,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Veldrin,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Veldrin,Constellation,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Veldrin,Flea,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+amit5148,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+amit5148,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+amit5148,Flea,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+amit5148,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+JasakovArtem,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+JasakovArtem,Borze,0,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+JasakovArtem,Flea,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+JasakovArtem,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PML,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+PML,Borze,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+PML,Flea,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+PML,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tahlil,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Tahlil,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Tahlil,Flea,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+xingh.dll,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+xingh.dll,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+xingh.dll,Flea,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+xingh.dll,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xingh.dll,Hide-and-Seek,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+Xerxes,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Xerxes,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Salat,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Salat,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Salat,Flea,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,math
+Salat,Constellation,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+DevendraPratap,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+DevendraPratap,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+DevendraPratap,Constellation,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DevendraPratap,Flea,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+itchyny,Reconnaissance,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+itchyny,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+itchyny,Constellation,1,D,0,0,0,0,0,2,2,0,0,0,0,0,0,1,0,0,0,implementation
+itchyny,Flea,0,C,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,math
+xiaoziqian,Reconnaissance,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+xiaoziqian,Borze,0,B,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+xiaoziqian,Flea,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+xiaoziqian,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xiaoziqian,Hide-and-Seek,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+dacorleane,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+dacorleane,Borze,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+dacorleane,Flea,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+dacorleane,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Scalar,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+Scalar,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Scalar,Flea,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Scalar,Constellation,1,D,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,implementation
+3ijunle,Reconnaissance,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+3ijunle,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+3ijunle,Flea,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+3ijunle,Constellation,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+untitled01,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+untitled01,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+untitled01,Flea,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+untitled01,Hide-and-Seek,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+unrated,Reconnaissance,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+unrated,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+jzjsuper,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+jzjsuper,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+jzjsuper,Flea,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+a4461496,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+a4461496,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+a4461496,Flea,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+a4461496,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+anuar_721,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+anuar_721,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+anuar_721,Flea,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+anuar_721,Constellation,0,D,0,0,0,2,0,3,0,1,1,0,0,0,0,0,0,0,0,implementation
+MaDFaN,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+MaDFaN,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+MaDFaN,Flea,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+MaDFaN,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+stoundmire,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+stoundmire,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+stoundmire,Flea,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,math
+stoundmire,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aman,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Aman,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Aman,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vermapratyush,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+vermapratyush,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+vermapratyush,Constellation,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+Khaled91,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Khaled91,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Khaled91,Constellation,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Khaled91,Flea,1,C,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+trukanduk,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+trukanduk,Borze,1,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+trukanduk,Constellation,1,D,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+shalinmangar,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+shalinmangar,Borze,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+mihaildemidoff,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mihaildemidoff,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+mihaildemidoff,Flea,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,math
+mihaildemidoff,Constellation,0,D,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+fura,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+fura,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+fura,Constellation,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fura,Flea,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+baotiao,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+baotiao,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+baotiao,Constellation,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+baotiao,Flea,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Parhomets,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Parhomets,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Parhomets,Flea,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Parhomets,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Diabolic,Reconnaissance,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Diabolic,Borze,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Diabolic,Flea,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+zt5840,Reconnaissance,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+zt5840,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+zt5840,Constellation,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zt5840,Flea,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sandro_barna,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sandro_barna,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+sandro_barna,Flea,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sandro_barna,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kilotaras,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+kilotaras,Borze,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+kilotaras,Flea,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+devils13,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+devils13,Borze,0,B,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,"expression parsing,implementation"
+devils13,Constellation,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+SavchukAM,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+SavchukAM,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+SavchukAM,Flea,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+SavchukAM,Constellation,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+komron_hkl,Reconnaissance,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+komron_hkl,Borze,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+plokzfadai1,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+plokzfadai1,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+plokzfadai1,Flea,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+plokzfadai1,Constellation,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sosi,Reconnaissance,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Sosi,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Sosi,Flea,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Sosi,Constellation,1,D,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kinaki,Reconnaissance,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+kinaki,Borze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+kinaki,Constellation,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kh.Madi,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Kh.Madi,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Kh.Madi,Constellation,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kh.Madi,Flea,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+nekto,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+nekto,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+nekto,Flea,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+nekto,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+duancanchao,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+duancanchao,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+duancanchao,Flea,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+duancanchao,Constellation,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+evlutsenko,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+evlutsenko,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+evlutsenko,Flea,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+M0sTik,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+M0sTik,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+M0sTik,Constellation,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+M0sTik,Flea,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+zrp,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,brute force
+zrp,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+zrp,Flea,0,C,1,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,math
+zrp,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ershad,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ershad,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ershad,Flea,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+alpc20,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+alpc20,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+alpc20,Constellation,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+alpc20,Flea,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+adel_gilmullin,Reconnaissance,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+adel_gilmullin,Borze,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+adel_gilmullin,Flea,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+hhgff,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+hhgff,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+hhgff,Constellation,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hhgff,Hide-and-Seek,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+Cris,Reconnaissance,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Cris,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Cris,Flea,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Cris,Constellation,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+introduction,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+introduction,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+introduction,Flea,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+introduction,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gantz,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Gantz,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Gantz,Flea,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Gantz,Constellation,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+saferif,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+saferif,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+saferif,Constellation,1,D,1,0,0,0,1,4,1,0,0,0,0,0,0,0,0,0,0,implementation
+JamesTaggart,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+JamesTaggart,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+JamesTaggart,Flea,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+JamesTaggart,Constellation,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zpl1,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+zpl1,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+zpl1,Flea,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zpl1,Constellation,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zpl1,Hide-and-Seek,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+meparter,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+meparter,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+meparter,Flea,1,C,1,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+magdi,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+magdi,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+magdi,Constellation,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+aslan95,Reconnaissance,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+aslan95,Borze,1,B,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+PER,Reconnaissance,0,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,brute force
+PER,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+PER,Constellation,1,D,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+PER,Flea,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+tohuuquan,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+tohuuquan,Borze,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+tohuuquan,Flea,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+tohuuquan,Constellation,1,D,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+thinkers,Reconnaissance,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+thinkers,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+thinkers,Flea,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+thinkers,Constellation,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+thinkers,Hide-and-Seek,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+15211243642,Reconnaissance,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+15211243642,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+15211243642,Hide-and-Seek,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+discover,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+discover,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+discover,Flea,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+discover,Constellation,0,D,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,implementation
+Cheburashka,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Cheburashka,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Cheburashka,Flea,1,C,0,0,0,1,0,10,0,2,0,0,0,0,0,0,0,0,0,math
+862277164,Reconnaissance,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+862277164,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+862277164,Flea,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+862277164,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+862277164,Hide-and-Seek,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+harrymwz,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+harrymwz,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+harrymwz,Flea,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+harrymwz,Constellation,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+nima101,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+nima101,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+nima101,Flea,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+nima101,Constellation,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+nima101,Hide-and-Seek,0,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+ErzhanDS,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ErzhanDS,Borze,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,implementation"
+zhasikz,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+zhasikz,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+zhasikz,Flea,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+zhasikz,Constellation,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rei,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Rei,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Rei,Flea,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Rei,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+taruta,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+taruta,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+taruta,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jaey,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+jaey,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+coproizvedenie,Reconnaissance,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+coproizvedenie,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+coproizvedenie,Flea,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+coproizvedenie,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mikluxo,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mikluxo,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+mikluxo,Flea,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+towelenee,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+towelenee,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+towelenee,Flea,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+towelenee,Constellation,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shilcare,Reconnaissance,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,brute force
+shilcare,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,implementation"
+shilcare,Flea,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+teams2ua,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+teams2ua,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+teams2ua,Flea,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+teams2ua,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AHdoc,Reconnaissance,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+AHdoc,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+AHdoc,Flea,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+AHdoc,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Saif,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Saif,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Saif,Constellation,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+urutom,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+urutom,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+urutom,Flea,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+GDR,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+GDR,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+GDR,Constellation,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+GDR,Flea,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+xiongli,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+xiongli,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+xiongli,Flea,1,C,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,math
+siteshshrivastava,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+siteshshrivastava,Borze,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+siteshshrivastava,Constellation,1,D,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+HwangScornedAsianTeams,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+HwangScornedAsianTeams,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+HwangScornedAsianTeams,Flea,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Shiho,Reconnaissance,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Shiho,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Shiho,Flea,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Shiho,Constellation,1,D,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+TALGAT,Reconnaissance,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+TALGAT,Borze,1,B,1,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+TALGAT,Flea,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+anohovsky,Reconnaissance,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+anohovsky,Flea,0,C,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,math
+anohovsky,Borze,1,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+anohovsky,Constellation,1,D,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,implementation
+zafar_sust_bd,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+zafar_sust_bd,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+zafar_sust_bd,Constellation,1,D,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,implementation
+vipul_iiita,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+vipul_iiita,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+vipul_iiita,Flea,0,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,math
+vipul_iiita,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+glukin,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+glukin,Borze,1,B,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"expression parsing,implementation"
+glukin,Hide-and-Seek,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+8888,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+8888,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+8888,Flea,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+8888,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+delta_4d,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+delta_4d,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+delta_4d,Flea,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+delta_4d,Constellation,1,D,1,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,implementation
+Akasha,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Akasha,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Akasha,Flea,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Akasha,Constellation,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Akasha,Hide-and-Seek,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+shou,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+shou,Borze,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+shou,Flea,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+kiyoshi,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+kiyoshi,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+kiyoshi,Flea,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kiyoshi,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Olexiy,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Olexiy,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Olexiy,Flea,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Olexiy,Constellation,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+crazydiv,Reconnaissance,0,A,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+actian,Reconnaissance,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+actian,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+actian,Flea,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+actian,Constellation,1,D,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+actian,Hide-and-Seek,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"geometry,implementation"
+ForteXX,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ForteXX,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ForteXX,Flea,1,C,0,0,0,1,0,0,2,0,0,0,0,0,0,1,0,0,0,math
+nayimsust,Reconnaissance,0,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,brute force
+nayimsust,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+fookwood,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+fookwood,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,implementation"
+fookwood,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ilsaf13,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ilsaf13,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ilsaf13,Flea,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ilsaf13,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+route150,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+route150,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+route150,Flea,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+route150,Constellation,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Renderhp,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Renderhp,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,implementation"
+Renderhp,Flea,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+Renderhp,Constellation,0,D,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+rafilia,Reconnaissance,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+rafilia,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+rafilia,Constellation,1,D,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+paulocezar,Reconnaissance,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+paulocezar,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+paulocezar,Constellation,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+paulocezar,Flea,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+TheNewOne,Reconnaissance,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+TheNewOne,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+TheNewOne,Flea,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+TheNewOne,Constellation,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shnell,Reconnaissance,0,A,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+shnell,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"expression parsing,implementation"
+shnell,Constellation,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+HeVy,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+HeVy,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+HeVy,Flea,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+HeVy,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruban,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ruban,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ruban,Flea,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+ruban,Constellation,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fkysly,Reconnaissance,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+fkysly,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+fkysly,Constellation,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+guestonearth,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+guestonearth,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+guestonearth,Flea,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+matrix_sust,Reconnaissance,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+matrix_sust,Borze,1,B,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+matrix_sust,Constellation,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+leito,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+leito,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Eather,Reconnaissance,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+lonelyprog,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+lonelyprog,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,implementation"
+lonelyprog,Flea,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,math
+hnu0314,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+hnu0314,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+hnu0314,Flea,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,math
+shilov,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+shilov,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+shilov,Flea,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+shilov,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhanadil,Reconnaissance,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Zhanadil,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+sourav_22,Reconnaissance,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+sourav_22,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+yuyak,Reconnaissance,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+yuyak,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+regmar,Reconnaissance,0,A,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+regmar,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+regmar,Flea,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+jarin,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+jarin,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Opu,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Opu,Borze,1,B,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Kreator,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Kreator,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+sementry,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sementry,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+sementry,Flea,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sementry,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+XAKEPOB,Borze,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+makoto,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+makoto,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+almaz_kh,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+almaz_kh,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+almaz_kh,Constellation,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ckl,Reconnaissance,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+ckl,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,implementation"
+elen.merethlot,Reconnaissance,0,A,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+elen.merethlot,Borze,0,B,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+elen.merethlot,Flea,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+gourav.bit,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+gourav.bit,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+gourav.bit,Flea,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+gourav.bit,Constellation,0,D,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+a286729485,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+a286729485,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+a286729485,Flea,0,C,1,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,math
+a286729485,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alpc32,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+alpc32,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+alpc32,Flea,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+alpc32,Constellation,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+akshayk0406,Reconnaissance,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+akshayk0406,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+akshayk0406,Hide-and-Seek,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+mahfuz,Reconnaissance,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mahfuz,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+mahfuz,Constellation,1,D,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,implementation
+kemichar,Reconnaissance,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+kemichar,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+kemichar,Flea,1,C,0,0,0,1,0,4,0,0,0,0,0,0,0,1,0,0,0,math
+ishandutta2007,Reconnaissance,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+ishandutta2007,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+yasith,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+yasith,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+dujun,Reconnaissance,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dujun,Borze,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+dujun,Flea,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+dujun,Hide-and-Seek,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+dizpers,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dizpers,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+dizpers,Flea,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Shidfar,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Shidfar,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+mahamudsust,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mahamudsust,Borze,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+aleksandr_gusarov,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+aleksandr_gusarov,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+aleksandr_gusarov,Flea,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+gmtranthanhtu,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+gmtranthanhtu,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+gmtranthanhtu,Constellation,1,D,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,implementation
+dronoff,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dronoff,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+vachme21,Reconnaissance,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Googly,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Googly,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Googly,Flea,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Googly,Constellation,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+prog.delphin,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+prog.delphin,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+prog.delphin,Constellation,1,D,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+User30000,Reconnaissance,1,A,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+User30000,Borze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+User30000,Flea,0,C,0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,math
+User30000,Constellation,0,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wangshaobiao,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+wangshaobiao,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+wangshaobiao,Flea,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Alexander-1709,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Alexander-1709,Constellation,0,D,0,0,0,1,0,12,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alexander-1709,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Maksat,Reconnaissance,0,A,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+Maksat,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+20092100003,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+20092100003,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+20092100003,Flea,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Diman_yoyo,Reconnaissance,1,A,1,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,brute force
+Diman_yoyo,Borze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,implementation"
+Diman_yoyo,Constellation,0,D,0,0,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,implementation
+dulat,Reconnaissance,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+dulat,Borze,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+dulat,Constellation,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+dulat,Flea,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+mfkhr,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mfkhr,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+mfkhr,Flea,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+chitose,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+chitose,Borze,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+chitose,Constellation,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+chitose,Flea,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+dr.madis,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dr.madis,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+dr.madis,Flea,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+Dener,Flea,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Dener,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Dener,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Dener,Constellation,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dener,Hide-and-Seek,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+sandygupta,Reconnaissance,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+just_alisher,Reconnaissance,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+just_alisher,Borze,1,B,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+manukranthk,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+manukranthk,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+manukranthk,Flea,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+manukranthk,Constellation,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+b529312,Reconnaissance,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,brute force
+b529312,Borze,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+b529312,Flea,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+b529312,Constellation,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+b529312,Hide-and-Seek,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+akutrjplus,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+akutrjplus,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+akutrjplus,Flea,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+akutrjplus,Constellation,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Simeon,Reconnaissance,0,A,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Simeon,Borze,1,B,1,0,0,0,0,4,0,0,0,1,0,0,0,1,0,0,0,"expression parsing,implementation"
+Simeon,Constellation,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+babak,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+babak,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+babak,Flea,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+babak,Constellation,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+hemant_baid,Reconnaissance,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+hemant_baid,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+CodeZealot,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+CodeZealot,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+aknur94,Reconnaissance,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+aknur94,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+aknur94,Flea,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+muslim,Reconnaissance,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+muslim,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+muslim,Flea,1,C,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,math
+heike567,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+heike567,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+heike567,Flea,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+serg_pet,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+serg_pet,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+serg_pet,Flea,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+serg_pet,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+2nikita_b,Reconnaissance,0,A,1,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,brute force
+2nikita_b,Borze,1,B,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+A_wu,Reconnaissance,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+A_wu,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+A_wu,Constellation,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ray_sun,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ray_sun,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ray_sun,Flea,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ray_sun,Constellation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rookie,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+rookie,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+A_rustam_rustam,Reconnaissance,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+A_rustam_rustam,Borze,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+berden,Reconnaissance,0,A,0,0,0,2,0,3,3,0,0,0,0,0,0,0,0,0,0,brute force
+piro1996,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+piro1996,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+piro1996,Flea,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+mfbubt,Borze,1,B,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+luoyan87,Reconnaissance,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+leha_raketa96,Reconnaissance,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+leha_raketa96,Borze,1,B,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+donkeyincf,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+donkeyincf,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+donkeyincf,Flea,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+donkeyincf,Constellation,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Damir,Reconnaissance,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Damir,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Damir,Flea,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+nguyenhhien,Reconnaissance,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+nguyenhhien,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+nguyenhhien,Flea,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+nguyenhhien,Constellation,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+20081121113,Reconnaissance,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+20081121113,Borze,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+xakli,Reconnaissance,0,A,1,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+xakli,Borze,1,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+shuklaravi,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+shuklaravi,Borze,1,B,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Anka,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Anka,Borze,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Anka,Flea,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,math
+asif_iut,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+asif_iut,Reconnaissance,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+asif_iut,Flea,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+riki,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+riki,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+CaveMan,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+CaveMan,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+BenderRodriges,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+BenderRodriges,Borze,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,"expression parsing,implementation"
+BenderRodriges,Constellation,1,D,0,0,0,0,0,6,0,0,0,4,0,0,0,0,0,0,0,implementation
+BenderRodriges,Flea,0,C,0,0,0,0,0,1,0,0,0,4,0,0,0,0,0,0,0,math
+satoshii,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+satoshii,Constellation,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+satoshii,Reconnaissance,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+NoobOK,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+NoobOK,Borze,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,"expression parsing,implementation"
+NoobOK,Flea,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+NoobOK,Constellation,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Anurag,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Anurag,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+4ybakut2004,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,brute force
+4ybakut2004,Borze,1,B,1,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,"expression parsing,implementation"
+4ybakut2004,Constellation,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexandrushka,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+alexandrushka,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Y_Y,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Y_Y,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Grim,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Grim,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+PAG,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+PAG,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+PAG,Flea,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+PAG,Hide-and-Seek,1,E,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+tanitanin,Reconnaissance,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+tanitanin,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+tanitanin,Flea,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+tanitanin,Constellation,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+natali_solovyeva,Reconnaissance,0,A,1,0,0,2,11,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+natali_solovyeva,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Irkovskaya_Vika,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Irkovskaya_Vika,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Irkovskaya_Vika,Flea,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Algorithm,Reconnaissance,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Algorithm,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ko_timur,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ko_timur,Borze,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ko_timur,Flea,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Hamrazhan,Reconnaissance,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+M03G11,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+M03G11,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+master_j,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+master_j,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+master_j,Constellation,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ViktorM,Flea,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ViktorM,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ViktorM,Reconnaissance,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+hot.surnuk,Borze,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+hot.surnuk,Reconnaissance,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+hot.surnuk,Flea,1,C,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,math
+ucq,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ucq,Reconnaissance,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+qinpengfei,Reconnaissance,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+qinpengfei,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+qinpengfei,Constellation,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+noname,Reconnaissance,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+lavkush,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+lavkush,Borze,1,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Pich,Reconnaissance,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Pich,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+BugKay,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+BugKay,Borze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+BugKay,Flea,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+kassyi,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,implementation"
+fido,Reconnaissance,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+fido,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+jjchat,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+jjchat,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+jjchat,Flea,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+polovichok,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+polovichok,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+U_E_D,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+U_E_D,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+LesyaPhoenix,Reconnaissance,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+LesyaPhoenix,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Alibek,Reconnaissance,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Alibek,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+lolik,Reconnaissance,1,A,1,0,0,2,2,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+lolik,Flea,1,C,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,math
+max777alex,Reconnaissance,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+manjunath426jc,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+manjunath426jc,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+7ruslan1,Reconnaissance,0,A,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,brute force
+Ren,Reconnaissance,0,A,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,brute force
+Ren,Borze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+im_dias,Reconnaissance,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+im_dias,Flea,0,C,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,math
+egorkz,Reconnaissance,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+egorkz,Flea,1,C,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,math
+BamX,Reconnaissance,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+kenny59,Reconnaissance,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+kenny59,Borze,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"

@@ -1,0 +1,1166 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+Mex-Mans,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Mex-Mans,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Ignorance,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Ignorance,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Ignorance,Email address,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Ignorance,Pawn,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Ignorance,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+Perlik,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Perlik,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Perlik,Email address,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+cauchyk,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+cauchyk,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+cauchyk,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+cauchyk,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+diogen,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+diogen,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+diogen,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+diogen,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+kyuridenamida,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kyuridenamida,Martian Dollar,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+kyuridenamida,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+kyuridenamida,3-cycles,1,E,0,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+sygi,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+sygi,Martian Dollar,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+sygi,Email address,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+sygi,Pawn,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sygi,3-cycles,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+daizhenyang,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+daizhenyang,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+daizhenyang,Email address,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+daizhenyang,Pawn,0,D,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,dp
+daizhenyang,3-cycles,1,E,1,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+Fedya,Translation,0,A,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Fedya,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+filipbitola,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,strings"
+filipbitola,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+filipbitola,Email address,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+filipbitola,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+ltaravilse,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ltaravilse,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ltaravilse,Email address,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,implementation"
+ltaravilse,Pawn,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Mikes,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Mikes,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Mikes,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Mikes,Pawn,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,dp
+Mikes,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+bubnov,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+bubnov,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+bubnov,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+bubnov,Pawn,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,1,1,0,0,dp
+Hapuk,Translation,1,A,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Salat,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Salat,Martian Dollar,0,B,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,brute force
+Salat,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,implementation"
+Salat,Pawn,1,D,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,dp
+asif_iut,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+asif_iut,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+asif_iut,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+asif_iut,Pawn,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+amit.codename13,Translation,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+amit.codename13,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+amit.codename13,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+amit.codename13,Pawn,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+valikluks1995,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+valikluks1995,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+valikluks1995,Email address,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Brinzman,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Brinzman,Martian Dollar,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Brinzman,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Brinzman,Pawn,0,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Brinzman,3-cycles,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+nab,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+nab,Email address,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+nab,3-cycles,1,E,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+nab,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+nab,Pawn,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Obaida,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Obaida,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Obaida,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+BIV,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+BIV,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+BIV,Email address,1,C,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+nicola,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+nicola,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+nicola,Martian Dollar,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+nicola,3-cycles,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+winterflame,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+winterflame,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+winterflame,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Iain,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Iain,Martian Dollar,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Iain,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+komiya,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+komiya,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+komiya,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+komiya,Pawn,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+komiya,3-cycles,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+AlexDmitriev,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+AlexDmitriev,Email address,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+AlexDmitriev,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+peety12,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+peety12,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+peety12,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Xerxes,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Xerxes,Martian Dollar,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Xerxes,Email address,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Xerxes,Pawn,1,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+SyFy,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+SyFy,Martian Dollar,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+SyFy,3-cycles,1,E,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+pva701,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+pva701,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+pva701,Email address,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+pva701,Pawn,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+ondrah,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ondrah,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+ondrah,Email address,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ondrah,Pawn,0,D,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,dp
+ondrah,3-cycles,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+AVoz,Translation,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+AVoz,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+AVoz,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+AVoz,3-cycles,1,E,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+Warxezz,Translation,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Warxezz,Martian Dollar,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,brute force
+Warxezz,Email address,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Warxezz,Pawn,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+hjr265,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+hjr265,Email address,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+hjr265,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Tahlil,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Tahlil,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Tahlil,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Tahlil,3-cycles,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+MeHdi.KaZemI8,Translation,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+MeHdi.KaZemI8,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+MeHdi.KaZemI8,Martian Dollar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+unrated,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+unrated,Martian Dollar,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+unrated,Email address,1,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ViruZ,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ViruZ,Martian Dollar,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,brute force
+ViruZ,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ViruZ,Pawn,1,D,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,dp
+borisgrubic,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+borisgrubic,Martian Dollar,0,B,1,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+borisgrubic,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+borisgrubic,Pawn,0,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+borisgrubic,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+ridowan007,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ridowan007,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ridowan007,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+evader,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+evader,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+evader,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+evader,Pawn,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+kokorochi,Translation,1,A,1,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+kokorochi,Martian Dollar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,brute force
+kokorochi,Email address,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Surogatov_S,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Surogatov_S,Pawn,0,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+Surogatov_S,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Surogatov_S,3-cycles,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,graphs,greedy"
+Surogatov_S,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Konstantin,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Konstantin,Martian Dollar,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Konstantin,Email address,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Konstantin,Pawn,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+Konstantin,3-cycles,1,E,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+dronoff,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+dronoff,Email address,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+dronoff,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+dronoff,3-cycles,0,E,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+Berzhik,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Berzhik,Martian Dollar,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+Berzhik,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Berzhik,3-cycles,1,E,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+Berzhik,Pawn,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+shevchen,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+shevchen,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+shevchen,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+shevchen,Pawn,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+shevchen,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+vipul_iiita,Translation,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+vipul_iiita,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+vipul_iiita,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Dremov,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Dremov,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Dremov,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Dremov,Pawn,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+wRabbits_AlMag,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+wRabbits_AlMag,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+wRabbits_AlMag,Email address,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+wRabbits_AlMag,Pawn,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+wRabbits_AlMag,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+m.sabouri,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+m.sabouri,Martian Dollar,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+m.sabouri,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Kpy,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Kpy,Martian Dollar,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+Kpy,Email address,1,C,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ahm.kam_92,Translation,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ahm.kam_92,Email address,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ahm.kam_92,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ahm.kam_92,Pawn,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Veldrin,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Veldrin,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Veldrin,Email address,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Veldrin,Pawn,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+Veldrin,3-cycles,0,E,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+BrightDays,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+BrightDays,Martian Dollar,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+BrightDays,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+BrightDays,3-cycles,1,E,1,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+akimonoiryou,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+akimonoiryou,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+akimonoiryou,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+sert314,Translation,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+sert314,Martian Dollar,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+sert314,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+satoshii,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+satoshii,Martian Dollar,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+satoshii,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+KOVROV_STA3,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+KOVROV_STA3,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+KOVROV_STA3,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+myltik,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+myltik,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+myltik,3-cycles,0,E,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+myltik,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+anshusaurav,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+anshusaurav,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+anshusaurav,Pawn,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+anshusaurav,Email address,0,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+nise_nabe,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+nise_nabe,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+nise_nabe,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+nise_nabe,Pawn,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+brdassign,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+brdassign,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+brdassign,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+brdassign,Pawn,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Suvorov,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,strings"
+Suvorov,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Suvorov,Email address,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Suvorov,Pawn,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+Akatsuki,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Akatsuki,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Akatsuki,Email address,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Akatsuki,Pawn,0,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Akatsuki,3-cycles,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+RDR,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+matsu4512,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+matsu4512,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+matsu4512,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+matsu4512,3-cycles,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+izhari,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+izhari,Email address,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+izhari,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Ralf,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Ralf,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Ralf,Email address,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Ralf,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+belltail,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,strings"
+belltail,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+belltail,Pawn,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+dancho,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+dancho,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dancho,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+dancho,Pawn,0,D,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,dp
+dancho,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+Choby,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Choby,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sydy,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+sydy,Email address,1,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+sydy,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+sydy,3-cycles,0,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+yasith,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+yasith,Martian Dollar,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+yasith,Email address,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+yasith,Pawn,0,D,0,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,dp
+taichi,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+taichi,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+betterbearat,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+betterbearat,Martian Dollar,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+betterbearat,Email address,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Dj_Antony,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Dj_Antony,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Dj_Antony,Pawn,0,D,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,0,dp
+Dj_Antony,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+htrinh,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+htrinh,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+htrinh,Pawn,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+htrinh,3-cycles,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+htrinh,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+masoud1459,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+masoud1459,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+masoud1459,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+tohuuquan,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+tohuuquan,Martian Dollar,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+tohuuquan,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+astrovsky,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+astrovsky,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+astrovsky,Email address,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+astrovsky,3-cycles,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+kioa,Translation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kioa,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+kioa,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ardmn,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ardmn,Email address,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+A.K.Goharshady,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+A.K.Goharshady,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+A.K.Goharshady,Email address,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+A.K.Goharshady,Pawn,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+A.K.Goharshady,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+DanDrago,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+DanDrago,Email address,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+DanDrago,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+KTY,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+KTY,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+KTY,Email address,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Denor,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Denor,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Denor,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+iman_MC,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+iman_MC,Email address,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+atnurgaliev,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+atnurgaliev,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+atnurgaliev,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+atnurgaliev,Pawn,0,D,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,dp
+atnurgaliev,3-cycles,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+ANTANTA,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ANTANTA,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+ANTANTA,Pawn,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+chenchen1024,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+chenchen1024,Email address,0,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+chenchen1024,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+era_kaz_93,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+era_kaz_93,Martian Dollar,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+era_kaz_93,Email address,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+era_kaz_93,3-cycles,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+muriloufg,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+muriloufg,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+muriloufg,Email address,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+bm_anas,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+bm_anas,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+bm_anas,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+kenny59,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kenny59,Martian Dollar,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+kenny59,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+kenny59,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,graphs,greedy"
+zermx_011,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+zermx_011,Email address,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+zermx_011,Pawn,0,D,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,dp
+alik,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+alik,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+alik,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+alik,3-cycles,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+cyx5320856,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+cyx5320856,Pawn,0,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,dp
+cyx5320856,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+cyx5320856,3-cycles,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+cyx5320856,Martian Dollar,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+m.zandy,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+m.zandy,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+m.zandy,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ikostrikov,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ikostrikov,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ikostrikov,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ikostrikov,Pawn,1,D,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,dp
+ikostrikov,3-cycles,1,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+FurkoRoman,Translation,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+FurkoRoman,Martian Dollar,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+FurkoRoman,Email address,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+minhtien_142,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+minhtien_142,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+minhtien_142,Email address,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+minhtien_142,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+undefined_thimpu,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+undefined_thimpu,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+undefined_thimpu,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,implementation"
+Frodo94,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Frodo94,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Frodo94,3-cycles,1,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+Frodo94,Martian Dollar,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+helThazar,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+helThazar,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+helThazar,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+helThazar,Pawn,1,D,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,dp
+evg-zhabotinsky,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"implementation,strings"
+evg-zhabotinsky,Martian Dollar,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+evg-zhabotinsky,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+evg-zhabotinsky,Pawn,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+evg-zhabotinsky,3-cycles,1,E,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+aslan95,Translation,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+aslan95,Email address,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+69-64-79,Translation,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,strings"
+69-64-79,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+69-64-79,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+69-64-79,Pawn,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+69-64-79,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+regmar,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+regmar,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+regmar,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+NotImplemented,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+NotImplemented,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+NotImplemented,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+NotImplemented,Pawn,1,D,0,0,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,dp
+imbd2,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+imbd2,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+imbd2,Martian Dollar,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+hiiit,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+hiiit,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+hiiit,Email address,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+MDvedh,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+MDvedh,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+MDvedh,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+MDvedh,Pawn,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+MDvedh,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+palmtenor,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+palmtenor,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+palmtenor,Pawn,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+palmtenor,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+palmtenor,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+vachme21,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+vachme21,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+AndreiD,Translation,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+AndreiD,Email address,1,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+AndreiD,3-cycles,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+Zhandos,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Zhandos,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Zhandos,Pawn,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,dp
+Tsimokhin,Translation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Tsimokhin,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+arboretum,Translation,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+arboretum,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+gauravmunjal,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+gauravmunjal,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+gauravmunjal,3-cycles,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+kaushik.mv3,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kaushik.mv3,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+kaushik.mv3,Email address,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+kaushik.mv3,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+samshu,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+samshu,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+master_j,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+master_j,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+master_j,Email address,1,C,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+master_j,3-cycles,1,E,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+tatsuyafw,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+tatsuyafw,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+tatsuyafw,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+tatsuyafw,3-cycles,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+shibly,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+shibly,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+shibly,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+hyres88,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+fahimpatel,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+hmelnoy,Translation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+hmelnoy,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+hmelnoy,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+hmelnoy,3-cycles,1,E,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+morojenoe,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+morojenoe,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+morojenoe,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+morojenoe,Pawn,1,D,0,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,dp
+VK.ua,Translation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+VK.ua,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+VK.ua,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+VK.ua,Pawn,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+liugang123,Translation,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+liugang123,Martian Dollar,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+liugang123,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+akazz,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+akazz,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+akazz,Email address,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Scientist1642,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Scientist1642,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Scientist1642,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Kiberbit,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Kiberbit,Martian Dollar,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,brute force
+Kiberbit,Email address,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Kiberbit,3-cycles,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+Zachary,Translation,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Zachary,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Zachary,Email address,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+kontr,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kontr,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+kontr,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+kontr,Pawn,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kontr,3-cycles,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+Ever1989,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Ever1989,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Ever1989,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Ever1989,Pawn,1,D,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,dp
+nep1965,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+nep1965,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+nep1965,Email address,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+xlfd,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+xlfd,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+xlfd,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+xlfd,Pawn,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+alpc01,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+alpc01,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+alpc01,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+alpc01,Pawn,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dimatomp,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+dimatomp,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+dimatomp,Pawn,1,D,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,dp
+ahmadabdolkader,Translation,0,A,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ahmadabdolkader,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ahmadabdolkader,Email address,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ahmadabdolkader,Pawn,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Nikolai,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Nikolai,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Nikolai,Email address,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Nikolai,3-cycles,1,E,1,0,0,0,0,5,1,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,graphs,greedy"
+Nikolai,Pawn,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+FSOG,Translation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+FSOG,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+FSOG,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Eugen,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Eugen,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Eugen,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+philolo1,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+philolo1,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+philolo1,Email address,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+philolo1,Pawn,0,D,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+philolo1,3-cycles,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+Timur_Keks,Translation,0,A,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Timur_Keks,Martian Dollar,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Timur_Keks,3-cycles,1,E,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+cst,Translation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+cst,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+cst,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+kyonghun90,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kyonghun90,Martian Dollar,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+kyonghun90,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Wayne,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Wayne,Martian Dollar,1,B,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,brute force
+Wayne,Email address,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+alexej,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+alexej,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+alexej,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+alexej,3-cycles,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+tollek,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+tollek,Martian Dollar,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+tollek,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+tollek,Pawn,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+dima11221122,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+dima11221122,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+dima11221122,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+dima11221122,3-cycles,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+xuanflyer,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+xuanflyer,Martian Dollar,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+xuanflyer,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+xuanflyer,3-cycles,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+victoryland,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+victoryland,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+victoryland,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,implementation"
+victoryland,Pawn,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Arcady27,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Arcady27,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Arcady27,Martian Dollar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+olpetOdessaONU,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+olpetOdessaONU,Martian Dollar,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+olpetOdessaONU,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+olpetOdessaONU,Pawn,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+olpetOdessaONU,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+nhnghi,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+nhnghi,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+nhnghi,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Padme,Translation,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Padme,Martian Dollar,0,B,0,0,0,0,0,4,0,1,0,0,0,0,0,1,0,0,0,brute force
+Padme,Email address,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+vlad,Translation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+vlad,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+vlad,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+rj7.1990,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+rj7.1990,Email address,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+rj7.1990,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Scorpio,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+El_SiD,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+El_SiD,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+El_SiD,Email address,1,C,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+nima101,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+nima101,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+nima101,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+nima101,Pawn,1,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,dp
+Permykov,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Permykov,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Permykov,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Permykov,3-cycles,1,E,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+prog.delphin,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+prog.delphin,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+prog.delphin,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+prog.delphin,3-cycles,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+1guangnian,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+1guangnian,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+1guangnian,Email address,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Anurag,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Anurag,Martian Dollar,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+SupeR-MaN,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+SupeR-MaN,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+SupeR-MaN,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,implementation"
+SupeR-MaN,Pawn,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+SupeR-MaN,3-cycles,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+deadpadre,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+deadpadre,Martian Dollar,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+deadpadre,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+tmiyamon,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+tmiyamon,Martian Dollar,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+tmiyamon,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+tmiyamon,Pawn,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+maxpoops,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+maxpoops,Translation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+maxpoops,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+maxpoops,3-cycles,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+maxpoops,Pawn,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+lobo,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+lobo,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+lobo,Email address,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+shou,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+shou,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+shou,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+shou,Pawn,1,D,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,dp
+ankit_shukla,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ankit_shukla,Martian Dollar,0,B,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+ankit_shukla,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+anas17in,Translation,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+anas17in,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+anas17in,Martian Dollar,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+SkRusel,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+SkRusel,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+SkRusel,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+matrix_sust,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"implementation,strings"
+matrix_sust,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+pyKiRiN,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+pyKiRiN,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+pyKiRiN,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ViktorM,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ViktorM,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ViktorM,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+nfs420,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+nfs420,Email address,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+TarifEzaz,Translation,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+TarifEzaz,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+gestapolur,Translation,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+gestapolur,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+gestapolur,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+gestapolur,Pawn,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+katygolova,Translation,0,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+katygolova,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+katygolova,Email address,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Ramilwow,Translation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Ramilwow,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Ramilwow,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Ramilwow,Pawn,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+Ramilwow,3-cycles,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+thongkcdhv,Translation,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+thongkcdhv,Email address,1,C,0,0,0,2,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Pashcal,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Pashcal,Email address,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Pashcal,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ryad0m,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ryad0m,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ryad0m,Pawn,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+ryad0m,Martian Dollar,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Demjan,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Demjan,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,brute force
+Demjan,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Demjan,Pawn,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+onursigirci,Translation,0,A,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+onursigirci,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+onursigirci,Martian Dollar,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,4,0,0,brute force
+Alim,Translation,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Alim,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Alim,Email address,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+prateep,Translation,1,A,1,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Codemacher,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Codemacher,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Codemacher,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Remstam,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+Remstam,Martian Dollar,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,brute force
+bakajunichi,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+PAG,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+PAG,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+PAG,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+PAG,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+_NuTtY_,Translation,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+_NuTtY_,Martian Dollar,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+_NuTtY_,Email address,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+DarkMit,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+DarkMit,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+DarkMit,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+DarkMit,Pawn,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+almaz_kh,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+almaz_kh,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+almaz_kh,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+shadow.93.04,Translation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+shadow.93.04,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+shadow.93.04,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Predimonio,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Predimonio,Martian Dollar,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Predimonio,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+codecrux,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+codecrux,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+codecrux,Martian Dollar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+codecrux,3-cycles,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+Anton_Rodick,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Anton_Rodick,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Anton_Rodick,Email address,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+DenisPodlesnykh,Translation,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+DenisPodlesnykh,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+DenisPodlesnykh,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+DenisPodlesnykh,Pawn,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+arduous,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+arduous,Martian Dollar,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+bmsujon,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+bmsujon,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Vedzmar,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Vedzmar,Martian Dollar,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Vedzmar,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+lonelyprog,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+lonelyprog,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+lonelyprog,3-cycles,1,E,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+Dias,Translation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+Dias,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Dias,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+crbtmac,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+crbtmac,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+crbtmac,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+mad,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+mad,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+mad,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+OKOKOK,Translation,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+OKOKOK,Martian Dollar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Eather,Translation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+starwars,Translation,0,A,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+mandarinka,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+mandarinka,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+mandarinka,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+mandarinka,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+Minori,Translation,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,"implementation,strings"
+AnMarie,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+AnMarie,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+AnMarie,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+4a1ka,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+4a1ka,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+4a1ka,Email address,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+rofi,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+rofi,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+rofi,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+rofi,Pawn,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+khiyeuchuot1,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+khiyeuchuot1,Email address,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+khiyeuchuot1,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+khiyeuchuot1,Pawn,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+khiyeuchuot1,3-cycles,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+Alisafe,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Alisafe,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Alisafe,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Alisafe,3-cycles,1,E,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+A_rustam_rustam,Translation,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,strings"
+A_rustam_rustam,Martian Dollar,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,brute force
+logN,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+logN,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+logN,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Kenfly,Translation,0,A,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Kenfly,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Kenfly,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+glukin,Translation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+glukin,Martian Dollar,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+glukin,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+1412,Translation,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+1412,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+1412,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+dasoran,Translation,0,A,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+dasoran,Martian Dollar,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+dasoran,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+dearjy,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+dearjy,Martian Dollar,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+dearjy,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+dearjy,Pawn,1,D,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,dp
+House_MD,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+House_MD,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+House_MD,Email address,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Alexander-1709,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Alexander-1709,Martian Dollar,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Alexander-1709,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+just_alisher,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+xelez,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+xelez,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+xelez,Email address,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+xelez,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+4ybakut2004,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+4ybakut2004,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+4ybakut2004,Email address,1,C,1,0,0,2,0,2,0,1,0,1,0,0,0,0,0,0,0,"expression parsing,implementation"
+Mars314,Translation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+Mars314,Martian Dollar,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Mars314,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+nayimsust,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+MitRo,Translation,0,A,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+MitRo,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+MitRo,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+MitRo,Pawn,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Andronnix,Translation,0,A,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Andronnix,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Andronnix,Email address,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Beast,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Beast,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+piyush.neo,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+piyush.neo,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+piyush.neo,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+middle_impulse,Translation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+middle_impulse,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+middle_impulse,Email address,1,C,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+middle_impulse,Pawn,1,D,0,0,0,0,0,10,1,0,0,0,0,0,0,0,0,0,0,dp
+sas4eka,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+sas4eka,Martian Dollar,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+sas4eka,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+sas4eka,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+luky.kashyap,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+luky.kashyap,Martian Dollar,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+luky.kashyap,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Roma-PKTL,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Roma-PKTL,Martian Dollar,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,brute force
+Roma-PKTL,Email address,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+koder_dima,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+koder_dima,Martian Dollar,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+koder_dima,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+david.virusfel,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,strings"
+cheptil,Translation,0,A,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+cheptil,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+cheptil,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+cheptil,3-cycles,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+Stels,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Stels,Email address,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+BenderRodriges,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+BenderRodriges,Martian Dollar,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+BenderRodriges,Email address,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Verwulf,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Verwulf,Email address,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Verwulf,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Zavalin,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Zavalin,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Zavalin,3-cycles,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+shnell,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+shnell,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+shnell,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+shnell,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+qweasdf_123,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+qweasdf_123,Email address,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Hanshavin,Translation,1,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Hanshavin,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+yulya3102,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+yulya3102,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+yulya3102,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+yulya3102,Pawn,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+igkhramtsov,Translation,0,A,0,0,0,6,7,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+igkhramtsov,Martian Dollar,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+igkhramtsov,3-cycles,0,E,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+hzshuai,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+hzshuai,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+hzshuai,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+misshanli,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Roschin,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Arman96,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Arman96,Martian Dollar,0,B,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Arman96,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+srivatsan_vn,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+srivatsan_vn,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+srivatsan_vn,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+kanau.anzur,Translation,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kanau.anzur,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+kanau.anzur,Email address,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+kanau.anzur,3-cycles,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+Soraya,Translation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+Soraya,Email address,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+behdadb,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+behdadb,Email address,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+behdadb,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+behdadb,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+RHman16,Translation,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+RHman16,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+RHman16,Email address,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+doulce,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+doulce,Translation,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+doulce,Email address,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+doulce,Pawn,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,dp
+checkmate,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+checkmate,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+checkmate,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+fobnn,Translation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+fobnn,Martian Dollar,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+fobnn,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+nikunj165,Translation,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+nikunj165,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+nikunj165,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+CJS,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+CJS,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+CJS,Martian Dollar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,brute force
+CJS,3-cycles,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+ICOA,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ICOA,Martian Dollar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+ICOA,Email address,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+yowa,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+yowa,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+yowa,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+yowa,Pawn,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+yowa,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+mi_kami,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+mi_kami,Email address,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+NoobOK,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+NoobOK,Martian Dollar,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+NoobOK,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+m.elahi,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+m.elahi,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+m.elahi,Email address,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+kentangl,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kentangl,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+kentangl,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+aknur94,Translation,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+aknur94,Martian Dollar,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+sakib.malek,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+sakib.malek,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+root5,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+root5,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+root5,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ZiGGi,Translation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ZiGGi,Email address,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+xeno,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+xeno,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+MR_HOSSAIN,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+MR_HOSSAIN,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+123pro,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,strings"
+123pro,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+123pro,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+123pro,3-cycles,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+DaZ,Translation,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+DaZ,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+DaZ,Email address,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+pareshverma007,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+pareshverma007,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+pareshverma007,Email address,0,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+pareshverma007,3-cycles,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+Bob,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Bob,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Bob,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+vermapratyush,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+mico,Translation,1,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+scistu,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+scistu,Martian Dollar,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+scistu,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+lambda5611,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+lambda5611,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+lambda5611,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+akakiy,Translation,1,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+akakiy,Email address,1,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+akakiy,Martian Dollar,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+20092100003,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+20092100003,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+20092100003,Email address,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+K_operafan,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+K_operafan,Email address,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+K_operafan,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dashka_z,Translation,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+dashka_z,Email address,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+bohuss,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+bohuss,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+bohuss,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+bohuss,Pawn,1,D,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,dp
+Simeon,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Simeon,Email address,1,C,1,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,"expression parsing,implementation"
+Simeon,Martian Dollar,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+DarkYoshi,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+DarkYoshi,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+DarkYoshi,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+rajith,Translation,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+rajith,Martian Dollar,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,brute force
+rajith,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+tk_,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+tk_,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+tk_,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Dr.McKay,Translation,0,A,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+HavaN,Translation,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+m.yunusseker,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,"implementation,strings"
+m.yunusseker,Email address,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,"expression parsing,implementation"
+m.yunusseker,Martian Dollar,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+knock-knock,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+knock-knock,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+knock-knock,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+knock-knock,3-cycles,1,E,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+edem.kwadzo,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,strings"
+edem.kwadzo,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,brute force
+rasulzhan,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Ferdous_CUET,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,"implementation,strings"
+Ferdous_CUET,Email address,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,implementation"
+mukel,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+mukel,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+mukel,3-cycles,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+mukel,Pawn,0,D,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,dp
+mukel,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+borixk,Translation,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+borixk,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+borixk,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+mng,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+STAJIKER,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+STAJIKER,Martian Dollar,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+STAJIKER,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+STAJIKER,Pawn,1,D,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,dp
+ukokke,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ukokke,Martian Dollar,0,B,0,0,0,1,0,6,1,0,0,0,0,0,0,1,0,0,0,brute force
+ukokke,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Woodpecker,Translation,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Woodpecker,Martian Dollar,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+rafsan,Translation,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+rafsan,Email address,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,implementation"
+rafsan,3-cycles,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+TRR,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+TRR,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+TRR,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+User30000,Translation,0,A,0,0,0,0,1,4,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+User30000,Email address,0,C,0,0,0,1,1,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ignatiev.ivan,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ignatiev.ivan,Email address,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+only.df5g5,Translation,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+only.df5g5,Email address,1,C,0,0,0,1,1,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+xuyuangogogo,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+haker4o,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+haker4o,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+haker4o,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+haker4o,Pawn,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+haker4o,3-cycles,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+galiver,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"implementation,strings"
+galiver,Email address,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+AleksBannikov,Translation,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+AleksBannikov,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+AleksBannikov,Email address,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+paulocezar,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+vasja_p,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+vasja_p,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+vasja_p,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+vasja_p,Pawn,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+CuTX,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+CuTX,Martian Dollar,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+ViVi66,Translation,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+ViVi66,Martian Dollar,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+mahfuz,Translation,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+mahfuz,Email address,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+mahfuz,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ahimsa,Translation,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+ahimsa,Martian Dollar,0,B,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,brute force
+ahimsa,Email address,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Han_ksp,Translation,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+yazh,Translation,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+yazh,Email address,1,C,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+yazh,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+shovonshovo,Translation,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+shovonshovo,Martian Dollar,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+topaz,Translation,0,A,0,0,0,6,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Nivikz,Translation,0,A,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Nivikz,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Nivikz,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+zjf.sjtu,Pawn,0,D,1,0,0,0,0,12,14,1,0,0,0,0,0,0,0,0,0,dp
+zjf.sjtu,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+zjf.sjtu,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+zjf.sjtu,3-cycles,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+Andark,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Andark,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Andark,Email address,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Algorithm,Translation,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Algorithm,Email address,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Algorithm,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Algorithm,3-cycles,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+nuhbye,Translation,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+nuhbye,Martian Dollar,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+evans94,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+evans94,Martian Dollar,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Ryo,Translation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Ryo,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Ryo,3-cycles,1,E,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+AC9,Martian Dollar,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+AC9,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+AC9,Pawn,1,D,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,dp
+Arsalan,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Arsalan,Martian Dollar,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+nguyentiennam2910,Martian Dollar,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+nguyentiennam2910,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+nguyentiennam2910,Pawn,0,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+nguyentiennam2910,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Rijul_CSEDU,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Rijul_CSEDU,Martian Dollar,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Rijul_CSEDU,Email address,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+gourav.bit,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+gourav.bit,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+gourav.bit,Email address,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,implementation"
+gourav.bit,3-cycles,1,E,1,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+p_vs_np,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+p_vs_np,Martian Dollar,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+tevez,Translation,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+havi,Translation,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,0,"implementation,strings"
+havi,3-cycles,1,E,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+kunigami,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kunigami,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+kunigami,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+kunigami,Pawn,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+ishandutta2007,Translation,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,3,0,0,"implementation,strings"
+MOPMblLLlKA,Martian Dollar,1,B,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+MOPMblLLlKA,Pawn,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+abhishek777,Translation,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+gigacoder,Translation,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"implementation,strings"
+gigacoder,Martian Dollar,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,brute force
+Mary,Translation,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Sandman,Translation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Sandman,Martian Dollar,0,B,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,brute force
+Palci-Udalci,Translation,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+Dennis1091,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Dennis1091,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Dennis1091,Email address,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Adai_is,Translation,0,A,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+Adai_is,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Yan_Kurganov_Kovrov_STA,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Yan_Kurganov_Kovrov_STA,Martian Dollar,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+COW,Martian Dollar,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+paramstr,Translation,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+paramstr,Martian Dollar,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+rakib_cse06,Translation,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ravi_villuri,Translation,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ravi_villuri,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ravi_villuri,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Hierro,Translation,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Hierro,Martian Dollar,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+fr3aky,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+quocquan,Translation,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"implementation,strings"
+gn13,Translation,1,A,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+gn13,Martian Dollar,1,B,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+zxiy,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+zxiy,Martian Dollar,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+zxiy,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ifrit,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ifrit,Martian Dollar,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+SerCe,Translation,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+SerCe,Email address,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+SerCe,3-cycles,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graphs,greedy"
+kheili_chert,Translation,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+kheili_chert,Martian Dollar,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+kheili_chert,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+ansaryfantastic,Translation,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ansaryfantastic,Email address,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+EzhikOo,Translation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+thePharaoh,Translation,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+thePharaoh,Email address,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+grigory51,Translation,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,strings"
+grigory51,Email address,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+java2dev,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+Petrushenko,Translation,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+farhan_iut,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+farhan_iut,Martian Dollar,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+farhan_iut,Email address,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"
+Yps,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ershad,Translation,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,strings"
+ershad,Martian Dollar,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+ershad,Email address,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation"

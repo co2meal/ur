@@ -1,0 +1,1054 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+Surogatov_S,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Surogatov_S,Hard Work,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Surogatov_S,Enemy is weak,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+d_i,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+d_i,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+d_i,Enemy is weak,0,E,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+arshuaz,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+arshuaz,Capture Valerian,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+arshuaz,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+arshuaz,Eternal Victory,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+Kostroma,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kostroma,Hard Work,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Kostroma,Eternal Victory,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+Kostroma,Enemy is weak,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+Berzhik,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Berzhik,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+slowpoke,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+slowpoke,Hard Work,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+slowpoke,Capture Valerian,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+slowpoke,Eternal Victory,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+slowpoke,Enemy is weak,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,trees"
+nise_nabe,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nise_nabe,Hard Work,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+nise_nabe,Capture Valerian,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+nise_nabe,Eternal Victory,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+Rosetta,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rosetta,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Rosetta,Enemy is weak,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+abhijith,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+abhijith,Hard Work,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+abhijith,Eternal Victory,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+Igorsheiko,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Igorsheiko,Hard Work,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Tokiru,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tokiru,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Tokiru,Capture Valerian,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,math
+isatay_alibi,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+isatay_alibi,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+isatay_alibi,Enemy is weak,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+Petruchcho,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Petruchcho,Enemy is weak,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+filipbitola,Ultra-Fast Mathematician,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+filipbitola,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+hell.dot,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hell.dot,Hard Work,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+hell.dot,Enemy is weak,0,E,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+hell.dot,Eternal Victory,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+diogen,Ultra-Fast Mathematician,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+diogen,Hard Work,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+diogen,Eternal Victory,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+mohammadkotb,Ultra-Fast Mathematician,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+mohammadkotb,Hard Work,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+mohammadkotb,Capture Valerian,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mohammadkotb,Enemy is weak,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+logicmachine,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+logicmachine,Hard Work,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+logicmachine,Capture Valerian,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,math
+logicmachine,Eternal Victory,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+logicmachine,Enemy is weak,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,trees"
+Brayna,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Brayna,Hard Work,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Brayna,Capture Valerian,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Brayna,Eternal Victory,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+FUrkoooooo,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+FUrkoooooo,Capture Valerian,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+FUrkoooooo,Hard Work,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+FUrkoooooo,Eternal Victory,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+FUrkoooooo,Enemy is weak,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+msagimbekov,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+msagimbekov,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+_Vadim_,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+_Vadim_,Hard Work,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+mbfilho91,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mbfilho91,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mbfilho91,Capture Valerian,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+sicasli,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sicasli,Capture Valerian,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+sicasli,Eternal Victory,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+sicasli,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+xDDD,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xDDD,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+xDDD,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+xDDD,Eternal Victory,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+xDDD,Enemy is weak,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+buaamm,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+buaamm,Hard Work,0,B,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,strings
+buaamm,Enemy is weak,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+buaamm,Eternal Victory,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+buaamm,Capture Valerian,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+WPWPWP,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+WPWPWP,Hard Work,1,B,0,0,0,0,1,10,0,0,0,0,0,0,0,0,0,0,0,strings
+WPWPWP,Enemy is weak,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+tekito,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tekito,Hard Work,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Fedya,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fedya,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Fedya,Eternal Victory,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+asif_iut,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+asif_iut,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+asif_iut,Enemy is weak,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+ahmad_mamdouh,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahmad_mamdouh,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ahmad_mamdouh,Capture Valerian,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+watson,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+watson,Hard Work,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+watson,Eternal Victory,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+watson,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,math
+anshusaurav,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vivalafun,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vivalafun,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kyuridenamida,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyuridenamida,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kyuridenamida,Eternal Victory,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+kyuridenamida,Enemy is weak,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,trees"
+kyuridenamida,Capture Valerian,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+TMandzu,Ultra-Fast Mathematician,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+TMandzu,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+atetubou,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+atetubou,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+atetubou,Eternal Victory,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+atetubou,Capture Valerian,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+atetubou,Enemy is weak,0,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+roxion1377,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+roxion1377,Capture Valerian,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+nfs420,Ultra-Fast Mathematician,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Denor,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Denor,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Denor,Capture Valerian,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Denor,Enemy is weak,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,trees"
+jariasf,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jariasf,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+jariasf,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+jariasf,Eternal Victory,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+mhm.asghari,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mhm.asghari,Hard Work,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mhm.asghari,Eternal Victory,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+mhm.asghari,Enemy is weak,1,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+Roschin,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Roschin,Hard Work,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Roschin,Eternal Victory,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+andrei.d,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+andrei.d,Enemy is weak,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+andrei.d,Eternal Victory,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+natsuki_i,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+natsuki_i,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+natsuki_i,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+natsuki_i,Enemy is weak,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"data structures,trees"
+marque,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+marque,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+marque,Eternal Victory,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+Krh2011,Ultra-Fast Mathematician,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+Krh2011,Hard Work,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Krh2011,Capture Valerian,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Krh2011,Eternal Victory,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+ahmedkotb,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahmedkotb,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ahmedkotb,Capture Valerian,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+KTR,Ultra-Fast Mathematician,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KTR,Hard Work,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+KTR,Capture Valerian,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Diman_yoyo,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fukirk,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fukirk,Hard Work,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,strings
+fukirk,Eternal Victory,1,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+Trytrytry,Ultra-Fast Mathematician,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Trytrytry,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Trytrytry,Enemy is weak,1,E,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+ViruZ,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ViruZ,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+l0nwlf,Ultra-Fast Mathematician,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+l0nwlf,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+l0nwlf,Capture Valerian,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+a286729485,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+a286729485,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+a286729485,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+a286729485,Eternal Victory,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+Muhammed,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Muhammed,Hard Work,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+Muhammed,Enemy is weak,1,E,0,0,0,5,0,1,0,1,0,0,0,0,0,1,0,0,0,"data structures,trees"
+Muhammed,Capture Valerian,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+Muhammed,Eternal Victory,0,D,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+era_kaz_93,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+era_kaz_93,Hard Work,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+htrinh,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+htrinh,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+htrinh,Eternal Victory,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+asamarin,Ultra-Fast Mathematician,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+asamarin,Hard Work,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+asamarin,Capture Valerian,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+asamarin,Enemy is weak,1,E,0,0,0,1,0,2,0,1,0,0,0,0,0,1,0,0,0,"data structures,trees"
+gn13,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gn13,Hard Work,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+McLaren,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+McLaren,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+McLaren,Eternal Victory,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+LayG,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+frankyym,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+frankyym,Hard Work,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+frankyym,Eternal Victory,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+frankyym,Enemy is weak,1,E,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+Jami_CSEDU,Ultra-Fast Mathematician,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jami_CSEDU,Hard Work,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Jami_CSEDU,Capture Valerian,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Jami_CSEDU,Enemy is weak,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+Jami_CSEDU,Eternal Victory,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+SPAKE,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SPAKE,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+amit.codename13,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+amit.codename13,Hard Work,1,B,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+amit.codename13,Capture Valerian,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+waiter_pvl,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+waiter_pvl,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+waiter_pvl,Eternal Victory,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+waiter_pvl,Enemy is weak,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+akshayk0406,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+akshayk0406,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+akshayk0406,Eternal Victory,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+yuta1024,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yuta1024,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+yuta1024,Capture Valerian,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Konovalov_Nik,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Konovalov_Nik,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Konovalov_Nik,Enemy is weak,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+fendy_k1,Ultra-Fast Mathematician,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fendy_k1,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Ardavel,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ardavel,Hard Work,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Ardavel,Eternal Victory,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+maruf.csdu,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+maruf.csdu,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Beast,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Beast,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Opu,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Opu,Hard Work,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+Opu,Capture Valerian,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+HTML_Sanek,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+HTML_Sanek,Hard Work,1,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+zlatkov,Ultra-Fast Mathematician,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zlatkov,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+zlatkov,Eternal Victory,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+zlatkov,Enemy is weak,0,E,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,trees"
+akram,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+akram,Hard Work,1,B,0,0,0,2,1,4,0,0,0,0,0,0,0,0,0,0,0,strings
+amr.nabil,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+amr.nabil,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+amr.nabil,Capture Valerian,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+amr.nabil,Eternal Victory,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+Electronick,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Electronick,Hard Work,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,strings
+ErzhanDS,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ErzhanDS,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ErzhanDS,Enemy is weak,1,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+lkssharma,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lkssharma,Hard Work,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+lkssharma,Enemy is weak,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+razimantv,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+razimantv,Hard Work,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+razimantv,Capture Valerian,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+razimantv,Enemy is weak,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+razimantv,Eternal Victory,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+Mars314,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mars314,Enemy is weak,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"data structures,trees"
+Mars314,Eternal Victory,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+kenny_died,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kenny_died,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kenny_died,Enemy is weak,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+kenny_died,Capture Valerian,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+JKeeJ1e30,Ultra-Fast Mathematician,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+JKeeJ1e30,Enemy is weak,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+alik,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alik,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+alik,Enemy is weak,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"data structures,trees"
+BenderRodriges,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BenderRodriges,Enemy is weak,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+Daniyar_7,Ultra-Fast Mathematician,1,A,1,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+Transfe10,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Transfe10,Hard Work,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,strings
+lazzrov,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lazzrov,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+lazzrov,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kirakira,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kirakira,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+wangshaobiao,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wangshaobiao,Hard Work,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+RGS,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+RGS,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Ugzuzg,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ugzuzg,Hard Work,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,strings
+Exerus,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Exerus,Enemy is weak,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"data structures,trees"
+yuichirw,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yuichirw,Hard Work,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+yuichirw,Capture Valerian,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+prunthaban,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+prunthaban,Hard Work,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+prunthaban,Eternal Victory,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+Andark,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Andark,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+paranoid,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+paranoid,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+paranoid,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+delta,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+delta,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+delta,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+delta,Eternal Victory,0,D,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+Fynn,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fynn,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Fynn,Eternal Victory,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+tardosmors,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tardosmors,Hard Work,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+tardosmors,Capture Valerian,1,C,1,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,math
+y42sora,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+y42sora,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+y42sora,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Kipok,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kipok,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Kipok,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+coder_iitu,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+coder_iitu,Hard Work,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+coder_iitu,Eternal Victory,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+hobagos,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hobagos,Hard Work,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+hobagos,Capture Valerian,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hobagos,Enemy is weak,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+acc1,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+acc1,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+acc1,Enemy is weak,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+MOPMblLLlKA,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MOPMblLLlKA,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+zermx_011,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zermx_011,Hard Work,1,B,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,strings
+zermx_011,Capture Valerian,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+lightning_0301,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lightning_0301,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,strings
+tokoharu,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tokoharu,Hard Work,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tokoharu,Eternal Victory,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+tokoharu,Enemy is weak,1,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,trees"
+mahfuz,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+mahfuz,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mahfuz,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+intruder,Ultra-Fast Mathematician,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+intruder,Hard Work,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,strings
+intruder,Enemy is weak,0,E,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,trees"
+aakashj.sky,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aakashj.sky,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+aakashj.sky,Enemy is weak,1,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+Roma-PKTL,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mercer,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mercer,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+death.night.sv,Ultra-Fast Mathematician,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+death.night.sv,Hard Work,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,strings
+mafia,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mafia,Hard Work,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,strings
+andy.zhilin,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyonghun90,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyonghun90,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kyonghun90,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+GamePr0graameR,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+GamePr0graameR,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+GamePr0graameR,Enemy is weak,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+sandro_barna,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sandro_barna,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+nipolo,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nipolo,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Belonogov,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Belonogov,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Belonogov,Eternal Victory,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+anuragsingh,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+anuragsingh,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+anuragsingh,Capture Valerian,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Tahlil,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tahlil,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+NSV,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NSV,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sp2hari,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sp2hari,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sp2hari,Capture Valerian,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+d1xlord,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+d1xlord,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+0xyG3N,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+0xyG3N,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+nitesh_nsit,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nitesh_nsit,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Dmitry93,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dmitry93,Enemy is weak,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,trees"
+Elmi,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Elmi,Hard Work,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Elmi,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+tatsuhiro.t,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tatsuhiro.t,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tatsuhiro.t,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Roland,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Roland,Hard Work,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Clasker,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Clasker,Hard Work,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+Clasker,Enemy is weak,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+AleksBannikov,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AleksBannikov,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+AleksBannikov,Capture Valerian,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+best.ua,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+best.ua,Hard Work,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+best.ua,Enemy is weak,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+4ybakut2004,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+4ybakut2004,Hard Work,1,B,1,0,0,0,1,7,0,0,0,2,0,0,0,0,2,0,0,strings
+gemu,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gemu,Hard Work,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+gemu,Capture Valerian,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,math
+kyo_key,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyo_key,Hard Work,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+kyo_key,Eternal Victory,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+kyo_key,Enemy is weak,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+Xerxes,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Xerxes,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Xerxes,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+marvin666,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+marvin666,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+zafar_sust_bd,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zafar_sust_bd,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+zafar_sust_bd,Eternal Victory,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+soul_departed,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+soul_departed,Hard Work,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+soul_departed,Capture Valerian,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Monmoy,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Monmoy,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Monmoy,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Monmoy,Enemy is weak,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+yuanhang,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yuanhang,Hard Work,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,strings
+Mur,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mur,Hard Work,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+Mur,Enemy is weak,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+nayimsust,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nayimsust,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+abdukodir,Ultra-Fast Mathematician,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+abdukodir,Hard Work,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,strings
+abdukodir,Capture Valerian,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+xhunter,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xhunter,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+xhunter,Eternal Victory,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+ahmed.farag1111,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahmed.farag1111,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ahmed.farag1111,Capture Valerian,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+mohamed.gaber,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mohamed.gaber,Hard Work,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+mohamed.gaber,Capture Valerian,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+weiqi,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+weiqi,Hard Work,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+weiqi,Eternal Victory,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+TangJie,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TangJie,Eternal Victory,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+TangJie,Hard Work,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+magdi,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+magdi,Hard Work,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,strings
+magdi,Capture Valerian,0,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,math
+grey_wind,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+grey_wind,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+grey_wind,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+grey_wind,Eternal Victory,0,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+Zugzug,Ultra-Fast Mathematician,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexlz661,Ultra-Fast Mathematician,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexlz661,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+alexlz661,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+edem.kwadzo,Ultra-Fast Mathematician,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+edem.kwadzo,Hard Work,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+edem.kwadzo,Eternal Victory,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+Hangibhom,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hangibhom,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+mayconmaia,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mayconmaia,Enemy is weak,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+mayconmaia,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mazeev,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mazeev,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Mazeev,Eternal Victory,0,D,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+fujiyama,Ultra-Fast Mathematician,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fujiyama,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+fujiyama,Capture Valerian,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+fujiyama,Enemy is weak,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+shababhsiddique,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shababhsiddique,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Esenin,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Esenin,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Esenin,Capture Valerian,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Jamik,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jamik,Hard Work,1,B,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,0,0,strings
+odule,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+odule,Capture Valerian,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+odule,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+cyberguru007,Ultra-Fast Mathematician,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+cyberguru007,Enemy is weak,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+cyberguru007,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Tariqul,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tariqul,Eternal Victory,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+Algorithm,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Algorithm,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Algorithm,Enemy is weak,0,E,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,trees"
+alpc86,Ultra-Fast Mathematician,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alpc86,Enemy is weak,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+Rijul_CSEDU,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rijul_CSEDU,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+shakil,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shakil,Hard Work,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+masoud1459,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+_arjun,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+_arjun,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sakib.malek,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sakib.malek,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+zzz,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zzz,Hard Work,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+cortez,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cortez,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mehrankhodabandeh,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mehrankhodabandeh,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+max777alex,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fookwood,Ultra-Fast Mathematician,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fookwood,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+vmgurov,Ultra-Fast Mathematician,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vmgurov,Hard Work,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+vmgurov,Enemy is weak,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"data structures,trees"
+alexeykir,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexeykir,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+alexeykir,Enemy is weak,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+M.M.Z,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+M.M.Z,Hard Work,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+Eternity,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eternity,Eternal Victory,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+hacker007,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hacker007,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+hacker007,Enemy is weak,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+boba,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+boba,Hard Work,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+boba,Eternal Victory,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+Specfizic,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Specfizic,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+vlad,Ultra-Fast Mathematician,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+deximat,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+deximat,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+deximat,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,math
+deximat,Enemy is weak,0,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"data structures,trees"
+lobo,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+born_coder,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+born_coder,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+jichen1234,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jichen1234,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+jichen1234,Capture Valerian,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+MIM,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MIM,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+TALGAT,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TALGAT,Hard Work,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,strings
+TALGAT,Enemy is weak,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,trees"
+Cyin,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Cyin,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Cyin,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+ekrilov92,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ekrilov92,Hard Work,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ekrilov92,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Arcady27,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Arcady27,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Arcady27,Enemy is weak,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,trees"
+rifat,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rifat,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+rifat,Capture Valerian,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+happy,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+happy,Hard Work,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+happy,Eternal Victory,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+codecrux,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+codecrux,Hard Work,1,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,strings
+jhtan,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jhtan,Hard Work,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+Cromel,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Cromel,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Cromel,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+rishabhm,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rishabhm,Hard Work,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+katakana,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+katakana,Hard Work,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+katakana,Enemy is weak,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"data structures,trees"
+f.nasim,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+f.nasim,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+f.nasim,Capture Valerian,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+dimatomp,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dimatomp,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+dimatomp,Eternal Victory,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+dimatomp,Capture Valerian,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+DraG,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DraG,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+DraG,Capture Valerian,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+Ahmedov,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ahmedov,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Ahmedov,Enemy is weak,0,E,0,0,0,1,0,0,0,1,1,0,0,0,0,1,0,0,0,"data structures,trees"
+Ahmedov,Capture Valerian,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+vishwakarma,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vishwakarma,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+parina,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+parina,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+parina,Eternal Victory,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+new,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NiceDay,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NiceDay,Enemy is weak,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"data structures,trees"
+farhan_iut,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+farhan_iut,Hard Work,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+farhan_iut,Enemy is weak,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+manjunath426jc,Ultra-Fast Mathematician,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+manjunath426jc,Hard Work,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+siyuefeng,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+david,Ultra-Fast Mathematician,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruban,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruban,Hard Work,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+almaz_kh,Ultra-Fast Mathematician,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+almaz_kh,Hard Work,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+erzhan,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NoobOK,Ultra-Fast Mathematician,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+NoobOK,Hard Work,1,B,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,strings
+joaovrmaia,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+HourGlass,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+HourGlass,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+HourGlass,Eternal Victory,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+pashteiner,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pashteiner,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+xeronix,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xeronix,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+dharusimu,Ultra-Fast Mathematician,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dharusimu,Hard Work,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ovionlogis,Ultra-Fast Mathematician,0,A,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rafsan,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rafsan,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+rafsan,Enemy is weak,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"data structures,trees"
+ideamonk,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ideamonk,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ideamonk,Eternal Victory,0,D,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+bbharath,Ultra-Fast Mathematician,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bbharath,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+bbharath,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+bbharath,Eternal Victory,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+dpfbop,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dpfbop,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+dpfbop,Enemy is weak,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+Saif,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Saif,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Saif,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+Semenov_Petr,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Semenov_Petr,Hard Work,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Semenov_Petr,Enemy is weak,0,E,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,"data structures,trees"
+Semenov_Petr,Capture Valerian,0,C,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,math
+piro1996,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+piro1996,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+piro1996,Capture Valerian,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,math
+Sulta,Ultra-Fast Mathematician,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sulta,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Simeon,Ultra-Fast Mathematician,0,A,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,implementation
+Simeon,Capture Valerian,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+Simeon,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+karim,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+karim,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+bekzat,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bekzat,Hard Work,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+bekzat,Enemy is weak,1,E,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"data structures,trees"
+billionerdv,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+billionerdv,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mi_Sawa,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mi_Sawa,Capture Valerian,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Mi_Sawa,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mi_Sawa,Enemy is weak,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"data structures,trees"
+72VanVector_SevNTU,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+72VanVector_SevNTU,Hard Work,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+72VanVector_SevNTU,Eternal Victory,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+mahamudsust,Ultra-Fast Mathematician,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mahamudsust,Hard Work,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,strings
+mahamudsust,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+pcsin,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+pcsin,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+pcsin,Enemy is weak,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,trees"
+AVoz,Hard Work,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+AVoz,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AVoz,Eternal Victory,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+OvO,Ultra-Fast Mathematician,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+OvO,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+OvO,Capture Valerian,1,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+graf,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+graf,Hard Work,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+graf,Capture Valerian,0,C,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,math
+graf,Enemy is weak,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+XKnight,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+XKnight,Hard Work,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+mostafa.saad.fci,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mostafa.saad.fci,Hard Work,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mostafa.saad.fci,Capture Valerian,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mostafa.saad.fci,Eternal Victory,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+Sasa_0824,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sasa_0824,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Sasa_0824,Eternal Victory,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+Sasa_0824,Enemy is weak,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+hommiak,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hommiak,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+taufique,Ultra-Fast Mathematician,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+taufique,Hard Work,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,strings
+safin_pavel,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+eswaramaharaja,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+eswaramaharaja,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+nurs,Ultra-Fast Mathematician,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sola_93,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sola_93,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+sola_93,Enemy is weak,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,"data structures,trees"
+muntasir,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+muntasir,Hard Work,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+muntasir,Capture Valerian,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+muntasir,Eternal Victory,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+Templar,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Templar,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+elklarva,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+elklarva,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+elklarva,Capture Valerian,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+emli,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+emli,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+emli,Enemy is weak,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+emli,Capture Valerian,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Tamski,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tamski,Hard Work,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+ufo008ahw,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ufo008ahw,Hard Work,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+arpit_mittal,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+arpit_mittal,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+arpit_mittal,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+minhtien_142,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+minhtien_142,Enemy is weak,1,E,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+Ahmed_Salama,Ultra-Fast Mathematician,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ahmed_Salama,Hard Work,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Kambujie,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kambujie,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Kambujie,Capture Valerian,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Kambujie,Eternal Victory,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+vfix,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vfix,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ali.mashreghi,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ali.mashreghi,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ali.mashreghi,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Alexander-1709,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alexander-1709,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Alexander-1709,Enemy is weak,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+MidNight,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MidNight,Hard Work,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+MidNight,Enemy is weak,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+rampage,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SkAR,Ultra-Fast Mathematician,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+SkAR,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+SkAR,Enemy is weak,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+LesyaPhoenix,Ultra-Fast Mathematician,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+jokeD,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jokeD,Hard Work,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+oleg.ivye,Ultra-Fast Mathematician,1,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+oleg.ivye,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+sash6589,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sash6589,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+sash6589,Eternal Victory,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+sash6589,Enemy is weak,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+theriddler000,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+theriddler000,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+bojan.serafimov,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bojan.serafimov,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+bojan.serafimov,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ACKOKO,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ACKOKO,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tsvetujochka,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tsvetujochka,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+asm16d,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+asm16d,Hard Work,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+antonio081014,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+antonio081014,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pavankrish1,Ultra-Fast Mathematician,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+pavankrish1,Hard Work,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,strings
+amin.solhizadeh,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+amin.solhizadeh,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+amin.solhizadeh,Enemy is weak,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+wenming17,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pratvick,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pratvick,Hard Work,1,B,1,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+Malibu-6009,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lnman,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BOTL.T,Ultra-Fast Mathematician,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gvalenok,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gvalenok,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+nisha2009331024,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+EvAn,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+EvAn,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+gauravs,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gauravs,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+nurdaulet,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+strelok1918,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,implementation
+strelok1918,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+strelok1918,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+shubham.velocity,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shubham.velocity,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+gonecrazy,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gonecrazy,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+gonecrazy,Enemy is weak,1,E,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+ty70,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KOKS,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KOKS,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+magzhan,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+magzhan,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+magzhan,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+magzhan,Enemy is weak,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+multisystem,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+multisystem,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,strings
+multisystem,Capture Valerian,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+iman_MC,Ultra-Fast Mathematician,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+iman_MC,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+fullaccepted,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fullaccepted,Hard Work,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+krishbharadwaj,Ultra-Fast Mathematician,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sami001,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hapuk,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hapuk,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+akashs.cse,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+akashs.cse,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Kreator,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kreator,Hard Work,1,B,0,0,0,0,2,7,0,0,0,0,0,0,0,1,0,0,0,strings
+A_rustam_rustam,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+A_rustam_rustam,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+A_rustam_rustam,Enemy is weak,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,trees"
+Mahrud,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mahrud,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mahrud,Eternal Victory,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+Datsik_Anton,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Datsik_Anton,Enemy is weak,1,E,0,0,0,0,0,3,0,0,1,0,0,0,0,1,0,0,0,"data structures,trees"
+nz1,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+T-30,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+T-30,Hard Work,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+T-30,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Xottab,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Xottab,Enemy is weak,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+Xottab,Hard Work,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,strings
+tk_,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tierex02,Ultra-Fast Mathematician,1,A,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tierex02,Hard Work,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,strings
+Ayan_Baitassov,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MikeNirzayanov,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+STINGER,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+STINGER,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ray040123,Ultra-Fast Mathematician,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ray040123,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ray040123,Eternal Victory,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+ray040123,Capture Valerian,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+PAG,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PAG,Hard Work,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+PAG,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Wahba,Ultra-Fast Mathematician,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Wahba,Hard Work,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Wahba,Capture Valerian,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+sebastian_g,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sebastian_g,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sebastian_g,Capture Valerian,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+cst,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cst,Hard Work,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+Meirambek,Ultra-Fast Mathematician,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+Spiderman,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Spiderman,Hard Work,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Spiderman,Enemy is weak,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,trees"
+lame,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhan-1995,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhan-1995,Enemy is weak,1,E,0,0,0,1,0,0,0,2,1,0,0,0,0,1,0,0,0,"data structures,trees"
+Yera,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Yera,Hard Work,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Yera,Enemy is weak,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"data structures,trees"
+chanshimudingxi,Ultra-Fast Mathematician,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+waynecolvin,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+waynecolvin,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+KENT_04,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sergei.voroncov,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sergei.voroncov,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mehran-r,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Martuza,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sotonamitol,Ultra-Fast Mathematician,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sombody,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhandos,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhandos,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Profvip.Abotaleb,Ultra-Fast Mathematician,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Profvip.Abotaleb,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+IOI_2014,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Palci-Udalci,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Baha_ktl,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Baha_ktl,Eternal Victory,1,D,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+Baha_ktl,Enemy is weak,0,E,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"data structures,trees"
+TRUONG,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TRUONG,Hard Work,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+TRUONG,Eternal Victory,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+Saken,Ultra-Fast Mathematician,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Saken,Hard Work,1,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Saken,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+PashaAC,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PashaAC,Hard Work,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+PashaAC,Enemy is weak,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"data structures,trees"
+A_wu,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+A_wu,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+najim4689,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+raul.lp,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+limiTed,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+limiTed,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+red_skull,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+red_skull,Hard Work,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+codebugger,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+codebugger,Hard Work,1,B,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+lizan,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lizan,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+shirinvafaee,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shirinvafaee,Eternal Victory,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+just_alisher,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Thug,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Thug,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Thug,Enemy is weak,1,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+nehajoshi,Ultra-Fast Mathematician,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+TecktonickKiller,Ultra-Fast Mathematician,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+TecktonickKiller,Hard Work,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,strings
+FSOG,Hard Work,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+FSOG,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fateme.ghanaat,Ultra-Fast Mathematician,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+eagleflying,Ultra-Fast Mathematician,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tiirz,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+amit36,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+eisenheim,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+eisenheim,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+myltik,Ultra-Fast Mathematician,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+myltik,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+myltik,Eternal Victory,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+xiaohongmusic,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xiaohongmusic,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,strings
+rafa.cipri,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rafa.cipri,Hard Work,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+vlade087,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vlade087,Hard Work,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+beginner117,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Adai_is,Ultra-Fast Mathematician,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+iYoung,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+iYoung,Hard Work,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,strings
+sgulkinnos,Ultra-Fast Mathematician,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MaeSTRo,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+MaeSTRo,Eternal Victory,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+Serg,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Serg,Hard Work,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+zhuraulevich,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhuraulevich,Hard Work,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+demipenguin,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ashmantak,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+m3m,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+m3m,Hard Work,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,strings
+azophy,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+azophy,Hard Work,1,B,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,strings
+azophy,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+azophy,Enemy is weak,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+Tahmid,Hard Work,0,B,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,strings
+Tahmid,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+web_officer,Ultra-Fast Mathematician,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+web_officer,Hard Work,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+TRR,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TRR,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+shtorm941,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BII,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BII,Enemy is weak,1,E,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0,0,"data structures,trees"
+MOBIUSi,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lastassassin,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+lastassassin,Enemy is weak,1,E,0,0,0,0,1,3,0,3,0,0,0,0,0,1,0,0,0,"data structures,trees"
+RDR,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nivikz,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nivikz,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+DarkYoshi,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DarkYoshi,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+DarkYoshi,Eternal Victory,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+mirdamad,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mirdamad,Enemy is weak,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+mirdamad,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+gangil,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+izuick,Ultra-Fast Mathematician,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+izuick,Hard Work,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Aizava,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wangzirui,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+master_mind,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+master_mind,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sanjid,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sanjid,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+K1R,Ultra-Fast Mathematician,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Toj_yuan1028,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Toj_yuan1028,Hard Work,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Toj_yuan1028,Capture Valerian,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Toj_yuan1028,Eternal Victory,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+looper,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pingvi,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pingvi,Hard Work,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+Waiter,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Waiter,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Vilo11,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Vilo11,Hard Work,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+madhu1990,Ultra-Fast Mathematician,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vinayjulme,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vinayjulme,Hard Work,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+rigelbm,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+laurenceHR,Ultra-Fast Mathematician,1,A,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+laurenceHR,Hard Work,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+mi_kami,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rock,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aristokrat,Eternal Victory,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+aristokrat,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+HoBBiT,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jie414341055,Hard Work,0,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+jie414341055,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jie414341055,Eternal Victory,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+jie414341055,Enemy is weak,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+Eng.Dalia,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+FORWARD,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CuTX,Ultra-Fast Mathematician,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alim,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+amiOachi,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+amiOachi,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+amiOachi,Capture Valerian,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+paulus,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+paulus,Hard Work,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+olduser,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+olduser,Hard Work,1,B,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,strings
+olduser,Capture Valerian,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+ashawkat89,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+omargr,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vprakash.gayasen,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vprakash.gayasen,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+vprakash.gayasen,Capture Valerian,1,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,math
+_jte_,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+_jte_,Hard Work,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+sungatfpc,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Isachenko,Enemy is weak,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+Isachenko,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Isachenko,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Isachenko,Eternal Victory,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,graphs,greedy,shortest paths,trees"
+tausif,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tausif,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+115755,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+115755,Hard Work,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+BIT,Ultra-Fast Mathematician,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+BIT,Hard Work,1,B,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Gabriel_Irfon,Enemy is weak,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,trees"
+Inspired,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eather,Ultra-Fast Mathematician,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+alibek_1,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alibek_1,Hard Work,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Mrs.Jehad,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mrs.Jehad,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+neo2100,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sifat666,Hard Work,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+sifat666,Ultra-Fast Mathematician,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Arsalan,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aitbayev,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aitbayev,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+aitbayev,Enemy is weak,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,trees"
+battosai,Ultra-Fast Mathematician,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+h.alex.ivye,Ultra-Fast Mathematician,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+h.alex.ivye,Hard Work,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings

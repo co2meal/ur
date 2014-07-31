@@ -1,0 +1,912 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+atetubou,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+atetubou,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+atetubou,Bulls and Cows,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+atetubou,Dividing Island,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+test1,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+test1,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yowa,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+yowa,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yowa,Bulls and Cows,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+yowa,Dividing Island,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+yowa,Sweets Game,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,dfs and similar,dp,games,implementation"
+destroyer,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+destroyer,Settlers' Training,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+destroyer,Bulls and Cows,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+destroyer,Dividing Island,1,D,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+misha_hkl,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+misha_hkl,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+misha_hkl,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+misha_hkl,Dividing Island,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+metar,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+metar,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+metar,Bulls and Cows,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+metar,Sweets Game,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dfs and similar,dp,games,implementation"
+nai_62,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+nai_62,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nai_62,Bulls and Cows,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+nai_62,Dividing Island,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+nai_62,Sweets Game,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dfs and similar,dp,games,implementation"
+strelok1918,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+strelok1918,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+strelok1918,Bulls and Cows,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+1tthinking,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+1tthinking,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+1tthinking,Bulls and Cows,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+1tthinking,Dividing Island,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+1tthinking,Sweets Game,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dfs and similar,dp,games,implementation"
+levlam,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+levlam,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+levlam,Bulls and Cows,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+levlam,Dividing Island,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+levlam,Sweets Game,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dfs and similar,dp,games,implementation"
+_Vadim_,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+_Vadim_,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+_Vadim_,Dividing Island,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+d_i,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+d_i,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+d_i,Dividing Island,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+nextgen,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+nextgen,Settlers' Training,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+Shark1919,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Shark1919,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+morojenoe,Sinking Ship,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+morojenoe,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mohamed.gaber,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+mohamed.gaber,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mohamed.gaber,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+meow,Sinking Ship,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+meow,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+meow,Bulls and Cows,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Shafaet,Sinking Ship,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Shafaet,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Spiderman,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Spiderman,Settlers' Training,1,B,1,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+sandro_barna,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+sandro_barna,Settlers' Training,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+baf585d,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+baf585d,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+baf585d,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+baf585d,Sweets Game,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dfs and similar,dp,games,implementation"
+best.ua,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+best.ua,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+best.ua,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+best.ua,Dividing Island,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+nota,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+nota,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nota,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+magdi,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+magdi,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+a_bekzat,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+a_bekzat,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+just_alisher,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+just_alisher,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+A_rustam_rustam,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+A_rustam_rustam,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BenderRodriges,Sinking Ship,0,A,1,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+BenderRodriges,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+BenderRodriges,Dividing Island,1,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dieglaube,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+dieglaube,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dieglaube,Bulls and Cows,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dieglaube,Dividing Island,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+evgentu,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+evgentu,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+evgentu,Bulls and Cows,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Bidhan,Sinking Ship,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Bidhan,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+K0stIa,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+K0stIa,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+K0stIa,Dividing Island,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+acc1,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+acc1,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TFTM,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+TFTM,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mob_lived,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+mob_lived,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pichulia,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+pichulia,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pichulia,Bulls and Cows,1,C,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+lijunle,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+lijunle,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lijunle,Bulls and Cows,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+lijunle,Dividing Island,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Creed,Sinking Ship,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Creed,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Creed,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+anuar_721,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+anuar_721,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zermx_011,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+zermx_011,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ideamonk,Sinking Ship,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+ideamonk,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ideamonk,Bulls and Cows,1,C,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+BLR,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+BLR,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BLR,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+odule,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+odule,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dennismv,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Templar,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Templar,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TheRaven,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+TheRaven,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TheRaven,Bulls and Cows,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+TheRaven,Dividing Island,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+TheRaven,Sweets Game,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dfs and similar,dp,games,implementation"
+morze,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+morze,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+morze,Dividing Island,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+RDR,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+RDR,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+delta_4d,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+delta_4d,Settlers' Training,0,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+delta_4d,Bulls and Cows,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+delta_4d,Dividing Island,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+KTY,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+KTY,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KTY,Dividing Island,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+KTY,Bulls and Cows,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+masibonge,Sinking Ship,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+masibonge,Settlers' Training,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dr.McKay,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Dr.McKay,Settlers' Training,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+agrigoroi,Sinking Ship,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+agrigoroi,Settlers' Training,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+AleksBannikov,Sinking Ship,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+AleksBannikov,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AleksBannikov,Dividing Island,1,D,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Rosetta,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Rosetta,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Omar.Darwish,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Omar.Darwish,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Omar.Darwish,Bulls and Cows,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Omar.Darwish,Dividing Island,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Aleksander,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Aleksander,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aleksander,Bulls and Cows,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Aleksander,Dividing Island,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+guestonearth,Sinking Ship,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+guestonearth,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+rayevg,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+rayevg,Settlers' Training,1,B,0,0,0,0,0,1,0,1,0,3,0,0,0,0,0,0,0,implementation
+yarrr,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+yarrr,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yarrr,Bulls and Cows,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+yarrr,Dividing Island,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+yarrr,Sweets Game,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dfs and similar,dp,games,implementation"
+mhm.asghari,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+mhm.asghari,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mhm.asghari,Bulls and Cows,0,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mhm.asghari,Dividing Island,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+JFantasy,Sinking Ship,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+JFantasy,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+JFantasy,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+JFantasy,Dividing Island,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+sash6589,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+sash6589,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+McLaren,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+McLaren,Settlers' Training,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+Tinkturianec,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Tinkturianec,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tinkturianec,Bulls and Cows,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Tinkturianec,Dividing Island,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+gkhm,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+gkhm,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+4ybakut2004,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+4ybakut2004,Settlers' Training,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,implementation
+prikolist,Sinking Ship,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+prikolist,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+prikolist,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+newEra,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+newEra,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Scientist1642,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Scientist1642,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Scientist1642,Bulls and Cows,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Rupak,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Rupak,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jariasf,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+jariasf,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+msagimbekov,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+msagimbekov,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+msagimbekov,Dividing Island,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+islam-al-aarag,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+islam-al-aarag,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+islam-al-aarag,Dividing Island,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+islam-al-aarag,Bulls and Cows,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+parklinkivic,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Shuaib,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Shuaib,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+logN,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+logN,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+logN,Dividing Island,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Simeon,Sinking Ship,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Simeon,Settlers' Training,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hardyyeh,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+hardyyeh,Settlers' Training,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hardyyeh,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+yuta1024,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+yuta1024,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+suneast,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+suneast,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+suneast,Bulls and Cows,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+suneast,Dividing Island,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+suneast,Sweets Game,1,E,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dfs and similar,dp,games,implementation"
+Ever1989,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Ever1989,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ever1989,Bulls and Cows,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+moggiozzi,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+moggiozzi,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+moggiozzi,Bulls and Cows,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+filipus,Sinking Ship,0,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+filipus,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pashteiner,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+pashteiner,Settlers' Training,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+f.nasim,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+f.nasim,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tunyash,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+tunyash,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tunyash,Bulls and Cows,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+tunyash,Dividing Island,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+sh19910711,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+sh19910711,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sh19910711,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Dmitry93,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Dmitry93,Settlers' Training,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+zsjzer,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+zsjzer,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zsjzer,Dividing Island,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+zsjzer,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+zsjzer,Sweets Game,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"bitmasks,dfs and similar,dp,games,implementation"
+Surogatov_S,Sinking Ship,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Surogatov_S,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dk123321,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+dk123321,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dreamoon,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+dreamoon,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dreamoon,Bulls and Cows,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dreamoon,Dividing Island,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dreamoon,Sweets Game,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dfs and similar,dp,games,implementation"
+pcsin,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+pcsin,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+d1xlord,Sinking Ship,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+d1xlord,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+U_E_D,Sinking Ship,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+U_E_D,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+farhan_iut,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+farhan_iut,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hapuk,Sinking Ship,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+ekrilov92,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+ekrilov92,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+victor.juquila,Sinking Ship,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+victor.juquila,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+victor.juquila,Bulls and Cows,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+n00b,Sinking Ship,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+n00b,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+n00b,Bulls and Cows,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+zafar_sust_bd,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+zafar_sust_bd,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+era_kaz_93,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+era_kaz_93,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+era_kaz_93,Bulls and Cows,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+MyXoBeK,Sinking Ship,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+MyXoBeK,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tahmid,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Tahmid,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+omir,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+omir,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+omir,Dividing Island,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+shababhsiddique,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+shababhsiddique,Settlers' Training,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+TMandzu,Sinking Ship,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+TMandzu,Settlers' Training,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pheonix,Sinking Ship,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+pheonix,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+husseincoder,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+husseincoder,Settlers' Training,0,B,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,implementation
+husseincoder,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+marvin666,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+marvin666,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Wahba,Sinking Ship,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Wahba,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+olduser,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+olduser,Settlers' Training,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+fullaccepted,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+fullaccepted,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fullaccepted,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Fixeg,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Fixeg,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fixeg,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+natsuki_i,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+natsuki_i,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MOZGOLOM,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+MOZGOLOM,Settlers' Training,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Iain,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Iain,Dividing Island,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+eldar,Sinking Ship,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+eldar,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+eldar,Dividing Island,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dimuthu,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+dimuthu,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tarto,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+tarto,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tarto,Dividing Island,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+deximat,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+deximat,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+deximat,Dividing Island,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+AnnaS,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+AnnaS,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AnnaS,Bulls and Cows,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+AnnaS,Dividing Island,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dharusimu,Sinking Ship,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+dharusimu,Settlers' Training,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dharusimu,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+CroDoc,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+CroDoc,Settlers' Training,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+CroDoc,Bulls and Cows,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+CroDoc,Dividing Island,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+nurs,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+nurs,Settlers' Training,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fujiyama,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+fujiyama,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fujiyama,Dividing Island,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+yasulib,Sinking Ship,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+yasulib,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hacker007,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+hacker007,Settlers' Training,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+Mazeev,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Mazeev,Settlers' Training,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mazeev,Bulls and Cows,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Yan_Kurganov_Kovrov_STA,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Yan_Kurganov_Kovrov_STA,Settlers' Training,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Beast,Sinking Ship,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Beast,Settlers' Training,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+wangshaobiao,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+wangshaobiao,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wangshaobiao,Bulls and Cows,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+EKG,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+EKG,Settlers' Training,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+EKG,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+SerCe,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+SerCe,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shidfar,Sinking Ship,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Shidfar,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhuravlyov.A,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Zhuravlyov.A,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhuravlyov.A,Dividing Island,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dulat14,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+dulat14,Settlers' Training,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sasa_0824,Sinking Ship,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Sasa_0824,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sasa_0824,Bulls and Cows,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Sasa_0824,Dividing Island,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+TRR,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Logout,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Logout,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Amrodis,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Amrodis,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nadezhda,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Nadezhda,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nadezhda,Dividing Island,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Nadezhda,Bulls and Cows,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+TRUONG,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+TRUONG,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TRUONG,Bulls and Cows,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+eoranged,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+waiter_pvl,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+waiter_pvl,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+ufo008ahw,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+ufo008ahw,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ufo008ahw,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+CroIgi,Sinking Ship,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+CroIgi,Settlers' Training,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+komron_hkl,Sinking Ship,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+komron_hkl,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+eater,Sinking Ship,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,"implementation,sortings,strings"
+eater,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+eater,Bulls and Cows,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+HourGlass,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+HourGlass,Settlers' Training,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+cartesio,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+cartesio,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cartesio,Bulls and Cows,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Roschin,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Roschin,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Roschin,Bulls and Cows,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+galiver,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+galiver,Settlers' Training,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+San_Sany4,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+San_Sany4,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+San_Sany4,Bulls and Cows,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+paulocezar,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+paulocezar,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Perlik,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Perlik,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+akashs.cse,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+akashs.cse,Settlers' Training,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+TangJie,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+TangJie,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TangJie,Bulls and Cows,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+TangJie,Dividing Island,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+eswaramaharaja,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+eswaramaharaja,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+STINGER,Sinking Ship,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+STINGER,Settlers' Training,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+almaz_kh,Sinking Ship,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+almaz_kh,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dimasta,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+dimasta,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dimasta,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+lobo,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+kotokur,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+kotokur,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alexanderrrr,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Alexanderrrr,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BIT,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+BIT,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BIT,Dividing Island,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ahmedsaad,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+ahmedsaad,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+0xyG3N,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+0xyG3N,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ardmn,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+ardmn,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tsvetujochka,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+tsvetujochka,Settlers' Training,1,B,1,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,implementation
+ZobninVladislav_It-Team,Sinking Ship,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+ZobninVladislav_It-Team,Settlers' Training,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kroykroy,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+kroykroy,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alik,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+alik,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mrs.Jehad,Sinking Ship,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Mrs.Jehad,Settlers' Training,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mrs.Jehad,Bulls and Cows,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+windoanvn,Sinking Ship,1,A,1,0,0,0,2,8,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+zjy3186511,Sinking Ship,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+zjy3186511,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nfs420,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+nfs420,Settlers' Training,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+bmsujon,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+bmsujon,Settlers' Training,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+000golabi,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+000golabi,Settlers' Training,0,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+000golabi,Bulls and Cows,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+vmgurov,Sinking Ship,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+vmgurov,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+gebetix,Sinking Ship,1,A,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+gebetix,Settlers' Training,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+Fhtagn,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Fhtagn,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fhtagn,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Fhtagn,Dividing Island,1,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+CKhye,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+CKhye,Settlers' Training,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CKhye,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+beq,Sinking Ship,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+beq,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+beq,Dividing Island,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+beq,Sweets Game,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dfs and similar,dp,games,implementation"
+beq,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+t.gogniashvili,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+t.gogniashvili,Bulls and Cows,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+gurpreet_09,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+gurpreet_09,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gurpreet_09,Bulls and Cows,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+zhuraulevich,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+zhuraulevich,Settlers' Training,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Anurag,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Anurag,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nandar.rustam,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+nandar.rustam,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+a286729485,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+a286729485,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+a286729485,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ilnuribat,Sinking Ship,1,A,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+HellCom,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+HellCom,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alexander-1709,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Alexander-1709,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mehran-r,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Mehran-r,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lazzrov,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+lazzrov,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+D.M.,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+D.M.,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hemant_baid,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+akakiy,Sinking Ship,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+akakiy,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+lorsbfly,Sinking Ship,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+lorsbfly,Settlers' Training,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eternity,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+MIM,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+MIM,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MiniAvarec,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+MiniAvarec,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TAS,Sinking Ship,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+OSt,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+OSt,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+OSt,Bulls and Cows,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+aslan95,Sinking Ship,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+aslan95,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+velraman,Sinking Ship,0,A,0,0,0,4,5,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+velraman,Settlers' Training,0,B,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,implementation
+Cromel,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Cromel,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+OKOKOK,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+OKOKOK,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vicD,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+vicD,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jamik,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Jamik,Settlers' Training,1,B,1,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+alibek_1,Sinking Ship,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+alibek_1,Settlers' Training,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+kemo,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Nike,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Nike,Settlers' Training,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+HJWAJ,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+HJWAJ,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+HJWAJ,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+HJWAJ,Dividing Island,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dima11221122,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+dima11221122,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mars314,Sinking Ship,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Mars314,Settlers' Training,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+rifat,Sinking Ship,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+rifat,Settlers' Training,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Vitaly,Sinking Ship,0,A,1,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Vitaly,Settlers' Training,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Vitaly,Dividing Island,1,D,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Zhandos,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Zhandos,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alena,Settlers' Training,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alena,Sinking Ship,0,A,0,0,0,2,1,5,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Tariqul,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Tariqul,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+UMysin,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+UMysin,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+UMysin,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+trycoder,Sinking Ship,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+trycoder,Settlers' Training,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+tiirz,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+tiirz,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lnman,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+lnman,Settlers' Training,1,B,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,implementation
+anas,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+anas,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+erzhan,Sinking Ship,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+erzhan,Settlers' Training,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+anshusaurav,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+anshusaurav,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+anshusaurav,Bulls and Cows,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Belbesy,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Belbesy,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+new,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+new,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+andra23,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+andra23,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+akram,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+akram,Settlers' Training,1,B,1,0,0,1,1,0,0,6,0,0,0,0,0,0,0,0,0,implementation
+pumpkin,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+pumpkin,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pumpkin,Bulls and Cows,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+JIOPD-XCII,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+JIOPD-XCII,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ulugbek89s,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+ulugbek89s,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+m3m,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+m3m,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+foreigner,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+foreigner,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wil93,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+wil93,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Remstam,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Remstam,Settlers' Training,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+labi,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+mi_kami,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+mi_kami,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+SmartCoder,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+SmartCoder,Settlers' Training,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gauravs,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+gauravs,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Maksat,Sinking Ship,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Maksat,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Horuka,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Horuka,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+happy,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+happy,Settlers' Training,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Saken,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Saken,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+amiOachi,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+amiOachi,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ko-sova,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+ko-sova,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+HeVy,Sinking Ship,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+HeVy,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kumar_ajay,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+kumar_ajay,Settlers' Training,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kael2z,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kael2z,Sinking Ship,1,A,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Alisafe,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Alisafe,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alisafe,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+fierdor,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+fierdor,Settlers' Training,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Woodpecker,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Woodpecker,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Woodpecker,Bulls and Cows,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+darkl0rd,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+darkl0rd,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+darkl0rd,Bulls and Cows,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+krhgg,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+krhgg,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+krhgg,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Yera,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Yera,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Arsonic,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Arsonic,Settlers' Training,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,implementation
+Fett,Sinking Ship,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Fett,Settlers' Training,1,B,1,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,implementation
+PAG,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+PAG,Dividing Island,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Clasker,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Clasker,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sanchit_h,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+sanchit_h,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vfix,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+vfix,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+paulus,Sinking Ship,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Eather,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+kyonghun90,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+kyonghun90,Settlers' Training,1,B,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,implementation
+.C0D3R,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+.C0D3R,Settlers' Training,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhan-1995,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Zhan-1995,Settlers' Training,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+amee_csedu,Sinking Ship,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+amee_csedu,Settlers' Training,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+CodeFreak,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+CodeFreak,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ArhAngel,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+ArhAngel,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ArhAngel,Dividing Island,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Hangibhom,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Hangibhom,Settlers' Training,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tsotneguti,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+nenad,Sinking Ship,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+nenad,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jahrakal,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Jahrakal,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DarkYoshi,Sinking Ship,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+DarkYoshi,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+T-30,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+T-30,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+seen,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+seen,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+seen,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+daniil_tropin,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+daniil_tropin,Settlers' Training,1,B,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+arpit_mittal,Sinking Ship,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+arpit_mittal,Settlers' Training,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Wayne,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Wayne,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Wayne,Bulls and Cows,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Wayne,Dividing Island,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+sourav_22,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+sourav_22,Settlers' Training,1,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,implementation
+aakashj.sky,Sinking Ship,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+aakashj.sky,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tamerlan4572,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+tamerlan4572,Settlers' Training,1,B,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+abdukodir,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+abdukodir,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+madhu1990,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+yuanhang,Sinking Ship,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+yuanhang,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kirakira,Sinking Ship,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+kirakira,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+firecrest,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+firecrest,Settlers' Training,1,B,1,0,0,2,3,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+Affina,Sinking Ship,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Affina,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Affina,Bulls and Cows,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Affina,Dividing Island,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+alexpodkin,Sinking Ship,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,sortings,strings"
+alexpodkin,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gangil,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+gangil,Settlers' Training,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+anuragsingh,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+anuragsingh,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sPplash,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+sPplash,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+akazz,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+akazz,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+TALGAT,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+TALGAT,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+d40a,Sinking Ship,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+d40a,Settlers' Training,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+roxion1377,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+ajay0221,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+ajay0221,Settlers' Training,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+lastassassin,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+lastassassin,Settlers' Training,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+leha_raketa96,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+leha_raketa96,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Baha_ktl,Sinking Ship,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+intruder,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+intruder,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pioneer,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+pioneer,Settlers' Training,1,B,0,0,0,1,0,2,0,2,0,0,0,0,0,0,0,0,0,implementation
+mayconmaia,Sinking Ship,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+mayconmaia,Settlers' Training,1,B,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nurdaulet,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+nurdaulet,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mehrankhodabandeh,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+mehrankhodabandeh,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mehrankhodabandeh,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Nivikz,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Nivikz,Settlers' Training,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruban,Sinking Ship,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+ruban,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+EG0R,Sinking Ship,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Zahra,Sinking Ship,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Zahra,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+oskirych,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+oskirych,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+mha_bd,Sinking Ship,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+mha_bd,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ankit_shukla,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ankit_shukla,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+ankit_shukla,Bulls and Cows,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+ybc_c,Sinking Ship,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+ybc_c,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pingvi,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Pingvi,Settlers' Training,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+shtorm941,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+shtorm941,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+eclips,Sinking Ship,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+eclips,Settlers' Training,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+k1-801,Settlers' Training,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+buldoQ,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+vishnutej,Sinking Ship,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+vishnutej,Settlers' Training,1,B,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,implementation
+Gabriel_Irfon,Sinking Ship,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Gabriel_Irfon,Settlers' Training,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mariya_atm,Settlers' Training,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mariya_atm,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+tam_71,Sinking Ship,1,A,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Daniyar_7,Sinking Ship,0,A,0,0,0,1,2,1,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Daniyar_7,Settlers' Training,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cswudi_java,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+cswudi_java,Settlers' Training,0,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cswudi_java,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+navi-spb,Sinking Ship,1,A,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+navi-spb,Settlers' Training,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+root5,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+root5,Settlers' Training,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Xottab,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Xottab,Settlers' Training,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+stefandechev,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+stefandechev,Settlers' Training,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+MOBIUSi,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+MOBIUSi,Settlers' Training,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+PR0CESS0R,Sinking Ship,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+MidNight,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+MidNight,Settlers' Training,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sakib.malek,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+sakib.malek,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ty70,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+ty70,Settlers' Training,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+selfcheck,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+selfcheck,Settlers' Training,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Roma-PKTL,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Roma-PKTL,Settlers' Training,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexandar92,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+alexandar92,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+codebugger,Sinking Ship,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+codebugger,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+nehajoshi,Sinking Ship,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Profvip.Abotaleb,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Profvip.Abotaleb,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+miniput,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+miniput,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Ksu_PomorSU,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Ksu_PomorSU,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+juancate,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+juancate,Settlers' Training,1,B,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,implementation
+Algorithm,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Algorithm,Settlers' Training,1,B,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,implementation
+nobody,Sinking Ship,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"implementation,sortings,strings"
+born_coder,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+born_coder,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+born_coder,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+gifer,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+gifer,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+siyuefeng,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+ziadouf,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Atiq,Sinking Ship,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Atiq,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Electronick,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Electronick,Settlers' Training,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Electronick,Bulls and Cows,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Stanisl,Sinking Ship,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Stanisl,Settlers' Training,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pratvick,Sinking Ship,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+pratvick,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ameydhar,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Daiki_Ando,Sinking Ship,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Daiki_Ando,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Daiki_Ando,Bulls and Cows,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Daiki_Ando,Dividing Island,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+theriddler000,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+theriddler000,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fayaz_iut,Sinking Ship,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Ab.Sultan,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ab.Sultan,Bulls and Cows,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Offer,Sinking Ship,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Offer,Settlers' Training,1,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Petruchcho,Settlers' Training,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Petruchcho,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Petruchcho,Sweets Game,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dfs and similar,dp,games,implementation"
+alpc86,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+alpc86,Settlers' Training,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jhtan,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+jhtan,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vinayjulme,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+vinayjulme,Settlers' Training,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+DarkKnight,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+DarkKnight,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Exerus,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+karburato,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+karburato,Settlers' Training,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+FORWARD,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Aslan.m,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Aslan.m,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sorcerer,Sinking Ship,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Sorcerer,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Casio,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Casio,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Casio,Bulls and Cows,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Adai_is,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Adai_is,Settlers' Training,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+biscuit,Sinking Ship,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"implementation,sortings,strings"
+biscuit,Settlers' Training,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gonecrazy,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+gonecrazy,Settlers' Training,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dushaigor,Settlers' Training,0,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+violin,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+violin,Settlers' Training,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Yahoo,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Yahoo,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+photoip,Sinking Ship,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+BonuX,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+BonuX,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+EvAn,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+EvAn,Settlers' Training,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+LordArtur,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Viu,Sinking Ship,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Viu,Settlers' Training,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eng.Dalia,Sinking Ship,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Eng.Dalia,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+oneof.rebel,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Noah,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+filipkatanic,Settlers' Training,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mary,Sinking Ship,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+MikeNirzayanov,Sinking Ship,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+HoBBiT,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Firuz,Sinking Ship,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Firuz,Settlers' Training,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+SlavaS,Sinking Ship,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+TecktonickKiller,Sinking Ship,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+omargr,Settlers' Training,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+omargr,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+00000,Settlers' Training,1,B,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Isachenko,Sinking Ship,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+Isachenko,Settlers' Training,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Keerill,Settlers' Training,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,implementation
+lolik,Sinking Ship,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+di.dochek,Settlers' Training,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ashmantak,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"
+melody,Bulls and Cows,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+melody,Settlers' Training,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+melody,Sinking Ship,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings,strings"

@@ -1,0 +1,791 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+DamianS,Clear Symmetry,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+DamianS,Guess That Car!,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+DamianS,Fragile Bridges,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Al.Cash,Clear Symmetry,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Al.Cash,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Al.Cash,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Al.Cash,Thoroughly Bureaucratic Organization,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,combinatorics"
+rankalee,Clear Symmetry,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+rankalee,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+rankalee,Fragile Bridges,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+AlexDmitriev,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+AlexDmitriev,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Gassa,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Gassa,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Gassa,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+rng_58,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+rng_58,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+rng_58,Fragile Bridges,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+rng_58,Thoroughly Bureaucratic Organization,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,combinatorics"
+rng_58,Brand New Problem,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force,dp"
+Dmitry_Egorov,Clear Symmetry,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Dmitry_Egorov,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Dmitry_Egorov,Fragile Bridges,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Dmitry_Egorov,Brand New Problem,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force,dp"
+thinfaifai,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+thinfaifai,Fragile Bridges,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+thinfaifai,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+thinfaifai,Brand New Problem,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force,dp"
+liympanda,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+liympanda,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+liympanda,Fragile Bridges,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+liympanda,Thoroughly Bureaucratic Organization,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,combinatorics"
+naagi,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+naagi,Guess That Car!,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+naagi,Fragile Bridges,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+s-quark,Clear Symmetry,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+s-quark,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+s-quark,Fragile Bridges,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+s-quark,Brand New Problem,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force,dp"
+FedyuninV,Clear Symmetry,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+FedyuninV,Guess That Car!,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+edly,Clear Symmetry,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+edly,Fragile Bridges,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+edly,Guess That Car!,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+ilyakor,Clear Symmetry,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+ilyakor,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+ilyakor,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+poao899,Clear Symmetry,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+poao899,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+poao899,Fragile Bridges,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+ggbuaa,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+ggbuaa,Guess That Car!,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+ggbuaa,Fragile Bridges,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+ggbuaa,Thoroughly Bureaucratic Organization,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,combinatorics"
+stubbscroll,Clear Symmetry,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+stubbscroll,Guess That Car!,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+fishpear,Clear Symmetry,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+fishpear,Guess That Car!,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"math,ternary search"
+fishpear,Fragile Bridges,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+ll931110,Clear Symmetry,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+ll931110,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+ll931110,Fragile Bridges,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+ll931110,Thoroughly Bureaucratic Organization,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,combinatorics"
+NALP,Clear Symmetry,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+NALP,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+NALP,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Igor_Kudryashov,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Igor_Kudryashov,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+havaliza,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+havaliza,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+havaliza,Fragile Bridges,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+havaliza,Thoroughly Bureaucratic Organization,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,combinatorics"
+oimaster,Clear Symmetry,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+oimaster,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+oimaster,Fragile Bridges,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+littlefriend,Clear Symmetry,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,dp,math"
+littlefriend,Guess That Car!,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+littlefriend,Fragile Bridges,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+nodchip,Clear Symmetry,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+nodchip,Fragile Bridges,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+nodchip,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+evima,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+evima,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+This_poet,Clear Symmetry,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+This_poet,Fragile Bridges,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Andrew_Makar,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Andrew_Makar,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Andrew_Makar,Fragile Bridges,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+R_R_,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+R_R_,Guess That Car!,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+R_R_,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+natsugiri,Clear Symmetry,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+natsugiri,Guess That Car!,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+tunyash,Clear Symmetry,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+tunyash,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+tunyash,Fragile Bridges,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+kelvin,Clear Symmetry,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+kelvin,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+kelvin,Fragile Bridges,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+kelvin,Thoroughly Bureaucratic Organization,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,combinatorics"
+Monyura,Clear Symmetry,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Monyura,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Egor,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Egor,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Egor,Fragile Bridges,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+jablko,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+jablko,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+jablko,Fragile Bridges,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+arti1990,Clear Symmetry,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+arti1990,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+arti1990,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+lzqxh,Clear Symmetry,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+lzqxh,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+lzqxh,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+lzqxh,Thoroughly Bureaucratic Organization,1,E,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,combinatorics"
+ydnl,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+ydnl,Guess That Car!,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+ydnl,Fragile Bridges,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+al13n,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+al13n,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+al13n,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+al13n,Brand New Problem,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force,dp"
+seanwu,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+seanwu,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+seanwu,Fragile Bridges,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+tanzaku,Clear Symmetry,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+tanzaku,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+tanzaku,Fragile Bridges,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+andreyv,Clear Symmetry,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+zcwwzdjn,Clear Symmetry,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+zcwwzdjn,Fragile Bridges,0,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+zcwwzdjn,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+sspa,Clear Symmetry,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+sspa,Guess That Car!,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+forifchen,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+forifchen,Fragile Bridges,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+forifchen,Guess That Car!,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Merlininice,Clear Symmetry,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Merlininice,Guess That Car!,1,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"math,ternary search"
+asembl,Clear Symmetry,1,A,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+asembl,Fragile Bridges,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+salex,Clear Symmetry,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+salex,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+salex,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sanzunonyasama,Clear Symmetry,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+sanzunonyasama,Guess That Car!,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+sanzunonyasama,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+jonathanasdf,Clear Symmetry,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+jonathanasdf,Guess That Car!,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,"math,ternary search"
+KarlisS,Clear Symmetry,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+KarlisS,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+KarlisS,Fragile Bridges,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+zemen,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+zemen,Guess That Car!,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+zemen,Fragile Bridges,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Ignat,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Ignat,Guess That Car!,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Ignat,Fragile Bridges,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+riad,Clear Symmetry,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+riad,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+riad,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dani1373,Clear Symmetry,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+dani1373,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+0O0o00OO0Oo0o0Oo,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+0O0o00OO0Oo0o0Oo,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+0O0o00OO0Oo0o0Oo,Fragile Bridges,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+0O0o00OO0Oo0o0Oo,Thoroughly Bureaucratic Organization,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,combinatorics"
+nakari1124,Clear Symmetry,0,A,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+nakari1124,Guess That Car!,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+nakari1124,Fragile Bridges,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+StefanoT,Clear Symmetry,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+StefanoT,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Archon.JK,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Archon.JK,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Archon.JK,Fragile Bridges,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Archon.JK,Thoroughly Bureaucratic Organization,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,combinatorics"
+metar,Clear Symmetry,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+pedrovictor,Clear Symmetry,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+pedrovictor,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+eduardische,Clear Symmetry,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+eduardische,Guess That Car!,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"math,ternary search"
+eduardische,Fragile Bridges,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+maksay,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+maksay,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+maksay,Fragile Bridges,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+JKeeJ1e30,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+JKeeJ1e30,Guess That Car!,1,B,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+JKeeJ1e30,Fragile Bridges,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+ikar,Clear Symmetry,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+lyoz,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+lyoz,Guess That Car!,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"math,ternary search"
+EbTech,Fragile Bridges,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+EbTech,Guess That Car!,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+EbTech,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Pad,Clear Symmetry,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Pad,Fragile Bridges,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+zcg.cs60,Clear Symmetry,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+zcg.cs60,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Rubanenko,Clear Symmetry,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Rubanenko,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+-DMYTRO-,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+-DMYTRO-,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+-DMYTRO-,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+yukim,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+yukim,Guess That Car!,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+yukim,Fragile Bridges,1,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,dp
+shinian,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+shinian,Fragile Bridges,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+YX201314,Clear Symmetry,0,A,1,0,0,0,0,7,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+YX201314,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+YX201314,Fragile Bridges,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+ztk,Clear Symmetry,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+ztk,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Milanin,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Milanin,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Milanin,Fragile Bridges,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Milanin,Brand New Problem,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force,dp"
+dreamoon,Clear Symmetry,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+dreamoon,Fragile Bridges,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+dreamoon,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+dreamoon,Thoroughly Bureaucratic Organization,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,combinatorics"
+iloahz,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+iloahz,Fragile Bridges,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+iloahz,Guess That Car!,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+WXYZ,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+WXYZ,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+WXYZ,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sky58,Clear Symmetry,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+sky58,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+sky58,Fragile Bridges,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+sky58,Thoroughly Bureaucratic Organization,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,combinatorics"
+Ilya_MSU,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Ilya_MSU,Guess That Car!,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Ilya_MSU,Fragile Bridges,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+cyk2011,Clear Symmetry,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+bcurcio,Clear Symmetry,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+bcurcio,Fragile Bridges,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,dp
+bcurcio,Guess That Car!,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"math,ternary search"
+alger95,Clear Symmetry,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+alger95,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+alger95,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+fura,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Bugman,Clear Symmetry,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Bugman,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Bugman,Brand New Problem,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force,dp"
+tsukuno,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+tsukuno,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+wrong,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+wrong,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+wrong,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+cgy4ever,Clear Symmetry,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+cgy4ever,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+cgy4ever,Fragile Bridges,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,dp
+SergeyLazarev,Clear Symmetry,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+SergeyLazarev,Guess That Car!,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+SergeyLazarev,Fragile Bridges,1,C,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+bmerry,Fragile Bridges,0,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+bmerry,Clear Symmetry,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+bmerry,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+bmerry,Thoroughly Bureaucratic Organization,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,combinatorics"
+bmerry,Brand New Problem,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force,dp"
+fcspartakm,Clear Symmetry,1,A,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+fcspartakm,Guess That Car!,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+UESTC_Nocturne,Clear Symmetry,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+UESTC_Nocturne,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+UESTC_Nocturne,Brand New Problem,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force,dp"
+UESTC_Nocturne,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+RAVEman,Clear Symmetry,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+RAVEman,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+RAVEman,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+mruxim,Clear Symmetry,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+mruxim,Fragile Bridges,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+mruxim,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+BaJIuK,Clear Symmetry,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+BaJIuK,Guess That Car!,1,B,1,0,0,0,1,3,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+BaJIuK,Fragile Bridges,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+NotOnlySuccess,Clear Symmetry,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+NotOnlySuccess,Fragile Bridges,0,C,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,dp
+NotOnlySuccess,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+xiaodao,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+xiaodao,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Coder,Clear Symmetry,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Coder,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Coder,Fragile Bridges,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,dp
+sleepycoder,Clear Symmetry,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+sleepycoder,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+sleepycoder,Fragile Bridges,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+sdryapko,Clear Symmetry,0,A,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Amtrix,Clear Symmetry,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+Amtrix,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+kissbuaa,Clear Symmetry,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+kissbuaa,Guess That Car!,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+chhung6,Clear Symmetry,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+chhung6,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"math,ternary search"
+chhung6,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kannaduki,Clear Symmetry,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+kannaduki,Guess That Car!,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"math,ternary search"
+kannaduki,Fragile Bridges,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+tigvarts,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+tigvarts,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+tigvarts,Fragile Bridges,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+AleX,Clear Symmetry,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+AleX,Fragile Bridges,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+AleX,Thoroughly Bureaucratic Organization,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,combinatorics"
+Jokser,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Jokser,Clear Symmetry,1,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Jokser,Fragile Bridges,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+cafelier,Fragile Bridges,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+cafelier,Guess That Car!,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+cafelier,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+cafelier,Brand New Problem,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force,dp"
+phtniit,Clear Symmetry,0,A,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+phtniit,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+johnathan79717,Clear Symmetry,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+johnathan79717,Guess That Car!,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+AlanC,Clear Symmetry,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+AlanC,Fragile Bridges,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,dp
+AlanC,Guess That Car!,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+Fedepousa,Clear Symmetry,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Fedepousa,Guess That Car!,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+lisang,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+lisang,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Sereja,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Sereja,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Sereja,Fragile Bridges,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Sereja,Brand New Problem,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"bitmasks,brute force,dp"
+ACube,Clear Symmetry,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+ACube,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+ACube,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dhh1995,Clear Symmetry,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+dhh1995,Fragile Bridges,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+dhh1995,Guess That Car!,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Deamon,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Deamon,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Deamon,Fragile Bridges,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+danbanica,Clear Symmetry,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+danbanica,Guess That Car!,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"math,ternary search"
+hhoomn,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+hhoomn,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+izban,Clear Symmetry,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+izban,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+izban,Fragile Bridges,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+mmaxio,Clear Symmetry,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+mmaxio,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+mmaxio,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+michal27,Clear Symmetry,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Captain_CoCo,Clear Symmetry,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Captain_CoCo,Guess That Car!,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+kait,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+kait,Guess That Car!,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+kait,Fragile Bridges,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Ra16bit,Clear Symmetry,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Ra16bit,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Ra16bit,Fragile Bridges,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+Ra16bit,Brand New Problem,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force,dp"
+gen,Clear Symmetry,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+huangjizuo,Clear Symmetry,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+iama,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+iama,Guess That Car!,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+sm_hossein,Clear Symmetry,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+sm_hossein,Fragile Bridges,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+kohyatoh,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+kohyatoh,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+kohyatoh,Fragile Bridges,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kohyatoh,Brand New Problem,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force,dp"
+mR.ilchi,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+mR.ilchi,Fragile Bridges,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+mR.ilchi,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+johnLate,Clear Symmetry,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+logicmachine,Clear Symmetry,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Kostroma,Clear Symmetry,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Kostroma,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Kostroma,Fragile Bridges,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+Xnewfolder,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Xnewfolder,Guess That Car!,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+ghnjk,Clear Symmetry,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+ghnjk,Guess That Car!,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"math,ternary search"
+sniper0221,Clear Symmetry,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+sniper0221,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+sniper0221,Fragile Bridges,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+pershik,Clear Symmetry,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+pershik,Guess That Car!,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+giongto35,Clear Symmetry,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+giongto35,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+sdya,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+sdya,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+sdya,Fragile Bridges,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+dianbei,Clear Symmetry,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Pattara.S,Fragile Bridges,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Pattara.S,Clear Symmetry,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,2,0,0,0,"constructive algorithms,dp,math"
+Pattara.S,Guess That Car!,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+kormyshov,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+kormyshov,Guess That Car!,0,B,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"math,ternary search"
+kormyshov,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Simplex,Clear Symmetry,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Simplex,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Simplex,Fragile Bridges,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+jma127,Guess That Car!,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+jma127,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+ballon,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+ballon,Clear Symmetry,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+ballon,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Komaki,Clear Symmetry,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Komaki,Fragile Bridges,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Komaki,Guess That Car!,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Komaki,Thoroughly Bureaucratic Organization,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,combinatorics"
+Komaki,Brand New Problem,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,"bitmasks,brute force,dp"
+Nox,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Nox,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Nox,Fragile Bridges,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+ibra,Clear Symmetry,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+doraemon,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+doraemon,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Scientist1642,Clear Symmetry,0,A,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Anarivu,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Anarivu,Fragile Bridges,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+hiphip,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+hiphip,Guess That Car!,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+CleRIC,Clear Symmetry,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+CleRIC,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+AlTimin,Clear Symmetry,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+AlTimin,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+AlTimin,Brand New Problem,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force,dp"
+AlTimin,Fragile Bridges,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+malcolm,Clear Symmetry,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+malcolm,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+malcolm,Fragile Bridges,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Cepera,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Cepera,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Cepera,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+NickAltair,Clear Symmetry,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+ltaravilse,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+ltaravilse,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+K_operafan,Clear Symmetry,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+FattyPenguin,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+FattyPenguin,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+FattyPenguin,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Moskupols,Clear Symmetry,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+IlyaCk,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+IlyaCk,Guess That Car!,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+IlyaCk,Fragile Bridges,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Ripatti,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Ripatti,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Ripatti,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+witua,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+witua,Clear Symmetry,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+witua,Fragile Bridges,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+hanfei19910905,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+hanfei19910905,Fragile Bridges,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+hanfei19910905,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"math,ternary search"
+ksjuchi,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Sinner,Clear Symmetry,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,dp,math"
+kamitsutoshi,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+kamitsutoshi,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+kamitsutoshi,Fragile Bridges,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Mick,Clear Symmetry,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Mick,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Mick,Fragile Bridges,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,dp
+spnautilus,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+spnautilus,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+spnautilus,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+maximkoval,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+maximkoval,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+maximkoval,Fragile Bridges,1,C,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+kuzmichev_dima,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+kuzmichev_dima,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+kuzmichev_dima,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+rizar,Clear Symmetry,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+rizar,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+rizar,Fragile Bridges,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+Hinidu,Clear Symmetry,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Hinidu,Guess That Car!,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Hinidu,Fragile Bridges,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+aropan,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+aropan,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+aropan,Fragile Bridges,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+architkarandikar,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+architkarandikar,Guess That Car!,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+PavelKunyavskiy,Clear Symmetry,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+PavelKunyavskiy,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+PavelKunyavskiy,Fragile Bridges,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+__tutankhamun__,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+__tutankhamun__,Guess That Car!,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+__tutankhamun__,Fragile Bridges,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+esrever,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+esrever,Guess That Car!,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+yaro,Guess That Car!,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+yaro,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+yaro,Fragile Bridges,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+iTwin,Clear Symmetry,0,A,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+tuananh93,Clear Symmetry,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+tuananh93,Fragile Bridges,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+_meshanya_,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+_meshanya_,Clear Symmetry,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+_meshanya_,Fragile Bridges,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+subscriber,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+subscriber,Guess That Car!,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+subscriber,Fragile Bridges,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+csimstu,Clear Symmetry,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+csimstu,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+csimstu,Fragile Bridges,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+dut200901102,Clear Symmetry,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+dut200901102,Guess That Car!,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+flashmt,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+flashmt,Clear Symmetry,1,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+flashmt,Fragile Bridges,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+wcwswswws,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+wcwswswws,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+wcwswswws,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+iensen,Clear Symmetry,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+JalbaRu,Guess That Car!,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+JalbaRu,Clear Symmetry,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+JalbaRu,Fragile Bridges,1,C,1,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,dp
+popoffka,Clear Symmetry,0,A,0,0,0,1,0,5,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+popoffka,Brand New Problem,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force,dp"
+elizarov,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+elizarov,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+elizarov,Fragile Bridges,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+vlyubin,Clear Symmetry,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+vlyubin,Guess That Car!,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"math,ternary search"
+squarefk,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+squarefk,Guess That Car!,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+squarefk,Fragile Bridges,0,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,dp
+GagGuy,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+GagGuy,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+GagGuy,Fragile Bridges,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+GagGuy,Brand New Problem,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force,dp"
+AndreySiunov,Clear Symmetry,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+---Grigor---,Clear Symmetry,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+---Grigor---,Fragile Bridges,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Copymaster,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Copymaster,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Copymaster,Fragile Bridges,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+Shtrix,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Shtrix,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Shtrix,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+hytirt,Clear Symmetry,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+hytirt,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+hytirt,Fragile Bridges,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+iwiwi,Clear Symmetry,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+iwiwi,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+iwiwi,Fragile Bridges,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+knightL,Clear Symmetry,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+knightL,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+knightL,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+fiver,Clear Symmetry,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+fiver,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+evg-zhabotinsky,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+evg-zhabotinsky,Fragile Bridges,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+evg-zhabotinsky,Guess That Car!,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+balakrishnan,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+balakrishnan,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+balakrishnan,Clear Symmetry,1,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+ikicic,Fragile Bridges,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+ikicic,Guess That Car!,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+nav_krh,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+nav_krh,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+forest,Clear Symmetry,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+forest,Fragile Bridges,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+forest,Guess That Car!,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+hadi,Guess That Car!,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+hadi,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+hadi,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+hadi,Brand New Problem,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force,dp"
+Kharybin,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Kharybin,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Kharybin,Clear Symmetry,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Upsilon,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Upsilon,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+trungda,Clear Symmetry,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+darknp,Clear Symmetry,1,A,1,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+heyihong,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+heyihong,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+heyihong,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+lavin,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+lavin,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+lavin,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+nwin,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+nwin,Guess That Car!,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"math,ternary search"
+nwin,Fragile Bridges,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+KADR,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+KADR,Fragile Bridges,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+KADR,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+KADR,Brand New Problem,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force,dp"
+3141592653ly,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+fenzhang,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+fenzhang,Guess That Car!,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Oryshych,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Oryshych,Guess That Car!,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+homo_sapiens,Clear Symmetry,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,dp,math"
+homo_sapiens,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+homo_sapiens,Fragile Bridges,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+iddaga,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+iddaga,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+iddaga,Fragile Bridges,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+iddaga,Brand New Problem,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force,dp"
+Seyaua,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Seyaua,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Seyaua,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+YNote0621,Clear Symmetry,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+YNote0621,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+YNote0621,Fragile Bridges,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+UESTC_Defense,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Snich,Clear Symmetry,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Snich,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+shioshiota,Clear Symmetry,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+kcm1700,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+kcm1700,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+kcm1700,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Fefer_Ivan,Clear Symmetry,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Fefer_Ivan,Fragile Bridges,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Fefer_Ivan,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+hogeover30,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+ft.azadi,Clear Symmetry,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+gingkgo,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+gingkgo,Clear Symmetry,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+gingkgo,Fragile Bridges,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+wuhao21,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+wuhao21,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+wuhao21,Fragile Bridges,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+keivan,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+keivan,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+fcjy888,Clear Symmetry,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+fcjy888,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+lijunle,Clear Symmetry,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+lijunle,Fragile Bridges,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Vergissmeinnicht,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+Vergissmeinnicht,Guess That Car!,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"math,ternary search"
+Vergissmeinnicht,Fragile Bridges,0,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,dp
+rapid,Clear Symmetry,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Mehrdad,Clear Symmetry,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Mehrdad,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Alireza,Clear Symmetry,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Alireza,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Alireza,Fragile Bridges,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Snusmumriken,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Snusmumriken,Clear Symmetry,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Proscriptus,Clear Symmetry,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Proscriptus,Guess That Car!,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+komiya,Clear Symmetry,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+komiya,Fragile Bridges,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+Snipx,Clear Symmetry,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+pulkitg10,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+pulkitg10,Guess That Car!,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+White_Bear,Fragile Bridges,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+White_Bear,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+White_Bear,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+White_Bear,Thoroughly Bureaucratic Organization,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,combinatorics"
+it4.kp,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+it4.kp,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+it4.kp,Fragile Bridges,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+poopi,Fragile Bridges,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+poopi,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+poopi,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+dalex,Guess That Car!,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+dalex,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+NuM,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+NuM,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+NuM,Fragile Bridges,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+Kostyazz,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Kostyazz,Guess That Car!,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Toshik,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Toshik,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+azaky,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+azaky,Fragile Bridges,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+wisterik,Clear Symmetry,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+leocc,Clear Symmetry,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+Pavlo_Lviv_NU,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Pavlo_Lviv_NU,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+JFantasy,Clear Symmetry,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+JFantasy,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+JFantasy,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kamranm,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+kamranm,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+moshiur,Clear Symmetry,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+shef_2318,Clear Symmetry,0,A,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+shef_2318,Guess That Car!,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+shef_2318,Fragile Bridges,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+vanchope,Clear Symmetry,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+vanchope,Guess That Car!,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+jimon,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+jimon,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+jimon,Fragile Bridges,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+buaamm,Fragile Bridges,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+buaamm,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+yenthanh.t7,Clear Symmetry,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+yenthanh.t7,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+kawatea,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+kawatea,Guess That Car!,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+osa_k,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+osa_k,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+nafi3000,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+nafi3000,Guess That Car!,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Zhukov_Dmitry,Fragile Bridges,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Zhukov_Dmitry,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Zhukov_Dmitry,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+Zhukov_Dmitry,Thoroughly Bureaucratic Organization,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,combinatorics"
+ridowan007,Clear Symmetry,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+kid177,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,dp,math"
+kid177,Guess That Car!,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+mzry1992,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+mzry1992,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+mzry1992,Fragile Bridges,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,dp
+IlyaLos,Clear Symmetry,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+KAN,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+KAN,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+KAN,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+piotr.kukla,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+piotr.kukla,Guess That Car!,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"math,ternary search"
+tkcn,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+tkcn,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+tkcn,Fragile Bridges,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Ramzes2,Guess That Car!,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+SkorKNURE,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+SkorKNURE,Guess That Car!,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+at1,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+at1,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+HolkinPV,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+HolkinPV,Guess That Car!,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Snow_storm,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+bayleef,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+bayleef,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+bayleef,Fragile Bridges,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+xscape,Guess That Car!,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+xscape,Clear Symmetry,1,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Belonogov,Guess That Car!,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Belonogov,Clear Symmetry,1,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Belonogov,Fragile Bridges,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Ixanezis,Clear Symmetry,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+Ixanezis,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Ixanezis,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+KrK,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+KrK,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+KrK,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+KirillB,Clear Symmetry,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+carber,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+carber,Guess That Car!,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+kojingharang,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+kojingharang,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+kojingharang,Fragile Bridges,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Nomad,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Nomad,Guess That Car!,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+AlexanderBolshakov,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+AlexanderBolshakov,Clear Symmetry,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Shapo,Clear Symmetry,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Shapo,Guess That Car!,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Shapo,Fragile Bridges,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+tyamgin,Clear Symmetry,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Fcdkbear,Clear Symmetry,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Fcdkbear,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Spumote,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Spumote,Guess That Car!,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+sillyboy,Fragile Bridges,0,C,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,dp
+sillyboy,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+ishikado,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+ishikado,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+dergach,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Shik,Fragile Bridges,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Shik,Clear Symmetry,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Shik,Guess That Car!,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+pva701,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+pva701,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+takapt,Guess That Car!,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+takapt,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+Monmoy,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Monmoy,Clear Symmetry,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+ahmed.abdrabo,Guess That Car!,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"math,ternary search"
+peria,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+peria,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+calculus.saransh,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+hirosegolf,Thoroughly Bureaucratic Organization,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,combinatorics"
+hirosegolf,Fragile Bridges,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+hirosegolf,Clear Symmetry,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+wyest,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+wyest,Clear Symmetry,1,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+carlop,Clear Symmetry,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+carlop,Guess That Car!,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+carlop,Fragile Bridges,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+YaoZ,Clear Symmetry,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+YaoZ,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+YaoZ,Fragile Bridges,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+sune2,Guess That Car!,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"math,ternary search"
+sand-martin,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+St.satzh,Guess That Car!,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Bidhan,Guess That Car!,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+DmitriyH,Clear Symmetry,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dp,math"
+mihaipopa12,Clear Symmetry,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dp,math"
+Goldbach,Guess That Car!,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"math,ternary search"
+lamphanviet,Guess That Car!,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+grsiy,Guess That Car!,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"

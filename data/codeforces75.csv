@@ -1,0 +1,1280 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+arshuaz,Life Without Zeros,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+arshuaz,Facetook Priority Wall,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+arshuaz,Modified GCD,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+arshuaz,Big Maximum Sum,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+dmitry.uvarov,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dmitry.uvarov,Modified GCD,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+dmitry.uvarov,Facetook Priority Wall,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+dmitry.uvarov,Big Maximum Sum,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"data structures,dp,greedy,implementation,math,trees"
+cvb,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,implementation
+cvb,Facetook Priority Wall,1,B,1,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+cvb,Modified GCD,1,C,0,0,0,0,0,8,0,0,1,0,0,0,0,0,1,0,0,"binary search,number theory"
+shindo,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shindo,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+shindo,Modified GCD,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+shindo,Big Maximum Sum,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+karpinski,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+karpinski,Modified GCD,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+karpinski,Facetook Priority Wall,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+karpinski,Big Maximum Sum,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+dharusimu,Life Without Zeros,0,A,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+dharusimu,Modified GCD,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+Aleksey,Life Without Zeros,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aleksey,Facetook Priority Wall,0,B,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Aleksey,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Aleksey,Big Maximum Sum,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+Tokiru,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tokiru,Modified GCD,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Tokiru,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Respect2D,Life Without Zeros,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Respect2D,Modified GCD,0,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Respect2D,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+AguL,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AguL,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+AguL,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,number theory"
+AcFast,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AcFast,Modified GCD,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+AcFast,Big Maximum Sum,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+AcFast,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+rexim,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rexim,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+rexim,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+rexim,Big Maximum Sum,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+imslavko,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+imslavko,Modified GCD,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+imslavko,Big Maximum Sum,0,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+imslavko,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+LongCtrl,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LongCtrl,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+LongCtrl,Big Maximum Sum,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+rajatag12,Life Without Zeros,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+rajatag12,Facetook Priority Wall,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+rajatag12,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+rajatag12,Big Maximum Sum,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+EG0R,Life Without Zeros,1,A,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,implementation
+EG0R,Modified GCD,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"binary search,number theory"
+facepalmist,Life Without Zeros,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+facepalmist,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+facepalmist,Modified GCD,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+l0nwlf,Life Without Zeros,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+l0nwlf,Big Maximum Sum,0,D,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+l0nwlf,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+l0nwlf,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+jaindsonvs,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jaindsonvs,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+kioa,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kioa,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+kioa,Modified GCD,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+denys.astanin,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+denys.astanin,Facetook Priority Wall,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+denys.astanin,Big Maximum Sum,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+jariasf,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jariasf,Facetook Priority Wall,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+jariasf,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+jariasf,Big Maximum Sum,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+bjin,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bjin,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+bjin,Big Maximum Sum,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+bjin,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+mohamed.gaber,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mohamed.gaber,Facetook Priority Wall,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+mohamed.gaber,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+alik,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alik,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+alik,Modified GCD,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+aqpalex87,Life Without Zeros,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+aqpalex87,Facetook Priority Wall,1,B,0,0,0,0,0,5,0,2,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+OmniLRenegadE,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+OmniLRenegadE,Facetook Priority Wall,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+OmniLRenegadE,Modified GCD,0,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Alexander-1709,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alexander-1709,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Alexander-1709,Modified GCD,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"binary search,number theory"
+seen,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+seen,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+seen,Modified GCD,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+seen,Big Maximum Sum,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+Luzan,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Luzan,Facetook Priority Wall,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Luzan,Modified GCD,1,C,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+htrinh,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+htrinh,Facetook Priority Wall,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+htrinh,Modified GCD,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+htrinh,Big Maximum Sum,0,D,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+cyx5320856,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+cyx5320856,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+cyx5320856,Modified GCD,0,C,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+cyx5320856,Big Maximum Sum,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+atetubou,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+atetubou,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+atetubou,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+atetubou,Big Maximum Sum,1,D,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+FattyPenguin,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+FattyPenguin,Modified GCD,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+FattyPenguin,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,implementation,strings"
+FattyPenguin,Big Maximum Sum,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+delta_4d,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+delta_4d,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+delta_4d,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+delta_4d,Big Maximum Sum,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+vmgurov,Life Without Zeros,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vmgurov,Facetook Priority Wall,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+OutSide,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+OutSide,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+OutSide,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+OutSide,Big Maximum Sum,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+brainail,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+brainail,Facetook Priority Wall,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+brainail,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+brainail,Big Maximum Sum,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+ravi_villuri,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ravi_villuri,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+ravi_villuri,Big Maximum Sum,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+VChikh,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+VChikh,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+olimpo,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+olimpo,Modified GCD,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+olimpo,Big Maximum Sum,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+olimpo,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+smolcoder,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+smolcoder,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+smolcoder,Facetook Priority Wall,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Zhuravlyov.A,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhuravlyov.A,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Zhuravlyov.A,Big Maximum Sum,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+cfc,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cfc,Modified GCD,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+kawatea,Life Without Zeros,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kawatea,Facetook Priority Wall,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+kawatea,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+Alchemist,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alchemist,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Alchemist,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Alchemist,Big Maximum Sum,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+Mario88,Life Without Zeros,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mario88,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Mario88,Big Maximum Sum,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+andrusenco,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+andrusenco,Modified GCD,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+dcp,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dcp,Facetook Priority Wall,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+dcp,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+aosuka,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+aosuka,Facetook Priority Wall,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+aosuka,Modified GCD,0,C,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+srivatsan_vn,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+srivatsan_vn,Facetook Priority Wall,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+JKeeJ1e30,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+JKeeJ1e30,Facetook Priority Wall,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+JKeeJ1e30,Modified GCD,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+JKeeJ1e30,Big Maximum Sum,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+darkbtf,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+darkbtf,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+darkbtf,Modified GCD,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+darkbtf,Big Maximum Sum,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+frp,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+frp,Facetook Priority Wall,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+frp,Modified GCD,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+powail,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+powail,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+die.saito,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+die.saito,Facetook Priority Wall,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+die.saito,Modified GCD,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+die.saito,Big Maximum Sum,0,D,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+soul_departed,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+soul_departed,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+soul_departed,Modified GCD,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Nikitosik,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+igorkulev,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+igorkulev,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+igorkulev,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+weiqi,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+weiqi,Modified GCD,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+weiqi,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+weiqi,Big Maximum Sum,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+daizhy,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+daizhy,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+daizhy,Modified GCD,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+daizhy,Big Maximum Sum,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+fatboy_cw,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fatboy_cw,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+fatboy_cw,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+fatboy_cw,Big Maximum Sum,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+vietlong2110,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vietlong2110,Modified GCD,0,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+DarkDaiver,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DarkDaiver,Facetook Priority Wall,1,B,0,0,0,0,5,5,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+mohammadkotb,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mohammadkotb,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+mohammadkotb,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Yevgen,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Yevgen,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Yevgen,Modified GCD,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Yevgen,Big Maximum Sum,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+logic_max,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+logic_max,Modified GCD,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,number theory"
+logic_max,Facetook Priority Wall,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+marque,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+marque,Facetook Priority Wall,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+gaewah,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gaewah,Facetook Priority Wall,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+gaewah,Modified GCD,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+gaewah,Big Maximum Sum,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+_jte_,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+_jte_,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+_jte_,Modified GCD,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+max777alex,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+max777alex,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+amir_sh,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+amir_sh,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+amir_sh,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+WAVwind2,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+WAVwind2,Modified GCD,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+WAVwind2,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+WAVwind2,Big Maximum Sum,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+Etcho,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ress,Life Without Zeros,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ress,Modified GCD,1,C,1,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+waiter_pvl,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+waiter_pvl,Facetook Priority Wall,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+waiter_pvl,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Muvuris,Life Without Zeros,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Muvuris,Facetook Priority Wall,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+HwangScornedAsianTeams,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+HwangScornedAsianTeams,Modified GCD,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+HwangScornedAsianTeams,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+tracyzhu,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tracyzhu,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+tracyzhu,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+tracyzhu,Big Maximum Sum,1,D,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+adaabao,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+adaabao,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+adaabao,Big Maximum Sum,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+UMysin,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+UMysin,Modified GCD,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+UMysin,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Perlik,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Perlik,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Perlik,Modified GCD,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+leafpicker,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+leafpicker,Facetook Priority Wall,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+leafpicker,Modified GCD,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,number theory"
+leafpicker,Big Maximum Sum,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+Seikang,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Seikang,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Seikang,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+metar,Life Without Zeros,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+metar,Facetook Priority Wall,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+metar,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+luzilon1,Life Without Zeros,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+luzilon1,Facetook Priority Wall,0,B,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+luzilon1,Modified GCD,0,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+luzilon1,Big Maximum Sum,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+yuta1024,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yuta1024,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+yuta1024,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+gauravmunjal,Life Without Zeros,0,A,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+udayrocks2k8,Life Without Zeros,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+udayrocks2k8,Facetook Priority Wall,0,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+udayrocks2k8,Modified GCD,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+udayrocks2k8,Big Maximum Sum,1,D,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+iostream,Life Without Zeros,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+iostream,Modified GCD,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+iostream,Facetook Priority Wall,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+mdonaj,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mdonaj,Facetook Priority Wall,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+mdonaj,Modified GCD,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,2,0,0,0,"binary search,number theory"
+paranoid,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+paranoid,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+DarthBeleg,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DarthBeleg,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+DarthBeleg,Big Maximum Sum,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+icyrhyme,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+icyrhyme,Modified GCD,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+icyrhyme,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+icyrhyme,Big Maximum Sum,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+MSPA,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MSPA,Modified GCD,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+MSPA,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+flash36,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+flash36,Modified GCD,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Bidhan,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Bidhan,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Bidhan,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+ivanidze.kirov,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ivanidze.kirov,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Djteam,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sad_robot,Life Without Zeros,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sad_robot,Facetook Priority Wall,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+sad_robot,Modified GCD,1,C,0,0,0,0,1,0,0,4,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+yarrr,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yarrr,Facetook Priority Wall,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+yarrr,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+yarrr,Big Maximum Sum,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+ideamonk,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ideamonk,Modified GCD,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+ideamonk,Big Maximum Sum,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+ideamonk,Facetook Priority Wall,0,B,0,0,0,1,1,7,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Chubcheg,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Chubcheg,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Chubcheg,Modified GCD,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Chubcheg,Big Maximum Sum,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+wangshaobiao,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wangshaobiao,Ship's Shortest Path,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,shortest paths"
+wangshaobiao,Modified GCD,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+ICOA,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ICOA,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+ICOA,Big Maximum Sum,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+Belbesy,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Belbesy,Facetook Priority Wall,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Belbesy,Big Maximum Sum,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+LuoYunan,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+LuoYunan,Facetook Priority Wall,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+giongto35,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+giongto35,Facetook Priority Wall,0,B,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+giongto35,Modified GCD,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+giongto35,Big Maximum Sum,1,D,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+meparter,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+meparter,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+meparter,Facetook Priority Wall,0,B,0,0,0,2,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+amylase,Life Without Zeros,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+amylase,Modified GCD,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+amylase,Facetook Priority Wall,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+DimaPhil,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DimaPhil,Facetook Priority Wall,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+DimaPhil,Modified GCD,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+xiaoyoulei2,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xiaoyoulei2,Modified GCD,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+xiaoyoulei2,Facetook Priority Wall,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+sakyalol,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sakyalol,Modified GCD,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+sakyalol,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+xeronix,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xeronix,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+xeronix,Modified GCD,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+hacker007,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hacker007,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Nil_ct,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nil_ct,Facetook Priority Wall,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Nil_ct,Modified GCD,1,C,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"binary search,number theory"
+EzhikOo,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+EzhikOo,Modified GCD,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+San_Sany4,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+San_Sany4,Facetook Priority Wall,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+fayyaz,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fayyaz,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+fayyaz,Big Maximum Sum,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+kovi,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kovi,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+rmnjkeee,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahmedsaad,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahmedsaad,Facetook Priority Wall,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+ahmedsaad,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+koudayu,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+koudayu,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+koudayu,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+koudayu,Big Maximum Sum,0,D,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+mamhh,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mamhh,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+mamhh,Modified GCD,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+sotonamitol,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tatyana_Petrashko,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+Tatyana_Petrashko,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Tatyana_Petrashko,Facetook Priority Wall,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Tranvick,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tranvick,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Tranvick,Big Maximum Sum,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+agrigoroi,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+agrigoroi,Facetook Priority Wall,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Roschin,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Roschin,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Roschin,Modified GCD,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+dudkamaster,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dudkamaster,Modified GCD,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+dudkamaster,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+dudkamaster,Big Maximum Sum,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+rofi,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rofi,Modified GCD,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,number theory"
+rofi,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+SITZ,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SITZ,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Nadezhda,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nadezhda,Modified GCD,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Shark1919,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shark1919,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Shark1919,Big Maximum Sum,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+Igorsheiko,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+apostol.vlz,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+apostol.vlz,Modified GCD,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+apostol.vlz,Facetook Priority Wall,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+toushimi,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+toushimi,Facetook Priority Wall,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+toushimi,Modified GCD,1,C,0,0,0,0,0,2,0,3,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+muntasir,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+muntasir,Facetook Priority Wall,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+funky,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+funky,Facetook Priority Wall,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+funky,Modified GCD,1,C,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+uditiiita,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+uditiiita,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+uditiiita,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+gmunkhbaatarmn,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gmunkhbaatarmn,Modified GCD,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+gmunkhbaatarmn,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+gmunkhbaatarmn,Big Maximum Sum,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+dejandenib,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dejandenib,Facetook Priority Wall,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+dejandenib,Modified GCD,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"binary search,number theory"
+mostafa_elabady,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mostafa_elabady,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+deadman_22,Life Without Zeros,1,A,1,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+deadman_22,Facetook Priority Wall,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+deadman_22,Modified GCD,0,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"binary search,number theory"
+tekito,Life Without Zeros,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+tekito,Modified GCD,0,C,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+anshul27,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+anshul27,Modified GCD,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+anshul27,Facetook Priority Wall,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Neverauskas,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Neverauskas,Facetook Priority Wall,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+SkylineGTR,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SkylineGTR,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+nigo92,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nigo92,Facetook Priority Wall,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+nigo92,Modified GCD,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+nigo92,Big Maximum Sum,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+Saken,Life Without Zeros,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Saken,Facetook Priority Wall,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Jens,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jens,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+almazkh,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+almazkh,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+almazkh,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,number theory"
+almazkh,Big Maximum Sum,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+NotFat,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NotFat,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+NotFat,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+NotFat,Ship's Shortest Path,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,shortest paths"
+matushkin,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+matushkin,Modified GCD,0,C,1,0,0,1,0,3,0,0,0,0,0,0,0,0,2,0,0,"binary search,number theory"
+matushkin,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+kaifonaft,Life Without Zeros,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kaifonaft,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+qjklw,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+qjklw,Facetook Priority Wall,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+qjklw,Big Maximum Sum,1,D,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+Padme,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Padme,Modified GCD,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Padme,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+NKolotey,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NKolotey,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+math94,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+math94,Facetook Priority Wall,1,B,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Gantushig,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gantushig,Facetook Priority Wall,0,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Gantushig,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+alexpodkin,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexpodkin,Modified GCD,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+alexpodkin,Facetook Priority Wall,0,B,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+FatSheep,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+FatSheep,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+FatSheep,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+FatSheep,Big Maximum Sum,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+MaximPr,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+MaximPr,Modified GCD,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Snow_storm,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Snow_storm,Modified GCD,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Snow_storm,Facetook Priority Wall,1,B,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+luckyi,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+luckyi,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+luckyi,Modified GCD,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+jayesh02,Life Without Zeros,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+jayesh02,Facetook Priority Wall,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,"expression parsing,implementation,strings"
+jayesh02,Modified GCD,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+Tadrion,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tadrion,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Tadrion,Big Maximum Sum,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+Diabolic,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Diabolic,Facetook Priority Wall,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Diabolic,Modified GCD,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Alisafe,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alisafe,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Alisafe,Facetook Priority Wall,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+sharpie,Life Without Zeros,0,A,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+sharpie,Modified GCD,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+sharpie,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+behdadb,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+behdadb,Modified GCD,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+behdadb,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Ever1989,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ever1989,Facetook Priority Wall,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Ever1989,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Ever1989,Big Maximum Sum,1,D,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+MOPMblLLlKA,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MOPMblLLlKA,Modified GCD,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+Wahba,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Wahba,Facetook Priority Wall,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Mohamad.Abdelmonem,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mohamad.Abdelmonem,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Mohamad.Abdelmonem,Modified GCD,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+surath,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+surath,Facetook Priority Wall,0,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+surath,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+darkl0rd,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+darkl0rd,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+darkl0rd,Modified GCD,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+v1m,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+v1m,Facetook Priority Wall,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+sola_93,Life Without Zeros,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+sola_93,Modified GCD,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+fahimpatel,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fahimpatel,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+akashs.cse,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+akashs.cse,Facetook Priority Wall,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+akashs.cse,Modified GCD,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+TeCNoYoTTa,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TeCNoYoTTa,Facetook Priority Wall,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+TeCNoYoTTa,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Tahmid,Life Without Zeros,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tahmid,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+Roowe,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Roowe,Modified GCD,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Roowe,Big Maximum Sum,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+labardan,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+labardan,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+labardan,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+kirakira,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kirakira,Modified GCD,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+kirakira,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+zimbabwe,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zimbabwe,Modified GCD,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+zimbabwe,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+xkor,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xkor,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+xDD,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xDD,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+aan93,Life Without Zeros,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+aan93,Modified GCD,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+aan93,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+muriloufg,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+muriloufg,Facetook Priority Wall,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+muriloufg,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+muriloufg,Big Maximum Sum,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+BIT,Life Without Zeros,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+BIT,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+BIT,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+BIT,Big Maximum Sum,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+patsp,Life Without Zeros,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+patsp,Facetook Priority Wall,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+ManalSadek,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ManalSadek,Facetook Priority Wall,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+ManalSadek,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+ramil,Life Without Zeros,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ramil,Facetook Priority Wall,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+vlad,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shafaet,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shafaet,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Shafaet,Modified GCD,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+eog,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+eog,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+eog,Modified GCD,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+Ahmed.Ibrahem,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ahmed.Ibrahem,Modified GCD,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"binary search,number theory"
+akazz,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+akazz,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+pernay,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pernay,Modified GCD,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+pernay,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Cyin,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Cyin,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Cyin,Facetook Priority Wall,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+BAIZOR,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BAIZOR,Facetook Priority Wall,1,B,0,0,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+mrtempo,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mrtempo,Facetook Priority Wall,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+mrtempo,Modified GCD,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+mrtempo,Big Maximum Sum,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+bigeye,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bigeye,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+bigeye,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+bigeye,Big Maximum Sum,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+Elday,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Elday,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+z7oka,Life Without Zeros,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+z7oka,Facetook Priority Wall,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+devils13,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+devils13,Facetook Priority Wall,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+devils13,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Parhomets,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Parhomets,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Parhomets,Modified GCD,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+prog.delphin,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+prog.delphin,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+prog.delphin,Modified GCD,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+WarLoveR,Life Without Zeros,0,A,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+h.hesham,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+h.hesham,Modified GCD,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+PR0CESS0R,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PR0CESS0R,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+PR0CESS0R,Facetook Priority Wall,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+delta,Life Without Zeros,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+delta,Facetook Priority Wall,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+delta,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+merkator,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Georgievbg,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Georgievbg,Facetook Priority Wall,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Georgievbg,Modified GCD,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Goshish,Life Without Zeros,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Goshish,Facetook Priority Wall,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Psilocybe,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Psilocybe,Facetook Priority Wall,0,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Psilocybe,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Psilocybe,Big Maximum Sum,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+OmarEl-Mohandes,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+OmarEl-Mohandes,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+OmarEl-Mohandes,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+magdi,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+magdi,Facetook Priority Wall,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+magdi,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+TRUONG,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TRUONG,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+TRUONG,Modified GCD,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+katakana,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+katakana,Facetook Priority Wall,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+katakana,Modified GCD,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+jemiam,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jemiam,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+jemiam,Modified GCD,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+KoT,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KoT,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+KoT,Modified GCD,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+KoT,Big Maximum Sum,1,D,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+DreamFox,Life Without Zeros,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+DreamFox,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+DreamFox,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+20092100003,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+20092100003,Modified GCD,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+20092100003,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+20092100003,Big Maximum Sum,1,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+stefandechev,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+stefandechev,Facetook Priority Wall,0,B,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+stefandechev,Modified GCD,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+zer0,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zer0,Modified GCD,0,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+lantimilan,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lantimilan,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+lantimilan,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Morozko,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Morozko,Facetook Priority Wall,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Morozko,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+lastkill,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sbcd90,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sbcd90,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+sbcd90,Facetook Priority Wall,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+sas4eka,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sas4eka,Facetook Priority Wall,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+piyush.neo,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+piyush.neo,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Sasuke,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sasuke,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+wil93,Life Without Zeros,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wil93,Facetook Priority Wall,1,B,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+wil93,Modified GCD,1,C,0,0,0,2,0,1,0,1,0,0,0,0,0,0,1,0,0,"binary search,number theory"
+Super_Visor,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Super_Visor,Modified GCD,0,C,0,0,0,3,1,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Super_Visor,Facetook Priority Wall,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+ForeverYoung,Life Without Zeros,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ForeverYoung,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+ForeverYoung,Modified GCD,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+i_raqibul,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+i_raqibul,Facetook Priority Wall,0,B,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+i_raqibul,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+YORKS,Life Without Zeros,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+YORKS,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+darksta5,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+darksta5,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+darksta5,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+ishikado,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ishikado,Facetook Priority Wall,1,B,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Ralf,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ralf,Modified GCD,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+RAF,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+RAF,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+RAF,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+devilofaboy,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mazeev,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mazeev,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Mazeev,Modified GCD,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+dimuthu,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dimuthu,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+dimuthu,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+dimuthu,Big Maximum Sum,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+ksameluk,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ksameluk,Modified GCD,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+ksameluk,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+ksameluk,Big Maximum Sum,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+tia,Life Without Zeros,0,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+tia,Modified GCD,1,C,1,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+bor.is,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bor.is,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+b.moogii09,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+b.moogii09,Modified GCD,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Algorithm,Life Without Zeros,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Algorithm,Modified GCD,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Algorithm,Facetook Priority Wall,0,B,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+BII,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+BII,Modified GCD,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+BII,Facetook Priority Wall,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+shtorm941,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shtorm941,Facetook Priority Wall,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+abhiranjan,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+abhiranjan,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+abhiranjan,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+hota911,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hota911,Modified GCD,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+hota911,Facetook Priority Wall,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+LazyChild,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LazyChild,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+LazyChild,Modified GCD,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+LazyChild,Big Maximum Sum,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+zaratushtra,Life Without Zeros,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zaratushtra,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+zaratushtra,Big Maximum Sum,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+Barsuk_Alexey,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Barsuk_Alexey,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Barsuk_Alexey,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+berden,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+berden,Modified GCD,1,C,0,0,0,1,0,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+MIM,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MIM,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+MIM,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,number theory"
+akakiy,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+akakiy,Modified GCD,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+akakiy,Big Maximum Sum,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+ali.mashreghi,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ali.mashreghi,Facetook Priority Wall,0,B,1,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+ali.mashreghi,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+grisaf,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+grisaf,Facetook Priority Wall,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Proscriptus,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Proscriptus,Modified GCD,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Proscriptus,Facetook Priority Wall,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+antonio081014,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+antonio081014,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+antonio081014,Modified GCD,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+elklarva,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+elklarva,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+kemo,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kemo,Facetook Priority Wall,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+kemo,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+best.ua,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+best.ua,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+best.ua,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+yuanhang,Life Without Zeros,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+yuanhang,Facetook Priority Wall,1,B,0,0,0,0,0,7,0,1,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+dragon007,Life Without Zeros,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dragon007,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+dragon007,Big Maximum Sum,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+Anastasko,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Anastasko,Facetook Priority Wall,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Manish-Kumar,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Manish-Kumar,Modified GCD,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Manish-Kumar,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+QProgS,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+QProgS,Modified GCD,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+kyonghun90,Life Without Zeros,1,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyonghun90,Modified GCD,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+T-30,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+T-30,Facetook Priority Wall,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+T-30,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+nyroro,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nyroro,Modified GCD,1,C,0,0,0,1,0,4,0,2,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+nyroro,Facetook Priority Wall,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+nyroro,Big Maximum Sum,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+new,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+new,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+new,Modified GCD,1,C,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+mouse,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mouse,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+mouse,Modified GCD,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+amit.codename13,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+amit.codename13,Facetook Priority Wall,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+amit.codename13,Modified GCD,1,C,1,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+jimon,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+jimon,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+jimon,Modified GCD,1,C,0,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+NikitaPogodin,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+NikitaPogodin,Modified GCD,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+NikitaPogodin,Facetook Priority Wall,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+mancgupta,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mancgupta,Facetook Priority Wall,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Booger,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Booger,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Booger,Big Maximum Sum,0,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+4a1ka,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+4a1ka,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Rex,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rex,Facetook Priority Wall,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+ZiyaoWei,Life Without Zeros,0,A,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,implementation
+ZiyaoWei,Modified GCD,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Warrior,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Warrior,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Mixser,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mixser,Facetook Priority Wall,1,B,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+chenpengyu,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chenpengyu,Modified GCD,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Och-Iv2000,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Och-Iv2000,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+iman_MC,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+iman_MC,Facetook Priority Wall,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+iman_MC,Modified GCD,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+Ziklon,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ziklon,Facetook Priority Wall,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+am-real,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+am-real,Modified GCD,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+n00b,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+n00b,Facetook Priority Wall,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+n00b,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+n00b,Big Maximum Sum,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+HJWAJ,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+HJWAJ,Modified GCD,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+HJWAJ,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Eugene_Pogrebnoy,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eugene_Pogrebnoy,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+xokin,Life Without Zeros,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+xokin,Facetook Priority Wall,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+aidar,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CleRIC,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+CleRIC,Modified GCD,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+CleRIC,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+ZobninVladislav_It-Team,Life Without Zeros,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ZobninVladislav_It-Team,Facetook Priority Wall,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Qili,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Qili,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Qili,Facetook Priority Wall,0,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+qu1ck,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+qu1ck,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+qu1ck,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+qu1ck,Big Maximum Sum,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+svilen,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+svilen,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+svilen,Big Maximum Sum,1,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+Lord_0f_D_C0des,Life Without Zeros,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Lord_0f_D_C0des,Facetook Priority Wall,1,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+masibonge,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+masibonge,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+masibonge,Modified GCD,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+TMandzu,Life Without Zeros,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+TMandzu,Modified GCD,1,C,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+riversouther,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+riversouther,Modified GCD,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"binary search,number theory"
+anders.westling,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+anders.westling,Facetook Priority Wall,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+streetfi8er,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+streetfi8er,Modified GCD,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+PAG,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PAG,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+knock-knock,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+knock-knock,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+knock-knock,Modified GCD,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+amr.nabil,Life Without Zeros,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+amr.nabil,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+amr.nabil,Modified GCD,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+beyondxgb,Life Without Zeros,1,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+beyondxgb,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+beyondxgb,Big Maximum Sum,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+kolia,Life Without Zeros,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kolia,Modified GCD,1,C,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+natsuki_i,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+natsuki_i,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+natsuki_i,Facetook Priority Wall,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+vinayjulme,Life Without Zeros,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+vinayjulme,Modified GCD,0,C,0,0,0,0,0,2,0,2,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+fer,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fer,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+fer,Big Maximum Sum,1,D,0,0,0,1,0,0,0,2,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+ymondelo20,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ymondelo20,Modified GCD,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,"binary search,number theory"
+ymondelo20,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+ymondelo20,Big Maximum Sum,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+aminmahabub,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aminmahabub,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+alpc86,Life Without Zeros,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+alpc86,Facetook Priority Wall,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+alpc86,Modified GCD,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+leaom,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+accoder,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+accoder,Modified GCD,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+accoder,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Zavalin,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zavalin,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Zavalin,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+lamphanviet,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lamphanviet,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+lamphanviet,Modified GCD,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+shady_mokhtar,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shady_mokhtar,Modified GCD,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+mostafa_angel,Life Without Zeros,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+mostafa_angel,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+mostafa_angel,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+codingbunny,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fobnn,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fobnn,Facetook Priority Wall,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+fobnn,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+shou,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shou,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+shou,Modified GCD,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+ChamChi,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ChamChi,Facetook Priority Wall,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+ChamChi,Big Maximum Sum,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+tatuyan_edson,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tatuyan_edson,Modified GCD,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"binary search,number theory"
+tatuyan_edson,Facetook Priority Wall,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+ruban,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruban,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+neeraj541,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+apnengom,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+apnengom,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+juancate,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+juancate,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+a286729485,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+a286729485,Modified GCD,0,C,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"binary search,number theory"
+a286729485,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+a286729485,Big Maximum Sum,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+xeyyam_quliyev,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Lapenkov,Life Without Zeros,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Lapenkov,Modified GCD,0,C,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Lapenkov,Facetook Priority Wall,1,B,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Semmi,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Semmi,Modified GCD,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+spark_coder,Life Without Zeros,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+afMartinez,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+afMartinez,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+afMartinez,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+lazybonesid,Life Without Zeros,0,A,0,0,0,4,4,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+lazybonesid,Modified GCD,0,C,0,0,0,0,0,8,0,2,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+lokeshgovindu,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lokeshgovindu,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+lokeshgovindu,Modified GCD,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+thefourtheye,Life Without Zeros,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+thefourtheye,Facetook Priority Wall,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+thefourtheye,Modified GCD,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Slamur,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Slamur,Facetook Priority Wall,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Slamur,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Winis,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Winis,Facetook Priority Wall,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+regmar,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+regmar,Facetook Priority Wall,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+251083874,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+251083874,Facetook Priority Wall,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+navi-spb,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+navi-spb,Modified GCD,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+i_love_daniel,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+i_love_daniel,Facetook Priority Wall,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+i_love_daniel,Modified GCD,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+dmitry.s,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dmitry.s,Facetook Priority Wall,1,B,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+dmitry.s,Modified GCD,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Zool,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zool,Facetook Priority Wall,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Zool,Modified GCD,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+bormotov,Life Without Zeros,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+bormotov,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+bormotov,Modified GCD,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+vishwakarma,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vishwakarma,Facetook Priority Wall,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+ekrilov92,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ekrilov92,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,number theory"
+ekrilov92,Facetook Priority Wall,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+sbaldrich,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sbaldrich,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+nhzp339,Facetook Priority Wall,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+nhzp339,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nhzp339,Modified GCD,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+nhzp339,Big Maximum Sum,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+ghost016,Life Without Zeros,0,A,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,0,0,implementation
+Verdona0,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Verdona0,Facetook Priority Wall,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Verdona0,Modified GCD,1,C,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"binary search,number theory"
+ct.e3,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+MaGNetLei,Life Without Zeros,0,A,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+mahamudsust,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mahamudsust,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+adel_gilmullin,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+adel_gilmullin,Facetook Priority Wall,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+nobody,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nobody,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Xerxes,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Xerxes,Facetook Priority Wall,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Xerxes,Modified GCD,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+ulugbek89s,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ulugbek89s,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+omargr,Life Without Zeros,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+omargr,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+w0lfsban3,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+w0lfsban3,Modified GCD,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+ahmed.farag1111,Life Without Zeros,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahmed.farag1111,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+mohamedkaram,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mohamedkaram,Facetook Priority Wall,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+ishandutta2007,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ishandutta2007,Modified GCD,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+ishandutta2007,Big Maximum Sum,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+igsilya,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+igsilya,Modified GCD,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+andresilva91,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+andresilva91,Facetook Priority Wall,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+MazeGame,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MazeGame,Modified GCD,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+TFTM,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TFTM,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Firuz,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+A_wu,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+A_wu,Facetook Priority Wall,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+accepted,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+accepted,Facetook Priority Wall,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+accepted,Modified GCD,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+kaushik777,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TRR,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jeflie,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+Jeflie,Modified GCD,1,C,0,0,0,1,0,0,0,2,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+belltail,Life Without Zeros,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dhruv571,Modified GCD,0,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+dhruv571,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+qidiot,Life Without Zeros,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+qidiot,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+qidiot,Big Maximum Sum,0,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+raedselim,Life Without Zeros,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+raedselim,Facetook Priority Wall,0,B,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Najmuzzaman,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Najmuzzaman,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+pashteiner,Life Without Zeros,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+pashteiner,Modified GCD,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+fEnomen,Life Without Zeros,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fEnomen,Modified GCD,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+sujz,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+espy,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+espy,Modified GCD,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+Olage,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Olage,Facetook Priority Wall,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Olage,Modified GCD,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+pol,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pol,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+cindy,Life Without Zeros,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+cindy,Facetook Priority Wall,0,B,0,0,0,3,0,5,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+cindy,Big Maximum Sum,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+cindy,Modified GCD,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+mirsaid_mir,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mirsaid_mir,Facetook Priority Wall,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+mirsaid_mir,Modified GCD,0,C,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+Deep_Blue_01,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jackiesteed,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+jackiesteed,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+lobo,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lobo,Facetook Priority Wall,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+lobo,Modified GCD,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+Zanaty,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mike_K,Life Without Zeros,0,A,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,implementation
+Keerill,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Keerill,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Keerill,Modified GCD,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+iris,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+iris,Modified GCD,1,C,0,0,0,0,0,1,0,4,0,0,0,0,0,2,0,0,0,"binary search,number theory"
+shilcare,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Windreaver,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Windreaver,Modified GCD,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+S030902228,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+R_Silva,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+R_Silva,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+tasyrkin,Life Without Zeros,1,A,1,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tasyrkin,Facetook Priority Wall,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+tasyrkin,Modified GCD,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+dima11221122,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dima11221122,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Shaitan,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shaitan,Facetook Priority Wall,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Shaitan,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+rvdrko,Life Without Zeros,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rvdrko,Modified GCD,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+rvdrko,Facetook Priority Wall,0,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+bondoc73,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bondoc73,Facetook Priority Wall,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+bondoc73,Modified GCD,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+lkssharma,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lkssharma,Facetook Priority Wall,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+_X_y_z_,Life Without Zeros,0,A,0,0,0,2,2,17,0,0,0,0,0,0,0,0,0,0,0,implementation
+ty70,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ty70,Facetook Priority Wall,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+ty70,Modified GCD,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+ameydhar,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ameydhar,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,"binary search,number theory"
+rishabhm,Life Without Zeros,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rishabhm,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+rishabhm,Modified GCD,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+lvdo92,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lvdo92,Modified GCD,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+dark.wizard,Life Without Zeros,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dark.wizard,Facetook Priority Wall,1,B,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+NiceDay,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+NiceDay,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Eilen,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eilen,Facetook Priority Wall,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+shukla,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shukla,Modified GCD,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+computer6,Life Without Zeros,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+computer6,Facetook Priority Wall,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+islamhamdi,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MyXoBeK,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+MyXoBeK,Modified GCD,0,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+bijay60,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+JavaLinkers,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+JavaLinkers,Modified GCD,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+JavaLinkers,Facetook Priority Wall,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+xunyue,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ayushi_singh,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aakash01,Life Without Zeros,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+pratvick,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pratvick,Modified GCD,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,2,0,0,0,"binary search,number theory"
+Gekuba,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gekuba,Facetook Priority Wall,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+leolin,Life Without Zeros,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+leolin,Modified GCD,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+raviagarwal,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+raviagarwal,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+navinag,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+navinag,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+FPC,Modified GCD,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,number theory"
+FPC,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+MarwanPP,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MarwanPP,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+red_skull,Facetook Priority Wall,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+red_skull,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mendax,Life Without Zeros,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jsy4754,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jsy4754,Big Maximum Sum,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+hanhan0912,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hanhan0912,Modified GCD,1,C,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,"binary search,number theory"
+hanhan0912,Big Maximum Sum,0,D,0,0,0,2,0,1,0,1,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+ZLATKO,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ZLATKO,Facetook Priority Wall,1,B,1,0,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+ZLATKO,Modified GCD,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+bookofsky,Life Without Zeros,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+jenny.tick,Modified GCD,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+vijay_kansal,Life Without Zeros,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+vijay_kansal,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+vijay_kansal,Modified GCD,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+saronger,Modified GCD,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+optimistic_65,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,implementation
+Cromel,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+egorov_boris,Life Without Zeros,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+egorov_boris,Modified GCD,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+FanisRock,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+santei90,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+santei90,Modified GCD,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+Prophet,Life Without Zeros,0,A,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhkxdl,Life Without Zeros,0,A,0,0,0,1,4,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+anuragb,Life Without Zeros,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+william,Life Without Zeros,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+william,Modified GCD,1,C,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+amr_mahdi,Life Without Zeros,0,A,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+amr_mahdi,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Jorni,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jorni,Facetook Priority Wall,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+marimo,Life Without Zeros,0,A,0,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,implementation
+ashi009,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ashi009,Modified GCD,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+ashi009,Facetook Priority Wall,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+ashi009,Big Maximum Sum,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+jimmycool,Life Without Zeros,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+alina,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alina,Facetook Priority Wall,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+izuick,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+iksuy,Modified GCD,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+iksuy,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+winterwolf94,Life Without Zeros,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+winterwolf94,Modified GCD,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+winterwolf94,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"expression parsing,implementation,strings"
+noip2007,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mandelbrot,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mandelbrot,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Mandelbrot,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+biscuit,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+biscuit,Modified GCD,1,C,0,0,0,0,2,8,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+173force,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dridnout,Life Without Zeros,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+huangc,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+huangc,Modified GCD,1,C,0,0,0,1,0,1,0,0,2,0,0,0,0,1,0,0,0,"binary search,number theory"
+safin_pavel,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+muhammed.adly,Life Without Zeros,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+muhammed.adly,Modified GCD,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+MrPapaya,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+azizkhan,Modified GCD,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+azizkhan,Big Maximum Sum,0,D,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,implementation,math,trees"
+yayamao,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yayamao,Modified GCD,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+yayamao,Facetook Priority Wall,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+NastyaPNTU,Life Without Zeros,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+NastyaPNTU,Modified GCD,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+lastassassin,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lastassassin,Modified GCD,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+di.dochek,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+di.dochek,Modified GCD,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+Rana,Life Without Zeros,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+gravity,Life Without Zeros,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Phow52,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Phow52,Modified GCD,1,C,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+StarMine,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+StarMine,Facetook Priority Wall,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+PeterGriffin,Modified GCD,0,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Di-Trey,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Di-Trey,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+mohamed.abd.alsalam,Life Without Zeros,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pioneer,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pioneer,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+l-.-l,Facetook Priority Wall,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+l-.-l,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+4nddr3,Life Without Zeros,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+4nddr3,Facetook Priority Wall,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+Gabriel_Irfon,Life Without Zeros,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+done,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+done,Modified GCD,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+sunzuhan,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+parina,Life Without Zeros,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+qiuweiwen,Life Without Zeros,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+AliDiep,Life Without Zeros,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+AliDiep,Facetook Priority Wall,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+jtania19,Life Without Zeros,1,A,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+andreyshamraev,Life Without Zeros,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+andreyshamraev,Modified GCD,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+maxbrainrus,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AND1989,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AND1989,Modified GCD,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,number theory"
+Rustem,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rustem,Facetook Priority Wall,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+raza,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ihor9898,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+killertank06,Life Without Zeros,0,A,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+djjoleM,Life Without Zeros,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+aleksei,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+EvAn,Facetook Priority Wall,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"expression parsing,implementation,strings"
+EvAn,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+konstantin.lex,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+konstantin.lex,Modified GCD,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+Omni,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pepodlypnov,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zxiy,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rain_lover,Modified GCD,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+rain_lover,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Stanisl,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sudakov_Ilya,Life Without Zeros,0,A,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ybc_c,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ybc_c,Modified GCD,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+nikunj165,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+miro2010,Life Without Zeros,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+miro2010,Modified GCD,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,number theory"
+kost1997,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Branky,Life Without Zeros,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+val,Life Without Zeros,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dogcat.avl,Life Without Zeros,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation

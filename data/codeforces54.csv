@@ -1,0 +1,985 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+Petr,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Petr,Vacuum Сleaner,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Petr,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Petr,Writing a Song,1,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Petr,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+LeBron,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LeBron,First Digit Law,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+LeBron,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+winger,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+winger,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+winger,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+winger,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+winger,Vacuum Сleaner,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+gojira,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gojira,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+gojira,First Digit Law,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+AlTimin,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlTimin,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+AlTimin,First Digit Law,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+MaxBuzz,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MaxBuzz,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+MaxBuzz,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+MaxBuzz,Vacuum Сleaner,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+iakolzin,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+iakolzin,Cutting Jigsaw Puzzle,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+iakolzin,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,math,probabilities"
+iakolzin,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+dolphinigle,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dolphinigle,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+dolphinigle,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+dolphinigle,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Fdg,Presents,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fdg,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Fdg,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Fdg,Writing a Song,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+RAVEman,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+RAVEman,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+RAVEman,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+RAVEman,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+RAVEman,Vacuum Сleaner,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Ra16bit,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ra16bit,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"hashing,implementation"
+Ra16bit,First Digit Law,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Ra16bit,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+S.Yesipenko,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+S.Yesipenko,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+S.Yesipenko,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Dremov,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dremov,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Dremov,First Digit Law,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+freak93,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+freak93,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+freak93,First Digit Law,1,C,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Oleg,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Oleg,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Oleg,First Digit Law,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Oleg,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+unrated,Presents,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+unrated,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Georgy,Presents,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Georgy,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"hashing,implementation"
+Kh.Madi,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kh.Madi,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"hashing,implementation"
+zlatkov,Presents,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+zlatkov,Writing a Song,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp"
+zlatkov,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+suhendry,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+suhendry,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"hashing,implementation"
+suhendry,Writing a Song,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp"
+lordklotski,Presents,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lordklotski,First Digit Law,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+lordklotski,Writing a Song,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp"
+KhaustovPavel,Presents,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+KhaustovPavel,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+KhaustovPavel,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+KhaustovPavel,Writing a Song,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,"brute force,dp"
+CherryTree,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CherryTree,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+CherryTree,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+ainu7,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ainu7,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+ainu7,First Digit Law,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Egor,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Egor,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Egor,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Egor,Vacuum Сleaner,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+2222,Presents,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+2222,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+2222,First Digit Law,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,math,probabilities"
+2222,Writing a Song,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+2222,Vacuum Сleaner,0,E,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,geometry
+frost_nova,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+frost_nova,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+frost_nova,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+frost_nova,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"brute force,dp"
+dj3500,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dj3500,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+dj3500,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+dj3500,Writing a Song,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+antonkov,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+antonkov,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+antonkov,First Digit Law,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+PavelKunyavskiy,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PavelKunyavskiy,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+PavelKunyavskiy,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,math,probabilities"
+PavelKunyavskiy,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+ravi_villuri,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ravi_villuri,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+niyaznigmatul,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+niyaznigmatul,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+niyaznigmatul,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+niyaznigmatul,Writing a Song,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+marek.cygan,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+marek.cygan,Writing a Song,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+marek.cygan,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Steps09,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Steps09,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Steps09,First Digit Law,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Steps09,Writing a Song,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Orfest,Presents,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Orfest,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Orfest,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Orfest,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+pperm,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pperm,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+pperm,Writing a Song,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+pperm,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+pperm,Vacuum Сleaner,1,E,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+funny-shmunny,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yaro,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yaro,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+yaro,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+yaro,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+venkateshb,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+venkateshb,Cutting Jigsaw Puzzle,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"hashing,implementation"
+venkateshb,First Digit Law,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+venkateshb,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,dp"
+bahakz,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bahakz,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+bahakz,First Digit Law,0,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+bahakz,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Connector,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Connector,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Connector,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Connector,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+AlexDmitriev,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlexDmitriev,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+M0sTik,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+M0sTik,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Spacejoker,Presents,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Spacejoker,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Spacejoker,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Vintik,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Vintik,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Vintik,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Vintik,Vacuum Сleaner,0,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+Vintik,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+MAK,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MAK,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+MAK,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Igor_Kudryashov,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Igor_Kudryashov,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"hashing,implementation"
+Igor_Kudryashov,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Igor_Kudryashov,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+slycelote,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+slycelote,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+slycelote,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+slycelote,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+bwps,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bwps,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+bwps,First Digit Law,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+bwps,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+WJMZBMR,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+WJMZBMR,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"hashing,implementation"
+WJMZBMR,First Digit Law,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+WJMZBMR,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+JOZHEG,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+JOZHEG,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+JOZHEG,First Digit Law,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+rudradevbasak,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rudradevbasak,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+rudradevbasak,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+wRabbits_AlMag,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wRabbits_AlMag,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+wRabbits_AlMag,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,math,probabilities"
+wRabbits_AlMag,Writing a Song,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+SyFy,Presents,0,A,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,implementation
+pes,Presents,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+pes,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+pes,First Digit Law,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+pes,Writing a Song,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,dp"
+sggutier,Presents,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sggutier,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+sggutier,First Digit Law,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+NotOnlySuccess,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NotOnlySuccess,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+NotOnlySuccess,First Digit Law,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+NotOnlySuccess,Writing a Song,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+maksay,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+maksay,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+maksay,First Digit Law,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+maksay,Writing a Song,1,D,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+mk74rus,Presents,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+mk74rus,First Digit Law,1,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,"dp,math,probabilities"
+Jokser,Presents,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jokser,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Jokser,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Jokser,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,dp"
+yeputons,Presents,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yeputons,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+yeputons,First Digit Law,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+yeputons,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+yeputons,Vacuum Сleaner,1,E,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,geometry
+pedja,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+phinfinity,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bubnov,Presents,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+bubnov,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Efgen,Presents,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Efgen,First Digit Law,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,math,probabilities"
+Kenny_HORROR,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kenny_HORROR,Cutting Jigsaw Puzzle,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Kenny_HORROR,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Kenny_HORROR,Writing a Song,1,D,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+daftcoder,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+daftcoder,First Digit Law,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+daftcoder,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+kostya_by,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LuXueQi,Presents,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+LuXueQi,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+LuXueQi,First Digit Law,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+SergeyLazarev,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SergeyLazarev,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+SergeyLazarev,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Dmitry.Gerasimov,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dmitry.Gerasimov,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+chronotable,Presents,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+chronotable,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+chronotable,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+chronotable,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Soulmusic,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Soulmusic,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Soulmusic,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Soulmusic,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+buko,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+buko,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+buko,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+buko,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,dp"
+acc1,Presents,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kormak,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kormak,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+kormak,First Digit Law,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+kormak,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Snusmumriken,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Snusmumriken,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Snusmumriken,Writing a Song,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Snusmumriken,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+AndrewLazarev,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AndrewLazarev,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+AndrewLazarev,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+AndrewLazarev,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+gheorghemihai,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gheorghemihai,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"hashing,implementation"
+Aeon_Industries,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aeon_Industries,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Tahlil,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+Tahlil,Writing a Song,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"brute force,dp"
+amrSamir,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+amrSamir,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+amrSamir,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+amrSamir,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Piter,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Piter,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Piter,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+impetus,Presents,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+impetus,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+ulzha,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ulzha,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+blazerer,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+blazerer,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+calculus.saransh,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+calculus.saransh,Writing a Song,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp"
+Deamon,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Deamon,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Deamon,First Digit Law,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+pdwd,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pdwd,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+pdwd,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+pdwd,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+vlad107,Presents,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+vlad107,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+vlad107,First Digit Law,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+vlad107,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+akshayk0406,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+akshayk0406,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp"
+voover,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+voover,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+voover,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+voover,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+shevchen,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shevchen,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+shevchen,First Digit Law,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+shevchen,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+VladGavrila,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+VladGavrila,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+VladGavrila,First Digit Law,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+VladGavrila,Writing a Song,1,D,1,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp"
+rufferzool,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rufferzool,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+sdya,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sdya,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+sdya,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+sdya,Writing a Song,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+balakrishnan,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+balakrishnan,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+balakrishnan,First Digit Law,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+balakrishnan,Writing a Song,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+v.haralampiev,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+v.haralampiev,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+v.haralampiev,First Digit Law,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+v.haralampiev,Writing a Song,0,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+xenocratus,Presents,1,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+xenocratus,Writing a Song,1,D,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp"
+Ruslan,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ruslan,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Ruslan,First Digit Law,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+maxxx,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gassa,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gassa,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Gassa,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Gassa,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+starvae,Presents,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+starvae,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+starvae,Writing a Song,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+AntonDubovik,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AntonDubovik,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+AntonDubovik,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+ydnl,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ydnl,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+AndreySiunov,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AndreySiunov,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"hashing,implementation"
+AndreySiunov,First Digit Law,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+sazzad,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sazzad,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+sazzad,Writing a Song,1,D,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+sakyalol,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+sakyalol,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+tracyhenry,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tracyhenry,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+tracyhenry,First Digit Law,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,math,probabilities"
+tracyhenry,Writing a Song,1,D,0,0,0,1,0,4,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp"
+cgy4ever,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cgy4ever,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+cgy4ever,First Digit Law,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+cgy4ever,Writing a Song,0,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+cgy4ever,Vacuum Сleaner,0,E,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,geometry
+ballon,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ballon,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+ballon,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+popovaclaire,Vacuum Сleaner,0,E,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,geometry
+popovaclaire,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+popovaclaire,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+popovaclaire,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+juancate,Presents,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+dancho,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dancho,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"hashing,implementation"
+dancho,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+july,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+july,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+july,First Digit Law,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+goooooooopan,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+goooooooopan,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+goooooooopan,First Digit Law,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Aule,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aule,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+cauchyk,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cauchyk,Writing a Song,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"brute force,dp"
+cauchyk,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+HolkinPV,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+HolkinPV,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+HolkinPV,First Digit Law,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+junkbot,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+junkbot,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+shindo,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shindo,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Imba,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Imba,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Imba,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Imba,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+imslavko,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lyrics,Presents,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+lyrics,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+lyrics,First Digit Law,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Nenash,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nenash,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Nenash,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Timus,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+egorik,Presents,0,A,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,implementation
+the_saint,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+the_saint,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+the_saint,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Waiter,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yasu0207,Presents,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+yasu0207,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+bm_anas,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bm_anas,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+kuzmichev_dima,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kuzmichev_dima,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Seyaua,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Seyaua,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Seyaua,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Seyaua,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Saken,Presents,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+juver,Presents,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+juver,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+juver,First Digit Law,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+MihailTyomkin,Presents,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+MihailTyomkin,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+MakTraDe,Presents,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shadeel,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shadeel,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+shadeel,Writing a Song,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp"
+expand,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+expand,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+expand,First Digit Law,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+crbtmac,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+crbtmac,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+msagimbekov,Presents,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+msagimbekov,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Rei,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rei,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Rei,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Rei,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,dp"
+dragoon,Presents,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dragoon,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+dragoon,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+dragoon,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+hindsight,Presents,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+PaintKiller,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PaintKiller,First Digit Law,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+dr.madis,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dr.madis,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+sohelH,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sohelH,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+sohelH,First Digit Law,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+sohelH,Writing a Song,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+sas4eka,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sas4eka,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+vALP,Presents,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+nfs420,Presents,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+sicasli,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sicasli,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+alyaxey,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alyaxey,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+alyaxey,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+alyaxey,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+RosyIsh,Presents,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ikk,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ikk,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+permin,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+permin,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+permin,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+permin,Writing a Song,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+MBabin,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MBabin,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+MBabin,Writing a Song,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+ir5,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ir5,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+ir5,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+ir5,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,dp"
+Andark,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pt1989,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pt1989,First Digit Law,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,math,probabilities"
+pt1989,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+pt1989,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp"
+niquefa_diego,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tardosmors,Presents,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+littlealex,Presents,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+littlealex,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+littlealex,Writing a Song,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp"
+fushar,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fushar,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+fushar,First Digit Law,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+fushar,Vacuum Сleaner,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+masha,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+masha,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+WAVwind,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+WAVwind,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+WAVwind,Writing a Song,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+kiyoshi,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DDDDDDDDDDDDDDDDDDDDDDDD,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DDDDDDDDDDDDDDDDDDDDDDDD,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+DDDDDDDDDDDDDDDDDDDDDDDD,Vacuum Сleaner,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+hlahuhkln,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hlahuhkln,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+ANTANTA,Presents,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+AVoz,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AVoz,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"hashing,implementation"
+Oryshych,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Oryshych,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,9,0,0,0,0,0,0,0,1,0,0,0,"hashing,implementation"
+evader,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+evader,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+evader,First Digit Law,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+BVI,Presents,0,A,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+BVI,Cutting Jigsaw Puzzle,0,B,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+boba,Presents,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+boba,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+lne,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lne,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"hashing,implementation"
+lne,First Digit Law,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+uwi,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+uwi,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"hashing,implementation"
+uwi,Writing a Song,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+uwi,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+ichyo,Presents,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ichyo,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Diabolic,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sereja,Presents,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sereja,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Sereja,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Sereja,Writing a Song,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+KrK,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+KrK,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+KrK,First Digit Law,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+eka,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+eka,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+coder_iitu,Presents,1,A,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+coder_iitu,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+andreyrmg,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tl268,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tl268,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+tl268,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Melamori,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+victor_kamashev,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+victor_kamashev,First Digit Law,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+victor_kamashev,Writing a Song,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp"
+CleRIC,Presents,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aman,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aman,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"hashing,implementation"
+sadra27,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gn13,Presents,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bill_108,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bill_108,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+bill_108,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,math,probabilities"
+Madiyar,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Madiyar,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Fedya,Presents,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+sunhaowen123,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sunhaowen123,Cutting Jigsaw Puzzle,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+grizz,Presents,0,A,0,0,0,3,0,12,0,0,0,0,0,0,0,0,0,0,0,implementation
+grizz,First Digit Law,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+evg-zhabotinsky,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+evg-zhabotinsky,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+evg-zhabotinsky,Vacuum Сleaner,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+amir_sh,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+amir_sh,First Digit Law,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Eclipse,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eclipse,First Digit Law,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Eclipse,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+logicmachine,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+logicmachine,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"hashing,implementation"
+dart,Presents,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+segv,Presents,0,A,1,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+segv,Writing a Song,1,D,1,0,0,1,0,6,0,0,0,0,0,0,0,0,1,0,0,"brute force,dp"
+segv,First Digit Law,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Kostroma,Presents,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kostroma,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"hashing,implementation"
+sourav_22,Presents,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+007.chandru.vels,Presents,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Duc,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Duc,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Duc,First Digit Law,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Duc,Writing a Song,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Mex-Mans,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mex-Mans,Cutting Jigsaw Puzzle,0,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Mex-Mans,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+xyahr,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+insane,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+deevrod,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+syco,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+syco,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+syco,First Digit Law,0,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+syco,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Katran,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Katran,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+wilbertliu,Presents,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+wilbertliu,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Pratham,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pratham,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Pratham,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,math,probabilities"
+Snow_storm,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Snow_storm,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+zgmf_x56s,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zgmf_x56s,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Eugene_Pogrebnoy,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zyx3d,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zyx3d,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+zyx3d,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+cylixstar,Presents,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+cylixstar,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+cylixstar,First Digit Law,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+cylixstar,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+aixci,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aixci,First Digit Law,1,C,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+piotr.kukla,Presents,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+piotr.kukla,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+piotr.kukla,First Digit Law,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Proscriptus,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Proscriptus,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+ryuzmukhametov,Presents,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ryuzmukhametov,Cutting Jigsaw Puzzle,0,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+ryuzmukhametov,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+ridowan007,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ridowan007,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+kreet,Presents,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+kreet,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Lmshonok,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Lmshonok,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+ICOA,Presents,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ICOA,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Liaksiejka,Presents,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Liaksiejka,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+akashin,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+akashin,First Digit Law,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+tamilmani,Presents,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+Rubanenko,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rubanenko,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Rubanenko,Writing a Song,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+kwetril,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kwetril,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+fura,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+redox,Presents,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+redox,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+stoundmire,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+stoundmire,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"hashing,implementation"
+stoundmire,First Digit Law,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+stoundmire,Writing a Song,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Andip,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Andip,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Andip,First Digit Law,0,C,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+middle_impulse,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+middle_impulse,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+homo_sapiens,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+homo_sapiens,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+homo_sapiens,First Digit Law,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+homo_sapiens,Writing a Song,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+A_rustam_rustam,Presents,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+tanzaku,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tanzaku,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+tanzaku,First Digit Law,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+tanzaku,Writing a Song,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+viktor533,Presents,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+EvAn,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+Khuyagbaatar,Presents,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hitrez,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hitrez,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Ernestas,Presents,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+safariworldcom,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+safariworldcom,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+KapJI,Presents,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KapJI,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Veldrin,Presents,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+PanZverski,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PanZverski,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+PanZverski,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Vladl1313,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Vladl1313,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+MOZGOLOM,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+MOZGOLOM,Vacuum Сleaner,1,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+arshuaz,Presents,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+arshuaz,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Xerxes,Presents,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+nitesh_nsit,Presents,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+St.satzh,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dyussenaliyev,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dyussenaliyev,First Digit Law,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+dyussenaliyev,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+UESTC_Defense,Presents,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+UESTC_Defense,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+UESTC_Defense,First Digit Law,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+UESTC_Defense,Writing a Song,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+evjava,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+evjava,Cutting Jigsaw Puzzle,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+nel215,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nel215,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+nel215,First Digit Law,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Hosam_Samy,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hosam_Samy,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Hadi_Asiaie,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hadi_Asiaie,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Hadi_Asiaie,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Hadi_Asiaie,Writing a Song,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp"
+farhan_iut,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+OmarEl-Mohandes,Presents,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+OmarEl-Mohandes,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+nise_nabe,Presents,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+nise_nabe,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+valikluks1995,Presents,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+valikluks1995,Writing a Song,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+KTY,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+KTY,Cutting Jigsaw Puzzle,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,"hashing,implementation"
+era_kaz_93,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+era_kaz_93,Cutting Jigsaw Puzzle,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+paulocezar,Presents,0,A,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+paulocezar,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+pius_88,Presents,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ArchMaG,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mongolrgata,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alberist,Presents,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+qq20091200,Presents,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Farzam,Presents,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Farzam,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+shibly,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shibly,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+fayyaz,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fayyaz,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+niquefa,Presents,1,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+naaaag,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+naaaag,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+naaaag,Writing a Song,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+BenderRodriges,Presents,0,A,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,implementation
+Quazar,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Quazar,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+ChamChi,Presents,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ChamChi,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+mamhh,Presents,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+mamhh,Cutting Jigsaw Puzzle,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"hashing,implementation"
+johar,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mznanan,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mznanan,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Jughead,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jughead,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Jughead,First Digit Law,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Jughead,Writing a Song,1,D,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+smukashev,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+bohuss,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tajbir2000,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LongCtrl,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ragvena,Presents,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+regmar,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+regmar,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+matrix_sust,Presents,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+nitin.gangahar,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fer,Presents,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+fer,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+pablo.aguilar,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pablo.aguilar,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+pablo.aguilar,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Rex,Presents,0,A,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,implementation
+thefourtheye,Presents,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Serg,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+coders1122,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+coders1122,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+coders1122,Writing a Song,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp"
+Hapuk,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+isemenov.progz,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+isemenov.progz,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+dalex,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dalex,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"hashing,implementation"
+manukranthk,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+manukranthk,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+4ybakut2004,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sydr1991,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mikluxo,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Komaki,Presents,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Komaki,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Komaki,First Digit Law,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+baukaman,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+baukaman,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Slamur,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Slamur,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+watson,Presents,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+JustSmile,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ExZamer,Presents,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,implementation
+naagi,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+naagi,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+baoyu,Presents,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Enigma,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+aura,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aura,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+huyuealex,Presents,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+huyuealex,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+power721,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+JKeeJ1e30,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+JKeeJ1e30,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+aa3245,Presents,1,A,1,0,0,0,0,5,0,1,0,0,0,0,0,1,0,0,0,implementation
+praba4640,Presents,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Urbanowicz,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Urbanowicz,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+FSOG,Presents,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dimp,Presents,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+mob_lived,Presents,0,A,0,0,0,3,2,9,0,0,0,0,0,0,0,0,0,0,0,implementation
+mob_lived,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+k06a,Writing a Song,0,D,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp"
+k06a,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+k06a,First Digit Law,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Ignat,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Ignat,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ignat,First Digit Law,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Ignat,Writing a Song,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+makagonov,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+makagonov,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+sandygupta,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sandygupta,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+vovan,Presents,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+mukel,Presents,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mukel,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"hashing,implementation"
+kusano,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kusano,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+kusano,First Digit Law,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+hogeover30,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hogeover30,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+acrux,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kykyu,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kykyu,First Digit Law,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+sajjad_gh,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mark_tven,Presents,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mark_tven,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+saeedeh,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Iain,Presents,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+TeRom,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dosa,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dosa,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"brute force,dp"
+olzhasktl,Presents,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+olzhasktl,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+YeeeeHa,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tsimokhin,Presents,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pingvi,Presents,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+xrtgavin,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+romzes,Presents,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+AleksBannikov,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+saronger,Presents,0,A,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+vsb,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+vsb,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vsb,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Templar,Presents,1,A,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ferlon,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ferlon,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+Ferlon,First Digit Law,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Ferlon,Writing a Song,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+JalbaRu,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sunnywkn,Presents,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruslan.sennov,Presents,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruslan.sennov,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"hashing,implementation"
+Diman_yoyo,Presents,1,A,1,0,0,0,0,8,0,0,0,1,0,0,0,0,0,0,0,implementation
+deximat,Presents,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+deximat,Writing a Song,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp"
+zajac,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Anurag,Presents,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+premprakash,Presents,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+dmitry.uvarov,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dmitry.uvarov,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+jurong,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhandos,Presents,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhandos,Writing a Song,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"brute force,dp"
+libe,Presents,0,A,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+libe,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+zjs,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zjs,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+An4ik.D,Presents,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+fairywell,Presents,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+dumanshu,Presents,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+4a1ka,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+HRM,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+HRM,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"hashing,implementation"
+Danger,Presents,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Damir,Presents,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,implementation
+ARHIGOD,Presents,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ARHIGOD,First Digit Law,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+MaeSTRo,Presents,0,A,0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,implementation
+MaeSTRo,First Digit Law,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+yzq110abc,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yzq110abc,First Digit Law,0,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+yzq110abc,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+shnell,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shnell,Writing a Song,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+egorka,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+swhite131,Presents,0,A,0,0,0,3,0,2,0,0,0,0,0,0,0,2,0,0,0,implementation
+buldoQ,Presents,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dr.McKay,Presents,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,implementation
+zloypchel,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zloypchel,Writing a Song,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp"
+kurakun,Presents,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zoljargal,Presents,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+daniil_tropin,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+daniil_tropin,Writing a Song,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp"
+ViktorM,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zwp10086,Presents,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+pragrame,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pragrame,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+just_alisher,Presents,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Cromel,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Cromel,Writing a Song,1,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+ErzhanDS,Presents,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+TRR,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sjtu_pigoneand,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"hashing,implementation"
+sjtu_pigoneand,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sjtu_pigoneand,First Digit Law,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+magdi,Presents,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+anas17in,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+odule,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nata_S,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nata_S,First Digit Law,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Nata_S,Writing a Song,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+arnab.bit,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mary,Presents,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+MitRo,Presents,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kriii,First Digit Law,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+Kriii,Writing a Song,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp"
+Kriii,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kriii,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+anor-hen,Cutting Jigsaw Puzzle,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+anor-hen,Presents,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shadz07,Presents,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruban,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mehas,Presents,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mehas,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+altangerel,Presents,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+grigory51,Presents,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+xiaohongmusic,Presents,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+TwCode,Presents,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+TwCode,Cutting Jigsaw Puzzle,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+zafar_sust_bd,Presents,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+phyllo,Presents,1,A,1,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,implementation
+NoobOK,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexbest2008,Presents,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+arash,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+im_mh,Presents,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+yessenzhar,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aybol,Presents,0,A,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+powersimmani2,Presents,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+natsuki_i,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+natsuki_i,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+ashi009,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+haafmaad,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CathyChen,Presents,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+CathyChen,Cutting Jigsaw Puzzle,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+DoublePointer,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DoublePointer,First Digit Law,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+alexandar92,Presents,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+srivatsan_vn,Presents,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+srivatsan_vn,Cutting Jigsaw Puzzle,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+PAG,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+john_alter,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mrtempo,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,math,probabilities"
+mrtempo,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mrtempo,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+guiltry,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+conghavefun,Presents,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xth1,Presents,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Cyin,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dias,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+NSV,Presents,0,A,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+BothEarRim,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BothEarRim,Cutting Jigsaw Puzzle,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+happy,Presents,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+mvc,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cho1307,Presents,0,A,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,implementation
+shindannin,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+shindannin,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shindannin,First Digit Law,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+HJWAJ,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+bor.is,Presents,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+anuragb,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Max_Smolyakov,Presents,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+asif_iut,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jigers,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AMANDEEP,Presents,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+diepluu0307,Presents,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+diepluu0307,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"hashing,implementation"
+matsu4512,Cutting Jigsaw Puzzle,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"hashing,implementation"
+matsu4512,Presents,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hirosegolf,First Digit Law,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math,probabilities"
+hirosegolf,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lijunle,Cutting Jigsaw Puzzle,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"hashing,implementation"
+lijunle,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+FERDOUS_06,Presents,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+betterbearat,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Petrushenko,Presents,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+xeronix,Presents,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+yarrr,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+iman_MC,Presents,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+new,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Spiderman,Presents,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sidjim,Presents,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation

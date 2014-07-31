@@ -1,0 +1,1909 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+yaro,Domino piling,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yaro,Choosing Symbol Pairs,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,strings
+yaro,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+yaro,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+svrsvr,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+svrsvr,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+svrsvr,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Tahlil,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Tahlil,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Kh.Madi,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Kh.Madi,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+just_alisher,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+just_alisher,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Garret,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Garret,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Garret,Happy Farm 5,1,C,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,geometry
+daftcoder,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+daftcoder,Choosing Symbol Pairs,0,B,1,0,0,0,1,3,0,0,0,0,0,0,0,1,0,0,0,strings
+daftcoder,Happy Farm 5,1,C,1,0,0,4,0,0,0,0,0,0,0,0,0,0,1,0,0,geometry
+A_rustam_rustam,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+A_rustam_rustam,Happy Farm 5,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+A_rustam_rustam,Choosing Symbol Pairs,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,strings
+Andark,Domino piling,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Andark,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+unrated,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+unrated,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,strings
+eduardische,Domino piling,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+eduardische,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+eduardische,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+eduardische,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Romka,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Romka,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Romka,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Romka,Square Equation Roots,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Romka,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+udalov,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+udalov,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+udalov,Happy Farm 5,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+nodchip,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nodchip,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+nodchip,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+nodchip,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+AleX,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+AleX,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+AleX,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+AleX,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+AleX,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Gassa,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Gassa,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+Gassa,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Gassa,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Gassa,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sdryapko,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sdryapko,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Spumote,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Spumote,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+ballon,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ballon,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ballon,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+dj3500,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dj3500,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+dj3500,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Snusmumriken,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Snusmumriken,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Snusmumriken,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Snusmumriken,Square Equation Roots,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Snusmumriken,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+DevendraPratap,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+DevendraPratap,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+pperm,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pperm,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pperm,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+pperm,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+pperm,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+msagimbekov,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+msagimbekov,Choosing Symbol Pairs,1,B,1,0,0,0,1,7,0,0,0,0,0,0,0,1,0,0,0,strings
+tcjuan,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tcjuan,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tcjuan,Happy Farm 5,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+yeputons,Domino piling,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yeputons,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+yeputons,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+yeputons,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+thinfaifai,Domino piling,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+thinfaifai,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+thinfaifai,Happy Farm 5,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+thinfaifai,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+jbernadas,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+jbernadas,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+jbernadas,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+jbernadas,Bombing,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+jbernadas,Square Equation Roots,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+PavelKunyavskiy,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+PavelKunyavskiy,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+PavelKunyavskiy,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+PavelKunyavskiy,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+PavelKunyavskiy,Square Equation Roots,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+2222,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+2222,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+2222,Happy Farm 5,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,geometry
+2222,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+2222,Square Equation Roots,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+I_love_ilona,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+I_love_ilona,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+I_love_ilona,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+I_love_ilona,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+I_love_ilona,Square Equation Roots,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+AlTimin,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+AlTimin,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+AlTimin,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+AlTimin,Bombing,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Efgen,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Efgen,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Efgen,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Efgen,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Luzan,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Luzan,Choosing Symbol Pairs,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,strings
+Luzan,Bombing,1,D,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Luzan,Happy Farm 5,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+SmirnovBoris,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+SmirnovBoris,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+toshima,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+toshima,Choosing Symbol Pairs,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,strings
+toshima,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+keivan,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+keivan,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+xhae,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xhae,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+xhae,Happy Farm 5,0,C,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+xhae,Bombing,0,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+xhae,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+KhaustovPavel,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+KhaustovPavel,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+KhaustovPavel,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+KhaustovPavel,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+KhaustovPavel,Square Equation Roots,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ilyakor,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ilyakor,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ilyakor,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+ilyakor,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+ilyakor,Square Equation Roots,1,E,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,math
+iRomchig,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+iRomchig,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+rng_58,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rng_58,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+rng_58,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+rng_58,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+rng_58,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dolphinigle,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dolphinigle,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+dolphinigle,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+dolphinigle,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+dolphinigle,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Orfest,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Orfest,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Orfest,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Orfest,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Orfest,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Egor,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Egor,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Egor,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Egor,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Egor,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mmaxio,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mmaxio,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mmaxio,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+mmaxio,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+dieglaube,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dieglaube,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+dieglaube,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+dieglaube,Square Equation Roots,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+HTML_Sanek,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+HTML_Sanek,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+gurovic,Domino piling,0,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gurovic,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+SavchukAM,Domino piling,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+SavchukAM,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+SavchukAM,Happy Farm 5,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+buko,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+buko,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+buko,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+buko,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Angel,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Angel,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Angel,Happy Farm 5,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+GagGuy,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+GagGuy,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+GagGuy,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+GagGuy,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+kangbb,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kangbb,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+kangbb,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+NotOnlySuccess,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+NotOnlySuccess,Choosing Symbol Pairs,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+NotOnlySuccess,Happy Farm 5,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+NotOnlySuccess,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+NotOnlySuccess,Square Equation Roots,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+frank44,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+frank44,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+HolkinPV,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+HolkinPV,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+HolkinPV,Bombing,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,probabilities"
+AndreySiunov,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+AndreySiunov,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+AndreySiunov,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+AndreySiunov,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+poopi,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+poopi,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+poopi,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+poopi,Happy Farm 5,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+163max,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+163max,Choosing Symbol Pairs,1,B,1,0,0,2,0,4,0,0,0,0,0,0,0,1,0,0,0,strings
+havaliza,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+havaliza,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+havaliza,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Shik,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Shik,Choosing Symbol Pairs,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Shik,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Shik,Bombing,0,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Shik,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+diogen,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+diogen,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+diogen,Happy Farm 5,1,C,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,geometry
+kenny59,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kenny59,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kenny59,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Petr,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Petr,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Petr,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Petr,Square Equation Roots,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Petr,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Astein,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Astein,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Astein,Happy Farm 5,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+Astein,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Astein,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sicasli,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sicasli,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+sakyalol,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sakyalol,Choosing Symbol Pairs,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+sakyalol,Happy Farm 5,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+forifchen,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+forifchen,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+forifchen,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+forifchen,Square Equation Roots,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Ariosxcw,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ariosxcw,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Ariosxcw,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Ariosxcw,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Sereja,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Sereja,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Sereja,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Sereja,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Sereja,Square Equation Roots,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+cauchyk,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cauchyk,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+cauchyk,Happy Farm 5,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+cauchyk,Square Equation Roots,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Ress,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ress,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+slycelote,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+slycelote,Choosing Symbol Pairs,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+slycelote,Square Equation Roots,1,E,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+slycelote,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+tomekkulczynski,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tomekkulczynski,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tomekkulczynski,Happy Farm 5,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+tomekkulczynski,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+tomekkulczynski,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Konstantin,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Konstantin,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Konstantin,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Konstantin,Square Equation Roots,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,math
+tourist,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tourist,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tourist,Square Equation Roots,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tourist,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+tourist,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+iakolzin,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+iakolzin,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+iakolzin,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+iakolzin,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+NALP,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+NALP,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+NALP,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+NALP,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+NovaBlast,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+NovaBlast,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+m.sabouri,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+m.sabouri,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+m.sabouri,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+tanzaku,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tanzaku,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tanzaku,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+tanzaku,Bombing,1,D,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+mekagem,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mekagem,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+mekagem,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+mekagem,Square Equation Roots,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+mekagem,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+steiner,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+steiner,Choosing Symbol Pairs,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+steiner,Happy Farm 5,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,geometry
+steiner,Bombing,1,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+steiner,Square Equation Roots,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,math
+Mikes,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Mikes,Choosing Symbol Pairs,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,strings
+Mikes,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Fdg,Domino piling,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Fdg,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Fdg,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Fdg,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Fdg,Square Equation Roots,1,E,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,math
+stubbscroll,Domino piling,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+stubbscroll,Choosing Symbol Pairs,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+stubbscroll,Happy Farm 5,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+chhung6,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+chhung6,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+chhung6,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+chhung6,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+sazzad,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sazzad,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pes,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pes,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pes,Happy Farm 5,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+pes,Bombing,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+naagi,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+naagi,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+naagi,Happy Farm 5,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Eledven,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Eledven,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Eledven,Happy Farm 5,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Eledven,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+BrightDays,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+BrightDays,Choosing Symbol Pairs,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,strings
+BrightDays,Bombing,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+diver_ru,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+diver_ru,Choosing Symbol Pairs,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+diver_ru,Bombing,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+SergeyLazarev,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+SergeyLazarev,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+SergeyLazarev,Happy Farm 5,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+Sergey.Bankevich,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Sergey.Bankevich,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+A.K.Goharshady,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+A.K.Goharshady,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+andrey-tsb,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+andrey-tsb,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+andrey-tsb,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+andrey-tsb,Happy Farm 5,0,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,geometry
+azonium,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+azonium,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kormak,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kormak,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kormak,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+kormak,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+KOTEHOK,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+KOTEHOK,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+KOTEHOK,Happy Farm 5,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+KOTEHOK,Square Equation Roots,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+KOTEHOK,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+nfs420,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nfs420,Choosing Symbol Pairs,1,B,0,0,0,4,1,2,0,2,0,0,0,0,0,1,0,0,0,strings
+ivan.popelyshev,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ivan.popelyshev,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ivan.popelyshev,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+ivan.popelyshev,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+ivan.popelyshev,Square Equation Roots,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+vepifanov,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vepifanov,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+vepifanov,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+vepifanov,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+vepifanov,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Surogatov_S,Domino piling,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Surogatov_S,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+fura,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+fura,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+fura,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Commandos,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Commandos,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Commandos,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,geometry
+Commandos,Bombing,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+voover,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+voover,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+voover,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+voover,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+voover,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+plokzfadai,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+plokzfadai,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+plokzfadai,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+plokzfadai,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Fcdkbear,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Fcdkbear,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Fcdkbear,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Snich,Domino piling,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Snich,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,strings
+Snich,Bombing,1,D,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+fhlasek,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+fhlasek,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+fhlasek,Happy Farm 5,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+fhlasek,Bombing,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+dimozzz,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dimozzz,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+dimozzz,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+dimozzz,Happy Farm 5,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Vaness,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Vaness,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Vaness,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+lordklotski,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lordklotski,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+lordklotski,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+lordklotski,Happy Farm 5,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,geometry
+Abra,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Abra,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+Abra,Happy Farm 5,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+hardyyeh,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hardyyeh,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+hardyyeh,Happy Farm 5,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ant.ermilov,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ant.ermilov,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+ant.ermilov,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+tgoulart,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tgoulart,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tgoulart,Happy Farm 5,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,geometry
+tgoulart,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Alexander-1709,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Alexander-1709,Choosing Symbol Pairs,1,B,0,0,0,0,0,7,0,1,0,0,0,0,0,1,0,0,0,strings
+dnike,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dnike,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+dnike,Bombing,0,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,probabilities"
+Xazker,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Xazker,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Xazker,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+S.Yesipenko,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+S.Yesipenko,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+S.Yesipenko,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+S.Yesipenko,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Eugene,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Eugene,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+evader,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+evader,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Gerald,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Gerald,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Gerald,Happy Farm 5,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Gerald,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+KADR,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+KADR,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+KADR,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+KADR,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+KADR,Square Equation Roots,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,math
+Ferlon,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ferlon,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Ferlon,Happy Farm 5,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+sky58,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sky58,Choosing Symbol Pairs,0,B,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,0,0,strings
+sky58,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+sky58,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+gen,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gen,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+gen,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+al13n,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+al13n,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+al13n,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+al13n,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+al13n,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+bagnikita,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bagnikita,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+bagnikita,Bombing,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+bagnikita,Square Equation Roots,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+balroginfire,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+balroginfire,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+balroginfire,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+balroginfire,Bombing,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+balroginfire,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lightning,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lightning,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+lightning,Happy Farm 5,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+shevchen,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+shevchen,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+yongwhan,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yongwhan,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+yongwhan,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+freak93,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+freak93,Choosing Symbol Pairs,1,B,0,0,0,0,0,4,0,1,0,0,0,0,0,1,0,0,0,strings
+ksjuchi,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ksjuchi,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kasyankrak,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kasyankrak,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,strings
+pcyu16,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pcyu16,Choosing Symbol Pairs,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,strings
+pcyu16,Square Equation Roots,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Philip_PV,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Philip_PV,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Philip_PV,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,geometry
+Philip_PV,Bombing,0,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Shtrix,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Shtrix,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Shtrix,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Shtrix,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,geometry
+Shtrix,Square Equation Roots,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,math
+a70babat,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+a70babat,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+a70babat,Happy Farm 5,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+imper,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+imper,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+rembocoder,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+rembocoder,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Lapenkov,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Lapenkov,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,strings
+maksay,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+maksay,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+maksay,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+maksay,Happy Farm 5,0,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+maksay,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+almaz_kh,Domino piling,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+almaz_kh,Choosing Symbol Pairs,1,B,0,0,0,0,1,2,0,1,0,0,0,0,0,1,0,0,0,strings
+almaz_kh,Square Equation Roots,0,E,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,math
+Ra16bit,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ra16bit,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Ra16bit,Happy Farm 5,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Ra16bit,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Ra16bit,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+4a1ka,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+4a1ka,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+Seemann,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Seemann,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Seemann,Happy Farm 5,1,C,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,geometry
+a20012251,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+a20012251,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+a20012251,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+a20012251,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+007.chandru.vels,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+007.chandru.vels,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+uwi,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+uwi,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+uwi,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+uwi,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+uwi,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,math
+DPR-pavlin,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+DPR-pavlin,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+DPR-pavlin,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+DPR-pavlin,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+DPR-pavlin,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Conopus,Domino piling,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Conopus,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,strings
+Conopus,Square Equation Roots,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+BVI,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+BVI,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+BVI,Happy Farm 5,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Warxezz,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Warxezz,Choosing Symbol Pairs,1,B,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,strings
+Creed,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Creed,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+ir5,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ir5,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ir5,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+ir5,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+ir5,Square Equation Roots,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+lmhung2007,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lmhung2007,Choosing Symbol Pairs,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+lmhung2007,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+VUAcoder,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+VUAcoder,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+VUAcoder,Happy Farm 5,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,geometry
+niyaznigmatul,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+niyaznigmatul,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+niyaznigmatul,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+YeeeeHa,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Copymaster,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Copymaster,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Copymaster,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+lcch,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lcch,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+lcch,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+lcch,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+lcch,Square Equation Roots,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+myltik,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+myltik,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+myltik,Happy Farm 5,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+ruslan.sennov,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ruslan.sennov,Choosing Symbol Pairs,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ruslan.sennov,Happy Farm 5,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Ignorance,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ignorance,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Ignorance,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Ignorance,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+magdi,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+magdi,Choosing Symbol Pairs,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,strings
+magdi,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Rubanenko,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Rubanenko,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Rubanenko,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,geometry
+sidky,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sidky,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+ArtDitel,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ArtDitel,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ArtDitel,Bombing,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"binary search,dp,probabilities"
+ArtDitel,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Pole,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Pole,Choosing Symbol Pairs,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+Pole,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Pole,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Pole,Happy Farm 5,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+haker4o,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+haker4o,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+haker4o,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+valikluks1995,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+valikluks1995,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+valikluks1995,Happy Farm 5,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+sjtu_pigoneand,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sjtu_pigoneand,Choosing Symbol Pairs,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+sjtu_pigoneand,Happy Farm 5,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+shilov,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+shilov,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sabbir_yousuf,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sabbir_yousuf,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sabbir_yousuf,Happy Farm 5,1,C,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Kiberbit,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Kiberbit,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+hrkksym,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hrkksym,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+hrkksym,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+AlexDmitriev,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+AlexDmitriev,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+AlexDmitriev,Happy Farm 5,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Jacob,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Jacob,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Jacob,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Jacob,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Jacob,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Snipx,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Snipx,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pt1989,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pt1989,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+pt1989,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+pt1989,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+Tatyana_Petrashko,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Tatyana_Petrashko,Choosing Symbol Pairs,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,strings
+Yan_Kurganov_Kovrov_STA,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Yan_Kurganov_Kovrov_STA,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+500xhp,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+500xhp,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+neal,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+neal,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+neal,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+neal,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+neal,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+antonkov,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+antonkov,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+antonkov,Happy Farm 5,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+wcao,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+wcao,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+wcao,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+wcao,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+wcao,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zinger,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zinger,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+CherryTree,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+CherryTree,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,strings
+CherryTree,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+CherryTree,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,probabilities"
+Diman_yoyo,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Diman_yoyo,Choosing Symbol Pairs,1,B,0,0,0,3,2,2,4,2,0,0,0,0,0,1,0,0,0,strings
+sune2,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sune2,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,strings
+sune2,Happy Farm 5,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,geometry
+xiaoyoulei,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xiaoyoulei,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,strings
+xiaoyoulei,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,geometry
+xiaoyoulei,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+zhouxingxing,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zhouxingxing,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+zhouxingxing,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+zhouxingxing,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+zhouxingxing,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ahmed_aly,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ahmed_aly,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ahmed_aly,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+ahmed_aly,Happy Farm 5,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+yvasyliv,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yvasyliv,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+yvasyliv,Happy Farm 5,1,C,1,0,0,0,1,8,0,0,0,0,0,0,0,0,0,0,0,geometry
+natalia,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+natalia,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+natalia,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+natalia,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+natalia,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+omir,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+omir,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+omir,Bombing,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+omir,Square Equation Roots,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+parklinkivic,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+parklinkivic,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+DDDDDDDDDDDDDDDDDDDDDDDD,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+DDDDDDDDDDDDDDDDDDDDDDDD,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+DDDDDDDDDDDDDDDDDDDDDDDD,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,geometry
+DDDDDDDDDDDDDDDDDDDDDDDD,Bombing,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Diabolic,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Diabolic,Choosing Symbol Pairs,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,strings
+Togop,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Togop,Choosing Symbol Pairs,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Togop,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+sequence,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sequence,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+sequence,Happy Farm 5,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,geometry
+chitose,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+chitose,Choosing Symbol Pairs,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+chitose,Happy Farm 5,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+shadow.93.04,Domino piling,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+shadow.93.04,Choosing Symbol Pairs,1,B,0,0,0,1,0,0,0,2,0,0,0,0,0,1,0,0,0,strings
+pablo.aguilar,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pablo.aguilar,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pablo.aguilar,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Eather,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Eather,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,strings
+Eather,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+KTR,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+KTR,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+KTR,Happy Farm 5,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,geometry
+victor_kamashev,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+victor_kamashev,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+victor_kamashev,Happy Farm 5,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+victor_kamashev,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+lunae,Domino piling,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lunae,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+lunae,Square Equation Roots,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+lunae,Bombing,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+DamianS,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+DamianS,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+DamianS,Happy Farm 5,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+DamianS,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+ANTANTA,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ANTANTA,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,strings
+Mex-Mans,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Mex-Mans,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mex-Mans,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+HeroShadow,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+HeroShadow,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+sadra27,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sadra27,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+morojenoe,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+morojenoe,Choosing Symbol Pairs,1,B,0,0,0,3,0,4,1,0,0,0,0,0,0,1,0,0,0,strings
+Babanin_Ivan,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Babanin_Ivan,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+GARNETCROW_a.k.a_hhanger,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+GARNETCROW_a.k.a_hhanger,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+GARNETCROW_a.k.a_hhanger,Happy Farm 5,0,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+GARNETCROW_a.k.a_hhanger,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+GARNETCROW_a.k.a_hhanger,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Slamur,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Slamur,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Slamur,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Alex-Gran,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Alex-Gran,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Alex-Gran,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+PanZverski,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+PanZverski,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+PanZverski,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+PanZverski,Bombing,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Soulmusic,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Soulmusic,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Soulmusic,Happy Farm 5,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Seryi,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Seryi,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Seryi,Happy Farm 5,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+akashin,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+akashin,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+M0sTik,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+M0sTik,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+M0sTik,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+permin,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+permin,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+permin,Happy Farm 5,0,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+permin,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+permin,Square Equation Roots,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+rofi,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rofi,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Ministr,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ministr,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+filipbitola,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+filipbitola,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+pragrame,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pragrame,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pragrame,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+pragrame,Square Equation Roots,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+gaston770,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gaston770,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+gaston770,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,geometry
+gaston770,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+masha,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+masha,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+masha,Happy Farm 5,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Artishok,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Artishok,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Artishok,Happy Farm 5,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Artishok,Bombing,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,"binary search,dp,probabilities"
+johar,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+johar,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+johar,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+johar,Square Equation Roots,0,E,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+_sunny,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+_sunny,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+_sunny,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+giongto35,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+giongto35,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Timus,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Timus,Choosing Symbol Pairs,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,strings
+Timus,Happy Farm 5,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+victoryland,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+victoryland,Choosing Symbol Pairs,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,strings
+Anton_Rodick,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Anton_Rodick,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+pank.dm,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pank.dm,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+pank.dm,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+pank.dm,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+pank.dm,Square Equation Roots,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+homo_sapiens,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+homo_sapiens,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+homo_sapiens,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+homo_sapiens,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Jokser,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Jokser,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Jokser,Happy Farm 5,1,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Jokser,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Goofy57,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Goofy57,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Goofy57,Bombing,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Andronnix,Domino piling,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Andronnix,Choosing Symbol Pairs,1,B,0,0,0,1,0,5,0,2,0,0,0,0,0,1,0,0,0,strings
+codecrux,Domino piling,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+codecrux,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+cuiaoxiang,Domino piling,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+cuiaoxiang,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+cuiaoxiang,Happy Farm 5,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+cuiaoxiang,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+cuiaoxiang,Square Equation Roots,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Jesus,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Jesus,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Jesus,Happy Farm 5,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Mohammad_JRS,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Mohammad_JRS,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mohammad_JRS,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Mohammad_JRS,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+2FED,Domino piling,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+2FED,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,strings
+2FED,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+evg-zhabotinsky,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+evg-zhabotinsky,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+evg-zhabotinsky,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+-XraY-,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+-XraY-,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+-XraY-,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Bearjie,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Bearjie,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Bearjie,Happy Farm 5,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Bearjie,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Zhuravlyov.A,Domino piling,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Zhuravlyov.A,Choosing Symbol Pairs,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,strings
+Dremov,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Dremov,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+JackSparrow,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+JackSparrow,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Perlik,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Perlik,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+AleksBannikov,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+AleksBannikov,Choosing Symbol Pairs,1,B,0,0,0,0,0,3,0,2,0,0,0,0,0,1,0,0,0,strings
+Medium,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Medium,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Medium,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Medium,Bombing,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+PavelParhomenko,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+PavelParhomenko,Choosing Symbol Pairs,1,B,0,0,0,0,0,4,0,1,0,0,0,0,0,1,0,0,0,strings
+PavelParhomenko,Square Equation Roots,0,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+IlyaLos,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+IlyaLos,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,strings
+navid.azami,Domino piling,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+navid.azami,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,strings
+navid.azami,Square Equation Roots,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+navid.azami,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+nikunj165,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nikunj165,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+vlad107,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vlad107,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+vlad107,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+vlad107,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+IOI_2014,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+IOI_2014,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+Mars314,Domino piling,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Mars314,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+hendri,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hendri,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+hendri,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Nicolai_Kovrov,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Nicolai_Kovrov,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+snailer,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+snailer,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+rj7.1990,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rj7.1990,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+muriloufg,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+muriloufg,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+z-unit,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+z-unit,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+z-unit,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,probabilities"
+fushar,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+fushar,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+fushar,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+fushar,Happy Farm 5,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Blink,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Blink,Choosing Symbol Pairs,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,strings
+flashmt,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+flashmt,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+flashmt,Happy Farm 5,1,C,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+69-64-79,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+69-64-79,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+69-64-79,Happy Farm 5,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+logic_max,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+logic_max,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+ralekseenkov,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ralekseenkov,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ralekseenkov,Bombing,0,D,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"binary search,dp,probabilities"
+ralekseenkov,Happy Farm 5,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+kicke,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kicke,Choosing Symbol Pairs,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,1,0,0,0,strings
+philolo1,Domino piling,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+philolo1,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pva701,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pva701,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pva701,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Sender,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Sender,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+MrMT,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+MrMT,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+MrMT,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+nz1,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nz1,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,strings
+nz1,Square Equation Roots,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+sherry,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sherry,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+ameydhar,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ameydhar,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+Genyaz,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Genyaz,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Genyaz,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+maradonah,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+maradonah,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+mishanay,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mishanay,Happy Farm 5,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+katygolova,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+katygolova,Choosing Symbol Pairs,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,strings
+katygolova,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+K0stIa,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+K0stIa,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+K0stIa,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Permykov,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Permykov,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Permykov,Happy Farm 5,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,geometry
+valentin,Domino piling,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pareshverma007,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pareshverma007,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+nikhil.bhojania,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nikhil.bhojania,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+aan93,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+aan93,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+aan93,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Jamik,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Mark_tven,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mark_tven,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Mark_tven,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+ndlong,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ndlong,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+A.I,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+A.I,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+A.I,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+A.I,Happy Farm 5,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Palci-Udalci,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Palci-Udalci,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+KA-95,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+KA-95,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+KA-95,Bombing,0,D,0,0,0,2,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,probabilities"
+paulik,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+paulik,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+paulik,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+matrix_sust,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+matrix_sust,Choosing Symbol Pairs,1,B,1,0,0,0,0,3,0,1,0,0,0,0,0,1,0,0,0,strings
+---Grigor---,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+---Grigor---,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+---Grigor---,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Arsalan,Domino piling,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Mercer,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Mercer,Choosing Symbol Pairs,1,B,0,0,0,0,2,7,1,1,0,0,0,0,0,1,0,0,0,strings
+a286729485,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+a286729485,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+KashinYana.,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+KashinYana.,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+KashinYana.,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Noskov,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Noskov,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+monocofe,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+monocofe,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+monocofe,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Nivikz,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Nivikz,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,strings
+vudduu,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vudduu,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+vudduu,Happy Farm 5,1,C,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,geometry
+abacaba,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+abacaba,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+vlad89,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vlad89,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+vlad89,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+vlad89,Square Equation Roots,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vlad89,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,probabilities"
+maxim-m94,Domino piling,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+maxim-m94,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Djteam,Domino piling,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Djteam,Choosing Symbol Pairs,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,strings
+Djteam,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+OutSide,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+OutSide,Choosing Symbol Pairs,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,strings
+OutSide,Happy Farm 5,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,geometry
+emo,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+emo,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+emo,Happy Farm 5,1,C,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,geometry
+zlly,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zlly,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,strings
+zlly,Happy Farm 5,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+zlly,Bombing,1,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Catchy,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Catchy,Choosing Symbol Pairs,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+AhmedNasser,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+AhmedNasser,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+shhdup,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+shhdup,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+shhdup,Happy Farm 5,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,geometry
+baukaman,Domino piling,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+baukaman,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+baukaman,Happy Farm 5,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+o948,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+o948,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+o948,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+o948,Bombing,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Alisafe,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Alisafe,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+nguyenkimvy,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nguyenkimvy,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+paranoid,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+paranoid,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+shovonshovo,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+shovonshovo,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+FoodIsGood,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+FoodIsGood,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+FoodIsGood,Happy Farm 5,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+FoodIsGood,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+yuzeming,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yuzeming,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+yuzeming,Happy Farm 5,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+yuzeming,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+hacker007,Domino piling,1,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hacker007,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+KapJI,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+KapJI,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+KapJI,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+KapJI,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+pyshnograev,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pyshnograev,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pyshnograev,Bombing,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,"binary search,dp,probabilities"
+Artix,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Artix,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+mcsharma1990,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mcsharma1990,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mcsharma1990,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+madkite,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+madkite,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,strings
+madkite,Square Equation Roots,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Aman,Domino piling,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Aman,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+lgarcia,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lgarcia,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+lgarcia,Happy Farm 5,0,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+lgarcia,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+allocator,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+allocator,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+allocator,Happy Farm 5,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+bahakz,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bahakz,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+bahakz,Happy Farm 5,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+bahakz,Bombing,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Rasifiel,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Rasifiel,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Rasifiel,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+bohuss,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bohuss,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,strings
+jonathanirvings,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+jonathanirvings,Choosing Symbol Pairs,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,strings
+jonathanirvings,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+mongolrgata,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mongolrgata,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+MakTraDe,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+MakTraDe,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+MakTraDe,Square Equation Roots,0,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+patsp,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+patsp,Choosing Symbol Pairs,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+patsp,Bombing,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+tatsuyafw,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tatsuyafw,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Sigmar,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Sigmar,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+Sigmar,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Sigmar,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Komaki,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Komaki,Choosing Symbol Pairs,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,strings
+Ahmed_Salama,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ahmed_Salama,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Ahmed_Salama,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+adel_gilmullin,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+adel_gilmullin,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+adel_gilmullin,Square Equation Roots,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+0806580124,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+0806580124,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+0806580124,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+0806580124,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+fahad.sust,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+fahad.sust,Choosing Symbol Pairs,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,strings
+kunigami,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kunigami,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+kunigami,Happy Farm 5,0,C,0,0,0,1,0,0,0,2,2,0,0,0,0,0,0,0,0,geometry
+amrSamir,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+amrSamir,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+amrSamir,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+dhruv571,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dhruv571,Choosing Symbol Pairs,1,B,0,0,0,3,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+dhruv571,Happy Farm 5,0,C,0,0,0,2,0,8,0,0,0,0,0,0,0,0,0,0,0,geometry
+zhukov,Domino piling,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zhukov,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+OgieKako,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+OgieKako,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+OgieKako,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+OgieKako,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+OgieKako,Square Equation Roots,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+meparter,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+meparter,Choosing Symbol Pairs,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,strings
+Void,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Void,Domino piling,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Void,Square Equation Roots,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+Deamon,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Deamon,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Deamon,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Deamon,Square Equation Roots,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Deamon,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+VArtem,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+VArtem,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cegprakash,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cegprakash,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,6,0,0,0,0,0,1,0,0,0,strings
+cegprakash,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+rampage,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rampage,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+luizribeiro,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+luizribeiro,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+luizribeiro,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+sohelH,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sohelH,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sabbathist,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sabbathist,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+samshu,Choosing Symbol Pairs,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,strings
+samshu,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Mehrdad,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Mehrdad,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mehrdad,Happy Farm 5,1,C,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+paulocezar,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+paulocezar,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+mitash.chaitanya,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mitash.chaitanya,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mitash.chaitanya,Bombing,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Abulkhair,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Abulkhair,Choosing Symbol Pairs,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,strings
+Sasa_0824,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Sasa_0824,Choosing Symbol Pairs,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,strings
+UESTC_Defense,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+UESTC_Defense,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,strings
+Nikhil,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Nikhil,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+Nikhil,Square Equation Roots,1,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,math
+Nikhil,Happy Farm 5,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Goshish,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Goshish,Choosing Symbol Pairs,1,B,0,0,0,2,0,5,0,0,0,0,0,0,0,1,0,0,0,strings
+Goshish,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+witua,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+witua,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+witua,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+zeliboba,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zeliboba,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+zeliboba,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+zeliboba,Square Equation Roots,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+behdadb,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+behdadb,Choosing Symbol Pairs,1,B,1,0,0,0,2,6,0,0,0,0,0,0,0,1,0,0,0,strings
+kool_ajay,Domino piling,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kool_ajay,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+kool_ajay,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ankulgarg,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ankulgarg,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ankulgarg,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+mukundgames,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mukundgames,Choosing Symbol Pairs,1,B,0,0,0,4,0,1,0,3,0,0,0,0,0,1,0,0,0,strings
+MOZGOLOM,Domino piling,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+MOZGOLOM,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+MOZGOLOM,Square Equation Roots,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+odule,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+odule,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+nep1965,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nep1965,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kabir.sohel,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kabir.sohel,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+balakrishnan,Domino piling,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+balakrishnan,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+balakrishnan,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+balakrishnan,Square Equation Roots,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+Dias,Choosing Symbol Pairs,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+Dias,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Dias,Square Equation Roots,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+tmiyamon,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tmiyamon,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+MihailTyomkin,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+MihailTyomkin,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+FERDOUS_06,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+FERDOUS_06,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+smilitude,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+smilitude,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+smilitude,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+smilitude,Happy Farm 5,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,geometry
+Remstam,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Remstam,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+nel215,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nel215,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+nel215,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+KirillB,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+KirillB,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+KirillB,Happy Farm 5,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+KirillB,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Igel_SK,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Igel_SK,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Igel_SK,Happy Farm 5,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+TeRom,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+TeRom,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+pdwd,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pdwd,Choosing Symbol Pairs,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+pdwd,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+pdwd,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,probabilities"
+kssilveira,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kssilveira,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+kssilveira,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,geometry
+Hapuk,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Hapuk,Choosing Symbol Pairs,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,strings
+dani93.f,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dani93.f,Choosing Symbol Pairs,1,B,0,0,0,0,0,3,0,1,0,0,0,0,0,1,0,0,0,strings
+ahm.kam_92,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ahm.kam_92,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,strings
+Sarkin,Choosing Symbol Pairs,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Sarkin,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Sarkin,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+AndreiD,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+AndreiD,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,strings
+ruban,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ruban,Choosing Symbol Pairs,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+ruban,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Aule,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Aule,Choosing Symbol Pairs,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,strings
+rst,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rst,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,strings
+PML,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+PML,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mail2bidhan,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mail2bidhan,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+iakasT,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+iakasT,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+iakasT,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Hthang187,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Hthang187,Happy Farm 5,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,geometry
+Hthang187,Choosing Symbol Pairs,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+delta,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+delta,Choosing Symbol Pairs,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,strings
+kolina,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kolina,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Gelka,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Gelka,Choosing Symbol Pairs,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,strings
+Gelka,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+TALGAT,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+TALGAT,Choosing Symbol Pairs,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,strings
+mandarinka,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mandarinka,Choosing Symbol Pairs,1,B,0,0,0,0,0,3,1,0,0,0,0,0,0,1,0,0,0,strings
+mihaha,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mihaha,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,strings
+Shidfar,Domino piling,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Shidfar,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+madhu1990,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+madhu1990,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+madhu1990,Square Equation Roots,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ItsLastDay,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ItsLastDay,Choosing Symbol Pairs,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ItsLastDay,Square Equation Roots,1,E,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+tamilmani,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tamilmani,Choosing Symbol Pairs,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+tamilmani,Square Equation Roots,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,math
+xelez,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xelez,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Hadi_Asiaie,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Hadi_Asiaie,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Hadi_Asiaie,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Hadi_Asiaie,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ViktorM,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ViktorM,Choosing Symbol Pairs,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,strings
+sourav_22,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sourav_22,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+htrinh,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+htrinh,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tl268,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tl268,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+rdik,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rdik,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Manish-Kumar,Domino piling,0,A,1,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Manish-Kumar,Choosing Symbol Pairs,1,B,1,0,0,0,0,8,0,0,0,0,0,0,0,1,3,0,0,strings
+tunyash,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tunyash,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+popovaclaire,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+popovaclaire,Choosing Symbol Pairs,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+popovaclaire,Happy Farm 5,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+popovaclaire,Square Equation Roots,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+popovaclaire,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,probabilities"
+Woodpecker,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Woodpecker,Choosing Symbol Pairs,1,B,0,0,0,0,0,4,0,2,0,0,0,0,0,1,0,0,0,strings
+Darkstalker,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sergei.voroncov,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sergei.voroncov,Choosing Symbol Pairs,1,B,0,0,0,0,0,3,0,3,0,0,0,0,0,1,0,0,0,strings
+pradhanp,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pradhanp,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ashi009,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ashi009,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ashi009,Happy Farm 5,1,C,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,geometry
+ashi009,Bombing,0,D,0,0,0,1,0,2,0,0,0,0,0,0,0,0,1,0,0,"binary search,dp,probabilities"
+quocquan,Domino piling,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"greedy,math"
+quocquan,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,strings
+Dmitry.Gerasimov,Domino piling,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+Dmitry.Gerasimov,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+srish.sriv,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+srish.sriv,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+yarrr,Domino piling,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yarrr,Choosing Symbol Pairs,0,B,0,0,0,2,0,5,0,0,0,0,0,0,0,1,0,0,0,strings
+yarrr,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+rafsan,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rafsan,Choosing Symbol Pairs,1,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Wayne,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Wayne,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+chandubaba,Domino piling,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+chandubaba,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sert314,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rufferzool,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rufferzool,Choosing Symbol Pairs,1,B,0,0,0,2,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+rufferzool,Square Equation Roots,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Shafaet,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Shafaet,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+aakashj.sky,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+aakashj.sky,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+aakashj.sky,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+luky.kashyap,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+luky.kashyap,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+luky.kashyap,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+soundsdx,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+soundsdx,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kohyatoh,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kohyatoh,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kohyatoh,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+kohyatoh,Square Equation Roots,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,math
+sas4eka,Domino piling,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sas4eka,Choosing Symbol Pairs,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+sas4eka,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,geometry
+sharpie,Domino piling,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sharpie,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,strings
+sharpie,Happy Farm 5,1,C,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+MeHdi.KaZemI8,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+MeHdi.KaZemI8,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+Zugzug,Domino piling,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Zugzug,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,strings
+Nicolay_R,Domino piling,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Nicolay_R,Choosing Symbol Pairs,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Nicolay_R,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+AntonDubovik,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+AntonDubovik,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+AntonDubovik,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+AntonDubovik,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+lima.natan,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lima.natan,Choosing Symbol Pairs,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+lima.natan,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+phamducgiam,Domino piling,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+phamducgiam,Choosing Symbol Pairs,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,strings
+phamducgiam,Happy Farm 5,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,geometry
+takuya819,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+takuya819,Choosing Symbol Pairs,1,B,1,0,0,0,5,2,0,0,0,0,0,0,0,1,0,0,0,strings
+Veldrin,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Veldrin,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Veldrin,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+aleksei,Domino piling,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+aleksei,Choosing Symbol Pairs,1,B,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,strings
+Duc,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Duc,Choosing Symbol Pairs,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Duc,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Duc,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Ragvena,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ragvena,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,1,1,0,0,0,0,2,0,0,0,strings
+pshtanko,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pshtanko,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+pshtanko,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+iman_MC,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+iman_MC,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Fetiorin,Domino piling,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Fetiorin,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+sandygupta,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sandygupta,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Spoorock,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Spoorock,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Spoorock,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+kostya_by,Domino piling,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kostya_by,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+hungamaboy,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hungamaboy,Choosing Symbol Pairs,1,B,0,0,0,3,0,2,0,1,0,0,0,0,0,1,0,0,0,strings
+Dod,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Dod,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Dod,Happy Farm 5,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+STAJIKER,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+STAJIKER,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+PAG,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+PAG,Choosing Symbol Pairs,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,strings
+PAG,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Aleksey,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Aleksey,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Aleksey,Happy Farm 5,1,C,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,geometry
+Aleksey,Bombing,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+semitr,Domino piling,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"greedy,math"
+semitr,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,strings
+semitr,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Fedya,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Fedya,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+Kharybin,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Kharybin,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+FSOG,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+FSOG,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Anton92nd,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Anton92nd,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Anton92nd,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+goooooooopan,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+goooooooopan,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+masoudcs,Domino piling,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+masoudcs,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,strings
+Spacejoker,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Spacejoker,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Spacejoker,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,geometry
+HwangScornedAsianTeams,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+HwangScornedAsianTeams,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Andrew_Makar,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Andrew_Makar,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Andrew_Makar,Happy Farm 5,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+azizkhan,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+azizkhan,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+azizkhan,Happy Farm 5,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Scientist1642,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Scientist1642,Choosing Symbol Pairs,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,strings
+dark.coder,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dark.coder,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,5,0,0,0,0,0,1,0,0,0,strings
+NoobOK,Domino piling,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+NoobOK,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+cbingrui,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cbingrui,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,strings
+cbingrui,Square Equation Roots,0,E,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Demjan,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Demjan,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+xlfd,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xlfd,Choosing Symbol Pairs,1,B,0,0,0,1,0,4,0,0,0,0,0,0,0,1,0,0,0,strings
+WAVwind,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+WAVwind,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+WAVwind,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+WAVwind,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+mastersobg,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mastersobg,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mastersobg,Bombing,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+mastersobg,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,geometry
+sayefsakin,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sayefsakin,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+ICOA,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ICOA,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ICOA,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Rijul_CSEDU,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Rijul_CSEDU,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+K_operafan,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+K_operafan,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+chronotable,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+chronotable,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+chronotable,Happy Farm 5,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+chronotable,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+gangil,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gangil,Choosing Symbol Pairs,1,B,0,0,0,0,0,3,0,1,0,0,0,0,0,1,0,0,0,strings
+pein,Domino piling,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pein,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+ylllxw08,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ylllxw08,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ylllxw08,Happy Farm 5,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+nise_nabe,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nise_nabe,Choosing Symbol Pairs,1,B,0,0,0,0,0,2,0,2,0,0,0,0,0,1,0,0,0,strings
+lijunle,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lijunle,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+lijunle,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+lijunle,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+marque,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+marque,Choosing Symbol Pairs,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,1,1,0,0,strings
+marque,Happy Farm 5,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Empty,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Empty,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+dana,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dana,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+minhtien_142,Domino piling,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+minhtien_142,Choosing Symbol Pairs,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,strings
+daizhenyang,Choosing Symbol Pairs,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+daizhenyang,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+daizhenyang,Happy Farm 5,1,C,1,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,geometry
+neronmoon,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+neronmoon,Choosing Symbol Pairs,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+neronmoon,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Denor,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Denor,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Denor,Square Equation Roots,0,E,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Shadz07,Domino piling,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Shadz07,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+happy,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+happy,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+anuar_721,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+anuar_721,Choosing Symbol Pairs,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,3,0,0,0,strings
+shamima,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+anuragb,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+anuragb,Choosing Symbol Pairs,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,strings
+tardosmors,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tardosmors,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+prashanthkvs,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+prashanthkvs,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+juancate,Domino piling,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+juancate,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,strings
+trulo_17,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+trulo_17,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+trulo_17,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+muntasir,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+muntasir,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+zyx3d,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zyx3d,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+zyx3d,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+adept,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+adept,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,strings
+Ankurkkhurana,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ankurkkhurana,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+nokia,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nokia,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+vprakash.gayasen,Domino piling,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+vprakash.gayasen,Choosing Symbol Pairs,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+ghost016,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ghost016,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+cfc,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cfc,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+cfc,Bombing,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+sigsev,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sigsev,Choosing Symbol Pairs,1,B,0,0,0,1,0,9,0,1,0,0,0,0,0,1,0,0,0,strings
+Kostroma,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+Kostroma,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Kostroma,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+ACube,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+ACube,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+ACube,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+zermx_011,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zermx_011,Choosing Symbol Pairs,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,strings
+4ybakut2004,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+4ybakut2004,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,strings
+VK.ua,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+VK.ua,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+VK.ua,Happy Farm 5,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+dimatomp,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,strings
+dimatomp,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dimatomp,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+ahmed_thabet,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ahmed_thabet,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Oryshych,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Oryshych,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+nitesh_pro,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nitesh_pro,Choosing Symbol Pairs,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,strings
+pavlin,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pavlin,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ondrah,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ondrah,Choosing Symbol Pairs,1,B,1,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,strings
+ondrah,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Fefer_Ivan,Domino piling,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Fefer_Ivan,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Fefer_Ivan,Bombing,1,D,1,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,"binary search,dp,probabilities"
+prasanth,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+prasanth,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+prasanth,Square Equation Roots,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+brdassign,Domino piling,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+brdassign,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+brdassign,Happy Farm 5,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,geometry
+brdassign,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+andreyrmg,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+andreyrmg,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+andreyrmg,Happy Farm 5,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+Pingvi,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Pingvi,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+windoanvn,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+misha-scm,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+misha-scm,Choosing Symbol Pairs,1,B,0,0,0,0,0,2,0,4,0,0,0,0,0,1,0,0,0,strings
+shnell,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+shnell,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+daffes,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+daffes,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+daffes,Bombing,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+daffes,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+vicky,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,strings
+vicky,Domino piling,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+TEN2NAUGHT,Choosing Symbol Pairs,0,B,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,strings
+TEN2NAUGHT,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Algorithm,Domino piling,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Algorithm,Choosing Symbol Pairs,1,B,1,0,0,0,0,2,0,2,0,0,0,0,0,1,0,0,0,strings
+Algorithm,Square Equation Roots,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+amachi,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+amachi,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+undefined_thimpu,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+undefined_thimpu,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+LeBron,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+LeBron,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+LeBron,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+lgvallejo,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lgvallejo,Choosing Symbol Pairs,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,strings
+berden,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+berden,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,4,0,0,0,0,0,1,0,0,0,strings
+Rheni,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Rheni,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+notEphim,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+notEphim,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+notEphim,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+FedyuninV,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+FedyuninV,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+FedyuninV,Bombing,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+ChaRiL,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ChaRiL,Choosing Symbol Pairs,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+eka,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+eka,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+eka,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+roku,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+roku,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+burger016,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+burger016,Choosing Symbol Pairs,1,B,1,0,0,2,0,3,0,1,0,0,0,0,0,1,0,0,0,strings
+cvalentim,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cvalentim,Choosing Symbol Pairs,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+cvalentim,Happy Farm 5,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,geometry
+rockaustin2k6,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+rockaustin2k6,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,strings
+rockaustin2k6,Bombing,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+vsb,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+vsb,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+vsb,Happy Farm 5,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+vsb,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+vsb,Square Equation Roots,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,math
+Gatrikor,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,strings
+Gatrikor,Square Equation Roots,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Gatrikor,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+askarian,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+askarian,Choosing Symbol Pairs,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,0,strings
+Anurag,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Anurag,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,8,0,0,0,strings
+TarifEzaz,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+TarifEzaz,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Akramjon,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Akramjon,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+Scalar,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Scalar,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Scalar,Happy Farm 5,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+eng.sergiosoares,Domino piling,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+eng.sergiosoares,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+eng.sergiosoares,Square Equation Roots,0,E,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+komron_hkl,Choosing Symbol Pairs,0,B,0,0,0,0,0,1,0,2,0,0,0,0,0,2,0,0,0,strings
+komron_hkl,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+blOOd_mOnstEr,Domino piling,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+blOOd_mOnstEr,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,strings
+yuichirw,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yuichirw,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+yuichirw,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+dimuthu,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dimuthu,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+dimuthu,Happy Farm 5,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,geometry
+LongCtrl,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+LongCtrl,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+gn13,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gn13,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+gn13,Square Equation Roots,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+semens,Choosing Symbol Pairs,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+semens,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ovionlogis,Domino piling,1,A,1,0,0,6,0,3,5,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Pouya.Payandeh,Domino piling,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Pouya.Payandeh,Choosing Symbol Pairs,0,B,0,0,0,2,0,6,0,0,0,0,0,0,0,1,0,0,0,strings
+xptree,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xptree,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+xptree,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Gantz,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Gantz,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Tigran92,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Tigran92,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+yazh,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yazh,Square Equation Roots,1,E,0,0,0,0,1,3,0,0,0,0,0,0,0,1,0,0,0,math
+justcodeit,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+justcodeit,Choosing Symbol Pairs,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Tariqul,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Tariqul,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kaushik.mv3,Choosing Symbol Pairs,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+kaushik.mv3,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kaushik.mv3,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Isachenko,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Isachenko,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Salat,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Salat,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+samreaper,Domino piling,0,A,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+CKBOP,Domino piling,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+praba4640,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+praba4640,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+sbcd90,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+sbcd90,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+pol,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pol,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Diego7,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Diego7,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Diego7,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+saurabhmodi102000,Domino piling,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+saurabhmodi102000,Choosing Symbol Pairs,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+saurabhmodi102000,Square Equation Roots,0,E,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dyussenaliyev,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dyussenaliyev,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+dyussenaliyev,Happy Farm 5,1,C,0,0,0,1,2,8,0,0,0,0,0,0,0,0,0,0,0,geometry
+marvin666,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+marvin666,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+pritam_iem,Domino piling,1,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pritam_iem,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+bmsujon,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bmsujon,Choosing Symbol Pairs,1,B,0,0,0,0,0,6,0,1,0,0,0,0,0,1,0,0,0,strings
+coders1122,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+coders1122,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Zoljargal,Domino piling,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,"greedy,math"
+Zoljargal,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Zoljargal,Square Equation Roots,0,E,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,math
+lame,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lame,Choosing Symbol Pairs,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+KOVROV_STA3,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+KOVROV_STA3,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+codebugger,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+codebugger,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+xth1,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xth1,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+saravanageneral,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+saravanageneral,Choosing Symbol Pairs,1,B,0,0,0,1,1,2,0,0,0,0,0,0,0,2,0,0,0,strings
+Kalith,Choosing Symbol Pairs,0,B,0,0,0,0,0,8,0,0,0,0,0,0,0,1,0,0,0,strings
+Kalith,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+jafarjon,Domino piling,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+jafarjon,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+jafarjon,Square Equation Roots,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+algor512,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+algor512,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+algor512,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+RomaRoma,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+RomaRoma,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Regi,Domino piling,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Regi,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+Regi,Square Equation Roots,0,E,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ridowan007,Domino piling,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ridowan007,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+st.algorithm,Domino piling,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+st.algorithm,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,strings
+amit.codename13,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+amit.codename13,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+amit.codename13,Happy Farm 5,0,C,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+EvAn,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+EvAn,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+EvAn,Happy Farm 5,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+edem.kwadzo,Domino piling,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+edem.kwadzo,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+rajib,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rajib,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+merkator,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Enigma,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Enigma,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Enigma,Bombing,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+Beast,Domino piling,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Beast,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+vicD,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vicD,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+soul_departed,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+soul_departed,Choosing Symbol Pairs,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,1,1,0,0,strings
+RaidBoss,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+RaidBoss,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+ramhaina,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ramhaina,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+jhtan,Domino piling,1,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+NKS,Domino piling,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+NKS,Choosing Symbol Pairs,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,strings
+NKS,Square Equation Roots,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Sanzee,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Sanzee,Choosing Symbol Pairs,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+Sectrait,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Sectrait,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+jeevacse,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+SecrofedoC,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+SecrofedoC,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+SecrofedoC,Happy Farm 5,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+individum,Square Equation Roots,0,E,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,math
+individum,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+individum,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+Mahrud,Domino piling,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Mahrud,Choosing Symbol Pairs,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,strings
+khanaleemullah,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+khanaleemullah,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+farhan.khwaja,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rajnesh,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rajnesh,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+blue2grey,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+blue2grey,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dp,probabilities"
+AVoz,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ald,Domino piling,1,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ald,Choosing Symbol Pairs,1,B,0,0,0,1,0,0,0,7,0,0,0,0,0,1,0,0,0,strings
+ald,Square Equation Roots,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,math
+XuPoKaCaMa,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hogeover30,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hogeover30,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+hogeover30,Happy Farm 5,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+altangerel,Domino piling,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+altangerel,Choosing Symbol Pairs,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,strings
+Xerxes,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Xerxes,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Xerxes,Happy Farm 5,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+Sahar,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sjbr,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sjbr,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,strings
+wasi.ahmed,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+wasi.ahmed,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+wasi.ahmed,Bombing,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,"binary search,dp,probabilities"
+vitalik7tv,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vitalik7tv,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,strings
+NotImplemented,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+NotImplemented,Choosing Symbol Pairs,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,strings
+Profvip.Abotaleb,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Profvip.Abotaleb,Domino piling,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Profvip.Abotaleb,Square Equation Roots,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+shubh4u,Domino piling,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+shubh4u,Choosing Symbol Pairs,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+lex_t,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lex_t,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+spartac,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+spartac,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Damir,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Damir,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,4,1,0,0,0,0,1,0,0,0,strings
+San_Sany4,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+San_Sany4,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+tracer,Choosing Symbol Pairs,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,strings
+tracer,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Prabhu,Domino piling,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Prabhu,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+mamhh,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mamhh,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,strings
+pius_88,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pius_88,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,strings
+wyuka,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+ign_serj,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ign_serj,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+saividya,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gvikei,Domino piling,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+gvikei,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+abdukodir,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+-----,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+new,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+new,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+anton.rodomanov,Domino piling,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+anton.rodomanov,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+anton.rodomanov,Happy Farm 5,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+M.S.W,Choosing Symbol Pairs,0,B,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,strings
+M.S.W,Domino piling,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+Petrushenko,Domino piling,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Petrushenko,Choosing Symbol Pairs,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+EG0R,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+EG0R,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+EzhikOo,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+EzhikOo,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+n20084753,Domino piling,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+n20084753,Choosing Symbol Pairs,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+sakilimran,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+navinag,Choosing Symbol Pairs,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+navinag,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+al_x,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+al_x,Choosing Symbol Pairs,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+SVVladimir,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tudorsiminic1,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tudorsiminic1,Choosing Symbol Pairs,1,B,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+grigory51,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+grigory51,Square Equation Roots,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+StaS-13,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nitin.gangahar,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nitin.gangahar,Choosing Symbol Pairs,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,strings
+Hamrazhan,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+m_hosny,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nicogu,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nicogu,Choosing Symbol Pairs,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Bose7890,Domino piling,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"

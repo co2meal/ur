@@ -1,0 +1,2047 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+hex539,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hex539,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+hex539,Monsters and Diamonds,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+Bidhan,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+vepifanov,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vepifanov,Stadium and Games,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+vepifanov,Monsters and Diamonds,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+vepifanov,The Red Button,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+xiaowuc1,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xiaowuc1,Stadium and Games,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+bmerry,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bmerry,Stadium and Games,0,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+bmerry,Reclamation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dsu
+0O0o00OO0Oo0o0Oo,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+0O0o00OO0Oo0o0Oo,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+0O0o00OO0Oo0o0Oo,Monsters and Diamonds,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+al13n,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+al13n,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+al13n,Reclamation,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,dsu
+Petr,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Petr,Stadium and Games,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Petr,Monsters and Diamonds,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+Petr,Reclamation,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dsu
+kelvin,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kelvin,Stadium and Games,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kelvin,Reclamation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dsu
+sdryapko,Square and Rectangles,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+sdryapko,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+gawry,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gawry,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+gawry,Monsters and Diamonds,1,C,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+ACube,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ACube,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+ACube,Monsters and Diamonds,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+Monyura,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Monyura,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+GagGuy,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+GagGuy,Stadium and Games,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+GagGuy,Monsters and Diamonds,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+GagGuy,Reclamation,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dsu
+meret,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+meret,Stadium and Games,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+meret,The Red Button,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+fhlasek,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fhlasek,Stadium and Games,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+scorpion,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+scorpion,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+vineet.paliwal,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+vineet.paliwal,Stadium and Games,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,math"
+LeBron,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+LeBron,Stadium and Games,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+gilesg,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gilesg,Stadium and Games,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+yefllower,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+yefllower,Stadium and Games,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+dzhulgakov,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dzhulgakov,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+dzhulgakov,Monsters and Diamonds,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+tloinuy,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tloinuy,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+andytyk,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+andytyk,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+andytyk,Monsters and Diamonds,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+e-maxx,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+e-maxx,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+suyash666,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+romanandreev,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+romanandreev,Stadium and Games,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+romanandreev,Monsters and Diamonds,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+Dmitry_Egorov,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dmitry_Egorov,Stadium and Games,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Dmitry_Egorov,Reclamation,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dsu
+komarov,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+komarov,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Andrew_Makar,Square and Rectangles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Andrew_Makar,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Andrew_Makar,Monsters and Diamonds,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+yeputons,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yeputons,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+yeputons,Monsters and Diamonds,1,C,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+marat.snowbear,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+marat.snowbear,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+gasya,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gasya,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+KrK,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+KrK,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+KrK,Monsters and Diamonds,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+navi,Square and Rectangles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+navi,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kony,Square and Rectangles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+kony,Stadium and Games,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+roosaphu,Square and Rectangles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+roosaphu,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+roosaphu,The Red Button,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dfs and similar,dsu,greedy"
+vivalafun,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vivalafun,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Ruslan,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ruslan,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Ruslan,Reclamation,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dsu
+anton,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+anton,Stadium and Games,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+ivan.popelyshev,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ivan.popelyshev,Stadium and Games,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+maciejk,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+maciejk,Monsters and Diamonds,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+AlexJH,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlexJH,Stadium and Games,0,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+pperm,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pperm,Stadium and Games,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+pperm,Monsters and Diamonds,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+nhap96,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nhap96,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+nhap96,Reclamation,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dsu
+ainta,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ainta,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+ainta,The Red Button,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+GlebsHP,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+GlebsHP,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+mkirsche,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mkirsche,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+marspeople,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+marspeople,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+marspeople,Reclamation,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dsu
+Shik,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shik,Stadium and Games,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Shik,The Red Button,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+UESTC_Nocturne,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+UESTC_Nocturne,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+AndreySiunov,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+AndreySiunov,Stadium and Games,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+evader,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+evader,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,math"
+evader,The Red Button,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+ilya.korovin,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ilya.korovin,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+cerealguy,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cerealguy,Stadium and Games,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+cerealguy,Monsters and Diamonds,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+kolesov93,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kolesov93,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kolesov93,Monsters and Diamonds,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+Shapo,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shapo,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Shapo,Monsters and Diamonds,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+yarrr,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yarrr,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+permin,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+permin,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+permin,Monsters and Diamonds,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+it4.kp,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+it4.kp,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+nfssdq,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nfssdq,Stadium and Games,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+bayleef,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bayleef,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Slavik,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+theycallhimtom,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+theycallhimtom,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+hossameldeenfci,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mugurelionut,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mugurelionut,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+mugurelionut,Reclamation,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dsu
+mugurelionut,The Red Button,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dfs and similar,dsu,greedy"
+masha_and_beer,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+masha_and_beer,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+masha_and_beer,The Red Button,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+kohyatoh,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kohyatoh,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kohyatoh,Monsters and Diamonds,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+135678942570,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+135678942570,Stadium and Games,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Swistakk,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Swistakk,Stadium and Games,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kaushik.mv3,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+gongbaoa,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gongbaoa,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+OoO000oOOOoOooOo,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+OoO000oOOOoOooOo,Stadium and Games,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+OoO000oOOOoOooOo,Monsters and Diamonds,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+TiChuot,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+TiChuot,Stadium and Games,0,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+stan,Square and Rectangles,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+stan,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+winger,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+winger,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+winger,The Red Button,1,E,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+Aksenov239,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aksenov239,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,math"
+Aksenov239,Monsters and Diamonds,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+sleepycoder,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sleepycoder,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+vyxaryx,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vyxaryx,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+vyxaryx,Monsters and Diamonds,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+dj3500,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dj3500,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+reo46,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+reo46,Stadium and Games,0,B,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+dinarisio,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dinarisio,Stadium and Games,1,B,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+Harhro94,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Harhro94,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+peter.alexeev,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+peter.alexeev,Stadium and Games,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Fefer_Ivan,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fefer_Ivan,Stadium and Games,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Fefer_Ivan,Monsters and Diamonds,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+netman,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+netman,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+homo_sapiens,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+homo_sapiens,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+homo_sapiens,Monsters and Diamonds,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+udalov,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+udalov,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+liympanda,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+liympanda,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+marcin_smu,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+marcin_smu,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+marcin_smu,Monsters and Diamonds,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+marcin_smu,The Red Button,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+ralekseenkov,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ralekseenkov,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+skyvn97,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+skyvn97,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+technolt,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+technolt,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+technolt,Reclamation,1,D,0,0,0,1,0,4,0,0,0,0,0,0,0,0,2,0,0,dsu
+cxlove,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cxlove,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"binary search,math"
+Dixtosa,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dixtosa,Stadium and Games,1,B,0,0,0,0,1,8,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+sillyboy,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sillyboy,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+sillyboy,Reclamation,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,dsu
+adamant,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+iTwin,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+iTwin,Stadium and Games,1,B,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,"binary search,math"
+azaky,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+azaky,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Alias,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alias,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,math"
+AcmerArthur,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+Kourosh,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kourosh,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+PolarNick,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+S.Yesipenko,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+S.Yesipenko,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+W4yneb0t,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+W4yneb0t,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+W4yneb0t,Reclamation,1,D,0,0,0,0,2,2,0,0,0,0,0,0,0,0,1,0,0,dsu
+KirillB,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KirillB,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+phtniit,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+phtniit,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+ping128,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+ping128,Stadium and Games,0,B,0,0,0,0,0,5,0,2,0,0,0,0,0,0,0,0,0,"binary search,math"
+xoldan,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+xoldan,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Milanin,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Milanin,Stadium and Games,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+R_R_,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+R_R_,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+AlexDmitriev,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlexDmitriev,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+klamathix,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+klamathix,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+c0d3junki3,Square and Rectangles,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+c0d3junki3,Stadium and Games,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+fetetriste,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fetetriste,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+fetetriste,Monsters and Diamonds,1,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+v.haralampiev,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+v.haralampiev,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+v.haralampiev,Monsters and Diamonds,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+BSBandme,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+BSBandme,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+BSBandme,Monsters and Diamonds,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+iwiwi,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+iwiwi,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+iwiwi,Monsters and Diamonds,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+iwiwi,Reclamation,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dsu
+Kepnu4,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kepnu4,Stadium and Games,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+jupanul,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Smylic,Square and Rectangles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Smylic,The Red Button,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+Smylic,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+stgatilov,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+stgatilov,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+stgatilov,Monsters and Diamonds,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+maksym,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+maksym,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,math"
+Parsa.pordel,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Parsa.pordel,Stadium and Games,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+Parsa.pordel,Reclamation,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dsu
+aa2985759,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+aa2985759,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+aa2985759,Monsters and Diamonds,1,C,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+masterOK,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+masterOK,Stadium and Games,1,B,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+jiangzhijie,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jiangzhijie,Stadium and Games,1,B,0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,0,0,"binary search,math"
+chokudai,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chokudai,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+VetriVelaan,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+eduard.piliposyan,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+eduard.piliposyan,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+IMAN_GH,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shubh09,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+IbukiSuika,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+QuantumKnight,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+QuantumKnight,Stadium and Games,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+Pavlo_Lviv_NU,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pavlo_Lviv_NU,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+fatsheep_LF,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fatsheep_LF,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+fatsheep_LF,The Red Button,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+TankDestroyer,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TankDestroyer,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Pattara.S,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pattara.S,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,math"
+Pattara.S,Monsters and Diamonds,1,C,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+valery.stromov,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+valery.stromov,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,math"
+KhaustovPavel,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KhaustovPavel,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+KhaustovPavel,Monsters and Diamonds,1,C,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+James,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+James,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+James,The Red Button,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+alapshin,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alapshin,Stadium and Games,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+IgorS,Square and Rectangles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+IgorS,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+music960633,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+music960633,Stadium and Games,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+music960633,Reclamation,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dsu
+dziadek,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dziadek,Stadium and Games,1,B,0,0,0,2,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+mmaxio,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mmaxio,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+cjtoribio,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cjtoribio,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+cjtoribio,Reclamation,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dsu
+zhj5chengfeng,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhj5chengfeng,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,math"
+thinfaifai,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+thinfaifai,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+RAD,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+RAD,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+RAD,Reclamation,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dsu
+xenoslash,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xenoslash,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+shakil_AUST,Square and Rectangles,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Metamorphus,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Metamorphus,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Logvinov_Leon,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Logvinov_Leon,Stadium and Games,1,B,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Kira96,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kira96,Stadium and Games,1,B,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Kira96,The Red Button,1,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+phidnight,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+phidnight,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+Filins,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shef,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shef,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Shef,Monsters and Diamonds,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+Shef,The Red Button,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+SourSpinach,Square and Rectangles,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SourSpinach,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+jay_walker,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+arosusti,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+arosusti,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Taube,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Taube,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+SYSU_LoveBY,Square and Rectangles,0,A,0,0,0,0,0,8,0,0,0,0,0,0,0,2,0,0,0,implementation
+SYSU_LoveBY,Stadium and Games,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+kennethsnow,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kennethsnow,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Amtrix,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Amtrix,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+cmd,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+cmd,Stadium and Games,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+danalex97,Square and Rectangles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,implementation
+Ra16bit,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ra16bit,Stadium and Games,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Ra16bit,Monsters and Diamonds,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+chavit,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chavit,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+chavit,The Red Button,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dfs and similar,dsu,greedy"
+gen,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gen,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+KungA,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KungA,Stadium and Games,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+NuM,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NuM,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+NuM,Monsters and Diamonds,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+Igor_Kudryashov,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Igor_Kudryashov,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+mbrc,Square and Rectangles,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+mbrc,The Red Button,0,E,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+seanwu,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+seanwu,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+seanwu,Monsters and Diamonds,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,shortest paths"
+chnlich,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+chnlich,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,math"
+chnlich,Monsters and Diamonds,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+Nobik_Glem,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mex-Mans,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mex-Mans,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Mex-Mans,Monsters and Diamonds,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+hust.elt,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hust.elt,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Jughead,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jughead,Stadium and Games,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+vlady,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vlady,Stadium and Games,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+yubowenok,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yubowenok,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Nipuna_Samarasekara,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nipuna_Samarasekara,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+HIR180,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+HIR180,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+onmylove,Square and Rectangles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+onmylove,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+aquamongoose,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aquamongoose,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+egor-belikov,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+egor-belikov,Stadium and Games,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+olimpo,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+olimpo,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+mengpq,Square and Rectangles,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mengpq,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+hoohoo,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hoohoo,Stadium and Games,1,B,0,0,0,0,0,1,0,1,2,0,0,0,0,0,0,0,0,"binary search,math"
+tomlau,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tomlau,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Werevovk,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Werevovk,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,math"
+Werevovk,Monsters and Diamonds,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+PavelSavchenkov,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PavelSavchenkov,Stadium and Games,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+PavelSavchenkov,The Red Button,1,E,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+cheswick,Square and Rectangles,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+cheswick,Stadium and Games,1,B,0,0,0,1,0,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+pershik,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pershik,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+facanferff,Square and Rectangles,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+sparshgunner12,Square and Rectangles,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+__math,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+__math,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+CA72,Square and Rectangles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+CA72,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+dasko1,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dasko1,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+handojo1,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+handojo1,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+geniucos,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+geniucos,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+lovro,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lovro,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+lovro,Reclamation,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dsu
+lydxlx,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lydxlx,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+4stalker,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+4stalker,Stadium and Games,1,B,0,0,0,2,0,6,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+ethereal,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+ethereal,Stadium and Games,0,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+olive,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kmjp,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+kmjp,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kmjp,Monsters and Diamonds,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+lavin,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lavin,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+lavin,Monsters and Diamonds,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+zhk,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhk,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Thost,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Omelyanenko2,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,implementation
+Temirulan,Square and Rectangles,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Temirulan,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+limed,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,implementation
+limed,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+antonkov,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+antonkov,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+antonkov,Monsters and Diamonds,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+zglicz,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+zglicz,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+zglicz,Reclamation,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dsu
+Raoul,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Raoul,Stadium and Games,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+GingLe,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+GingLe,The Red Button,1,E,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+mariyka_mariyka,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+momo_vn,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+momo_vn,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+forifchen,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+forifchen,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+forifchen,Monsters and Diamonds,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+I_love_natalia,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+I_love_natalia,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+I_love_natalia,Reclamation,1,D,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,dsu
+studytolive,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+studytolive,Stadium and Games,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Sabyanin.Max,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sabyanin.Max,Stadium and Games,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+watashi,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+watashi,Stadium and Games,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+watashi,Monsters and Diamonds,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+espr1t,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+espr1t,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+espr1t,The Red Button,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+Nik_Storm_2010,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yandry,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yandry,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+amankedia1994,Square and Rectangles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+fenzhang,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fenzhang,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+fatboy,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fatboy,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+fatboy,The Red Button,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dfs and similar,dsu,greedy"
+Omelyanenko,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Omelyanenko,Stadium and Games,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+ziki,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ziki,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+1412kid1412,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+1412kid1412,Stadium and Games,1,B,0,0,0,1,0,5,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+sweiss,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+sweiss,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+tkostek,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tkostek,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+piyushiitv,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+piyushiitv,Stadium and Games,0,B,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"binary search,math"
+OmniLRenegadE,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+OmniLRenegadE,Stadium and Games,1,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+yejinru,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yejinru,Stadium and Games,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+forest,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+forest,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+forest,Monsters and Diamonds,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+Komaki,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Komaki,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Komaki,Monsters and Diamonds,1,C,0,0,0,2,2,10,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+dusty.and.rusty,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dusty.and.rusty,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Koblyk,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Koblyk,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+VoidRetry,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Reshetnikov_Ivan,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Reshetnikov_Ivan,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+aropan,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aropan,Stadium and Games,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+aropan,Monsters and Diamonds,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+Wertz,Square and Rectangles,0,A,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+daizhenyang,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+daizhenyang,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+sameer47,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sameer47,Stadium and Games,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+SergeyLazarev,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SergeyLazarev,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+tuananh93,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tuananh93,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+ZEROm,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ZEROm,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+ZEROm,The Red Button,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+cjoa,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+cjoa,Stadium and Games,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,math"
+Fantastic,Square and Rectangles,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fantastic,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+rantd,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+vadym_doroshenko,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vadym_doroshenko,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+hcretescu,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+hcretescu,Stadium and Games,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+ZhandosBolatbekov,Square and Rectangles,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+gene1110,Square and Rectangles,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+gene1110,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+pedrosorio,Square and Rectangles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+pedrosorio,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Jonick,Square and Rectangles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jonick,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kawatea,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kawatea,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kawatea,Monsters and Diamonds,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+trongdat3011,Square and Rectangles,1,A,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+trongdat3011,Stadium and Games,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+urahara,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,implementation
+RomaWhite,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+RomaWhite,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+RomaWhite,The Red Button,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+lzqxh,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lzqxh,Stadium and Games,1,B,1,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+lzqxh,Monsters and Diamonds,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+dreamoon,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dreamoon,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+ilover3,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ilover3,Stadium and Games,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Pacific,Square and Rectangles,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+igor.silin,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+igor.silin,Stadium and Games,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+DamianS,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DamianS,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+DamianS,Monsters and Diamonds,1,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+TeaPot,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TeaPot,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+NickSerg,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+NickSerg,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+ahmed_aly,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahmed_aly,Stadium and Games,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,2,0,0,"binary search,math"
+boleyn.su,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+boleyn.su,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Skird,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Skird,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+chaos_king,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+chaos_king,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+sohelH,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sohelH,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+azizkhan,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+azizkhan,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+azizkhan,Monsters and Diamonds,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+dxhisboy,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dxhisboy,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+himanshujaju,Stadium and Games,0,B,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,"binary search,math"
+himanshujaju,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+logicmachine,Square and Rectangles,0,A,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+logicmachine,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+pva701,Square and Rectangles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+pva701,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+pva701,Monsters and Diamonds,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+hs484,Square and Rectangles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+hs484,Stadium and Games,0,B,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+BlazWin,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+swaz1993,Square and Rectangles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+noel_trang,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+noel_trang,Stadium and Games,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+wrong,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wrong,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+wrong,Monsters and Diamonds,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+ikbal,Square and Rectangles,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+ikbal,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kachayev,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kachayev,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kachayev,The Red Button,0,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+shopnobaj_raju,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shopnobaj_raju,Stadium and Games,0,B,0,0,0,1,0,4,0,2,0,0,0,0,0,2,0,0,0,"binary search,math"
+thocevar,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+thocevar,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+thocevar,Reclamation,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dsu
+a58,Square and Rectangles,0,A,1,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+a58,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+witua,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+witua,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+witua,Reclamation,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dsu
+metar,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+metar,Stadium and Games,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+adiko2008,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+adiko2008,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Goldbach,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Goldbach,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Azras,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Azras,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Azras,The Red Button,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+raman92,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+rabbit_TR,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+rabbit_TR,Stadium and Games,1,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+SpaceQ,Square and Rectangles,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+SpaceQ,Stadium and Games,0,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+hiukim,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Solej,Square and Rectangles,0,A,1,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+Solej,Stadium and Games,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Hedayet,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+Hedayet,Stadium and Games,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+BIT_nono,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+BIT_nono,Stadium and Games,1,B,0,0,0,0,0,8,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+klone,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tanzaku,Square and Rectangles,0,A,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,implementation
+tanzaku,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+darkpassenger,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+huangxs139,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+huangxs139,Stadium and Games,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+AlexAlvarez,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+AlexAlvarez,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+C.degree,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+C.degree,Stadium and Games,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+mhadih,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rasmus,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rasmus,Stadium and Games,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+lionelc,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+zcg.cs60,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+zcg.cs60,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+evima,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+evima,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+A.B.,Square and Rectangles,0,A,0,0,0,2,0,8,0,0,0,0,0,0,0,0,0,0,0,implementation
+a.goqadze,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+a.goqadze,Stadium and Games,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+sunhong,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sunhong,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+MarioYC,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+MarioYC,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+ADJA,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ADJA,Stadium and Games,1,B,1,0,0,1,0,5,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+zhanyl,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+zhanyl,Stadium and Games,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+zhanyl,Monsters and Diamonds,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+vua_coder,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+tobeornot,Square and Rectangles,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+KuchumovIlya,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+KuchumovIlya,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+shiyuankongbu,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shiyuankongbu,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+shiyuankongbu,The Red Button,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+shef_2318,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shef_2318,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+victorat,Square and Rectangles,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Al3kSaNdaR,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Al3kSaNdaR,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+LayCurse,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LayCurse,Stadium and Games,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+LayCurse,Monsters and Diamonds,1,C,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+rowdark,Square and Rectangles,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rowdark,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+ildeniz,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+HappyPerson,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LongTimeNoThin,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+LongTimeNoThin,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Gatina,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gatina,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+916852,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+916852,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+goooooooopan,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+goooooooopan,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,math"
+Timur_Sitdikov,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Timur_Sitdikov,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+moshiur,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+moshiur,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+itseb,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+spandanpathak,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+imbanoob,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+imbanoob,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+imbanoob,Monsters and Diamonds,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+niklasb,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+niklasb,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+niklasb,Monsters and Diamonds,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+alex_world,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+alex_world,Stadium and Games,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+hiwang321,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hiwang321,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+mylyanyk.ivan,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mylyanyk.ivan,Stadium and Games,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+WCG,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+WCG,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+tclsm2012,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tclsm2012,Stadium and Games,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+felix,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+am-real,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ethanjimenez,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+SomeGuyTookMyHandle,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SomeGuyTookMyHandle,Stadium and Games,1,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Alain,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alain,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Alain,The Red Button,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+mia,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+AmirAli,Square and Rectangles,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+AmirAli,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Azat_Yusupov,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Azat_Yusupov,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+meteorcloudy,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+meteorcloudy,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+naagi,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+naagi,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+wulangbnu,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wulangbnu,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Algiz,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Algiz,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,math"
+autotaker,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+autotaker,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Hinet60613,Stadium and Games,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+Hinet60613,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+plusplus7,Square and Rectangles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+plusplus7,The Red Button,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+stoundmire,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+stoundmire,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+yadummer,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+suiyuan2009,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+suiyuan2009,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+ig_dug,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ig_dug,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+ig_dug,Monsters and Diamonds,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+Zach,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+mR.ilchi,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mR.ilchi,Stadium and Games,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+mR.ilchi,Monsters and Diamonds,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+kyzmenko-95,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+DenXX,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+DenXX,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+nuoyan2010,Square and Rectangles,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+nuoyan2010,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+indy256,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+indy256,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+YerzhanU,Square and Rectangles,0,A,1,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,implementation
+YerzhanU,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Cymphonic,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+Angor,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Angor,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kucingimbalance,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+kucingimbalance,Stadium and Games,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+roman28,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Farsid,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gcm44,Square and Rectangles,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+gcm44,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+raihatneloy1992,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tanvir002700,Square and Rectangles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+WemadeFOX_q8D,Square and Rectangles,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+WemadeFOX_q8D,Stadium and Games,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+CleRIC,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CleRIC,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+snguyen,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+snguyen,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+snguyen,Monsters and Diamonds,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+innocentsty,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+innocentsty,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,math"
+ZeRoGerc,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ZeRoGerc,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+ansi_kdy,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+ansi_kdy,Stadium and Games,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+jasperH,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+jasperH,Stadium and Games,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+xscape,Square and Rectangles,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xscape,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+akat,Square and Rectangles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+akat,Stadium and Games,0,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Darko,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Darko,Stadium and Games,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+scarecrow07,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Arios,Square and Rectangles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Arios,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Arios,Reclamation,1,D,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,dsu
+steven,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+steven,Stadium and Games,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+OutSide,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+OutSide,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Artur.Bondarenko,Square and Rectangles,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+koPerNik,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Timer,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Timer,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+stanislav1,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kianoosh,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kianoosh,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Seikang,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Seikang,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+k21,Square and Rectangles,1,A,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,implementation
+k21,Stadium and Games,1,B,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+kunkun220189,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kunkun220189,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+xaker,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xaker,Stadium and Games,0,B,0,0,0,0,2,4,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+AlirezaN,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlirezaN,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Sammarize,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sammarize,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+muntasir,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+muntasir,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+whd,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+whd,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+tygrysek,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tygrysek,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+tygrysek,Reclamation,1,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,dsu
+romanova,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+romanova,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Slovinsky,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Slovinsky,Stadium and Games,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Fdg,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fdg,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+Fdg,Monsters and Diamonds,0,C,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+Nanaya,Square and Rectangles,1,A,1,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,implementation
+Nanaya,Stadium and Games,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+windhunterSB,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+windhunterSB,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+alpc104,Square and Rectangles,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+alpc104,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+1101,Square and Rectangles,0,A,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Scau-Ly,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Scau-Ly,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+phuthuynhochienthan,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+phuthuynhochienthan,Stadium and Games,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kilotaras,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kilotaras,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+VUAcoder,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+VUAcoder,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+RoBa,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+RoBa,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+hjx1212,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+svinay1,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+architkarandikar,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+architkarandikar,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+slycelote,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+slycelote,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+shindo,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shindo,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+For_the_Love,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+For_the_Love,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Gyosh,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gyosh,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Gyosh,Monsters and Diamonds,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+CtrlAlt,Square and Rectangles,0,A,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Practice_Scott,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+FattyPenguin,Square and Rectangles,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+FattyPenguin,Stadium and Games,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+FattyPenguin,Monsters and Diamonds,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+Mark_tven,Square and Rectangles,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vsb,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+vsb,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+lazyBit,Square and Rectangles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+hirosegolf,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hirosegolf,The Red Button,0,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+hirosegolf,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+vaquan,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vaquan,Stadium and Games,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+zknvz,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zknvz,Stadium and Games,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Vankata,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Vankata,Stadium and Games,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+qteat,Square and Rectangles,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+qteat,Stadium and Games,1,B,0,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,"binary search,math"
+neko13,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+neko13,Stadium and Games,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Akhtyamov_Pavel,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Akhtyamov_Pavel,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+sokian,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sokian,Stadium and Games,1,B,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kyuridenamida,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyuridenamida,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,math"
+qph-Jeremy,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+qph-Jeremy,Stadium and Games,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+bli0042,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bli0042,Stadium and Games,1,B,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+meodorewan,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+meodorewan,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+too__weak,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+magpie,Square and Rectangles,0,A,0,0,0,1,0,4,0,0,0,0,0,0,0,1,0,0,0,implementation
+magpie,Stadium and Games,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Cepera,Stadium and Games,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Cepera,Square and Rectangles,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+jipakazoid,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tifuera,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tifuera,Stadium and Games,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+wiw,Square and Rectangles,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+DiegoCR,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+SlavaSSU,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SlavaSSU,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Gassa,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gassa,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Eledven,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eledven,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+superrabbit,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+superrabbit,Stadium and Games,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+Wsl_F,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Wsl_F,Stadium and Games,1,B,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+an2bug,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+an2bug,Stadium and Games,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+yangboy,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+yangboy,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+sir_sbu,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Stratonov,Square and Rectangles,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Stratonov,Stadium and Games,1,B,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,"binary search,math"
+jishen,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jothis,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+hlwt,Square and Rectangles,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+hlwt,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+XieZheng,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+XieZheng,Stadium and Games,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+nwin,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+nwin,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+nwin,Monsters and Diamonds,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+Xxiaobai,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+AleX,Stadium and Games,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+AleX,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+AleX,Monsters and Diamonds,1,C,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+izban,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+izban,Stadium and Games,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+izban,Reclamation,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dsu
+Antoniuk,Square and Rectangles,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Antoniuk,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+arpit_coder,Square and Rectangles,0,A,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,implementation
+frcepeda,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+frcepeda,Stadium and Games,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+prezcoin,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+prezcoin,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+miku,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+miku,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+budnyjj,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fwm94,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fwm94,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Andrew_Merkulov,Square and Rectangles,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+Frommi,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Frommi,Monsters and Diamonds,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+fluxay,Square and Rectangles,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+soul_departed,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+adityavikram,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+llaki,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+llaki,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+rabeckiy,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+rabeckiy,Stadium and Games,1,B,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,"binary search,math"
+sspa,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sspa,Stadium and Games,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+tsotne,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+tsotne,Stadium and Games,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Korvin79,Square and Rectangles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Korvin79,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+arnex,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+arnex,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+FunkyCat,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+FunkyCat,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+FunkyCat,Reclamation,0,D,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,dsu
+kaiwang.sunysb,Square and Rectangles,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+kaiwang.sunysb,Stadium and Games,0,B,0,0,0,0,5,2,0,5,0,0,0,0,0,0,0,0,0,"binary search,math"
+ooxyyoo,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ooxyyoo,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+vlyubin,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vlyubin,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+vlyubin,The Red Button,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+HorgH,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sklyack,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sklyack,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+xysmlx,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xysmlx,Stadium and Games,1,B,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+mustafij,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mustafij,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+duduct,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+duduct,Stadium and Games,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"binary search,math"
+Amir.bh,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Amir.bh,Stadium and Games,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Morandi,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Morandi,Stadium and Games,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kamentk,Square and Rectangles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+chenhuan001,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chenhuan001,Stadium and Games,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+324857679,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+324857679,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+helThazar,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+helThazar,Stadium and Games,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+algor,Square and Rectangles,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,implementation
+qwaker.00,Square and Rectangles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+qwaker.00,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+qwaker.00,Monsters and Diamonds,1,C,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+chgiang,Square and Rectangles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhengxu,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhengxu,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kiounce,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+XiaoHao,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+yashar_sb_sb,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yashar_sb_sb,Reclamation,1,D,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dsu
+saffah,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+saffah,Stadium and Games,1,B,1,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,"binary search,math"
+eha,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+eha,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+stickyboy,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kuangbin,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kuangbin,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kzr.buet08,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kzr.buet08,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Up1,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Up1,Stadium and Games,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+atomicenergy,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+halin.george,Stadium and Games,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+Pasqual45,Square and Rectangles,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pasqual45,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+pratyai,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pratyai,Stadium and Games,1,B,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kjinxin,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kjinxin,Stadium and Games,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+Tatebi,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tatebi,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Woodpecker,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Woodpecker,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+persianpars,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+persianpars,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+andrey-tsb,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+andrey-tsb,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+asvatov,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dedal,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dedal,Stadium and Games,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+yongheng5871,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yongheng5871,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Austeritas,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Austeritas,Stadium and Games,1,B,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Anton_Lunyov,Stadium and Games,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Anton_Lunyov,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Anton_Lunyov,Monsters and Diamonds,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+wind,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+wind,Stadium and Games,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Arain,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Arain,Stadium and Games,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"binary search,math"
+Litun,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Litun,Stadium and Games,1,B,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,"binary search,math"
+lyc,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lyc,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+ksjuchi,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,implementation
+ksjuchi,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+uwi,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+uwi,Square and Rectangles,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+uwi,Monsters and Diamonds,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+swissknife007,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+A.K.Goharshady,Stadium and Games,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+A.K.Goharshady,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexey.enkov,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexey.enkov,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+danbanica,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+danbanica,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kb.,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kb.,Stadium and Games,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+coconut,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+coconut,Stadium and Games,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+11019170012,Square and Rectangles,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+White_Bear,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+White_Bear,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+aliwumi,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aliwumi,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,math"
+stupidZZ,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+stupidZZ,Stadium and Games,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+inker,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yobobobo,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yobobobo,Stadium and Games,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Mihai22e,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mihai22e,Stadium and Games,0,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+igor.pisarev,Square and Rectangles,0,A,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+zck921031,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zck921031,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+becauseofyou,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+becauseofyou,Stadium and Games,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+xu3ckv,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xu3ckv,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+savinov,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+savinov,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+ZxZx,Square and Rectangles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,implementation
+ZxZx,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+dilutedream,Square and Rectangles,0,A,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+dilutedream,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,math"
+najmuz_sakib,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tonkosi,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tonkosi,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Snipx,Square and Rectangles,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Snipx,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Slamur,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Slamur,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+mgch,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mgch,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+mgch,The Red Button,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+mgch,Reclamation,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dsu
+shmuma,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shmuma,The Red Button,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+shovonshovo,Square and Rectangles,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+AlexFetisov,Square and Rectangles,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,implementation
+AlexFetisov,Stadium and Games,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+mmoonzhu,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+MrDindows,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+MrDindows,Stadium and Games,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+MrDindows,The Red Button,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+andypanda,Square and Rectangles,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+andypanda,Stadium and Games,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+andypanda,The Red Button,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dfs and similar,dsu,greedy"
+aste,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+aste,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+landinglanding,Square and Rectangles,0,A,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+teru,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+triple_e,Square and Rectangles,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+andryk,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+andryk,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+AlexErofeev,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlexErofeev,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Vlad_kv,Square and Rectangles,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Vlad_kv,Stadium and Games,1,B,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+gtas5,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+gtas5,Stadium and Games,1,B,0,0,0,1,0,6,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+SlovoPacana,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Avalanche,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Avalanche,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+lwc626,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+lwc626,Stadium and Games,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+bulkasmakom,Square and Rectangles,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+bulkasmakom,Stadium and Games,0,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+chemicalX,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hiphip,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hiphip,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+dancho,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+dancho,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Goofy57,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Goofy57,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Goofy57,Monsters and Diamonds,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,"dfs and similar,shortest paths"
+ximo,Square and Rectangles,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ximo,Reclamation,1,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,dsu
+y346491470,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+y346491470,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+lazier,Square and Rectangles,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+lazier,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+pumpkinsm,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pumpkinsm,Stadium and Games,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+gaurav708,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Einzbern,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Einzbern,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+sergileon,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+sergileon,The Red Button,0,E,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dfs and similar,dsu,greedy"
+Bistrigova_Anastasiya,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,implementation
+Bistrigova_Anastasiya,Stadium and Games,0,B,0,0,0,1,0,10,0,5,0,0,0,0,0,0,0,0,0,"binary search,math"
+Kenny_HORROR,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kenny_HORROR,Stadium and Games,1,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Kenny_HORROR,Monsters and Diamonds,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+Shersh,Square and Rectangles,1,A,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,implementation
+quora,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+quora,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Samchenko,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Samchenko,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+chaous,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+chaous,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+subrata_sust,Stadium and Games,0,B,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"binary search,math"
+subrata_sust,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Yermak0v,Square and Rectangles,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Yermak0v,Stadium and Games,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+behzad.nouri,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+behzad.nouri,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+mysterion,Square and Rectangles,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhangchenxu,Square and Rectangles,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhangchenxu,Stadium and Games,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+diego.link,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Ronnie007,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+AnnKats93,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+AnnKats93,Stadium and Games,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+volkov.stanislav,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+volkov.stanislav,Stadium and Games,1,B,0,0,0,1,0,2,0,2,0,0,0,0,0,0,0,0,0,"binary search,math"
+softogen,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+kamushin,Square and Rectangles,1,A,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+kamushin,Stadium and Games,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+stostap,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+stostap,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Neil,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Neil,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+dut200901102,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dut200901102,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+nrg3,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nrg3,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+princeladdak,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,implementation
+Amidrunk,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+gautamraut.nitb,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+supto_csedu,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+lemon_tyd,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+s0en1it,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+HaibaraAi,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fiver,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fiver,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+julsa,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+htrinh,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+htrinh,Stadium and Games,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Hachiikung,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hachiikung,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+minhhoang97,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+M_M,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+M_M,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+nims11,Square and Rectangles,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+nims11,Stadium and Games,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Underwood_,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Underwood_,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+duguiping,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Egor,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Egor,Stadium and Games,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Egor,Monsters and Diamonds,1,C,1,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,shortest paths"
+popotiger,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+popotiger,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+mrTux,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zonker,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+DmitriyH,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ffao,Square and Rectangles,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ffao,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+ffao,Monsters and Diamonds,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+SoapBubble,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+KuZ,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ashis041,Square and Rectangles,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+lzl65825,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+lzl65825,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+sgsurya,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+PeterGriffin,Square and Rectangles,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+PeterGriffin,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+wwwsealss,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+wwwsealss,Stadium and Games,1,B,0,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+FelixMirave,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+FelixMirave,Stadium and Games,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+name,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+IgorKoval,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+IgorKoval,Stadium and Games,1,B,1,0,0,1,0,7,0,0,0,0,0,0,0,0,1,0,0,"binary search,math"
+Player1_SERG,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+drops,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+natsugiri,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+natsugiri,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+uoryon,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+R6044,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+R6044,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+iensen,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+iensen,Stadium and Games,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+amlansaha,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ghooo,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+Merlininice,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Merlininice,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,math"
+kgcf2011,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,implementation
+kgcf2011,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+keroro520,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dinix,Square and Rectangles,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+jonathanpaulson,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+jonathanpaulson,Square and Rectangles,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+jonathanpaulson,Monsters and Diamonds,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+HwangScornedAsianTeams,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+HwangScornedAsianTeams,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+K0rbutDan1el,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+conan_96,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,implementation
+conan_96,Stadium and Games,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+fengxmx,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hhoomn,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+hhoomn,Stadium and Games,1,B,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+hhoomn,Monsters and Diamonds,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+acom,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+acom,Stadium and Games,1,B,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,"binary search,math"
+makc222222,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+makc222222,Stadium and Games,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Iti,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Iti,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+hermes777,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+hermes777,Stadium and Games,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+baolaoban,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+baolaoban,Stadium and Games,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+k3box,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+k3box,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+max777alex,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+leet_coder,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+IgorL,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+IgorL,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+mshubham,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+sonhuytran,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sonhuytran,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+nish_kr,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tony810430,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tony810430,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+isluzin,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+isluzin,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Vintarel,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Vintarel,Stadium and Games,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+wilyin,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+wilyin,Stadium and Games,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Artoemius,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Artoemius,Stadium and Games,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+zdragon,Square and Rectangles,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+error404,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+DiedriK,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+burunduk3,Monsters and Diamonds,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+burunduk3,Stadium and Games,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+burunduk3,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+burunduk3,Reclamation,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,dsu
+S7012MY,Square and Rectangles,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+S7012MY,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Geekdj,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Geekdj,Stadium and Games,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+quochuya,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Yuzuriha_Inori,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Yuzuriha_Inori,Reclamation,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dsu
+Yuzuriha_Inori,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Vladvlad,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Vladvlad,Stadium and Games,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+asadthehell,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+asadthehell,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+abczz,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+abczz,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+feihuopue,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+feihuopue,Stadium and Games,1,B,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+snrahul,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gridnevvvit,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gridnevvvit,Stadium and Games,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kw_udon,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+kw_udon,Stadium and Games,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kw_udon,The Red Button,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+maf,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+maf,Stadium and Games,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+alok123thatikunta,Square and Rectangles,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Anarivu,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Anarivu,Stadium and Games,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+townboy,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+townboy,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,math"
+baqar2001,Square and Rectangles,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+mira_r,Square and Rectangles,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mostafa.Gabriel,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+filo,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+sxnb,Square and Rectangles,1,A,1,0,0,0,2,2,0,2,0,0,0,0,0,0,0,0,0,implementation
+sxnb,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+343649190,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+343649190,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+RNS,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+RNS,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+RNS,The Red Button,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+Boxer,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Boxer,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+bale11,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,implementation
+ds88,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mukcse,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+coder32167,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+coder32167,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+poma.prs,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+oyas,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+oyas,Stadium and Games,0,B,0,0,0,0,0,4,0,4,0,0,0,0,0,0,0,0,0,"binary search,math"
+SmS,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+SmS,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+warlock,Stadium and Games,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+warlock,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+translater,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+iscsi,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+iscsi,Stadium and Games,1,B,0,0,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Paramaribo,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Paramaribo,Stadium and Games,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+lyc12345,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lyc12345,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+int128,Square and Rectangles,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+agn1360,Square and Rectangles,0,A,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Boomerang,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Faradey27,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+eggache,Square and Rectangles,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+eggache,Stadium and Games,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+douglasantos,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+douglasantos,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+fairylights,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+kAc,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kAc,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kAc,The Red Button,1,E,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dfs and similar,dsu,greedy"
+Miras321,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Kostyazz,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kostyazz,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Mario88,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,implementation
+dd_dagger,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+JonsonBen,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shamir14,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shamir14,Stadium and Games,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"binary search,math"
+zhyang,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kairbekov,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hanfei19910905,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hanfei19910905,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+knst,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+knst,Stadium and Games,1,B,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,"binary search,math"
+dvdreddy,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dvdreddy,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+juice922,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fadsend,Square and Rectangles,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fadsend,Stadium and Games,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+NIWIS,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+NIWIS,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Aleks,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aleks,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+willothewisp,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+willothewisp,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+willothewisp,Reclamation,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dsu
+potatomatorange,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+drozdvadym,Square and Rectangles,0,A,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,implementation
+drozdvadym,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+p2r2,Square and Rectangles,1,A,1,0,0,1,0,3,0,1,0,0,0,0,0,0,0,0,0,implementation
+kayfunk,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+salar,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+salar,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Lweb,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,implementation
+sunshuo,Square and Rectangles,0,A,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sunshuo,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+yusif,Square and Rectangles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+yusif,Stadium and Games,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+al13pn,Square and Rectangles,1,A,1,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+al13pn,Stadium and Games,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+_Vadim_,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"binary search,math"
+_Vadim_,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bohuss,Square and Rectangles,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sharif,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Sokolov,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+zekyll,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+nitin4123003,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nitin4123003,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Catchy,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+bhadra,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+smartyfh,Square and Rectangles,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+smartyfh,Stadium and Games,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+DDDDDDDDDDDDDDDDDDDDDDDD,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+DDDDDDDDDDDDDDDDDDDDDDDD,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+37ae912,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+37ae912,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+AvadaKedavra_____ColdFan,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AvadaKedavra_____ColdFan,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+nextgen,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nextgen,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+9mmlitswe,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+9mmlitswe,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+corner_cafe,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+corner_cafe,Stadium and Games,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+rjian,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+rjian,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+yosupo,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yosupo,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+yosupo,The Red Button,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dfs and similar,dsu,greedy"
+forbidden,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,implementation
+forbidden,Stadium and Games,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+juniorandrade,Square and Rectangles,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+tzzcl,Stadium and Games,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+tzzcl,Square and Rectangles,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tzzcl,The Red Button,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"combinatorics,dfs and similar,dsu,greedy"
+B.E.V.,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+KoNsyL,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dawidp,Square and Rectangles,1,A,1,0,0,1,0,2,0,0,1,0,0,0,0,0,0,0,0,implementation
+dawidp,Stadium and Games,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+topcoder_me,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+hacker4life,Square and Rectangles,0,A,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mllnr,Square and Rectangles,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lyubimov.denis,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lyubimov.denis,Stadium and Games,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kutengine,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kutengine,Stadium and Games,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+kutengine,Reclamation,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dsu
+kutengine,Monsters and Diamonds,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+kutengine,The Red Button,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+-pirate-,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+jgsiqueira2,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jgsiqueira2,Stadium and Games,1,B,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,"binary search,math"
+vanessalubenova,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ikar,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+saket_chauhan,Square and Rectangles,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,implementation
+dovegx,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+david001,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+david001,Stadium and Games,1,B,0,0,0,1,0,3,0,0,6,0,0,0,0,0,0,0,0,"binary search,math"
+wangyl90,Stadium and Games,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+andrew.volchek,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+andrew.volchek,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+derxyz,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+derxyz,Stadium and Games,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+stas_sl,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+stas_sl,Stadium and Games,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+yaramohamed1,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+nishant1000,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+karan173,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+karan173,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+wuyihao,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+jastiger,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+jastiger,Stadium and Games,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Roman_Serbul,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Simplex,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Simplex,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Simplex,Monsters and Diamonds,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+SteelRaven,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chicuong321993,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LongAries,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+michael154,Square and Rectangles,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+devanshdalal,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+devanshdalal,Stadium and Games,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+eld,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,implementation
+Megabyte,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Megabyte,Stadium and Games,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+windorock,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+riad,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+riad,Stadium and Games,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+seen,Stadium and Games,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+noname0123,Square and Rectangles,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+MMJ,Stadium and Games,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+I-Hsin,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+fmm,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fmm,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+fmm,The Red Button,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+alex_or,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alex_or,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+ex-surreal,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+ex-surreal,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Smit,Square and Rectangles,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Smit,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+1313XXXX,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mirek,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+jsl422,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jsl422,Stadium and Games,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+MaxPylypovych,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+MaxPylypovych,Stadium and Games,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+neil51,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+neil51,Stadium and Games,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+Belonogov,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Belonogov,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexveliki,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ivkontiny,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Parikh,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Yuliy,Square and Rectangles,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,implementation
+YogyKwan,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+YogyKwan,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+arturahmetshin99,Square and Rectangles,0,A,0,0,0,5,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+killerdjo,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,implementation
+killerdjo,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+matrix,Stadium and Games,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+matrix,Square and Rectangles,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+Elinow,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Elinow,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Erzhan77,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+EG0R,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Milon,Square and Rectangles,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+ShayanH,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+ShayanH,Stadium and Games,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+harsh_13,Square and Rectangles,0,A,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,implementation
+yrleep,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+Alethor,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ingkarat,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+aabs08,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Blackwizard,Square and Rectangles,1,A,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,implementation
+Draif,Square and Rectangles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+z309241990,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+z309241990,Stadium and Games,0,B,0,0,0,1,0,1,0,2,0,0,0,0,0,0,0,0,0,"binary search,math"
+klerigado,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+x.bryanc,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+x.bryanc,Stadium and Games,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"binary search,math"
+x.bryanc,The Red Button,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+Zpw987,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sas4eka,Square and Rectangles,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sas4eka,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+API,Square and Rectangles,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+API,Stadium and Games,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+DeSerg,Square and Rectangles,0,A,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Kiryuha,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kiryuha,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+nokia,Square and Rectangles,1,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+6eJIa9IzZzTeHb,Square and Rectangles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+6eJIa9IzZzTeHb,Stadium and Games,0,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+jehad131,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jehad131,Stadium and Games,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+jehad131,The Red Button,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+Morgan_HackProg,Square and Rectangles,0,A,0,0,0,1,0,1,0,2,1,0,0,0,0,0,0,0,0,implementation
+SirCodeLight,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+SirCodeLight,Stadium and Games,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+frog1902,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+frog1902,Stadium and Games,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+tttttt,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,implementation
+zhujiajing,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhujiajing,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+misteraram,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+narcis_vs,Square and Rectangles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eurce,Square and Rectangles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+lwd_acm2013,Square and Rectangles,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+Shafaet,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+abhilak,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+abhilak,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+study_english,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+study_english,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,"binary search,math"
+deinier,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+shimomire,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shimomire,Stadium and Games,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+critcore,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SebiSebi,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+SebiSebi,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+largelymfs,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+DoctorWhoFan,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bay,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bay,Stadium and Games,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,math"
+rafsan,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mir_Ashraf,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kvark161,Square and Rectangles,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+Kvark161,Stadium and Games,1,B,0,0,0,1,0,1,0,5,1,0,0,0,0,0,0,0,0,"binary search,math"
+0ioi0mou0oOm0,Square and Rectangles,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+michal27,Square and Rectangles,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+michal27,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+sh19910711,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+bssanches,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+bssanches,The Red Button,0,E,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+road,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+roypalacios,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+roypalacios,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+shivazi,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+bill125,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+bill125,Stadium and Games,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+azlhust,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+azlhust,The Red Button,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+ShuanDao,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nhakon,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cacophonix,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+cacophonix,Stadium and Games,0,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+shuaqq,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+parina1,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ivanC,Square and Rectangles,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,implementation
+Quelloquialism,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Quelloquialism,Stadium and Games,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+trunghieu1191,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+Wangzhpp,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Wangzhpp,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Zool,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NSV,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rachiel,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rachiel,Stadium and Games,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+mckkentmwk,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ajuran,Square and Rectangles,0,A,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,implementation
+kakooda,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+m1_k3,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+cauchyk,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+cauchyk,Stadium and Games,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+st330820,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+st330820,Stadium and Games,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+vlade087,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Skady,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+anowarr1112,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+jsoriano,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+geek7,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+geek7,Stadium and Games,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+KTS,Square and Rectangles,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Cornelius,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,implementation
+devkumar,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+LiTi,Square and Rectangles,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+LiTi,Stadium and Games,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+khitish,Square and Rectangles,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+xiaodao,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xiaodao,Stadium and Games,0,B,1,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+xiaodao,The Red Button,1,E,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+2011330300713,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+2011330300713,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+arthur.nascimento,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+arthur.nascimento,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+dey_jayanta,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ShineCheng,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Vadim2,Stadium and Games,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Vadim2,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rezwan.maruf.ndc09,Square and Rectangles,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+111304037,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+skeleton,Reclamation,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dsu
+ihereglam,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+JDehilario,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+takapt,Stadium and Games,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+takapt,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+aspotashev,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+aspotashev,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Ibragim,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pigeatshit,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pigeatshit,Stadium and Games,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+eipie,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ibra,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ibra,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Rakhdakh,Square and Rectangles,0,A,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rakhdakh,Stadium and Games,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+rashed_cse,Square and Rectangles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+code3h91,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+nguyenvanquan7826,Stadium and Games,0,B,0,0,0,0,3,4,0,0,0,3,0,0,0,0,0,0,0,"binary search,math"
+prakash93,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+galileo,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+galileo,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+m.radwan,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+m.radwan,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,math"
+vector9x,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+RexCoder,Square and Rectangles,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+nebulae,Stadium and Games,0,B,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+nebulae,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,implementation
+NiceDay,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AM51,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Red_riding_hood,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+penhuforever,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+eduarc,Square and Rectangles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+repeatuntil0,Square and Rectangles,0,A,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+swarajk7,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+stranger9811,Square and Rectangles,0,A,0,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,implementation
+youngitachi,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+rohangulati92,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+rohangulati92,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+emilbek,Square and Rectangles,0,A,0,0,0,1,0,2,0,0,1,0,0,0,0,0,0,0,0,implementation
+Garciat,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+emil,Square and Rectangles,0,A,0,0,0,0,5,0,0,1,1,0,0,0,0,0,0,0,0,implementation
+mkiken,Square and Rectangles,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+tungnk1993,Stadium and Games,0,B,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+tungnk1993,Square and Rectangles,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,implementation
+guyomes,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+guyomes,Stadium and Games,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+gravity_01,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+azim__,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gioni,The Red Button,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+golrokh-khoddambashi,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+qingwen,Stadium and Games,0,B,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+qingwen,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+lolcoder,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+svm11,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+ShadowGorn,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+killerhunk,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vigneshb06,The Red Button,0,E,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+vigneshb06,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+dumanshu,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+talas,Square and Rectangles,1,A,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+fabo3000,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kcany,Stadium and Games,0,B,0,0,0,0,1,1,0,6,0,0,0,0,0,0,0,0,0,"binary search,math"
+khatribiru,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fushar,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+fushar,Square and Rectangles,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+facebook,Square and Rectangles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+ccl0326,Square and Rectangles,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+m9_psy,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Shiniran,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mukul031,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+pichayut,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+rumman__sust,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rumman__sust,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+ntme,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Darkstalker,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Bekzhan.Kassenov,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+balbasaur,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gamrocking,Stadium and Games,0,B,0,0,0,0,0,5,0,2,0,0,0,0,0,0,0,0,0,"binary search,math"
+gamrocking,The Red Button,0,E,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+lnman,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nitishjain,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+nitishjain,Stadium and Games,0,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"binary search,math"
+Trumen,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Trumen,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sohelcseiu,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+tomas.svab,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+jaro3000,Stadium and Games,0,B,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+jaro3000,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ymondelo20,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+ff19931205,Square and Rectangles,1,A,1,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,implementation
+bipul,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tetsuzan.c,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zeliboba,Square and Rectangles,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zeliboba,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+zeliboba,The Red Button,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+analog,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+RamiZ,Stadium and Games,0,B,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+RamiZ,Square and Rectangles,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zyq1993,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+i_nostalgic,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+MStetsenko,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+implusdream,Square and Rectangles,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+implusdream,Stadium and Games,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+alicezhang05,Stadium and Games,0,B,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+tantrik115,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+gxnncrxI993,Stadium and Games,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+gxnncrxI993,Square and Rectangles,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gxnncrxI993,The Red Button,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+lantimilan,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+lantimilan,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+lanmao,Square and Rectangles,0,A,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dharmateja,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Cadovvl,Stadium and Games,0,B,0,0,0,1,0,4,0,9,0,0,0,0,0,0,0,0,0,"binary search,math"
+Cadovvl,Square and Rectangles,0,A,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,implementation
+Cadovvl,Reclamation,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dsu
+shohagh,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shohagh,Stadium and Games,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+Yotta,Square and Rectangles,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+wosarat,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+karanaggarwal,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+MohamedAmin,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+TPF,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+nhatminh2947,Square and Rectangles,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+DULGUUNBATMUNKH,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DULGUUNBATMUNKH,Stadium and Games,1,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+swpnlmehta,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+VehicleOfPuzzle,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+VehicleOfPuzzle,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+WillM,Stadium and Games,0,B,0,0,0,0,0,4,0,3,0,0,0,0,0,0,0,0,0,"binary search,math"
+jcazevedo,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+bulat.s,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+bulat.s,Stadium and Games,0,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+DrPaulVazo,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+katusha,Stadium and Games,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+ahm.kam_92,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahm.kam_92,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+lazzrov,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+Serjio,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mic_s,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mic_s,Stadium and Games,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+RncLsn,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tian_feng_bo,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+App,Square and Rectangles,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+NKapustin,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NKapustin,Stadium and Games,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+wesam_adel,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+kpe8eg,Stadium and Games,0,B,0,0,0,0,0,17,0,6,0,0,0,0,0,0,0,0,0,"binary search,math"
+SmirnovBoris,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SmirnovBoris,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+amirrezam,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+argooogooly,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+befuddled,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nelody0915,Square and Rectangles,0,A,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+BIT_silence,Stadium and Games,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+BIT_silence,Square and Rectangles,1,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Seva,Stadium and Games,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Gansito144,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+soup_boy,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+siberiamark,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+vmp2408,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+maga33393,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+simanman,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+cyendra,Square and Rectangles,0,A,0,0,0,3,0,1,0,0,1,0,0,0,0,1,0,0,0,implementation
+cyendra,Stadium and Games,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+iilmh,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+iilmh,Stadium and Games,0,B,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+dimansp,Square and Rectangles,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+Kivats,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tchrikch,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dalia_maher,Stadium and Games,0,B,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,"binary search,math"
+cocrozz,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Oshongayito,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+i00n,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Love_red_cat,Square and Rectangles,0,A,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+yeplastun,Square and Rectangles,0,A,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,implementation
+wur911,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shilinf,Square and Rectangles,1,A,1,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+oruas,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+oruas,Square and Rectangles,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ypa,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+karimadel7,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+JeBeK,Stadium and Games,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+JeBeK,Square and Rectangles,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tmimotw,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,implementation
+jayantjpr,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DiaaAyyad,Square and Rectangles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+xabir,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+anhhungcolao,Square and Rectangles,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+AmirhosseinMahdinejad,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+darksta5,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Xsquare,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+AlexanderL,Stadium and Games,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+azharmag,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+azharmag,Stadium and Games,1,B,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+bsrohit,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rogueh,Square and Rectangles,0,A,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,implementation
+SebP,Stadium and Games,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+SebP,Square and Rectangles,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Guliash,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vipul007ravi,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+dinesh_iit109,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+khemraj,Stadium and Games,0,B,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"binary search,math"
+SAKT,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+whatbeg,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+River,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+River,Square and Rectangles,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+SimeonILP,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+adam.szefer,Stadium and Games,0,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+x_man,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+snuke,Monsters and Diamonds,1,C,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+Desert,Stadium and Games,0,B,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+fatehunter,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fantasy-zwj,Square and Rectangles,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+testpro,Square and Rectangles,0,A,0,0,0,4,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+SanSiroWaltz,Stadium and Games,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+mtara,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mennahesham,Square and Rectangles,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+RadwanAbuOdeh,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Yousuf,Square and Rectangles,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+zxc10806,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+FarmerMa,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+YellowNextYear,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+orzkac,The Red Button,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dfs and similar,dsu,greedy"
+markyehia,The Red Button,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+markyehia,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+markyehia,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+pvasilyev,Square and Rectangles,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,implementation
+LWPhoenix,Stadium and Games,0,B,0,0,0,1,0,5,0,0,0,0,0,0,0,1,0,0,0,"binary search,math"
+LWPhoenix,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+quispecondorie,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hernan,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gxkl,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+LinKin,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+LinKin,Square and Rectangles,1,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cwic,Square and Rectangles,0,A,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+m.boniecki,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+jigya,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+t.g.g.t,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mahbubcseju,Square and Rectangles,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+qinbingchen,Square and Rectangles,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+pankajb23,Stadium and Games,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,0,"binary search,math"
+abdelkarim,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+Mutineer,Square and Rectangles,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+goroto,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Bacaramba,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+amitsaharana,Stadium and Games,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+rock_lee,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+sha256,Square and Rectangles,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+__Joker,Square and Rectangles,1,A,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,implementation
+math10,Square and Rectangles,1,A,1,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+math10,Stadium and Games,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+WunG_STT,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+goodoo,Stadium and Games,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+goodoo,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mosiomohsen,The Red Button,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+fuzzypinecone,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+fuzzypinecone,Monsters and Diamonds,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,shortest paths"
+shubham31516,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fanKarpaty,Stadium and Games,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+fanKarpaty,Square and Rectangles,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+PavelDv92,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+nuip,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+OasisKharkov,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+y.kemaev,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+y.kemaev,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+mips88,Stadium and Games,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+utkcpp,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhevachkas,Square and Rectangles,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+kiarashmhn,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+DaGam3,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+Farsan,Square and Rectangles,0,A,0,0,0,5,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+shamdor,Square and Rectangles,1,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+zorro,Square and Rectangles,0,A,0,0,0,0,0,9,0,0,0,1,0,0,0,0,0,0,0,implementation
+Mohammad_Mamun,Square and Rectangles,0,A,0,0,0,0,1,2,0,0,3,0,0,0,0,0,0,0,0,implementation
+HEMAN123,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ckpeteryu,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+szm,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hime,Stadium and Games,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+hime,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Prestige,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Prestige,Square and Rectangles,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nurbakhyt,Square and Rectangles,0,A,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+dwoolley3,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+dwoolley3,Stadium and Games,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+electro_rage,Square and Rectangles,0,A,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,implementation
+-Emilchess-,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+AIgen,Stadium and Games,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+alezan,Stadium and Games,0,B,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Moriarty_loves_Sherlock,Stadium and Games,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+arukuka,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+bob_1982,Stadium and Games,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+fryzito,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+herstruboy,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+liouzhou_101,Reclamation,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dsu
+liouzhou_101,The Red Button,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dfs and similar,dsu,greedy"
+liouzhou_101,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+manetsus,Square and Rectangles,1,A,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,implementation
+Haghani,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ArunKumar,The Red Button,0,E,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dfs and similar,dsu,greedy"
+ArunKumar,Stadium and Games,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+inuishan,Stadium and Games,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+devilqxect,Stadium and Games,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+bacuongcomputer,Stadium and Games,0,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+sjw0687,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gusteyker,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+tigupine,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Illusory_Time,Stadium and Games,0,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+m17,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+bonyisrail,Square and Rectangles,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+coko156,Stadium and Games,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+takhi,Stadium and Games,0,B,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+jonyrock,Square and Rectangles,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+20111114,Square and Rectangles,0,A,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shiamplus,Reclamation,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dsu
+tinochagua,Stadium and Games,0,B,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,math"
+55555,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+amin-55,The Red Button,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dfs and similar,dsu,greedy"
+icecode,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+PAG,Stadium and Games,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+ViktorM,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+m-r,Square and Rectangles,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+B_Hash,Stadium and Games,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+Raymon,Stadium and Games,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+bayram,Stadium and Games,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,math"
+defaultcoder,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ChOmPs,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pczhou,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+blak_dragon,Square and Rectangles,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zaphod_beeblebrox,Square and Rectangles,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation

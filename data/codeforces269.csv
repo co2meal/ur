@@ -1,0 +1,1427 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+RomaWhite,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+RomaWhite,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+RomaWhite,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+0O0o00OO0Oo0o0Oo,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+0O0o00OO0Oo0o0Oo,Flawed Flow,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+0O0o00OO0Oo0o0Oo,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+0O0o00OO0Oo0o0Oo,Maximum Waterfall,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+alex20030190,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+alex20030190,Greenhouse Effect,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+evima,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+evima,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+evima,Flawed Flow,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+havaliza,Magical Boxes,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+havaliza,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+havaliza,Flawed Flow,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+a142857a,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+a142857a,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+a142857a,Flawed Flow,0,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+a142857a,Maximum Waterfall,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+yeputons,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yeputons,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+yeputons,Flawed Flow,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+yeputons,Maximum Waterfall,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+Komaki,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Komaki,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Komaki,Flawed Flow,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Komaki,Maximum Waterfall,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+SergeiFedorov,Magical Boxes,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+SergeiFedorov,Flawed Flow,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+SergeiFedorov,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+wrong,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+wrong,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+wrong,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+wrong,Maximum Waterfall,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+malcolm,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+malcolm,Greenhouse Effect,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+malcolm,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+R_R_,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+R_R_,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+R_R_,Flawed Flow,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+rares.buhai,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rares.buhai,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+rares.buhai,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+rares.buhai,Maximum Waterfall,0,D,0,0,0,0,2,2,0,5,0,0,0,0,0,0,0,0,0,"data structures,dp"
+craus,Magical Boxes,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+craus,Greenhouse Effect,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+craus,Flawed Flow,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Zlobober,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Zlobober,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Zlobober,Flawed Flow,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,flows,graphs"
+tomasz.kociumaka,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tomasz.kociumaka,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+tomasz.kociumaka,Flawed Flow,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+tomasz.kociumaka,Maximum Waterfall,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,dp"
+ali_fiujnomali,Magical Boxes,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ali_fiujnomali,Greenhouse Effect,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+ali_fiujnomali,Flawed Flow,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Swistakk,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Swistakk,Flawed Flow,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Swistakk,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+gs12117,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gs12117,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+gs12117,Flawed Flow,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+antonkov,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+antonkov,Greenhouse Effect,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+antonkov,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Petr,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Petr,Flawed Flow,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,flows,graphs"
+Petr,Maximum Waterfall,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+Petr,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+-XraY-,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+-XraY-,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+-XraY-,Flawed Flow,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+-XraY-,Maximum Waterfall,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+jonathanpaulson,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+jonathanpaulson,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+jonathanpaulson,Flawed Flow,1,C,0,0,0,0,0,3,0,2,1,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+rng_58,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+rng_58,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rng_58,Flawed Flow,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+rng_58,Maximum Waterfall,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+anton,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+anton,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+anton,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+anton,Maximum Waterfall,0,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+voover,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+voover,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+voover,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+voover,Maximum Waterfall,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+ib18,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ib18,Greenhouse Effect,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+ib18,Flawed Flow,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+mmaxio,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mmaxio,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+mmaxio,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+mmaxio,Maximum Waterfall,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+Erop,Magical Boxes,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Erop,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Erop,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Erop,Maximum Waterfall,1,D,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+aropan,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+aropan,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+aropan,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+betalife37,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+betalife37,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+betalife37,Flawed Flow,1,C,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+betalife37,Maximum Waterfall,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+sakyalol,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sakyalol,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+sakyalol,Flawed Flow,1,C,0,0,0,0,0,4,0,6,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+qwerty787788,Magical Boxes,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+qwerty787788,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+qwerty787788,Maximum Waterfall,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+Stefania,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cgy4ever,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cgy4ever,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+cgy4ever,Flawed Flow,1,C,0,0,0,0,3,0,0,6,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+ania,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ania,Flawed Flow,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+ania,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+edward_mj,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+edward_mj,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+edward_mj,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+edward_mj,Maximum Waterfall,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+mamekin,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mamekin,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+mamekin,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+abbababab,Magical Boxes,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+abbababab,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kraskevich,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kraskevich,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+VArtem,Magical Boxes,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+VArtem,Greenhouse Effect,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+VArtem,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Egor,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Egor,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Egor,Flawed Flow,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Egor,Maximum Waterfall,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+Endagorion,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Endagorion,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Endagorion,Flawed Flow,0,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Endagorion,Maximum Waterfall,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+zhonghaoxi,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zhonghaoxi,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+zhonghaoxi,Flawed Flow,1,C,0,0,0,0,0,10,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Ripatti,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ripatti,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Ripatti,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+EriKKo,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+EriKKo,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+EriKKo,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+PavelKunyavskiy,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+PavelKunyavskiy,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+PavelKunyavskiy,Flawed Flow,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+PavelKunyavskiy,Maximum Waterfall,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+darkbtf,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+darkbtf,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+darkbtf,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+gchebanov,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gchebanov,Greenhouse Effect,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+gchebanov,Flawed Flow,1,C,1,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+subscriber,Magical Boxes,0,A,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"greedy,math"
+subscriber,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+subscriber,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Arterm,Magical Boxes,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Arterm,Greenhouse Effect,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+Arterm,Flawed Flow,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+-DMYTRO-,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+-DMYTRO-,Greenhouse Effect,0,B,1,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,dp
+-DMYTRO-,Flawed Flow,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+ll931110,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ll931110,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Breakun,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Breakun,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Breakun,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+al13n,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+al13n,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+al13n,Flawed Flow,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+al13n,Maximum Waterfall,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+liouzhou_101,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+liouzhou_101,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+liouzhou_101,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+liouzhou_101,Maximum Waterfall,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+Leo_Yu,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Leo_Yu,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Leo_Yu,Flawed Flow,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+dreamoon,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dreamoon,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dreamoon,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Snusmumriken,Magical Boxes,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Snusmumriken,Greenhouse Effect,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+Reshetnikov_Ivan,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Reshetnikov_Ivan,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Reshetnikov_Ivan,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+RAVEman,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+RAVEman,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+RAVEman,Flawed Flow,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+RAVEman,Maximum Waterfall,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+ifsmirnov,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ifsmirnov,Greenhouse Effect,0,B,1,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,dp
+ifsmirnov,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+tovValentin,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tovValentin,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+AleX,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+AleX,Greenhouse Effect,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+AleX,Flawed Flow,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+KADR,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+KADR,Greenhouse Effect,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+KADR,Flawed Flow,0,C,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+KADR,Maximum Waterfall,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+kennethsnow,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kennethsnow,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kennethsnow,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+UESTC_ElemeNtLz,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+UESTC_ElemeNtLz,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+UESTC_ElemeNtLz,Flawed Flow,1,C,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+kelvin,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kelvin,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kelvin,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Abra,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Abra,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Slavik,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Slavik,Greenhouse Effect,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+flashmt,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+flashmt,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+mR.ilchi,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mR.ilchi,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+mR.ilchi,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+mR.ilchi,Maximum Waterfall,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+Kenny_HORROR,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Kenny_HORROR,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Kenny_HORROR,Flawed Flow,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Kenny_HORROR,Maximum Waterfall,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+kinodjnz,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kinodjnz,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+poao899,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+poao899,Flawed Flow,0,C,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+poao899,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kmjp,Magical Boxes,0,A,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kmjp,Greenhouse Effect,1,B,1,0,0,1,0,2,0,3,0,0,0,0,0,0,0,0,0,dp
+AminoAcid,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+AminoAcid,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+AminoAcid,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+uwi,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+uwi,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+uwi,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+olpetOdessaONU,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+olpetOdessaONU,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+olpetOdessaONU,Flawed Flow,1,C,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+romanandreev,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+romanandreev,Greenhouse Effect,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+sankear,Greenhouse Effect,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+sankear,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sankear,Maximum Waterfall,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+hama-du,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hama-du,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+hama-du,Flawed Flow,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Stigius,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Stigius,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Stigius,Flawed Flow,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+Stigius,Maximum Waterfall,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+xyahr,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xyahr,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+xyahr,Flawed Flow,1,C,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+aa2985759,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+aa2985759,Greenhouse Effect,0,B,1,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,dp
+aa2985759,Flawed Flow,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+chaos_king,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+chaos_king,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+chaos_king,Flawed Flow,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Sereja,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Sereja,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Sereja,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+dolphinigle,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dolphinigle,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dolphinigle,Flawed Flow,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+enot.1.10,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+enot.1.10,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+enot.1.10,Maximum Waterfall,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+enot.1.10,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Ra16bit,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ra16bit,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Ra16bit,Flawed Flow,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Ra16bit,Maximum Waterfall,1,D,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+yaro,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yaro,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+yaro,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+climpet,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+climpet,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+climpet,Flawed Flow,1,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+andrewzta,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+andrewzta,Greenhouse Effect,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+andrewzta,Flawed Flow,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+andrewzta,Maximum Waterfall,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+barty,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+barty,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+barty,Flawed Flow,1,C,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Milanin,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Milanin,Greenhouse Effect,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,dp
+amrSamir,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+amrSamir,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+amrSamir,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+EternalName,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+EternalName,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Archon.JK,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Archon.JK,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Archon.JK,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+jonathanasdf,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+jonathanasdf,Greenhouse Effect,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+espr1t,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+espr1t,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+espr1t,Flawed Flow,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+espr1t,Maximum Waterfall,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+guille,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+guille,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"constructive algorithms,flows,graphs"
+chavit,Magical Boxes,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+chavit,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+chavit,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+Kronecker,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Kronecker,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+mochavic,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mochavic,Greenhouse Effect,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+mochavic,Flawed Flow,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+wakaka,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+wakaka,Flawed Flow,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+wakaka,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Konstantin,Magical Boxes,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Konstantin,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Konstantin,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+wtiger9999,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+wtiger9999,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+wtiger9999,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+RAD,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+RAD,Flawed Flow,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+RAD,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+RAD,Maximum Waterfall,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+Martin,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Martin,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Martin,Flawed Flow,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+M0sTik,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+M0sTik,Greenhouse Effect,1,B,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,dp
+Dmitry_Egorov,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Dmitry_Egorov,Greenhouse Effect,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+Dmitry_Egorov,Flawed Flow,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Dmitry_Egorov,Maximum Waterfall,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+tsunayoshi,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Smit,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Smit,Greenhouse Effect,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Smit,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+rankalee,Magical Boxes,0,A,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hytirt,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hytirt,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+hytirt,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Scorpy,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Scorpy,Greenhouse Effect,1,B,0,0,0,0,3,3,0,0,1,0,0,0,0,0,0,0,0,dp
+Eyelids,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Eyelids,Greenhouse Effect,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+alexpizarroj,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+alexpizarroj,Greenhouse Effect,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+S.HASHEMI,Magical Boxes,0,A,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+knightL,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+knightL,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+knightL,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+EbTech,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+EbTech,Greenhouse Effect,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+EbTech,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Krig,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+Krig,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Krig,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Igor_Kudryashov,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Igor_Kudryashov,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Igor_Kudryashov,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+NALP,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+NALP,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+NALP,Flawed Flow,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Eurekash,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Eurekash,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Eurekash,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+Eurekash,Maximum Waterfall,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+ntit_co1,Magical Boxes,0,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ntit_co1,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ntit_co1,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+KhaustovPavel,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+KhaustovPavel,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+KhaustovPavel,Flawed Flow,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Nerevar,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Nerevar,Flawed Flow,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Nerevar,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Nerevar,Maximum Waterfall,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+FattyChicken,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+FattyChicken,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+FattyChicken,Flawed Flow,1,C,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+yukim,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yukim,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+yukim,Flawed Flow,1,C,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+cvb,Magical Boxes,0,A,0,0,0,0,9,26,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+cvb,Greenhouse Effect,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,dp
+niyaznigmatul,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+niyaznigmatul,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+niyaznigmatul,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+niyaznigmatul,Maximum Waterfall,1,D,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"data structures,dp"
+AcOnFingers,Magical Boxes,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Yousef_Salama,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Yousef_Salama,Greenhouse Effect,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+hiukim,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hiukim,Greenhouse Effect,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Ixanezis,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ixanezis,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Ixanezis,Flawed Flow,1,C,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+CatCat,Magical Boxes,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+CatCat,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+CatCat,Flawed Flow,1,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Landertxu,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Landertxu,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+White_Bear,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+White_Bear,Greenhouse Effect,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+White_Bear,Flawed Flow,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+White_Bear,Maximum Waterfall,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+sillyboy,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sillyboy,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sillyboy,Flawed Flow,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+daizhenyang,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+daizhenyang,Flawed Flow,0,C,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+daizhenyang,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gxnncrx1993,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+I-juice,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+I-juice,Greenhouse Effect,0,B,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,dp
+I-juice,Flawed Flow,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+piloop,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+piloop,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+piloop,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Qwaz,Magical Boxes,0,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Qwaz,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+homo_sapiens,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+homo_sapiens,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+homo_sapiens,Flawed Flow,1,C,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+eduardische,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+eduardische,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+eduardische,Flawed Flow,1,C,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Kostroma,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Kostroma,Greenhouse Effect,1,B,1,0,0,0,0,5,0,0,1,0,0,0,0,0,0,0,0,dp
+natsugiri,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+natsugiri,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+natsugiri,Flawed Flow,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Vaness,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Vaness,Greenhouse Effect,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Vaness,Flawed Flow,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+olekluka,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ainta,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ainta,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ainta,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Steps09,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Steps09,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Steps09,Flawed Flow,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+scipianus,Magical Boxes,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+scipianus,Greenhouse Effect,1,B,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,dp
+BSBandme,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+BSBandme,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+BSBandme,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Misha100896,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Misha100896,Greenhouse Effect,1,B,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,dp
+ikatanic,Magical Boxes,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xhae,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xhae,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+xhae,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+SmirnovBoris,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+SmirnovBoris,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Victor,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Victor,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Victor,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,flows,graphs"
+azizkhan,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+azizkhan,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+azizkhan,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+fura2,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+fura2,Greenhouse Effect,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,dp
+fura2,Flawed Flow,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+shakil0304003,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+shakil0304003,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+boleyn.su,Magical Boxes,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+boleyn.su,Greenhouse Effect,1,B,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,dp
+boleyn.su,Flawed Flow,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+S7012MY,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+S7012MY,Greenhouse Effect,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+WhiteCrow,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+WhiteCrow,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+WhiteCrow,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Bugman,Magical Boxes,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+Bugman,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Merlininice,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Merlininice,Greenhouse Effect,1,B,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,dp
+sune2,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sune2,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sune2,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+kawatea,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kawatea,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kawatea,Flawed Flow,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+kawatea,Maximum Waterfall,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+jiangzhijie,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+jiangzhijie,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+nathanajah,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nathanajah,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+nathanajah,Flawed Flow,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+zcwwzdjn,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zcwwzdjn,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Skargonas,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+_Vadim_,Magical Boxes,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+__math,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+__math,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+__math,Flawed Flow,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+Mopriestt,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Mopriestt,Greenhouse Effect,0,B,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,dp
+makrusak,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+makrusak,Greenhouse Effect,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+Gassa,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Gassa,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Gassa,Flawed Flow,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Shapo,Magical Boxes,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Shapo,Greenhouse Effect,1,B,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,dp
+Fefer_Ivan,Magical Boxes,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+Fefer_Ivan,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Fefer_Ivan,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+this_isssssyy,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+this_isssssyy,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+this_isssssyy,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+moonlight131,Magical Boxes,1,A,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+moonlight131,Greenhouse Effect,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+yefllower,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yefllower,Flawed Flow,1,C,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+yefllower,Greenhouse Effect,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Dakurels,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hhoomn,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hhoomn,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+hhoomn,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+marcin_smu,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+marcin_smu,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+marcin_smu,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+marcin_smu,Maximum Waterfall,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+angargo,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+angargo,Greenhouse Effect,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+angargo,Flawed Flow,0,C,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Moor,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Moor,Flawed Flow,1,C,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Skird,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Skird,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Skird,Flawed Flow,1,C,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+WJMZ8MR,Magical Boxes,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+PMichalak,Magical Boxes,0,A,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+PMichalak,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ahmed_aly,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ahmed_aly,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+135678942570,Magical Boxes,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+135678942570,Greenhouse Effect,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+kostya_by,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kostya_by,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kostya_by,Flawed Flow,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+zhoufan,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zhoufan,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+shindo,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+shindo,Greenhouse Effect,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+shindo,Flawed Flow,1,C,0,0,0,0,0,2,0,5,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+carber,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+carber,Greenhouse Effect,1,B,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,dp
+hiphip,Magical Boxes,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hiphip,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sdryapko,Magical Boxes,1,A,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sdryapko,Greenhouse Effect,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+__tutankhamun__,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+__tutankhamun__,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+__tutankhamun__,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+gridnevvvit,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gridnevvvit,Greenhouse Effect,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Korvin79,Magical Boxes,1,A,1,0,0,0,0,5,0,2,1,0,0,0,0,0,0,0,0,"greedy,math"
+Korvin79,Greenhouse Effect,1,B,0,0,0,0,0,9,0,1,0,0,0,0,0,0,0,0,0,dp
+BaturaDima,Magical Boxes,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+BaturaDima,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+esrever,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+esrever,Flawed Flow,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+esrever,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+stan,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+stan,Greenhouse Effect,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+stan,Flawed Flow,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Aharon,Magical Boxes,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+Aharon,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+azaky,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+azaky,Greenhouse Effect,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+azaky,Flawed Flow,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+package.zaic,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+package.zaic,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,dp
+dmitry.uvarov,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dmitry.uvarov,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dmitry.uvarov,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+miketcyue,Magical Boxes,0,A,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+miketcyue,Greenhouse Effect,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,dp
+Sabyanin.Max,Magical Boxes,0,A,0,0,0,2,0,12,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cjtoribio,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cjtoribio,Greenhouse Effect,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+cjtoribio,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+johnasselta,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mas_HOJer,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mas_HOJer,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+GoldenMan,Magical Boxes,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+GoldenMan,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+GoldenMan,Maximum Waterfall,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+nwin,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nwin,Flawed Flow,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+nwin,Greenhouse Effect,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Zhukov_Dmitry,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+Zhukov_Dmitry,Flawed Flow,0,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Zhukov_Dmitry,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Zhukov_Dmitry,Maximum Waterfall,1,D,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp"
+__ivan__,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+__ivan__,Greenhouse Effect,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+cxlove,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cxlove,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+cxlove,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Tadrion,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Tadrion,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Tadrion,Flawed Flow,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+The_CodeBreakeR,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+The_CodeBreakeR,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+The_CodeBreakeR,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+wnlolnw,Magical Boxes,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tunyash,Magical Boxes,0,A,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tunyash,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+lavin,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lavin,Greenhouse Effect,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+lavin,Flawed Flow,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+nk.karpov,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nk.karpov,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+nk.karpov,Flawed Flow,1,C,0,0,0,0,1,1,0,3,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Rubanenko,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Rubanenko,Greenhouse Effect,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Ming.Shen,Magical Boxes,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ming.Shen,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+vivalafun,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vivalafun,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+AlexDmitriev,Magical Boxes,0,A,1,0,0,0,0,9,0,2,0,0,0,0,0,0,0,0,0,"greedy,math"
+AlexDmitriev,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+TMandzu,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+TMandzu,Greenhouse Effect,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,dp
+MehrdadM,Magical Boxes,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sdshxs,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sdshxs,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sdshxs,Flawed Flow,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+grey_wind,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+grey_wind,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+whybert,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+whybert,Greenhouse Effect,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,dp
+whybert,Flawed Flow,0,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Timur_Sitdikov,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Timur_Sitdikov,Flawed Flow,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Timur_Sitdikov,Greenhouse Effect,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+roypalacios,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+roypalacios,Greenhouse Effect,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+roypalacios,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+JCsoulsky,Magical Boxes,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pty,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pty,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+pty,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+chpzcc,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+chpzcc,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+chpzcc,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+maksay,Magical Boxes,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+maksay,Greenhouse Effect,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,dp
+maksay,Flawed Flow,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+satashun,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+satashun,Greenhouse Effect,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+satashun,Flawed Flow,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Gullesnuffs,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Gullesnuffs,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Gullesnuffs,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+fenzhang,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+fenzhang,Greenhouse Effect,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+OVR,Magical Boxes,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+OVR,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+OVR,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+stringstream,Magical Boxes,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+stringstream,Greenhouse Effect,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+DamianS,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+DamianS,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+DamianS,Flawed Flow,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+sweetsc,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sweetsc,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sweetsc,Flawed Flow,1,C,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+islam-al-aarag,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+islam-al-aarag,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+xie,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xie,Flawed Flow,1,C,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+kaushik.mv3,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kaushik.mv3,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ft.azadi,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ft.azadi,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ft.azadi,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Hellis,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Hellis,Greenhouse Effect,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Hellis,Flawed Flow,0,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Beranabus,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Um_nik,Magical Boxes,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+Um_nik,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Bidhan,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Bidhan,Magical Boxes,1,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Goofy57,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Goofy57,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+jablko,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+jablko,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+jablko,Greenhouse Effect,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+void_rank,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+void_rank,Greenhouse Effect,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+void_rank,Flawed Flow,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+redox,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+redox,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+Untitled,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kingofnumbers,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kingofnumbers,Greenhouse Effect,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+fetetriste,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+fetetriste,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+fetetriste,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Rasmus,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Rasmus,Greenhouse Effect,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+fura,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+fura,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+fura,Flawed Flow,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+lawsonh,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+lawsonh,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lamphanviet,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lamphanviet,Greenhouse Effect,0,B,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,dp
+lamphanviet,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Vergissmeinnicht,Magical Boxes,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Vergissmeinnicht,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Vergissmeinnicht,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+Doc,Magical Boxes,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Doc,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+hogloid,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hogloid,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+hogloid,Flawed Flow,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+hogloid,Maximum Waterfall,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+weixinding,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+weixinding,Flawed Flow,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+weixinding,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+luckman,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+luckman,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Kaga2,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Kaga2,Flawed Flow,1,C,0,0,0,0,0,3,0,4,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Sfairat,Magical Boxes,1,A,1,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Sphinx,Magical Boxes,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Sphinx,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Sphinx,Flawed Flow,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+lonelyboy,Magical Boxes,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+lonelyboy,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+am-real,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+am-real,Greenhouse Effect,1,B,0,0,0,0,4,8,0,0,0,0,0,0,0,0,0,0,0,dp
+Duc,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Duc,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Deamon,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Deamon,Greenhouse Effect,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+reiracofage,Magical Boxes,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+reiracofage,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+reiracofage,Flawed Flow,1,C,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Shtrix,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Shtrix,Greenhouse Effect,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+Shtrix,Flawed Flow,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+vfleaking,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vfleaking,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+pashkal,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pashkal,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+pashkal,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+yinthewind,Magical Boxes,1,A,1,0,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Sinner,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Sinner,Greenhouse Effect,1,B,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,dp
+Aman,Magical Boxes,1,A,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+ryunosuke.iwai,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ryunosuke.iwai,Greenhouse Effect,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+GaoYusong,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+GaoYusong,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+GaoYusong,Flawed Flow,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Dimke,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Xnewfolder,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Xnewfolder,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+meteorcloudy,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+Monyura,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Monyura,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+m.raszyk,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+m.raszyk,Greenhouse Effect,1,B,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,dp
+michal27,Magical Boxes,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+michal27,Greenhouse Effect,1,B,0,0,0,0,0,5,0,0,1,0,0,0,0,0,0,0,0,dp
+ahm.kam_92,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ahm.kam_92,Greenhouse Effect,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,dp
+zhanyl,Magical Boxes,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zhanyl,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+a58,Magical Boxes,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+a58,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+matrix,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+matrix,Magical Boxes,1,A,1,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+matrix,Flawed Flow,1,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Ruslan,Magical Boxes,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ruslan,Greenhouse Effect,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+seanwu,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+seanwu,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+seanwu,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+seanwu,Maximum Waterfall,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+cafelier,Flawed Flow,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+cafelier,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+cafelier,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hydrastuff,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hydrastuff,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+arti1990,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+arti1990,Greenhouse Effect,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+arti1990,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+vlad107,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vlad107,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+vlad107,Flawed Flow,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+seen,Magical Boxes,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+seen,Greenhouse Effect,1,B,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Nibelung,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Nibelung,Greenhouse Effect,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Nibelung,Flawed Flow,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Kepnu4,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Kepnu4,Greenhouse Effect,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+Kepnu4,Flawed Flow,1,C,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+azneyes,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"greedy,math"
+kolina,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+kolina,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+andreyv,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sharat1105,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sharat1105,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+yarrr,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+helThazar,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+helThazar,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+helThazar,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+LXLWDGY,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+LXLWDGY,Greenhouse Effect,1,B,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,dp
+boba,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+boba,Greenhouse Effect,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Excelsiour,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Excelsiour,Greenhouse Effect,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+bakabakashyoshyo,Magical Boxes,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bakabakashyoshyo,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+wangyongliang,Magical Boxes,0,A,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+wangyongliang,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+cAnNot,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cAnNot,Greenhouse Effect,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Zhiying,Magical Boxes,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Zhiying,Greenhouse Effect,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+spnautilus,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+spnautilus,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+spnautilus,Flawed Flow,1,C,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+dilutedream,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dilutedream,Magical Boxes,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dilutedream,Flawed Flow,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Martynas,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Martynas,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Martynas,Flawed Flow,1,C,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+toothless,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+toothless,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+thamyin1,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+aRSeniy,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+aRSeniy,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+AlexanderBolshakov,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+AlexanderBolshakov,Greenhouse Effect,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Cyber.1,Magical Boxes,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+NikitaD,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+NikitaD,Greenhouse Effect,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,dp
+m.radwan,Magical Boxes,0,A,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+m.radwan,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+VERB,Magical Boxes,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+VERB,Greenhouse Effect,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+BogolyubskiyAlexey,Magical Boxes,0,A,0,0,0,1,0,3,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+BogolyubskiyAlexey,Greenhouse Effect,0,B,0,0,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0,dp
+GeKa,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+GeKa,Greenhouse Effect,1,B,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,dp
+riad,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+riad,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+riad,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+bloops,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bloops,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+bloops,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+wyl8899,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+wyl8899,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+wyl8899,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+dreamyyou,Magical Boxes,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Jokser,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Jokser,Greenhouse Effect,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Jokser,Flawed Flow,0,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+good_mood,Magical Boxes,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+good_mood,Greenhouse Effect,1,B,1,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,dp
+good_mood,Flawed Flow,1,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+ramtin95,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+persianpars,Magical Boxes,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+persianpars,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+persianpars,Flawed Flow,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+ACube,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ACube,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ACube,Flawed Flow,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+beginner1010,Magical Boxes,0,A,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,"greedy,math"
+beginner1010,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+hlwt,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hlwt,Greenhouse Effect,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+sexyprincess91,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sexyprincess91,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sexyprincess91,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+sexyprincess91,Maximum Waterfall,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp"
+i_love_dima,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Di735,Magical Boxes,0,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Di735,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Di735,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+fedimser,Greenhouse Effect,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+fedimser,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+i_love_daniel,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+i_love_daniel,Greenhouse Effect,1,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,dp
+kuviman,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kuviman,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kuviman,Flawed Flow,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+kuviman,Maximum Waterfall,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+BlEmp,Magical Boxes,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+teleport,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+teleport,Greenhouse Effect,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+izban,Magical Boxes,0,A,0,0,0,0,0,11,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+izban,Greenhouse Effect,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,dp
+izban,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+BIT_silence,Magical Boxes,1,A,1,0,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+BIT_silence,Greenhouse Effect,1,B,0,0,0,0,7,1,0,0,0,0,0,0,0,0,0,0,0,dp
+lnminusone,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lnminusone,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+DPR-pavlin,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+DPR-pavlin,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+DPR-pavlin,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+tsfn,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tsfn,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+tsfn,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+evader,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+evader,Flawed Flow,0,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+evader,Greenhouse Effect,1,B,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Sultan,Magical Boxes,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Avalanche,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Avalanche,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Avalanche,Flawed Flow,1,C,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Ahmed_Salama,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ahmed_Salama,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ztxz16,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ztxz16,Flawed Flow,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+ztxz16,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+mylyanyk.ivan,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mylyanyk.ivan,Greenhouse Effect,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+mylyanyk.ivan,Flawed Flow,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+tkcn,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tkcn,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+tkcn,Flawed Flow,1,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+zengarden,Magical Boxes,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rcx92,Magical Boxes,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rcx92,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sniper0221,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sniper0221,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Neroysq,Magical Boxes,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Neroysq,Greenhouse Effect,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+fish_ball,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+fish_ball,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+dusty.and.rusty,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dusty.and.rusty,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,dp
+clouilt,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gaston770,Magical Boxes,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gaston770,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+ILoveftiasch,Magical Boxes,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ILoveftiasch,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+valentin.harsan10,Magical Boxes,0,A,1,0,0,1,0,9,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+valentin.harsan10,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+valentin.harsan10,Flawed Flow,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Niko,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Niko,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+stevenkplus,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+stevenkplus,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Hohol,Magical Boxes,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Oryshych,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Oryshych,Greenhouse Effect,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+hysdds,Magical Boxes,0,A,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+PeHash,Magical Boxes,0,A,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+PeHash,Greenhouse Effect,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+ysyshtc,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ysyshtc,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+peterae86,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+shettynamit,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+shettynamit,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Mex-Mans,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Mex-Mans,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Mex-Mans,Maximum Waterfall,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+sky_zie,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Hinidu,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Hinidu,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Hinidu,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+avg206,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Petrushenko,Magical Boxes,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Petrushenko,Greenhouse Effect,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+takapt,Magical Boxes,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+takapt,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+takapt,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+AKim,Magical Boxes,0,A,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,"greedy,math"
+AKim,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+cerealguy,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cerealguy,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+cerealguy,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+cerealguy,Maximum Waterfall,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+lagoon0o0,Magical Boxes,0,A,1,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lagoon0o0,Greenhouse Effect,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+lagoon0o0,Flawed Flow,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,1,1,0,0,"constructive algorithms,flows,graphs"
+Empty,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Empty,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Empty,Flawed Flow,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+For_the_Love,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+For_the_Love,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+hirosegolf,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+hirosegolf,Flawed Flow,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+hirosegolf,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+doraemon,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+doraemon,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+poopi,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+poopi,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+poopi,Flawed Flow,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+JustN,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+JustN,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+S.Yesipenko,Magical Boxes,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+S.Yesipenko,Greenhouse Effect,0,B,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,dp
+BrightDays,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+BrightDays,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+BrightDays,Flawed Flow,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+vshantarin,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vshantarin,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+crazy_apple,Magical Boxes,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+crazy_apple,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+suiyuan2009,Magical Boxes,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+suiyuan2009,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+suiyuan2009,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+techxacm,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+savinov,Magical Boxes,1,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+savinov,Greenhouse Effect,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+OutSide,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+OutSide,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gogokefakefa,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gogokefakefa,Greenhouse Effect,0,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,dp
+gogokefakefa,Flawed Flow,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Alireza,Magical Boxes,0,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"greedy,math"
+Alireza,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+m.sabouri,Magical Boxes,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tourist,Flawed Flow,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+tourist,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tourist,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+tourist,Maximum Waterfall,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+dasko1,Flawed Flow,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+dasko1,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dasko1,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+MSPA,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+MSPA,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+MSPA,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+fiver,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+KarlisS,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+KarlisS,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+VUAcoder,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+VUAcoder,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+VUAcoder,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Nobik_Glem,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Nobik_Glem,Greenhouse Effect,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+xorfire,Magical Boxes,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xorfire,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dancho,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dancho,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+dancho,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Flandre_Scarlet,Magical Boxes,0,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Flandre_Scarlet,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+gh_ost,Magical Boxes,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gh_ost,Greenhouse Effect,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+WiBk,Magical Boxes,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Logvinov_Leon,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Logvinov_Leon,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sd0061,Magical Boxes,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sd0061,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sd0061,Flawed Flow,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+ADJA,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ADJA,Greenhouse Effect,0,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ADJA,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+Yermak0v,Magical Boxes,1,A,1,0,0,0,0,7,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+Yermak0v,Greenhouse Effect,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+emo,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+emo,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+emo,Flawed Flow,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+ig_dug,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ig_dug,Greenhouse Effect,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dianbei,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dianbei,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dianbei,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Demjan,Magical Boxes,0,A,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Demjan,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+moshiur,Magical Boxes,0,A,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+moshiur,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+moshiur,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+OmniLRenegadE,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Charlene,Magical Boxes,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+Charlene,Greenhouse Effect,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+cgangee,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cgangee,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+radix.ru,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+DEGwer,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+DEGwer,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+DEGwer,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Dabek,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Dabek,Greenhouse Effect,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+msg555,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+msg555,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+msg555,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Hachiikung,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Hachiikung,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Hachiikung,Flawed Flow,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+iTwin,Magical Boxes,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+iTwin,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+nvilcins,Flawed Flow,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+nvilcins,Maximum Waterfall,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+nvilcins,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nvilcins,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+wangjl_sdu,Magical Boxes,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+wangjl_sdu,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+LovelyPenguin,Greenhouse Effect,1,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,dp
+LovelyPenguin,Magical Boxes,1,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+geka666,Magical Boxes,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+geka666,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+forget,Magical Boxes,0,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+forget,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+mzsh,Magical Boxes,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mzsh,Greenhouse Effect,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,dp
+KirisameMarisa,Magical Boxes,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+KirisameMarisa,Flawed Flow,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+KirisameMarisa,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+minus9d,Magical Boxes,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+minus9d,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+technolt,Magical Boxes,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+technolt,Greenhouse Effect,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+technolt,Flawed Flow,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+--ARYA--,Greenhouse Effect,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+365050244,Magical Boxes,0,A,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+365050244,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+365050244,Flawed Flow,1,C,0,0,0,1,0,3,0,5,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+tyamgin,Magical Boxes,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Silent_coder,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Silent_coder,Magical Boxes,1,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sameer47,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+sameer47,Greenhouse Effect,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,dp
+mzry1992,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mzry1992,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+mzry1992,Flawed Flow,1,C,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+spentplaying,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ixxa,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ixxa,Greenhouse Effect,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+kissbuaa,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kissbuaa,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kissbuaa,Flawed Flow,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+AKrush,Magical Boxes,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+AKrush,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+AKrush,Flawed Flow,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Te4NIK,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hanfei19910905,Magical Boxes,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pseudopodia,Magical Boxes,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pseudopodia,Greenhouse Effect,1,B,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sokian,Magical Boxes,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+__Shi,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+__Shi,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nullmineral,Magical Boxes,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kzr.buet08,Magical Boxes,1,A,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+kzr.buet08,Greenhouse Effect,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+tanzaku,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tanzaku,Greenhouse Effect,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Darko,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Darko,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sggutier,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sggutier,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,dp
+coderbd,Magical Boxes,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+coderbd,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+coderbd,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+y.kemaev,Magical Boxes,1,A,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+fushar,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+fushar,Magical Boxes,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+fushar,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Umqra,Greenhouse Effect,0,B,0,0,0,0,1,2,0,1,1,0,0,0,0,0,0,0,0,dp
+Al3kSaNdaR,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Al3kSaNdaR,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lemonwu,Magical Boxes,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+FreezingCool,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+FreezingCool,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+tncks0121,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tncks0121,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+tncks0121,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Stratonov,Magical Boxes,0,A,0,0,0,0,5,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+LongTimeNoThin,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+2011026137,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+2011026137,Greenhouse Effect,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+ping128,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ping128,Greenhouse Effect,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+bahakz,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bahakz,Greenhouse Effect,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+bahakz,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+SkorKNURE,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+SkorKNURE,Greenhouse Effect,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Mabraygas,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+Mabraygas,Greenhouse Effect,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+qph-Jeremy,Magical Boxes,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xiaodao,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xiaodao,Greenhouse Effect,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+xiaodao,Flawed Flow,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+jupanul,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+jupanul,Greenhouse Effect,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+hogeover30,Magical Boxes,1,A,1,0,0,0,0,5,0,2,0,0,0,0,0,0,0,0,0,"greedy,math"
+PavelSavchenkov,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dojiboy9,Magical Boxes,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,1,0,0,0,"greedy,math"
+dojiboy9,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dojiboy9,Maximum Waterfall,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+adityasinghhh,Magical Boxes,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+adityasinghhh,Greenhouse Effect,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+ToBeTheChampion,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ToBeTheChampion,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ArmanK,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ArmanK,Greenhouse Effect,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,dp
+dudkamaster,Magical Boxes,1,A,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dudkamaster,Greenhouse Effect,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+AlirezaN,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+AlirezaN,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+AlirezaN,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+LinKin,Flawed Flow,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+LinKin,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+LinKin,Magical Boxes,1,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+chiemduybao,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+chiemduybao,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Jzxc,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Fbulatov,Magical Boxes,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+stoundmire,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Olja,Magical Boxes,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Olja,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Olja,Flawed Flow,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+mishastassen,Magical Boxes,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mishastassen,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+gmtranthanhtu,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gmtranthanhtu,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+NickAltair,Magical Boxes,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+NickAltair,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+shef_2318,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+shef_2318,Greenhouse Effect,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+aurinegro,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+aurinegro,Magical Boxes,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Bobgy,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Bobgy,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Bobgy,Flawed Flow,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+NuM,Greenhouse Effect,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+NuM,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+NuM,Flawed Flow,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+alex_or,Magical Boxes,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+alex_or,Greenhouse Effect,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+HunDunDM,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+HunDunDM,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+NVAL,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+NVAL,Greenhouse Effect,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+bogdan.sumy.ua,Magical Boxes,1,A,1,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bogdan.sumy.ua,Greenhouse Effect,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+cyk2011,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cyk2011,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+cyk2011,Flawed Flow,1,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Delta003,Magical Boxes,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Delta003,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+anta,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+anta,Greenhouse Effect,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+arya5691,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+sunjie7,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sunjie7,Greenhouse Effect,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Ryannnnnnn,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ryannnnnnn,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Ryannnnnnn,Flawed Flow,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Bnkaki,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Bnkaki,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Witalia,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Witalia,Greenhouse Effect,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+Shaykhutdinov-T-I,Magical Boxes,0,A,0,0,0,0,9,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Shaykhutdinov-T-I,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Berezin,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+dalex,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dalex,Greenhouse Effect,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+balakrishnan,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+balakrishnan,Magical Boxes,1,A,0,0,0,1,1,2,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+BillyBones,Magical Boxes,0,A,0,0,0,0,4,2,0,3,0,0,0,0,0,0,0,0,0,"greedy,math"
+SiNZiyi,Greenhouse Effect,0,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+SiNZiyi,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+SiNZiyi,Flawed Flow,1,C,0,0,0,1,0,1,0,3,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Slamur,Magical Boxes,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Slamur,Greenhouse Effect,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+zeulb,Magical Boxes,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zeulb,Greenhouse Effect,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+hamid_h,Magical Boxes,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Parabola,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Parabola,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+conioh,Magical Boxes,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+conioh,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+wil93,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+wind,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Rosetta,Greenhouse Effect,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+ahmad_mamdouh,Greenhouse Effect,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+ahmad_mamdouh,Magical Boxes,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+todo,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+todo,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+todo,Flawed Flow,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+StepToVictory,Magical Boxes,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+StepToVictory,Greenhouse Effect,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+tigvarts,Greenhouse Effect,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+tigvarts,Magical Boxes,1,A,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"greedy,math"
+darius,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Thrax,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Galkowsky,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Galkowsky,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+topproger,Magical Boxes,0,A,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+topproger,Greenhouse Effect,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+vineet.paliwal,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+iscsi,Flawed Flow,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+iscsi,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+LiJiancheng,Magical Boxes,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+LiJiancheng,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+LiJiancheng,Flawed Flow,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+turuthok,Magical Boxes,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+turuthok,Greenhouse Effect,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Vladl1313,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+filo,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+spalac24,Magical Boxes,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+spalac24,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+y346491470,Magical Boxes,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+baukaman,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+baukaman,Greenhouse Effect,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Darsein,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Darsein,Greenhouse Effect,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+mipt.vi002,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+PERNEKHAN,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+PERNEKHAN,Greenhouse Effect,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Ramsey,Magical Boxes,0,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ramsey,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+BigArcher,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+wanbo,Magical Boxes,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+wanbo,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+James,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+James,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+James,Flawed Flow,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+untitled.,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+_TMB_,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+_TMB_,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Andrekk,Magical Boxes,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mugurelionut,Magical Boxes,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mugurelionut,Greenhouse Effect,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+mugurelionut,Flawed Flow,1,C,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Troy1118,Greenhouse Effect,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Troy1118,Magical Boxes,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+IgorL,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+IgorL,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+gonewithsin,Magical Boxes,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+jefferson_,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+jefferson_,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Shkiper,Magical Boxes,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"greedy,math"
+Vladimir.Del,Greenhouse Effect,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+0222_,Magical Boxes,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pkqs90,Magical Boxes,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pkqs90,Flawed Flow,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Up1,Magical Boxes,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tuananh93,Magical Boxes,0,A,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"greedy,math"
+tuananh93,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+vruoso,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vruoso,Greenhouse Effect,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Pattara.S,Maximum Waterfall,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+Pattara.S,Magical Boxes,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vitux,Magical Boxes,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vitux,String Theory,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,""
+vitux,Maximum Waterfall,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp"
+vitux,Flawed Flow,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+romzes,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Krainov_Dmitry,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+trungda,Greenhouse Effect,0,B,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,dp
+Reza_H,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"greedy,math"
+Reza_H,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Reza_H,Flawed Flow,1,C,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Bekzhan.Kassenov,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sergileon,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sergileon,Greenhouse Effect,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+saobien,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+becauseofyou,Magical Boxes,0,A,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Arashking,Greenhouse Effect,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+Arashking,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+adamant,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sand-martin,Magical Boxes,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cup_of_tea,Greenhouse Effect,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,dp
+cup_of_tea,Magical Boxes,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+trillioner,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Begga_2,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Begga_2,Greenhouse Effect,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+AguL,Magical Boxes,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+AguL,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Eledven,Flawed Flow,0,C,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"constructive algorithms,flows,graphs"
+Eledven,Greenhouse Effect,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+alpc104,Magical Boxes,0,A,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+alpc104,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Crysis,Magical Boxes,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Shahriar_sust,Greenhouse Effect,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Shahriar_sust,Magical Boxes,1,A,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"greedy,math"
+kt-9,Magical Boxes,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kt-9,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Trytrytry,Magical Boxes,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yuyak,Magical Boxes,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yuyak,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+storm5906,Magical Boxes,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ali.mashreghi,Greenhouse Effect,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+ali.mashreghi,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kuskova,Magical Boxes,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+alberist,Magical Boxes,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+alberist,Greenhouse Effect,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Creed,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+.PEIN.,Greenhouse Effect,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+.PEIN.,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+albert96,Flawed Flow,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+albert96,Magical Boxes,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bayram,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+acherepanov,Flawed Flow,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,flows,graphs"
+acherepanov,Greenhouse Effect,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Omelyanenko,Magical Boxes,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Aries512,Magical Boxes,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Aries512,Greenhouse Effect,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+sh19910711,Magical Boxes,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gotowork,Magical Boxes,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gotowork,Greenhouse Effect,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Temirulan,Magical Boxes,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Temirulan,Greenhouse Effect,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+BelovP,Magical Boxes,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"

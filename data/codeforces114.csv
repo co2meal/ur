@@ -1,0 +1,2586 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+CyberKasumi,Cifera,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+CyberKasumi,PFAST Inc.,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+CyberKasumi,Double Happiness,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,number theory
+CyberKasumi,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+genro,Cifera,1,A,1,0,0,1,0,5,0,1,0,0,0,0,0,0,0,0,0,math
+genro,PFAST Inc.,1,B,0,0,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+genro,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+genro,Petr#,0,D,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+genro,Double Happiness,0,E,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,number theory
+Luzan,Cifera,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+Luzan,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Luzan,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Luzan,Petr#,0,D,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Luzan,Double Happiness,0,E,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,number theory
+dcp,Cifera,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+dcp,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+dcp,Grammar Lessons,1,C,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+dcp,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+asdqwe,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+asdqwe,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+bagnikita,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+bagnikita,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+bagnikita,Grammar Lessons,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+bagnikita,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+kemichar,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kemichar,PFAST Inc.,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+kemichar,Grammar Lessons,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+kemichar,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+fura,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fura,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+cup_of_tea,Cifera,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+cup_of_tea,PFAST Inc.,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+cup_of_tea,Grammar Lessons,0,C,0,0,0,1,0,11,0,0,0,0,0,0,0,0,0,0,0,implementation
+cup_of_tea,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+cup_of_tea,Double Happiness,0,E,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,number theory
+nerd,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+nerd,PFAST Inc.,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+gn13,Cifera,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+morojenoe,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+morojenoe,Double Happiness,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,number theory
+morojenoe,Grammar Lessons,0,C,0,0,0,2,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fedya,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Fedya,PFAST Inc.,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Fedya,Petr#,0,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Goshish,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,math
+Goshish,PFAST Inc.,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Goshish,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Goshish,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Electronick,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Electronick,Grammar Lessons,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+beauby,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+beauby,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+beauby,Grammar Lessons,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+beauby,Double Happiness,0,E,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,number theory
+---Grigor---,Cifera,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+---Grigor---,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+---Grigor---,Petr#,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+---Grigor---,Double Happiness,0,E,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,number theory
+rajatag12,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+rajatag12,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+rajatag12,Petr#,1,D,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+rajatag12,Double Happiness,0,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,number theory
+wil93,Cifera,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+wil93,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+wil93,Grammar Lessons,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+wil93,Petr#,0,D,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Proscriptus,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Proscriptus,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Proscriptus,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Proscriptus,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+klamathix,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+klamathix,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+klamathix,Petr#,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+klamathix,Double Happiness,0,E,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,number theory
+Shuai,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Shuai,PFAST Inc.,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Shuai,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shuai,Petr#,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Shuai,Double Happiness,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,number theory
+simoncao,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+simoncao,PFAST Inc.,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+simoncao,Petr#,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+simoncao,Double Happiness,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,number theory
+simoncao,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+PeaceDeath,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+PeaceDeath,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+PeaceDeath,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dziadek,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+dziadek,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+dziadek,Petr#,1,D,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+HwangScornedAsianTeams,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+HwangScornedAsianTeams,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+HwangScornedAsianTeams,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+HwangScornedAsianTeams,Double Happiness,0,E,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,number theory
+nitin.gangahar,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+nitin.gangahar,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+nitin.gangahar,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nitin.gangahar,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"data structures,hashing,string suffix structures,strings"
+Mikes,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Mikes,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Mikes,Grammar Lessons,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mikes,Petr#,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Mikes,Double Happiness,0,E,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,number theory
+hendri,Cifera,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+hendri,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+hendri,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hendri,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+toxahak,Cifera,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+toxahak,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+toxahak,Grammar Lessons,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+toxahak,Petr#,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+igor_kz,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+igor_kz,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+igor_kz,Petr#,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+igor_kz,Grammar Lessons,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ant.ermilov,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ant.ermilov,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ant.ermilov,Grammar Lessons,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+ant.ermilov,Petr#,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+pakh,Cifera,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+pakh,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+pakh,Grammar Lessons,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+pakh,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+pakh,Double Happiness,0,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,number theory
+scorpion,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+scorpion,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+scorpion,Grammar Lessons,1,C,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+scorpion,Double Happiness,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,number theory
+Saimon_Saret,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Saimon_Saret,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Saimon_Saret,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+kien_metalrock,Cifera,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+kien_metalrock,PFAST Inc.,1,B,0,0,0,0,2,8,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+kien_metalrock,Grammar Lessons,0,C,0,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+nathanajah,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+nathanajah,Grammar Lessons,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,implementation
+nathanajah,PFAST Inc.,1,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+vanchope,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vanchope,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+vanchope,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+vanchope,Petr#,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+strelok1918,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+strelok1918,PFAST Inc.,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+strelok1918,Grammar Lessons,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+sash6589,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sash6589,PFAST Inc.,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+sash6589,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+sash6589,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+deadpadre,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+deadpadre,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+deadpadre,Grammar Lessons,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Bidhan,Cifera,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,math
+Bidhan,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Bidhan,Petr#,1,D,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Bidhan,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+Programist,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Programist,Grammar Lessons,1,C,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Programist,Petr#,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"data structures,hashing,string suffix structures,strings"
+Programist,PFAST Inc.,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+sokokaleb,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sokokaleb,PFAST Inc.,1,B,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+sokokaleb,Grammar Lessons,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+sokokaleb,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+AleksBannikov,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+AleksBannikov,PFAST Inc.,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+AleksBannikov,Double Happiness,0,E,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,number theory
+FedyuninV,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+FedyuninV,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+FedyuninV,Grammar Lessons,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+FedyuninV,Petr#,1,D,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Spacejoker,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Spacejoker,PFAST Inc.,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Spacejoker,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Spacejoker,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vagnard,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+vagnard,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+vagnard,Grammar Lessons,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+vagnard,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Diabolic,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Diabolic,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+pratikmoona,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pratikmoona,PFAST Inc.,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+pratikmoona,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pratikmoona,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+pratikmoona,Double Happiness,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,number theory
+rexim,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+rexim,PFAST Inc.,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+rexim,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+OutSide,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+OutSide,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+OutSide,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+OutSide,Petr#,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+kucingimbalance,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kucingimbalance,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+kucingimbalance,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kucingimbalance,Petr#,0,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Aman,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Aman,Grammar Lessons,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aman,PFAST Inc.,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Aman,Petr#,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+korshunovanton,Cifera,1,A,1,0,0,2,0,4,0,2,0,0,0,0,0,0,0,0,0,math
+korshunovanton,PFAST Inc.,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+rio,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rio,PFAST Inc.,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+rio,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rio,Petr#,1,D,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+zerotrac,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zerotrac,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+zerotrac,Grammar Lessons,1,C,1,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,implementation
+s.max,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+s.max,PFAST Inc.,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+s.max,Double Happiness,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,number theory
+s.max,Petr#,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+s.max,Grammar Lessons,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tranvick,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Tranvick,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Tranvick,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tus-team,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+tus-team,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+tus-team,Grammar Lessons,1,C,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+tus-team,Petr#,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+lenny,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+lenny,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+lenny,Grammar Lessons,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+Roschin,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Roschin,PFAST Inc.,1,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Roschin,Grammar Lessons,0,C,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Roschin,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+JmJ,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+JmJ,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+JmJ,Petr#,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+JmJ,Grammar Lessons,0,C,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wxcc,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+wxcc,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+wxcc,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wxcc,Double Happiness,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,number theory
+Kharybin,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Kharybin,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Kharybin,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kharybin,Petr#,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Istari,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Istari,Grammar Lessons,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+VArt,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+VArt,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+VArt,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dani93.f,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dani93.f,PFAST Inc.,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+dani93.f,Grammar Lessons,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+dani93.f,Petr#,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+11fingers,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+11fingers,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+11fingers,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+4T-Shirt,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+4T-Shirt,PFAST Inc.,1,B,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Sammax,Cifera,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+Sammax,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Sammax,Grammar Lessons,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+max777alex,Cifera,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+max777alex,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+max777alex,Petr#,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+max777alex,Grammar Lessons,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+UMysin,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+UMysin,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Belonogov,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Belonogov,Petr#,0,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Belonogov,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+lamphanviet,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+lamphanviet,PFAST Inc.,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+lamphanviet,Grammar Lessons,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+lamphanviet,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+amirrr,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+amirrr,Grammar Lessons,0,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+amirrr,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+stqn,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+stqn,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+stqn,Grammar Lessons,1,C,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+stqn,Petr#,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+beats_of_music,Cifera,1,A,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,math
+beats_of_music,PFAST Inc.,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+beats_of_music,Grammar Lessons,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+abody97,Cifera,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,math
+abody97,PFAST Inc.,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+abody97,Grammar Lessons,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+abody97,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Flyrise,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Flyrise,PFAST Inc.,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Flyrise,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+EriKKo,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+EriKKo,PFAST Inc.,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+EriKKo,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Darko,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Darko,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Darko,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Darko,Double Happiness,1,E,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,number theory
+Darko,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+notEphim,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+notEphim,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+anuar_721,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+anuar_721,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+anuar_721,Grammar Lessons,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Denor,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Denor,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Denor,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ainta,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ainta,PFAST Inc.,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ainta,Double Happiness,1,E,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,number theory
+insane,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+insane,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+insane,Grammar Lessons,1,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+insane,Petr#,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Verdona0,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Verdona0,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Verdona0,Grammar Lessons,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Verdona0,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+zhuraulevich,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+nealzane,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+nealzane,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+nealzane,Petr#,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+nealzane,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nealzane,Double Happiness,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,number theory
+BenderRodriges,Cifera,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+golyj_na_stole,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+golyj_na_stole,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+golyj_na_stole,Grammar Lessons,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+golyj_na_stole,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+golyj_na_stole,Double Happiness,1,E,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,number theory
+dmitry.s,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+dmitry.s,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+dmitry.s,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dmitry.s,Petr#,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+dmitry.s,Double Happiness,0,E,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,number theory
+Yarko,Cifera,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+Yarko,PFAST Inc.,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Yarko,Petr#,0,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Ayisyen,Cifera,1,A,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,math
+Ayisyen,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ayisyen,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+andresilva91,Cifera,0,A,0,0,0,0,0,2,0,2,0,0,0,0,0,1,0,0,0,math
+andresilva91,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+andresilva91,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+andresilva91,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+csimstu,Cifera,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+csimstu,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+csimstu,Grammar Lessons,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+csimstu,Petr#,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+jdillet,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+jdillet,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+jdillet,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+eireksten,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+eireksten,PFAST Inc.,0,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+eireksten,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sinner,Cifera,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+Sinner,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sinner,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+RAINBOW123,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+RAINBOW123,PFAST Inc.,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+RAINBOW123,Petr#,0,D,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+konstantin.lex,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+konstantin.lex,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+konstantin.lex,Grammar Lessons,0,C,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+babak,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+babak,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+babak,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+babak,Double Happiness,0,E,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,number theory
+Tino,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Tino,PFAST Inc.,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Tino,Grammar Lessons,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Wahba,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Wahba,PFAST Inc.,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Wahba,Grammar Lessons,0,C,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+kirakira,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kirakira,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+kirakira,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Obaida,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Obaida,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Obaida,Grammar Lessons,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Obaida,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+igor.silin,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+igor.silin,PFAST Inc.,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+igor.silin,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gjuro,Cifera,1,A,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,math
+gjuro,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Deryugin,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Deryugin,PFAST Inc.,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+sniper1fm,Cifera,1,A,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,math
+sniper1fm,Grammar Lessons,1,C,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+lazzrov,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lazzrov,PFAST Inc.,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+lazzrov,Grammar Lessons,0,C,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+lazzrov,Petr#,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+ondrah,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ondrah,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ondrah,Grammar Lessons,1,C,0,0,0,2,0,4,0,0,0,0,0,0,0,1,0,0,0,implementation
+ondrah,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Te4NIK,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Te4NIK,Grammar Lessons,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Anton92nd,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Anton92nd,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Anton92nd,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Anton92nd,Double Happiness,0,E,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,number theory
+Anton92nd,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+bor.is,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+bor.is,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+bor.is,Grammar Lessons,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dias,Cifera,0,A,1,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,math
+Dias,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Dias,Grammar Lessons,1,C,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+edwinlunando,Cifera,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+vmgurov,Cifera,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,math
+vmgurov,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+vmgurov,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+fancy,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fancy,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+fancy,Grammar Lessons,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+david_chr1,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+david_chr1,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+david_chr1,Petr#,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+david_chr1,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+osk_,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+osk_,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+osk_,Grammar Lessons,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+osk_,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+NastyaPNTU,Cifera,1,A,1,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,math
+abhiranjan,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+abhiranjan,Grammar Lessons,1,C,0,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+Crist,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Crist,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+koder_dima,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+koder_dima,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+koder_dima,Grammar Lessons,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+koder_dima,Petr#,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+Hachiikung,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Hachiikung,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Hachiikung,Grammar Lessons,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+grandvic,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+grandvic,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+grandvic,PFAST Inc.,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+grandvic,Double Happiness,0,E,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,number theory
+tiirz,Cifera,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+tiirz,PFAST Inc.,1,B,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+unrated,Cifera,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+unrated,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+unrated,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hossein_Hima,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Hossein_Hima,PFAST Inc.,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Hossein_Hima,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Hossein_Hima,Double Happiness,0,E,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,number theory
+Hossein_Hima,Grammar Lessons,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+BIV,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+BIV,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+BIV,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xeronix,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+MarwanPP,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+MarwanPP,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+MarwanPP,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Igorsheiko,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+BogdanBugaev,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+BogdanBugaev,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+BogdanBugaev,Petr#,0,D,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+BogdanBugaev,Grammar Lessons,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+muntasir,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+muntasir,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+muntasir,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+muntasir,Petr#,1,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+knowl,Cifera,1,A,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,math
+knowl,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+knowl,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+tatuyan_edson,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tatuyan_edson,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+tatuyan_edson,Grammar Lessons,0,C,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,implementation
+tatuyan_edson,Double Happiness,0,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,number theory
+c_loud26,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+c_loud26,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+c_loud26,Grammar Lessons,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+makanbeling,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+makanbeling,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tjg,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tjg,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+tjg,Petr#,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+tkariz,Cifera,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+tkariz,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+tkariz,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wisterik,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+wisterik,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+wisterik,Grammar Lessons,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+mohamed.gaber,Cifera,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+mohamed.gaber,PFAST Inc.,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+mohamed.gaber,Grammar Lessons,1,C,1,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+mohamed.gaber,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+pkacprzak,Cifera,0,A,1,0,0,1,0,5,0,2,0,0,0,0,0,0,0,0,0,math
+pkacprzak,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+pkacprzak,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Vladimir.Del,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Vladimir.Del,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Vladimir.Del,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Vladimir.Del,Petr#,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+AnnKats93,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AnnKats93,PFAST Inc.,0,B,0,0,0,1,0,5,0,0,0,0,0,0,0,0,1,0,0,"bitmasks,brute force"
+AnnKats93,Grammar Lessons,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+potpath,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+potpath,PFAST Inc.,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+potpath,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+potpath,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+BrightDays,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+BrightDays,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Fata1ist,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Fata1ist,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Fata1ist,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fata1ist,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+marxi,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+marxi,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+marxi,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+marxi,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+We.Pepsi.Infi,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+We.Pepsi.Infi,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+story_teller,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+story_teller,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+story_teller,Grammar Lessons,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+story_teller,Petr#,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+story_teller,Double Happiness,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,number theory
+Anastasko,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Anastasko,PFAST Inc.,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Anastasko,Double Happiness,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,number theory
+Gangrad,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Gangrad,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+BlackAlgo,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+devishot,Cifera,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+devishot,PFAST Inc.,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+__tutankhamun__,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+__tutankhamun__,PFAST Inc.,1,B,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+__tutankhamun__,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+__tutankhamun__,Double Happiness,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,number theory
+johnLate,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+johnLate,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+johnLate,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+johnLate,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+johnLate,Double Happiness,0,E,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,number theory
+ivan100sic,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ivan100sic,PFAST Inc.,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ivan100sic,Grammar Lessons,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Katran,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Katran,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Katran,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Katran,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+prasanna_,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+prasanna_,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Surogatov_S,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Surogatov_S,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Surogatov_S,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+Surogatov_S,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+ufoproger,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mafia,Cifera,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+mafia,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+mafia,Grammar Lessons,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+whd,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+whd,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+whd,Grammar Lessons,1,C,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Vault_34,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Vault_34,Petr#,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+BandBandRock,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+BandBandRock,PFAST Inc.,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+BandBandRock,Grammar Lessons,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+cfjhzcb,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cfjhzcb,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+cfjhzcb,Grammar Lessons,1,C,0,0,0,2,0,8,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hedayet,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Hedayet,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"bitmasks,brute force"
+Hedayet,Grammar Lessons,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+nextgen,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+nextgen,Grammar Lessons,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+bigbrain,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+bigbrain,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+bigbrain,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hogeover30,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hogeover30,PFAST Inc.,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+hogeover30,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vishwakarma,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vishwakarma,Petr#,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+vishwakarma,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+vishwakarma,Grammar Lessons,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+vishwakarma,Double Happiness,0,E,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,number theory
+CtrlAlt,Cifera,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+CtrlAlt,PFAST Inc.,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+CtrlAlt,Grammar Lessons,0,C,0,0,0,0,1,3,0,1,0,0,0,0,0,0,0,0,0,implementation
+Beka,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Beka,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Beka,Grammar Lessons,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+omse1998,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+omse1998,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+omse1998,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+hywei,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+hywei,PFAST Inc.,0,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+hywei,Petr#,0,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+hywei,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+romanova,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+romanova,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+romanova,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+Feu,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Jesus,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Jesus,PFAST Inc.,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Jesus,Grammar Lessons,0,C,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jesus,Petr#,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+median0816,Cifera,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+median0816,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+median0816,Grammar Lessons,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+_arjun,Cifera,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+_arjun,Grammar Lessons,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Permykov,Cifera,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+Permykov,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Ralf,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Ralf,PFAST Inc.,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Ralf,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sbcd90,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sbcd90,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+sbcd90,Grammar Lessons,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+v1m,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+camapaojiekca,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+camapaojiekca,Grammar Lessons,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xwings,Cifera,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xwings,PFAST Inc.,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+xwings,Grammar Lessons,0,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+rifqifatih,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rifqifatih,PFAST Inc.,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+rifqifatih,Grammar Lessons,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rex,Cifera,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+Rex,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Rex,Grammar Lessons,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+XiaoDan,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+XiaoDan,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+XiaoDan,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+shef_2318,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+shef_2318,Double Happiness,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,number theory
+shef_2318,PFAST Inc.,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+DenStep,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+DenStep,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+Prizrack13,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Prizrack13,PFAST Inc.,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Prizrack13,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dante,Cifera,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+Dante,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+pratvick,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pratvick,Grammar Lessons,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Saken,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Saken,PFAST Inc.,0,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Saken,Grammar Lessons,1,C,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+intensecoder,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+intensecoder,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+intensecoder,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+kzr.buet08,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kzr.buet08,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+kzr.buet08,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+kzr.buet08,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Fbulatov,Cifera,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,1,0,0,0,math
+Fbulatov,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Fbulatov,Grammar Lessons,0,C,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nikitosh,Cifera,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+Nikitosh,Double Happiness,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,number theory
+suminos,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+suminos,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+suminos,Grammar Lessons,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+suminos,Petr#,1,D,0,0,0,1,4,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+hyksm,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hyksm,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+hyksm,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hyksm,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+PashaAC,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+PashaAC,Grammar Lessons,1,C,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,implementation
+budabudimir,Cifera,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+budabudimir,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+budabudimir,Grammar Lessons,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+budabudimir,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+00000,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+00000,PFAST Inc.,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+qiuweiwen,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+qiuweiwen,PFAST Inc.,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+qiuweiwen,Double Happiness,0,E,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0,0,number theory
+Fedepousa,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Fedepousa,PFAST Inc.,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Fedepousa,Grammar Lessons,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fedepousa,Double Happiness,1,E,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,number theory
+qu317058542,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+qu317058542,PFAST Inc.,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+qu317058542,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fighting,Cifera,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+NikitaPogodin,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+NikitaPogodin,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+McLaren,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+McLaren,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+McLaren,Grammar Lessons,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+Merkurev,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Merkurev,PFAST Inc.,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Merkurev,Grammar Lessons,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shafaet,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Shafaet,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Shafaet,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shafaet,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+aa2985759,Cifera,0,A,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,math
+aa2985759,PFAST Inc.,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+NVAL,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+NVAL,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+NVAL,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+slalex,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+slalex,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+slalex,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+slalex,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+chenpengyu,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+chenpengyu,PFAST Inc.,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+chenpengyu,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+chenpengyu,Petr#,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+goalkick,Cifera,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+goalkick,Double Happiness,1,E,0,0,0,0,0,0,0,4,2,0,0,0,0,0,0,0,0,number theory
+goalkick,PFAST Inc.,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+tyamgin,Cifera,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+tyamgin,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+tyamgin,Grammar Lessons,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kipok,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Kipok,Grammar Lessons,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+DimaPhil,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+DimaPhil,PFAST Inc.,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+DimaPhil,Grammar Lessons,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+DimaPhil,Petr#,0,D,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Ahmed.Ibrahem,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Ahmed.Ibrahem,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Ahmed.Ibrahem,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ahmed.Ibrahem,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+AlexanderBolshakov,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AlexanderBolshakov,PFAST Inc.,1,B,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+masibonge,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+masibonge,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Alex_Lyulkov,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Alex_Lyulkov,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Alex_Lyulkov,Double Happiness,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,number theory
+camper,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+camper,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+camper,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+izban,Cifera,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+izban,PFAST Inc.,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+izban,Grammar Lessons,1,C,0,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+Petruchcho,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Petruchcho,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+ishandutta2007,Cifera,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ishandutta2007,PFAST Inc.,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ishandutta2007,Grammar Lessons,0,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+OsipovMatvey,Cifera,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+OsipovMatvey,Double Happiness,1,E,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,number theory
+OsipovMatvey,PFAST Inc.,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+spongebob,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+spongebob,PFAST Inc.,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+spongebob,Grammar Lessons,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+taring,Cifera,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,math
+taring,PFAST Inc.,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Semenov_Petr,Cifera,0,A,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,math
+Semenov_Petr,Grammar Lessons,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Semenov_Petr,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+sina_uice,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sina_uice,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+sina_uice,Grammar Lessons,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+sina_uice,Petr#,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+pkrzemin,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pkrzemin,PFAST Inc.,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+pkrzemin,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+pkrzemin,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+_Vadim_,Cifera,1,A,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,math
+_Vadim_,Grammar Lessons,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+_Vadim_,PFAST Inc.,0,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+lxn,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lxn,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+lxn,Petr#,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+lxn,Grammar Lessons,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Yousef_Salama,Cifera,0,A,1,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,math
+Yousef_Salama,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Yousef_Salama,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Yousef_Salama,Petr#,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+kardestroi,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kardestroi,PFAST Inc.,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+kardestroi,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+kardestroi,Double Happiness,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,number theory
+aaa_bbb_ccc,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+aaa_bbb_ccc,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+aaa_bbb_ccc,Grammar Lessons,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Suvorov,Cifera,1,A,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,math
+Suvorov,PFAST Inc.,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Suvorov,Grammar Lessons,0,C,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Andrey_Kalikin,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+svm11,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+svm11,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+svm11,Grammar Lessons,1,C,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+svm11,Petr#,1,D,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+KuchumovIlya,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+KuchumovIlya,PFAST Inc.,1,B,1,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+KuchumovIlya,Petr#,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+lth,Cifera,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lth,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+PeterGriffin,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+PeterGriffin,PFAST Inc.,1,B,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+PeterGriffin,Double Happiness,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,number theory
+JoaoM10,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+JoaoM10,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+JoaoM10,Petr#,0,D,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+kait,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kait,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+kait,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kait,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+djrkc,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+djrkc,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+djrkc,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+djrkc,Petr#,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+cyon,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cyon,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+cyon,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cyon,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+cyon,Double Happiness,0,E,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,number theory
+vladii.ionescu,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vladii.ionescu,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+vladii.ionescu,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vladii.ionescu,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+vladii.ionescu,Double Happiness,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,number theory
+Sklyack,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Sklyack,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Sklyack,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+Sklyack,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+Epiq,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Epiq,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Epiq,Grammar Lessons,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Epiq,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Epiq,Double Happiness,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,number theory
+android,Cifera,1,A,1,0,0,1,0,9,0,1,0,0,0,0,0,0,0,0,0,math
+android,Grammar Lessons,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+android,PFAST Inc.,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Nodar,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Nodar,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Nodar,Grammar Lessons,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nodar,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+edya,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+edya,Grammar Lessons,1,C,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+beginner1010,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+beginner1010,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+beginner1010,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+beginner1010,Petr#,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+arhael,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+arhael,Petr#,1,D,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+arhael,Double Happiness,0,E,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,number theory
+15211243642,Cifera,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+15211243642,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+15211243642,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Lymphz,Cifera,0,A,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,math
+Lymphz,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Lymphz,Grammar Lessons,0,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ks_1609,Cifera,0,A,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,math
+ks_1609,Grammar Lessons,0,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ks_1609,Double Happiness,0,E,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,number theory
+chizon,Cifera,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,math
+MaiorPe,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+MaiorPe,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+MaiorPe,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hangibhom,Cifera,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+Hangibhom,PFAST Inc.,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Arcady27,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Arcady27,Grammar Lessons,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+trungda,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+trungda,PFAST Inc.,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+trungda,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+trungda,Double Happiness,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,number theory
+rdik,Cifera,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+rdik,PFAST Inc.,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+trunghieu11,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+trunghieu11,Grammar Lessons,1,C,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+dannsk,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+dannsk,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+phidang,Cifera,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+phidang,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+phidang,Grammar Lessons,1,C,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,implementation
+Silent_coder,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Silent_coder,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+gskhirtladze,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+gskhirtladze,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+flash36,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+flash36,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+flash36,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xenophobia,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xenophobia,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+xenophobia,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xenophobia,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+xenophobia,Double Happiness,0,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,number theory
+Andrew146,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Andrew146,PFAST Inc.,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+pufff,Cifera,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+EG0R,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+MazeGame,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+MazeGame,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+MazeGame,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+jinlove,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+jinlove,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+jinlove,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+jinlove,Petr#,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+dragonfire,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dragonfire,PFAST Inc.,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+dragonfire,Grammar Lessons,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+dragonfire,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Limiter,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Limiter,PFAST Inc.,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Limiter,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Limiter,Petr#,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+alex270295,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+alex270295,PFAST Inc.,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Corea,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Corea,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Corea,Grammar Lessons,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+prpr,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+prpr,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+prpr,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+prpr,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Ziklon,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Ziklon,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Ziklon,Grammar Lessons,1,C,1,0,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,implementation
+primorial,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+primorial,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+primorial,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+TMandzu,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+TMandzu,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+TMandzu,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+lisang,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lisang,PFAST Inc.,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+lisang,Grammar Lessons,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+lisang,Double Happiness,1,E,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,number theory
+Leikari,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Leikari,Grammar Lessons,1,C,1,0,0,1,1,3,0,1,0,0,0,0,0,0,0,0,0,implementation
+Leikari,Petr#,1,D,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,"data structures,hashing,string suffix structures,strings"
+YLiyxr,Cifera,1,A,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,math
+timxad,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+timxad,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+timxad,Petr#,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+timxad,Double Happiness,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,number theory
+johar,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+johar,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+johar,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+johar,Petr#,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+AND1989,Cifera,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+AND1989,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+AND1989,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tatsuhiro.t,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tatsuhiro.t,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+tatsuhiro.t,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+tatsuhiro.t,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+xDEMONx,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xDEMONx,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+xDEMONx,Grammar Lessons,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+buaabella,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+buaabella,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+buaabella,Double Happiness,1,E,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,number theory
+ush,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ush,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ush,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ush,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+delta,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+delta,PFAST Inc.,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+delta,Grammar Lessons,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+delta,Petr#,1,D,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+fR0DDY,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fR0DDY,Double Happiness,1,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,number theory
+fendy_k1,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fendy_k1,PFAST Inc.,1,B,0,0,0,1,1,5,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+fendy_k1,Grammar Lessons,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+natsugiri,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+natsugiri,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+natsugiri,Grammar Lessons,1,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+natsugiri,Petr#,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+Yermak0v,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Yermak0v,Petr#,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+Yermak0v,Double Happiness,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,number theory
+mng,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mng,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+rishabhaga,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rishabhaga,PFAST Inc.,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+M0sTik,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+M0sTik,PFAST Inc.,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+M0sTik,Grammar Lessons,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlfaCoding,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AlfaCoding,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+AlfaCoding,Grammar Lessons,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlfaCoding,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+S2L,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+grisaf,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+grisaf,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+grisaf,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shuaib,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Shuaib,PFAST Inc.,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Shuaib,Grammar Lessons,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+hanfei19910905,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hanfei19910905,PFAST Inc.,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+dubov94,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+dubov94,PFAST Inc.,0,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+dubov94,Grammar Lessons,1,C,1,0,0,2,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+askar.akshabayev,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+askar.akshabayev,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+askar.akshabayev,Grammar Lessons,1,C,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+askar.akshabayev,Petr#,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"data structures,hashing,string suffix structures,strings"
+mirsaid_mir,Cifera,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+mirsaid_mir,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mirsaid_mir,PFAST Inc.,0,B,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,"bitmasks,brute force"
+Kiberbit,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Kiberbit,PFAST Inc.,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+beyondxgb,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+beyondxgb,PFAST Inc.,1,B,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+beyondxgb,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+dimatomp,Cifera,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dimatomp,Grammar Lessons,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+dimatomp,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+nanikaka,Cifera,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+nanikaka,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+nanikaka,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nanikaka,Petr#,0,D,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+ccarter,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ccarter,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ccarter,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ccarter,Petr#,0,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+MercedesMwit20,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Manish-Kumar,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Manish-Kumar,PFAST Inc.,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Manish-Kumar,Petr#,0,D,0,0,0,1,0,4,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+SerCe,Cifera,0,A,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,math
+SerCe,PFAST Inc.,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+xth1,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xth1,PFAST Inc.,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+xth1,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+xth1,Double Happiness,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,number theory
+xth1,Petr#,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+dai1741,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+dai1741,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dai1741,Petr#,0,D,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+dai1741,Double Happiness,0,E,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,number theory
+sandygupta,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sandygupta,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+sandygupta,Grammar Lessons,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+iva,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+iva,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+iva,Grammar Lessons,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+sleepyhunt,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sleepyhunt,PFAST Inc.,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+sleepyhunt,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dvorak_,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dvorak_,Grammar Lessons,1,C,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+dvorak_,PFAST Inc.,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+kabir.sohel,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kabir.sohel,PFAST Inc.,1,B,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+kabir.sohel,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Trytrytry,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Trytrytry,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Trytrytry,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Trytrytry,Petr#,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Aries512,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Aries512,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Aries512,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aries512,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+tehnar,Cifera,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+tehnar,Grammar Lessons,1,C,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,implementation
+tehnar,Double Happiness,0,E,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,number theory
+Anton_Rodick,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+duttasourav000,Cifera,0,A,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,math
+overpower,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+nota,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+nota,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+nota,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+nota,Grammar Lessons,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+htrinh,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+htrinh,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+htrinh,Grammar Lessons,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+htrinh,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+nakulmehan19,Cifera,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+nakulmehan19,PFAST Inc.,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+HulkHoggan,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+HulkHoggan,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+HulkHoggan,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Farzad,Cifera,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+Farzad,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Tahlil,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Tahlil,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Tahlil,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tahlil,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Petrushenko,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Petrushenko,PFAST Inc.,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Petrushenko,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+1guangnian,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+1guangnian,PFAST Inc.,0,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+1guangnian,Grammar Lessons,1,C,1,0,0,0,1,9,0,0,0,0,0,0,0,0,0,0,0,implementation
+1guangnian,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+meshochek,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+meshochek,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+meshochek,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+meshochek,Double Happiness,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,number theory
+leafpicker,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+leafpicker,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+leafpicker,Grammar Lessons,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+ziki,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ziki,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ziki,Grammar Lessons,1,C,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xoldan,Cifera,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+No.Wizard,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+No.Wizard,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+No.Wizard,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+No.Wizard,Double Happiness,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,number theory
+No.Wizard,Petr#,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+tsuchida.mika,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tsuchida.mika,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+DV_AUTHOR,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+DV_AUTHOR,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+DV_AUTHOR,Grammar Lessons,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+zlfengyi1,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zlfengyi1,PFAST Inc.,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+zlfengyi1,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dragon007,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dragon007,PFAST Inc.,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+bitekas,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+bitekas,PFAST Inc.,1,B,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+bitekas,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+bitekas,Petr#,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+bitekas,Double Happiness,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,number theory
+mrunique.01,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mrunique.01,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+mrunique.01,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+tjmts,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tjmts,PFAST Inc.,0,B,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+tjmts,Grammar Lessons,1,C,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+lailalm,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lailalm,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lailalm,PFAST Inc.,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+lailalm,Petr#,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+ycg663,Cifera,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,math
+ycg663,Petr#,0,D,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+lastseed,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lastseed,PFAST Inc.,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+lintao,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+lintao,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+lintao,Grammar Lessons,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+wujianan2007,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+wujianan2007,PFAST Inc.,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+wujianan2007,Grammar Lessons,0,C,0,0,0,0,0,8,0,0,0,0,0,0,0,1,0,0,0,implementation
+InvincibleUZ,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+InvincibleUZ,Grammar Lessons,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+mohammad.mahmoodi,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+mohammad.mahmoodi,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+mohammad.mahmoodi,Petr#,0,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+mohammad.mahmoodi,Double Happiness,0,E,0,0,0,0,1,0,0,4,1,0,0,0,0,0,0,0,0,number theory
+Omelyanenko,Cifera,1,A,1,0,0,2,0,2,0,1,0,0,0,0,0,0,0,0,0,math
+asif_iut,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+asif_iut,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+asif_iut,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+asif_iut,Petr#,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+kenliu,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kenliu,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+kenliu,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+djnoly,Cifera,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,math
+LesyaPhoenix,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+daniel.anghel,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+daniel.anghel,Double Happiness,1,E,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,number theory
+daniel.anghel,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+iTed,Cifera,0,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+iTed,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+iTed,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+iTed,Petr#,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+keyzhang,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+keyzhang,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+keyzhang,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+keyzhang,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+winterflame,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+winterflame,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+winterflame,Grammar Lessons,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+mengcow,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mengcow,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+mengcow,Petr#,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Amelius,Cifera,1,A,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Amelius,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+GrinCh,Cifera,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,math
+GrinCh,PFAST Inc.,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+adityasinghhh,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+adityasinghhh,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+adityasinghhh,Grammar Lessons,1,C,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+wiz.elnn,Cifera,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+Jens,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Jens,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Jens,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jens,Petr#,1,D,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+akashs.cse,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+akashs.cse,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+akashs.cse,Grammar Lessons,0,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+popoffka,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+popoffka,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+popoffka,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+popoffka,Petr#,0,D,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+rvdrko,Cifera,1,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+rvdrko,Grammar Lessons,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,2,0,0,implementation
+mystery_boy,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mystery_boy,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+mystery_boy,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+mystery_boy,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Taygrim,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Taygrim,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+MrPapaya,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+leolin,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+leolin,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+jg_1992,Cifera,0,A,0,0,0,0,0,1,0,2,0,1,0,0,0,0,0,0,0,math
+m.radwan,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+m.radwan,PFAST Inc.,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+m.radwan,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+ankit_shukla,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+ankit_shukla,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+ankit_shukla,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+ankit_shukla,PFAST Inc.,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+sean128309,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Eris,Cifera,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Eris,PFAST Inc.,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Eris,Grammar Lessons,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+kenjiSamurai,Cifera,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+kenjiSamurai,PFAST Inc.,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Sleeping,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Sleeping,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Sleeping,Petr#,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+luzihao,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+luzihao,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+luzihao,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sashaal,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,math
+sashaal,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+sashaal,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sashaal,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+sashaal,Double Happiness,0,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,number theory
+shakil,Cifera,1,A,1,0,0,0,0,2,0,2,0,0,0,0,0,0,1,0,0,math
+shakil,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+shakil,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+bsg,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+bsg,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+bsg,Grammar Lessons,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+bsg,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+duongnd,Cifera,0,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,math
+duongnd,PFAST Inc.,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+piyush006,Cifera,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+piyush006,PFAST Inc.,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+peterae86,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+peterae86,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+peterae86,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shibly,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+shibly,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+shibly,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+PR0CESS0R,Cifera,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+PR0CESS0R,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+kelvinlau,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kelvinlau,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+kelvinlau,Petr#,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,hashing,string suffix structures,strings"
+kelvinlau,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vinicius,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vinicius,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+vinicius,Petr#,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+ACKOKO,Cifera,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+ACKOKO,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"data structures,hashing,string suffix structures,strings"
+ACKOKO,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nykal212,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+nykal212,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+nykal212,Double Happiness,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,number theory
+tohuuquan,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tohuuquan,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+tohuuquan,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tohuuquan,Petr#,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+Dunaril,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Dunaril,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Dunaril,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dunaril,Petr#,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+saga1215,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+mage.goo,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mage.goo,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mage.goo,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+mage.goo,Petr#,0,D,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+me_vikash7,Cifera,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+me_vikash7,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+WAR10CK,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+WAR10CK,PFAST Inc.,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Stolyarov,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Stolyarov,Grammar Lessons,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+_LT_zyc,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+_LT_zyc,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+_LT_zyc,Grammar Lessons,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+shinian,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+shinian,PFAST Inc.,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+shinian,Grammar Lessons,1,C,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gingkgo,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+gingkgo,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+gingkgo,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gingkgo,Petr#,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+TarifEzaz,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+TarifEzaz,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+TarifEzaz,Grammar Lessons,1,C,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+kimTY,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ruban,Cifera,0,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,math
+ruban,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Amr_Mesbah,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Amr_Mesbah,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Amr_Mesbah,Grammar Lessons,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Amr_Mesbah,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+AntonyBarry,Cifera,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+AntonyBarry,PFAST Inc.,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+aumy,Cifera,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+aumy,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+_X_y_z_,Cifera,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+kenrick95,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+kenrick95,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+M03G11,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+M03G11,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+yongjunlee,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+nisha2009331024,Cifera,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,math
+ts10,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ts10,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ts10,Grammar Lessons,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+ts10,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+goodhope,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+goodhope,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+goodhope,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+BIT,Cifera,1,A,1,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,math
+dadongking,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+eterxroc,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+eterxroc,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+eterxroc,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+HorgH,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+i_love_daniel,Cifera,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+i_love_daniel,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+i_love_daniel,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+jianglinjie,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+jianglinjie,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+jianglinjie,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jianglinjie,Petr#,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+kulych,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+mrkz1991,Cifera,1,A,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,math
+mrkz1991,PFAST Inc.,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+espy,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+espy,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fatedayt,Cifera,0,A,0,0,0,0,0,5,0,2,0,0,0,0,0,0,0,0,0,math
+tasyrkin,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+tasyrkin,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Toshik,Cifera,0,A,0,0,0,0,1,0,0,1,0,0,0,0,0,2,0,0,0,math
+Toshik,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Toshik,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Toshik,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+davidmg,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+davidmg,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+davidmg,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+marque,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+bsrkaditya,Cifera,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+bsrkaditya,Grammar Lessons,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+blitzgren,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+blitzgren,PFAST Inc.,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+sxpl,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sxpl,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+sxpl,Grammar Lessons,1,C,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,implementation
+Esmhmip0603,Cifera,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+Esmhmip0603,PFAST Inc.,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Esmhmip0603,Grammar Lessons,1,C,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+kidlet,Cifera,0,A,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,math
+kidlet,PFAST Inc.,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+agrigoroi,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+monkeybrain,Cifera,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,math
+LinkinFire,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+LinkinFire,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+LinkinFire,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+fremn,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+fremn,PFAST Inc.,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+accoder,Cifera,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+accoder,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+accoder,Grammar Lessons,1,C,0,0,0,1,0,10,0,0,0,0,0,0,0,0,0,0,0,implementation
+accoder,Petr#,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+Vitonka,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Vitonka,PFAST Inc.,0,B,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Vitonka,Grammar Lessons,0,C,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rofi,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rofi,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+rofi,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+rofi,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+NiceDay,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+NiceDay,PFAST Inc.,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+dark.wizard,Cifera,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+dark.wizard,Grammar Lessons,1,C,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+kioa,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kioa,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+kioa,Grammar Lessons,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+mohamedkaram,Cifera,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+mohamedkaram,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+mohamedkaram,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+magdi,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+magdi,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+firstL,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+firstL,PFAST Inc.,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+zroom,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zroom,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+zroom,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ajeet2009057,Cifera,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+ajeet2009057,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+quangthien.cse10,Cifera,0,A,0,0,0,3,0,6,0,1,0,0,0,0,0,0,0,0,0,math
+quangthien.cse10,PFAST Inc.,0,B,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+fldbk,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fldbk,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Aslan.m,Cifera,1,A,1,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,math
+Aslan.m,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+mjbeat,Cifera,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+mjbeat,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+mjbeat,Grammar Lessons,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+aleksei,Cifera,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+hallodogy,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hallodogy,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+hallodogy,Petr#,0,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+69-64-79,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+69-64-79,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+69-64-79,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fcjy888,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+fcjy888,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+fcjy888,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+fcjy888,Grammar Lessons,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+NewGYM,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+NewGYM,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+prerak92,Cifera,1,A,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,math
+MOZGOLOM,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Inspired,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Inspired,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shurick,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+shurick,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+shurick,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Brambar,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Brambar,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Arloesi,Cifera,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,math
+userlond,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+userlond,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+emachaidze,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+OmarEl-Mohandes,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+OmarEl-Mohandes,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+OmarEl-Mohandes,Grammar Lessons,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,implementation
+devilofaboy,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+devilofaboy,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+devilofaboy,Grammar Lessons,1,C,0,0,0,0,2,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+sakina,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sakina,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+sakina,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"bitmasks,brute force"
+sengab,Cifera,0,A,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,math
+sengab,PFAST Inc.,0,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+sengab,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+wclee2265,Cifera,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+wclee2265,Petr#,0,D,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+wclee2265,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+wclee2265,Grammar Lessons,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lex4051,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+lex4051,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+lex4051,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+lex4051,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Roma-PKTL,Cifera,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+kathyrine,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kathyrine,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+kathyrine,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Long-shot,Cifera,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+archangel,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+archangel,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+soul_departed,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+soul_departed,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+soul_departed,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+soul_departed,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+lianlian,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lianlian,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lianlian,Petr#,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+lianlian,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+javanetbeans,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+javanetbeans,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+javanetbeans,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+deximat,Cifera,1,A,1,0,0,0,1,7,0,4,0,0,0,0,0,0,0,0,0,math
+zxw090108,Cifera,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+zxw090108,PFAST Inc.,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+AmberRain,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AmberRain,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+AmberRain,Petr#,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Jigers,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Jigers,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+LIKIA,Cifera,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+LIKIA,PFAST Inc.,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+LIKIA,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+jl9394,Cifera,1,A,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+jl9394,PFAST Inc.,1,B,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+jl9394,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+nashenas,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+nise_nabe,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yudetamago,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yudetamago,PFAST Inc.,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+yudetamago,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+yudetamago,Petr#,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+BaJIuK,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+BaJIuK,Grammar Lessons,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+BaJIuK,Petr#,0,D,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Namhin,Cifera,1,A,1,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,0,math
+Mars314,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Mars314,PFAST Inc.,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Mars314,Double Happiness,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,number theory
+uncobain,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+uncobain,Petr#,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+dongdong,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dongdong,PFAST Inc.,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+dongdong,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shakandrew,Cifera,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+shakandrew,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+serik,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+serik,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+jlcastrillon,Cifera,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+jlcastrillon,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Qili,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Qili,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Qili,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Qili,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Azadeh,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Azadeh,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Azadeh,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Azadeh,Petr#,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+sami001,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+sami001,PFAST Inc.,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+evgeny11,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+evgeny11,PFAST Inc.,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+evgeny11,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+evgeny11,Petr#,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Totktonada,Cifera,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+Totktonada,PFAST Inc.,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Totktonada,Grammar Lessons,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+aval_vm,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+aval_vm,PFAST Inc.,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+aval_vm,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+AC_Lover,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AC_Lover,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+AC_Lover,Grammar Lessons,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+AC_Lover,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+patsp,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+patsp,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+patsp,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Troy1118,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Troy1118,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Troy1118,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Troy1118,Petr#,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+abdukodir,Cifera,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+abdukodir,PFAST Inc.,1,B,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+abdukodir,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+domhow,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+domhow,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yiyiyi4321,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yiyiyi4321,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+yiyiyi4321,Grammar Lessons,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+yiyiyi4321,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+cuongnm92,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cuongnm92,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+iamD,Cifera,1,A,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,math
+iamD,PFAST Inc.,1,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+iamD,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lucyfer,Cifera,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,math
+lucyfer,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+lucyfer,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+lucyfer,Petr#,1,D,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Doha2012,Cifera,1,A,1,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,math
+Doha2012,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ahmed_Gad,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Ahmed_Gad,PFAST Inc.,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Ahmed_Gad,Grammar Lessons,0,C,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+dmitrysobolev,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+Slamur,Cifera,0,A,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Slamur,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Slamur,Grammar Lessons,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Slamur,Petr#,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+zhouxc,Cifera,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zhouxc,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+zhouxc,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+zafar_sust_bd,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zafar_sust_bd,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+math_mania,PFAST Inc.,0,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+math_mania,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+gorlum0,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+gorlum0,PFAST Inc.,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+gorlum0,Grammar Lessons,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+BridgeBurner,Cifera,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Suichi,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Suichi,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ArK,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ArK,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+smxrwzdx,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+smxrwzdx,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+smxrwzdx,Grammar Lessons,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+smxrwzdx,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+odule,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+mickeyandkaka,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+mickeyandkaka,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+mickeyandkaka,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+glass,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+glass,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mario88,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Mario88,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Mario88,Grammar Lessons,1,C,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mario88,Double Happiness,0,E,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,number theory
+mic,Cifera,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,math
+mic,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+winston1907,Cifera,1,A,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,math
+winston1907,PFAST Inc.,1,B,0,0,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+winston1907,Petr#,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+cyberguru007,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cyberguru007,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Moon_1st,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Moon_1st,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Moon_1st,Petr#,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+deity_parts,Cifera,1,A,1,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,math
+ik_fib,Cifera,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,math
+ik_fib,Grammar Lessons,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Adrian2010,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Adrian2010,PFAST Inc.,1,B,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+aknur94,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+wanglikai91,Cifera,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+wanglikai91,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+wanglikai91,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Adai_is,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+Droom,Cifera,1,A,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,math
+tsvetujochka,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cjLD,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+cjLD,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+cjLD,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+RudySnow,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+RudySnow,PFAST Inc.,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+HJWAJ,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+HJWAJ,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+HJWAJ,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+HJWAJ,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+IgorL,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+IgorL,Grammar Lessons,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+IgorL,PFAST Inc.,0,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+zamzam,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+zamzam,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+shato,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+shato,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+shato,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shato,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+islamhamdi,Cifera,0,A,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,math
+islamhamdi,PFAST Inc.,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+jordan13game,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+jordan13game,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+jordan13game,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhupeijun,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zhupeijun,PFAST Inc.,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+zhupeijun,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+zhupeijun,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+CepGamer,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+CepGamer,PFAST Inc.,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+iksuy,Cifera,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+CrazyForAC,Cifera,1,A,1,0,0,3,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+CrazyForAC,PFAST Inc.,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Anadol,Cifera,1,A,1,0,0,3,1,3,0,0,0,0,0,0,0,1,0,0,0,math
+Anadol,Grammar Lessons,1,C,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Martuza,Cifera,1,A,1,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,math
+HETARE,Cifera,1,A,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+HETARE,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+HETARE,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+UESTC11P22,Cifera,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+UESTC11P22,PFAST Inc.,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Arsenal911,Cifera,1,A,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,math
+raviagarwal,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+raviagarwal,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+raviagarwal,Petr#,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+skstronghold,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+skstronghold,Petr#,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Radchyk_Vitaliy,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ravingeek,Cifera,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+ravingeek,Double Happiness,0,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,number theory
+2hpwrrbm,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+2hpwrrbm,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Sane,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Sane,Grammar Lessons,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+kujta1,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kujta1,PFAST Inc.,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ndlong,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ndlong,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ndlong,Grammar Lessons,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+lokeshgovindu,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+shapovalex,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+shapovalex,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+shapovalex,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+zero0809,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Templar,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Templar,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+araconda040494,Cifera,0,A,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,math
+araconda040494,PFAST Inc.,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+araconda040494,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+araconda040494,Petr#,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Sosi,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Sosi,PFAST Inc.,0,B,0,0,0,1,0,6,0,0,1,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Sosi,Grammar Lessons,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+mariashka,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mariashka,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+mariashka,Grammar Lessons,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alkaid,Cifera,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+alkaid,Grammar Lessons,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+alkaid,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+alkaid,Petr#,1,D,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+shadow.93.04,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+phantom11,Cifera,0,A,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,math
+phantom11,Double Happiness,0,E,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,number theory
+djrock,Cifera,1,A,1,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+sanchit_h,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sanchit_h,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+sanchit_h,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+sanchit_h,Petr#,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Magellan,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Magellan,Double Happiness,1,E,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,number theory
+TWiST,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+TWiST,Grammar Lessons,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+jonathanso123456,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+jonathanso123456,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+jonathanso123456,Petr#,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+ct.Liu,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ct.Liu,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ct.Liu,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+BatusaiX,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+BatusaiX,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ConLonCon,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ConLonCon,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ConLonCon,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ConLonCon,Double Happiness,0,E,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,number theory
+najim4689,Cifera,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,math
+najim4689,PFAST Inc.,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+najim4689,Double Happiness,0,E,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,number theory
+maxim-m94,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+maxim-m94,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+saodem74,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+saodem74,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+saodem74,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+L7we,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+L7we,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+L7we,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+L7we,Petr#,0,D,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+jifengxiang,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+jifengxiang,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+jifengxiang,Grammar Lessons,1,C,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+C.degree,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+C.degree,PFAST Inc.,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+C.degree,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+cirulapiph,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+cirulapiph,PFAST Inc.,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+FelixP,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+FelixP,PFAST Inc.,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+GUN,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+GUN,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Predimonio,Cifera,0,A,1,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,math
+Predimonio,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Predimonio,Grammar Lessons,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+nguyengia,Cifera,1,A,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,math
+nguyengia,PFAST Inc.,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+nguyengia,Double Happiness,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,number theory
+megadave,Cifera,0,A,0,0,0,0,0,2,0,2,0,0,0,0,0,1,0,0,0,math
+valzevul,Cifera,0,A,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,math
+nurdaulet,Cifera,1,A,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,math
+nurdaulet,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+hithere,Cifera,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+hithere,PFAST Inc.,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+md_yusuf,Cifera,0,A,0,0,0,1,0,4,0,1,0,0,0,0,0,0,0,0,0,math
+nigel0913,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+nigel0913,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+frigatewall1,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+frigatewall1,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+kvm,Cifera,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+kvm,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+manishmap2,Cifera,1,A,1,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,math
+manishmap2,PFAST Inc.,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+chiehmin,Cifera,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+chiehmin,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+chiehmin,Grammar Lessons,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+BrainDeveloper,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+BrainDeveloper,PFAST Inc.,1,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+BrainDeveloper,Grammar Lessons,1,C,0,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sokolov,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ishikado,Cifera,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ishikado,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ishikado,Grammar Lessons,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+ishikado,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+rupafn,Cifera,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+rupafn,Double Happiness,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,number theory
+pro100hackeR,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+pro100hackeR,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+pro100hackeR,Double Happiness,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,number theory
+rakerichard,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rakerichard,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+rakerichard,Grammar Lessons,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+rakerichard,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+slim_lee,Cifera,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+neo434,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+ajmburgos09,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ajmburgos09,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+deepangupta91,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+deepangupta91,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+deepangupta91,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+deepangupta91,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+vishnuvarthan,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vishnuvarthan,Grammar Lessons,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+iws1011,Cifera,0,A,0,0,0,0,0,1,0,0,5,0,0,0,0,0,0,0,0,math
+iws1011,PFAST Inc.,0,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+iws1011,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nicolai_Kovrov,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Nicolai_Kovrov,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Nicolai_Kovrov,Grammar Lessons,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nicolai_Kovrov,Petr#,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Punter,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Punter,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Punter,Double Happiness,0,E,0,0,0,0,0,1,0,3,1,0,0,0,0,0,0,0,0,number theory
+bekzat,Cifera,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+bekzat,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+huicpc0215,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+huicpc0215,Grammar Lessons,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+jeraymm,Cifera,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+jeraymm,PFAST Inc.,0,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+qjklw,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+qjklw,Grammar Lessons,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,implementation
+qjklw,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+avalizada,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+avalizada,PFAST Inc.,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ZekCHAN,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ZekCHAN,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ZekCHAN,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Illuminati_chk,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Illuminati_chk,Double Happiness,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,number theory
+vect0r,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vect0r,Petr#,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+vect0r,Grammar Lessons,0,C,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gaith,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Gaith,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+AhlyM,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+AhlyM,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Venom,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+flyers,Cifera,1,A,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,math
+xor1005,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xor1005,Grammar Lessons,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+parham.alvani,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+parham.alvani,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+parham.alvani,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+raedselim,Cifera,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+raedselim,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+raedselim,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhas,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+eagle747,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+eagle747,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+eagle747,Grammar Lessons,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Xottab,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Xottab,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+bytybai,Cifera,0,A,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,math
+srikanthreddy,Cifera,0,A,0,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,math
+ko-sova,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+timenoise,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+timenoise,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+StoneBow,Cifera,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+StoneBow,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+StoneBow,Grammar Lessons,0,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+imtiaz_cuet,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+imtiaz_cuet,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Stratonov,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Stratonov,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+csirkeee,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+csirkeee,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+csirkeee,Petr#,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+csirkeee,Grammar Lessons,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+G_Crabe,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Dexter_Frost,Cifera,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+Dexter_Frost,PFAST Inc.,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+wiseberg,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+wiseberg,Grammar Lessons,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+surfacedust,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+surfacedust,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+surfacedust,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ray040123,Cifera,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ray040123,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ray040123,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+takapt,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+takapt,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+takapt,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+vietlongjackie,Cifera,1,A,1,0,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,math
+vietlongjackie,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+asdfqwertyiop,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+asdfqwertyiop,PFAST Inc.,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+asdfqwertyiop,Petr#,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"data structures,hashing,string suffix structures,strings"
+npenate,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+npenate,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+npenate,Double Happiness,1,E,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,number theory
+muriloufg,Cifera,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+muriloufg,PFAST Inc.,0,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+muriloufg,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyno.yang,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kyno.yang,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+kyno.yang,Grammar Lessons,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyno.yang,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+eduard,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+acmwe,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Licheng,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Licheng,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+pashteiner,Cifera,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+pashteiner,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+pashteiner,Double Happiness,1,E,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,number theory
+iGoDzp,Cifera,0,A,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,math
+iGoDzp,PFAST Inc.,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+iGoDzp,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+eyelesskayes,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+skull,Cifera,1,A,1,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,math
+skull,PFAST Inc.,1,B,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,"bitmasks,brute force"
+arm,Cifera,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+arm,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+evgen,Cifera,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+evgen,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+evgen,Petr#,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+vlade087,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+vlade087,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+vlade087,Double Happiness,1,E,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,number theory
+yasser_adel,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yasser_adel,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+kavitagupta,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+kavitagupta,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+kavitagupta,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ariefianto17,Cifera,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Dmitry_Aksenik,Cifera,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,math
+Dmitry_Aksenik,PFAST Inc.,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+phuchaontu,Cifera,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+phuchaontu,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+spidercpsf,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+spidercpsf,Grammar Lessons,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+spidercpsf,Petr#,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Noah,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ronaflx,Cifera,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+ronaflx,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ronaflx,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ronaflx,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+chaiyuan,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+chaiyuan,PFAST Inc.,1,B,1,0,0,1,0,1,0,0,2,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+chaiyuan,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ask_1171,Cifera,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+ask_1171,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Eilen,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Eilen,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eilen,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+storm5906,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+storm5906,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+kingkaushik,Cifera,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+kingkaushik,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ploym,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ploym,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ploym,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+G4c4r0,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+G4c4r0,PFAST Inc.,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+G4c4r0,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+dxp498688071,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dxp498688071,PFAST Inc.,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+RoyLu,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+RoyLu,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+_minato,Cifera,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,math
+WinField95,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+WinField95,PFAST Inc.,1,B,0,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+xman,Cifera,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,1,0,0,0,math
+xman,PFAST Inc.,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+gestapolur,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+gestapolur,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+gestapolur,Grammar Lessons,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+nu_ty_ponjal,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+dinhha,Cifera,0,A,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,math
+a_kawashiro,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+a_kawashiro,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+a_kawashiro,Grammar Lessons,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+a_kawashiro,Petr#,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Dronte,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Dronte,Grammar Lessons,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dronte,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+sjbr,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+sjbr,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Darkstalker,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Darkstalker,Petr#,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+FlaminRage,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+FlaminRage,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+FlaminRage,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+idhame,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+rita23rita,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+serlis,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+euroshima,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+euroshima,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ynq1242,Cifera,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+ynq1242,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+rudolf,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+rudolf,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+rudolf,Grammar Lessons,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Recep,Petr#,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Recep,Cifera,1,A,1,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,math
+zyn-sunshine,Cifera,1,A,1,0,0,0,0,2,0,1,0,0,0,0,0,0,1,0,0,math
+cjtoribio,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+cjtoribio,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cjtoribio,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,implementation
+cjtoribio,Petr#,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+cjtoribio,Double Happiness,0,E,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,number theory
+b3cta3,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+b3cta3,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+b3cta3,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+biatlon007,Cifera,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+biatlon007,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+RDR,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,math
+cvalentim,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+cvalentim,PFAST Inc.,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+cvalentim,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"data structures,hashing,string suffix structures,strings"
+newaz420,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+newaz420,PFAST Inc.,1,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Sunits789,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Sunits789,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+yinuh,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+yinuh,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+yinuh,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+aika_djmax,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+aika_djmax,PFAST Inc.,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Quadrocube,Cifera,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+Quadrocube,PFAST Inc.,1,B,0,0,0,0,0,1,0,1,1,1,0,0,0,0,0,0,0,"bitmasks,brute force"
+grinch92,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+U_E_D,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+U_E_D,PFAST Inc.,0,B,0,0,0,0,1,3,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+U_E_D,Grammar Lessons,0,C,0,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+iratehats,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+SuhanovPavel,Cifera,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+huicpc0913,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+RaiaN,Cifera,0,A,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+RaiaN,Grammar Lessons,0,C,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+careless,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+careless,Grammar Lessons,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hanshavin,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Hanshavin,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hanshavin,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+2311708549,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+2311708549,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+2311708549,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+2311708549,Petr#,0,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+MSPA,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+MSPA,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+MSPA,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+MSPA,Petr#,1,D,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+bknarendra,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+bknarendra,PFAST Inc.,0,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+splinterC3LL,Cifera,0,A,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,math
+splinterC3LL,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+laynts,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+laynts,Grammar Lessons,0,C,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+saurabhpandey,Cifera,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+saurabhpandey,Grammar Lessons,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+pohlod_slavik,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+pohlod_slavik,PFAST Inc.,1,B,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+pohlod_slavik,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+lvdo92,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lvdo92,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Anka,Cifera,0,A,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,math
+Anka,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+PoteRi13,Cifera,0,A,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,math
+PoteRi13,Double Happiness,0,E,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,number theory
+kymo,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+TRR,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Nubick,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Nubick,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+rogu3,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zjy3186511,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zjy3186511,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+chrisp,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+chrisp,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chrisp,Double Happiness,1,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,number theory
+chrisp,Petr#,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+chrisp,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+dieend,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+dieend,PFAST Inc.,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+dieend,Grammar Lessons,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+mok6,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mok6,PFAST Inc.,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ty70,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ty70,PFAST Inc.,0,B,0,0,0,0,3,5,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+bogdan.sumy.ua,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+alapshin,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+alapshin,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+alapshin,Grammar Lessons,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+alapshin,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+liangyongrui,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,math
+liangyongrui,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+r.dragos0,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+r.dragos0,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+pikochip,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pikochip,Double Happiness,1,E,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,number theory
+blackt,Cifera,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+blackt,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Terrorist,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Terrorist,PFAST Inc.,0,B,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+antonio081014,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+antonio081014,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+dps3cin,Cifera,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+dps3cin,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nguyenductam1983,Cifera,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,math
+Warxezz,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Warxezz,Grammar Lessons,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+b_r,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+b_r,PFAST Inc.,1,B,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+SlaviaN,Cifera,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+SlaviaN,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+shovonshovo,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Tariqul,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Tariqul,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Tariqul,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Tariqul,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Cheshir,Cifera,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+Cheshir,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+tetsuma,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tetsuma,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+tetsuma,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+simple.simon,Cifera,0,A,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+simple.simon,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+PAG,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+aras_7,Cifera,0,A,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,math
+aras_7,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+coder_eslam,Cifera,1,A,1,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+coder_eslam,Petr#,1,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+masrapid,Cifera,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+masrapid,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+hacker007,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hacker007,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+nnhamane,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+zswx,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zswx,PFAST Inc.,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+wind,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+wind,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+tovenja,Cifera,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,math
+xioumu,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xioumu,PFAST Inc.,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+bmsujon,Cifera,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+prodo,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+prodo,Petr#,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Ivan95,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ivan95,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Ivan95,Double Happiness,1,E,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,number theory
+Ivan95,PFAST Inc.,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+demonkong,Cifera,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+soroush419,Cifera,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+maheshwar999,Cifera,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+dut200901102,Cifera,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+dut200901102,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+dut200901102,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+rashed,Cifera,1,A,1,0,0,0,0,7,0,1,0,0,0,0,0,0,1,0,0,math
+rashed,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ahmed.farag1111,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+wy89767,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+wy89767,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mantas_urnieza,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+mantas_urnieza,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+jony,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+jony,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+skywalker_q,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+skywalker_q,PFAST Inc.,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+skywalker_q,Double Happiness,0,E,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,number theory
+jkq247,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+jkq247,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+jkq247,Grammar Lessons,0,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+72VanVector_SevNTU,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+72VanVector_SevNTU,PFAST Inc.,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+72VanVector_SevNTU,Grammar Lessons,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+brahma,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+raha,Cifera,0,A,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,math
+Andoku,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Andoku,PFAST Inc.,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Andoku,Grammar Lessons,1,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Solomon,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Solomon,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Solomon,Double Happiness,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,number theory
+kostya_by,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+kostya_by,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+kostya_by,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kostya_by,Petr#,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+asaran,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+asaran,Petr#,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+4nddr3,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+4nddr3,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+4nddr3,Grammar Lessons,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+4nddr3,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+rabidbear,Cifera,0,A,0,0,0,6,0,13,0,1,0,0,0,0,0,0,0,0,0,math
+zhbit_yola,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zhbit_yola,PFAST Inc.,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+unasm,Cifera,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+unasm,PFAST Inc.,0,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+G_Gnome,Cifera,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,math
+G_Gnome,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+393570442,Cifera,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+393570442,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+393570442,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mishanay,Cifera,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+xiaolele,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Dima_qwer,Cifera,1,A,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+Dima_qwer,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dima_qwer,Petr#,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+shohedshakil,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+shohedshakil,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+shohedshakil,PFAST Inc.,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ankit22,Cifera,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,math
+ankit22,Petr#,0,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+upoma,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+upoma,Double Happiness,1,E,0,0,0,0,1,0,0,0,5,0,0,0,0,0,0,0,0,number theory
+malcolm,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+malcolm,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+malcolm,Petr#,0,D,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+malcolm,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+sonych,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pixel,Cifera,0,A,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+ekrilov92,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ekrilov92,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ekrilov92,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+977kai,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+977kai,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+977kai,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+VK.ua,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+qazz,Cifera,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+qazz,PFAST Inc.,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Jowler,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Jowler,PFAST Inc.,1,B,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Jowler,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hakomo,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+hakomo,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+hakomo,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+at99ak77,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+at99ak77,Grammar Lessons,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+at99ak77,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+HImIK,Cifera,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+mrtempo,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+mrtempo,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+mrtempo,Petr#,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+mrtempo,Grammar Lessons,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+NSV,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+NSV,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+NSV,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kuro53,Cifera,0,A,0,0,0,0,1,10,0,0,0,0,0,0,0,0,0,0,0,math
+Gin,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+OmarSaber,Cifera,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+OmarSaber,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+OmarSaber,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+bunty,Cifera,0,A,0,0,0,0,1,9,0,0,0,2,0,0,0,0,0,0,0,math
+shopnobaj,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+prizrakc,Cifera,0,A,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,math
+cvb,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,"data structures,hashing,string suffix structures,strings"
+cvb,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+cvb,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cvb,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Akensho,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Akensho,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Srijan,Cifera,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,math
+akm14889,Cifera,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+akm14889,Grammar Lessons,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+mfkhr,Cifera,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,math
+mfkhr,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+mfkhr,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mukeshgawadia,Cifera,0,A,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,math
+mukeshgawadia,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+billionprince,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+billionprince,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+billionprince,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+affix,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+affix,PFAST Inc.,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Vasyl,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+nhcuong95,Cifera,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+nhcuong95,Petr#,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+quandum,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+quandum,PFAST Inc.,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+LJ1043041006,Cifera,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+LJ1043041006,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+maruf.csdu,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+maruf.csdu,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Jiameier,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+foxcoder,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+foxcoder,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ivstivs,Cifera,0,A,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,math
+xysDavidCN,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+xysDavidCN,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xysDavidCN,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+xysDavidCN,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+--DimasGhost--,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mahi_seu.bd,Cifera,0,A,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,math
+root5,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+root5,PFAST Inc.,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+root5,Grammar Lessons,0,C,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+yorner,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,3,0,0,0,0,0,math
+yorner,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+chtomek,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+chtomek,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Gligarr_SabLin,Cifera,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+irakli,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mnlm,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mnlm,PFAST Inc.,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+mnlm,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+SmartCoder,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+SmartCoder,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+EmersonX,Cifera,0,A,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+EmersonX,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Ovalex,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+smileking67,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+smileking67,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+smileking67,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sehriyar_Novruzov,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Sehriyar_Novruzov,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+spark_coder,Cifera,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,math
+spark_coder,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+waiter_pvl,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+waiter_pvl,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+waiter_pvl,PFAST Inc.,1,B,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Kzcoder,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+oks,Cifera,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+oks,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+tutul,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Haytham.Breaka,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Shiver_2011,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Shiver_2011,PFAST Inc.,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+lightning,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+lightning,Grammar Lessons,1,C,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+lightning,Petr#,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Rania_Salama,Cifera,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Rania_Salama,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Rania_Salama,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rania_Salama,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Kuldeep,Cifera,0,A,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,math
+Kuldeep,Petr#,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Xerxes,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Xerxes,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Xerxes,Grammar Lessons,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+hafiz,Cifera,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+hafiz,PFAST Inc.,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+parikshit979,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+parikshit979,PFAST Inc.,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+miniput,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+miniput,Grammar Lessons,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+timd,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+timd,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+timd,Double Happiness,0,E,1,0,0,0,1,4,0,2,0,0,0,0,0,0,0,0,0,number theory
+timd,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+timd,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"data structures,hashing,string suffix structures,strings"
+atishayjain25,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+atishayjain25,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+magemerlin,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+milky_cookie,Cifera,0,A,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,math
+yt_siden,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yt_siden,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mary-zr,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+unit7,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+unit7,Double Happiness,0,E,0,0,0,2,0,0,0,5,0,1,0,0,0,0,0,0,0,number theory
+wzp,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+wzp,PFAST Inc.,0,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+wzp,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+amirali1374,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+amirali1374,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+amirali1374,Petr#,0,D,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+Cardi,Cifera,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+USA,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+USA,Petr#,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+vfix,Cifera,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+vfix,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+zhukov,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Dima_LKM,Cifera,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+sisangaji,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sisangaji,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+parina,Cifera,0,A,0,0,0,0,0,2,0,2,0,0,0,0,0,0,1,0,0,math
+parina,PFAST Inc.,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+xuanflyer,Cifera,0,A,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,math
+xuanflyer,Grammar Lessons,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+ronnie1845,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ronnie1845,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Zool,PFAST Inc.,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Zool,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Zool,Grammar Lessons,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+khaled123,Cifera,0,A,0,0,0,2,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+lastassassin,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,math
+lastassassin,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+valery.stromov,Grammar Lessons,0,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+valery.stromov,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+valery.stromov,Petr#,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"data structures,hashing,string suffix structures,strings"
+stostap,Grammar Lessons,0,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+stostap,Cifera,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+stostap,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+stostap,Petr#,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+stostap,Double Happiness,0,E,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,number theory
+Sudakov_Ilya,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hereglegchneg,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+bilbo1,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+wulfric,Cifera,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+yangzhe1991,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+yangzhe1991,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yangzhe1991,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+yangzhe1991,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+padreati,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+padreati,PFAST Inc.,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+padreati,Double Happiness,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,number theory
+htvu,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+htvu,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+htvu,Grammar Lessons,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+htvu,Petr#,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,hashing,string suffix structures,strings"
+EmptyHadron,Cifera,0,A,0,0,0,6,0,3,0,4,0,0,0,0,0,0,0,0,0,math
+Chernova_Katya,Cifera,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+gvalentiny,PFAST Inc.,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+gvalentiny,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gvalentiny,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sanjeev90an,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+jqyjqyjqy,Cifera,1,A,1,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,math
+Gampr,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Gampr,Double Happiness,1,E,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,number theory
+rixor786,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+rixor786,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+-----,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+-----,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+AVO97,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+AVO97,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+pnsrp,Cifera,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,math
+oldoldold,Grammar Lessons,0,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+oldoldold,Cifera,1,A,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,math
+oldoldold,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ilyakryukov,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ilyakryukov,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+serioga,Cifera,0,A,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xayljq,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+xayljq,Grammar Lessons,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xayljq,Petr#,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"data structures,hashing,string suffix structures,strings"
+xayljq,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xayljq,Double Happiness,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,number theory
+saadisky,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+saadisky,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+who_am_i,Cifera,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Innovator_C,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Innovator_C,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+rachit.Dubey,Cifera,0,A,0,0,0,0,0,5,0,1,0,0,0,0,0,1,0,0,0,math
+agarwaen,PFAST Inc.,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+agarwaen,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+agarwaen,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Neko,Grammar Lessons,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Neko,Petr#,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Neko,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Neko,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Ortiga,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Ortiga,PFAST Inc.,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Ortiga,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+jossespejo,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+drak,Cifera,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+danmir13,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kvvpsb,Cifera,0,A,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,math
+ruslan.sennov,Grammar Lessons,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruslan.sennov,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ruslan.sennov,Petr#,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+ruslan.sennov,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Anton_,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Anton_,PFAST Inc.,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Lana44,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+rakibul,Cifera,0,A,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,math
+deb_seu,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+wdydyb,Cifera,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,math
+wdydyb,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+insan,Cifera,0,A,0,0,0,2,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+lastresort,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lastresort,PFAST Inc.,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Goblin,Cifera,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,math
+CityHunter,PFAST Inc.,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+CityHunter,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+gmnayem,Cifera,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+gbhararindam,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+gbhararindam,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zerotoday,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+zerotoday,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ARUS,Cifera,1,A,1,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,math
+PavelSavchenkov,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+PavelSavchenkov,PFAST Inc.,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+PavelSavchenkov,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hupmscy,Cifera,1,A,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,math
+iman_MC,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+iman_MC,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+iman_MC,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+zendo,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+zendo,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+OYoung,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+OYoung,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+sunnypika,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+zxfx100,Cifera,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,math
+zxfx100,PFAST Inc.,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+magdym,Cifera,0,A,0,0,0,0,0,5,0,1,0,0,0,0,0,1,0,0,0,math
+Skady,Cifera,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+guiltry,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+guiltry,PFAST Inc.,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+guiltry,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+guiltry,Petr#,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+Hi4ko,Cifera,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,math
+ibra,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ibra,PFAST Inc.,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ibra,Grammar Lessons,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ibra,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+ashawkat89,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+crazy_bober,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+crazy_bober,PFAST Inc.,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+crazy_bober,Petr#,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+crazy_bober,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+huateng,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+huateng,PFAST Inc.,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Alisafe,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Alisafe,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Alisafe,Grammar Lessons,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Agent_Mahone,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+AkA_ZaDr,Cifera,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+TB.ClosedX,Cifera,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+BerezovskiyDV,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+erudite,Cifera,0,A,0,0,0,0,0,5,0,1,0,0,0,0,0,0,1,0,0,math
+erudite,Grammar Lessons,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+erudite,PFAST Inc.,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+beaverkiria,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,math
+beaverkiria,Grammar Lessons,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+mauricejoe,Cifera,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+zunaid,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+anton192,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+anton192,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+anton192,Grammar Lessons,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+yu-huh,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+yu-huh,Grammar Lessons,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+LIQRGV,PFAST Inc.,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+LIQRGV,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kaysar98,Cifera,1,A,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,math
+r13,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+r13,PFAST Inc.,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+r13,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+QProgS,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+QProgS,Cifera,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+zucker,Cifera,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+lekseika,Cifera,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+geromond,Cifera,0,A,0,0,0,5,0,5,0,1,0,0,0,0,0,0,0,0,0,math
+ilnuribat,PFAST Inc.,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+ilnuribat,Cifera,1,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,math
+yonjue,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+yonjue,PFAST Inc.,0,B,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+tomcat,Petr#,0,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+tomcat,Double Happiness,0,E,0,0,0,1,0,4,0,0,1,0,0,0,0,0,0,0,0,number theory
+tomcat,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Tofazzel_iu_cse,Cifera,0,A,0,0,0,0,0,5,0,5,0,0,0,0,0,0,0,0,0,math
+Paramanantham,Cifera,0,A,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,math
+jmacboy,Cifera,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+jmacboy,Grammar Lessons,0,C,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+jmacboy,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+buldoQ,Cifera,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+iwtbaRTlAE,Double Happiness,0,E,0,0,0,1,0,3,0,3,0,0,0,0,0,0,0,0,0,number theory
+janiocarlos,Cifera,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+harshfire,Grammar Lessons,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+NotSoFat,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+NotSoFat,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+NotSoFat,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+sajib_cuet09,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+yano0oyan,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yano0oyan,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+akaGrey,Cifera,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+robine,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+robine,PFAST Inc.,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+robine,Grammar Lessons,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+.PEIN.,Cifera,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+.PEIN.,PFAST Inc.,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+aasimovic,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+aasimovic,Double Happiness,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,number theory
+Sultan,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+try_catch,Double Happiness,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,number theory
+try_catch,Cifera,0,A,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,math
+tisha,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+SIvan,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+choke,PFAST Inc.,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+choke,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lequihieu,Grammar Lessons,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lequihieu,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+xurca,Cifera,0,A,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,math
+Gentleman,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ivkon99,PFAST Inc.,0,B,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+universium,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+AVoz,Petr#,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+AVoz,Grammar Lessons,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+eaglex,Cifera,0,A,0,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,math
+the_new_guy,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+the_new_guy,Petr#,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+---,Grammar Lessons,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+malvery,Cifera,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+gelraen,Cifera,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+magic_goop,Cifera,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+shukla,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Monmoy,Double Happiness,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,number theory
+Monmoy,Cifera,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Monmoy,PFAST Inc.,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,brute force"
+Monmoy,Petr#,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,hashing,string suffix structures,strings"
+senthil1216,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ulugbek89s,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vietnam,Grammar Lessons,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+tsan123,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+tsotnep,Cifera,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sonkhochil,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+bookofsky,Cifera,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Lay_ec,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+luciys,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+shashank1298,Cifera,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math

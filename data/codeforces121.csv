@@ -1,0 +1,1256 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+Komaki,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Komaki,Lucky Transformation,0,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,strings
+Komaki,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Komaki,Lucky Array,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Komaki,Lucky Segments,1,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+vepifanov,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vepifanov,Lucky Transformation,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+vepifanov,Lucky Permutation,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+vepifanov,Lucky Segments,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+vepifanov,Lucky Array,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Petr,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Petr,Lucky Permutation,0,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Petr,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Petr,Lucky Segments,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+Petr,Lucky Array,1,E,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+pt1989,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pt1989,Lucky Permutation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+pt1989,Lucky Segments,1,D,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+tourist,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tourist,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+tourist,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tourist,Lucky Segments,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+tourist,Lucky Array,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+shangjingbo,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shangjingbo,Lucky Transformation,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+shangjingbo,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+shangjingbo,Lucky Array,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+shangjingbo,Lucky Segments,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+Sarkin,Lucky Sum,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sarkin,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Sarkin,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Sarkin,Lucky Array,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,data structures
+havaliza,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+havaliza,Lucky Transformation,1,B,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,strings
+havaliza,Lucky Permutation,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+zetsubou,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zetsubou,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+zetsubou,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+zetsubou,Lucky Array,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+subscriber,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+subscriber,Lucky Transformation,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+subscriber,Lucky Permutation,1,C,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+subscriber,Lucky Segments,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+RAVEman,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+RAVEman,Lucky Transformation,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+RAVEman,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+RAVEman,Lucky Segments,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+NALP,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+NALP,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+NALP,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+NALP,Lucky Array,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+ftc,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ftc,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ftc,Lucky Permutation,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+ftc,Lucky Segments,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+ftc,Lucky Array,1,E,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+e-maxx,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+e-maxx,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+e-maxx,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+e-maxx,Lucky Segments,0,D,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+e-maxx,Lucky Array,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+zouxun,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zouxun,Lucky Transformation,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+zouxun,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+zouxun,Lucky Segments,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+scottai1,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+scottai1,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+scottai1,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+scottai1,Lucky Array,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,data structures
+Alireza,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alireza,Lucky Permutation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Alireza,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+PavelKunyavskiy,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PavelKunyavskiy,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+PavelKunyavskiy,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+PavelKunyavskiy,Lucky Array,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+PavelKunyavskiy,Lucky Segments,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+ballon,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ballon,Lucky Transformation,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+ballon,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+_sunny,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+_sunny,Lucky Transformation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+_sunny,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+lxyxynt,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lxyxynt,Lucky Transformation,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+lxyxynt,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+dzhulgakov,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dzhulgakov,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+dzhulgakov,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+dzhulgakov,Lucky Array,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+dzhulgakov,Lucky Segments,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+hpfdf,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hpfdf,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+hpfdf,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,combinatorics,number theory"
+hpfdf,Lucky Array,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+daizhenyang,Lucky Sum,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+daizhenyang,Lucky Transformation,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+daizhenyang,Lucky Permutation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,combinatorics,number theory"
+daizhenyang,Lucky Array,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Hosam_Samy,Lucky Sum,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hosam_Samy,Lucky Transformation,1,B,1,0,0,1,0,1,0,2,0,0,0,0,0,0,0,0,0,strings
+Hosam_Samy,Lucky Permutation,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Egor,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Egor,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Egor,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Egor,Lucky Segments,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+Egor,Lucky Array,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+ll931110,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ll931110,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ll931110,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+ll931110,Lucky Array,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,data structures
+cmd,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cmd,Lucky Transformation,1,B,1,0,0,0,1,5,0,1,1,0,0,0,0,0,0,0,0,strings
+cmd,Lucky Permutation,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+cmd,Lucky Segments,0,D,0,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+espr1t,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+espr1t,Lucky Transformation,0,B,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,strings
+espr1t,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+espr1t,Lucky Array,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+espr1t,Lucky Segments,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+maksay,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+maksay,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+maksay,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+maksay,Lucky Segments,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+msg555,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+msg555,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+msg555,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+msg555,Lucky Array,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+msg555,Lucky Segments,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+Krig,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Krig,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Krig,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+logicmachine,Lucky Sum,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+freak93,Lucky Sum,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+freak93,Lucky Transformation,1,B,1,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,strings
+freak93,Lucky Array,1,E,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,data structures
+fura,Lucky Array,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+fura,Lucky Sum,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+fura,Lucky Transformation,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+fura,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+sdryapko,Lucky Sum,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+sdryapko,Lucky Transformation,1,B,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,strings
+MarioYC,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MarioYC,Lucky Transformation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Abra,Lucky Sum,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Abra,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Abra,Lucky Permutation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+isumi,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+isumi,Lucky Transformation,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,strings
+isumi,Lucky Permutation,1,C,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+chnlich,Lucky Sum,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+chnlich,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+chnlich,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+chnlich,Lucky Array,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+cylixstar,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cylixstar,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+cylixstar,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Pattara.S,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pattara.S,Lucky Transformation,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Pattara.S,Lucky Array,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Pattara.S,Lucky Permutation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Pattara.S,Lucky Segments,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+dalex,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dalex,Lucky Transformation,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+dalex,Lucky Permutation,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+ftiasch,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ftiasch,Lucky Transformation,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+ftiasch,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+ftiasch,Lucky Array,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Zhukov_Dmitry,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhukov_Dmitry,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Zhukov_Dmitry,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Zhukov_Dmitry,Lucky Array,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+FatSheep,Lucky Sum,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+FatSheep,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+OYoung,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+OYoung,Lucky Transformation,0,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,strings
+OYoung,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+OgieKako,Lucky Array,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+OgieKako,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+OgieKako,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+OgieKako,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+LeBron,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LeBron,Lucky Transformation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+LeBron,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Spitfire,Lucky Sum,0,A,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+Spitfire,Lucky Transformation,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+Spitfire,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+unicef,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+unicef,Lucky Segments,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+unicef,Lucky Permutation,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+unicef,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Al.Cash,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Al.Cash,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Al.Cash,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+vlad107,Lucky Sum,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+vlad107,Lucky Transformation,1,B,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,strings
+Sereja,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sereja,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Sereja,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Sereja,Lucky Array,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+CherryTree,Lucky Sum,0,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CherryTree,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+CherryTree,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+CherryTree,Lucky Array,1,E,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+tohuuquan,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tohuuquan,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tohuuquan,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+ir5,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ir5,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ir5,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+simoncao,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+simoncao,Lucky Transformation,0,B,0,0,0,0,1,1,0,1,1,0,0,0,0,0,0,0,0,strings
+simoncao,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+ania,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ania,Lucky Permutation,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+ania,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ania,Lucky Segments,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+ania,Lucky Array,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+tian,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tian,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tian,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+UESTC_Nocturne,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+UESTC_Nocturne,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+UESTC_Nocturne,Lucky Permutation,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+UESTC_Nocturne,Lucky Segments,1,D,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+fhlasek,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fhlasek,Lucky Transformation,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+fhlasek,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+fhlasek,Lucky Segments,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+aropan,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+aropan,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+aropan,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+aropan,Lucky Segments,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+seanwu,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+seanwu,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+seanwu,Lucky Permutation,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+seanwu,Lucky Segments,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+zaq1xsw2tktk,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zaq1xsw2tktk,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+zaq1xsw2tktk,Lucky Permutation,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+totalfrank,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+totalfrank,Lucky Transformation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+totalfrank,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+mR.ilchi,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mR.ilchi,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mR.ilchi,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+mR.ilchi,Lucky Segments,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+mR.ilchi,Lucky Array,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Dmitry_Egorov,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dmitry_Egorov,Lucky Transformation,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+Dmitry_Egorov,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+yoh149,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yoh149,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+yoh149,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+C.sis,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+C.sis,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+C.sis,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+AlexDmitriev,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlexDmitriev,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+AlexDmitriev,Lucky Permutation,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+nevidomy,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nevidomy,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+nevidomy,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+nevidomy,Lucky Array,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+moshiur,Lucky Sum,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+moshiur,Lucky Transformation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+moshiur,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+DoublePointer,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+DoublePointer,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+DoublePointer,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+fushar,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fushar,Lucky Transformation,0,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,strings
+fushar,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+paladin8,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+paladin8,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+paladin8,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+siuvit,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+siuvit,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+siuvit,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+yarrr,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yarrr,Lucky Transformation,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+yarrr,Lucky Array,1,E,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+navi,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+navi,Lucky Transformation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+navi,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+navi,Lucky Array,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,data structures
+flashmt,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+flashmt,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+flashmt,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+watashi,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+watashi,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+watashi,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+watashi,Lucky Segments,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,implementation,two pointers"
+GlebsHP,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+GlebsHP,Lucky Transformation,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+GlebsHP,Lucky Permutation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+GlebsHP,Lucky Array,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Hadi_Asiaie,Lucky Sum,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hadi_Asiaie,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Hadi_Asiaie,Lucky Permutation,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+K_operafan,Lucky Sum,0,A,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,implementation
+K_operafan,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,strings
+pva701,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pva701,Lucky Transformation,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,strings
+pva701,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+pva701,Lucky Segments,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+azizkhan,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+azizkhan,Lucky Permutation,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+azizkhan,Lucky Transformation,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,strings
+bjin,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+bjin,Lucky Permutation,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+uwi,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+uwi,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+uwi,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+uwi,Lucky Segments,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+Martin,Lucky Sum,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Martin,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Martin,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Martin,Lucky Array,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+suhang1994,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+suhang1994,Lucky Transformation,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+suhang1994,Lucky Permutation,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+suhang1994,Lucky Array,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+suhang1994,Lucky Segments,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+al13n,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+al13n,Lucky Transformation,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+al13n,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+al13n,Lucky Array,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+sjtu_pigoneand,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sjtu_pigoneand,Lucky Transformation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+sjtu_pigoneand,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+sjtu_pigoneand,Lucky Array,1,E,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+Endagorion,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Endagorion,Lucky Transformation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Endagorion,Lucky Permutation,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Kostroma,Lucky Sum,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,2,0,0,implementation
+Kostroma,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Kostroma,Lucky Permutation,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+portal,Lucky Sum,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+portal,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+portal,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+louise,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+louise,Lucky Transformation,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+louise,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+louise,Lucky Segments,1,D,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+Shtrix,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shtrix,Lucky Transformation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Shtrix,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+dolphinigle,Lucky Transformation,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+dolphinigle,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+dolphinigle,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Malinovsky239,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Malinovsky239,Lucky Transformation,1,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,strings
+Malinovsky239,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+2222,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+2222,Lucky Transformation,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+2222,Lucky Permutation,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+2222,Lucky Array,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+2222,Lucky Segments,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+adavydow,Lucky Sum,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+adavydow,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+adavydow,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+adavydow,Lucky Array,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Cepera,Lucky Sum,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Cepera,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Cepera,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+voover,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+voover,Lucky Permutation,0,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+voover,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+voover,Lucky Segments,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+rudradevbasak,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rudradevbasak,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+rudradevbasak,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+rudradevbasak,Lucky Array,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+rudradevbasak,Lucky Segments,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+KADR,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KADR,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+KADR,Lucky Permutation,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+KADR,Lucky Array,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,data structures
+udalov,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+udalov,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+udalov,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+akashin,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+akashin,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+akashin,Lucky Permutation,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Milanin,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Milanin,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Milanin,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Milanin,Lucky Segments,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+nk.karpov,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nk.karpov,Lucky Transformation,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+nk.karpov,Lucky Permutation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+nk.karpov,Lucky Array,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,data structures
+csimstu,Lucky Sum,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+csimstu,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ahmed_aly,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahmed_aly,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ahmed_aly,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Gerald,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gerald,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Gerald,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Gerald,Lucky Segments,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+Bugman,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Bugman,Lucky Transformation,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Bugman,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+edly,Lucky Sum,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+edly,Lucky Transformation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+edly,Lucky Permutation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+edly,Lucky Array,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Arios,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Arios,Lucky Transformation,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+Arios,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Arios,Lucky Array,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+heyihong,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+heyihong,Lucky Transformation,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,strings
+heyihong,Lucky Permutation,1,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+heyihong,Lucky Array,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+dancho,Lucky Transformation,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+dancho,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dancho,Lucky Permutation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+evima,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+evima,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+evima,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,combinatorics,number theory"
+Mex-Mans,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mex-Mans,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mex-Mans,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+ahm.kam_92,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahm.kam_92,Lucky Transformation,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+Gassa,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gassa,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Gassa,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Gassa,Lucky Array,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Kenny_HORROR,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kenny_HORROR,Lucky Transformation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Kenny_HORROR,Lucky Permutation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Kenny_HORROR,Lucky Segments,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+arijit91,Lucky Sum,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+arijit91,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+arijit91,Lucky Permutation,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+zplinti1,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zplinti1,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+zplinti1,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+xujie,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xujie,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+xujie,Lucky Permutation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+xujie,Lucky Segments,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+buithilien,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+buithilien,Lucky Transformation,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+buithilien,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+buithilien,Lucky Array,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+ksameluk,Lucky Sum,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ksameluk,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ksameluk,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Konstantin,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Konstantin,Lucky Transformation,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+Konstantin,Lucky Permutation,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+stephydx,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+stephydx,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+stephydx,Lucky Permutation,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+stephydx,Lucky Segments,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+wiw,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wiw,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Hohol,Lucky Sum,0,A,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hohol,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Hohol,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+vitar,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vitar,Lucky Transformation,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+vitar,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+vitar,Lucky Array,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+AlexAlvarez,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlexAlvarez,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+AlexAlvarez,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,combinatorics,number theory"
+AlexAlvarez,Lucky Segments,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+alexander86,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexander86,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+alexander86,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Balajiganapathi,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Balajiganapathi,Lucky Transformation,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+Balajiganapathi,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+malcolm,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+malcolm,Lucky Transformation,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+malcolm,Lucky Permutation,0,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Jokser,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jokser,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Jokser,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+pulkitg10,Lucky Sum,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+pulkitg10,Lucky Transformation,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+infrmtcs,Lucky Sum,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,implementation
+infrmtcs,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kelvin,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kelvin,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kelvin,Lucky Permutation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+kelvin,Lucky Array,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Artix,Lucky Sum,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Artix,Lucky Transformation,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+SergeyLazarev,Lucky Sum,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+SergeyLazarev,Lucky Transformation,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+SergeyLazarev,Lucky Array,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+MorningSYJ,Lucky Sum,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+MorningSYJ,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+MorningSYJ,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+MorningSYJ,Lucky Array,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Ra16bit,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ra16bit,Lucky Permutation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Ra16bit,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Ra16bit,Lucky Segments,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+ridowan007,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ridowan007,Lucky Transformation,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+Baz93,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Baz93,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Baz93,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+-XraY-,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+-XraY-,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+-XraY-,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+White_Bear,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+White_Bear,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+White_Bear,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+w10d,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+w10d,Lucky Transformation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+w10d,Lucky Segments,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+lyoz,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lyoz,Lucky Transformation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+lyoz,Lucky Permutation,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+ysyshtc,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ysyshtc,Lucky Transformation,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+ysyshtc,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+ysyshtc,Lucky Segments,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+redox,Lucky Sum,0,A,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,implementation
+redox,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+redox,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+sankear,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sankear,Lucky Array,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+sankear,Lucky Transformation,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,strings
+sankear,Lucky Permutation,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+sankear,Lucky Segments,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+Snipx,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Snipx,Lucky Transformation,1,B,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,strings
+Snipx,Lucky Permutation,0,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+ArkChar,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ArkChar,Lucky Transformation,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+ArkChar,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+wclee2265,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wclee2265,Lucky Transformation,1,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,strings
+wclee2265,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+wclee2265,Lucky Array,0,E,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+hogeover30,Lucky Sum,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Di735,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Di735,Lucky Transformation,0,B,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,strings
+Di735,Lucky Segments,1,D,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+olpetOdessaONU,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+olpetOdessaONU,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+olpetOdessaONU,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+S.Yesipenko,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+S.Yesipenko,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+S.Yesipenko,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+fura2,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fura2,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+fura2,Lucky Permutation,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+NGNCMH,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+NGNCMH,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+NGNCMH,Lucky Permutation,1,C,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+BIT_silence,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+BIT_silence,Lucky Transformation,0,B,1,0,0,0,1,3,0,1,0,0,0,0,0,0,0,0,0,strings
+BIT_silence,Lucky Permutation,1,C,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+dreamoon,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dreamoon,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+dreamoon,Lucky Permutation,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+dreamoon,Lucky Array,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+sicasli,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sicasli,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+sicasli,Lucky Transformation,1,B,1,0,0,0,0,1,0,4,1,0,0,0,0,0,1,0,0,strings
+moonlight131,Lucky Sum,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+moonlight131,Lucky Transformation,1,B,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,strings
+Eledven,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eledven,Lucky Transformation,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,strings
+Eledven,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+z__jj,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+z__jj,Lucky Transformation,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+z__jj,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+pdwd,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pdwd,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pdwd,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+piva,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+piva,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+yvasyliv,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yvasyliv,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+yvasyliv,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+atetubou,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+atetubou,Lucky Transformation,1,B,0,0,0,0,0,2,0,3,1,0,0,0,0,1,0,0,0,strings
+zeliboba,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zeliboba,Lucky Permutation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+zeliboba,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mario88,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mario88,Lucky Transformation,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+Mario88,Lucky Permutation,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+mengcow,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mengcow,Lucky Transformation,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,strings
+mengcow,Lucky Permutation,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Copymaster,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Copymaster,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Copymaster,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+tsukuno,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tsukuno,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tsukuno,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+tsukuno,Lucky Segments,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+Kh.Madi,Lucky Sum,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kh.Madi,Lucky Transformation,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,strings
+kawatea,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kawatea,Lucky Transformation,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+kawatea,Lucky Permutation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+tunyash,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tunyash,Lucky Transformation,0,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,strings
+tunyash,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+AlexErofeev,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlexErofeev,Lucky Transformation,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+AlexErofeev,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Proscriptus,Lucky Sum,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Proscriptus,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Proscriptus,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+kohyatoh,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kohyatoh,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kohyatoh,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+kohyatoh,Lucky Array,1,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+jyliu27,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jyliu27,Lucky Transformation,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+digiter,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+digiter,Lucky Transformation,1,B,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,strings
+Jesus,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jesus,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Jesus,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+psint,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+psint,Lucky Transformation,0,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,strings
+psint,Lucky Permutation,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+zpl1,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zpl1,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+zpl1,Lucky Permutation,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+zpl1,Lucky Array,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+fatboy_cw,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fatboy_cw,Lucky Transformation,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+fatboy_cw,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+daftcoder,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+daftcoder,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+daftcoder,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+phinfinity,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+phinfinity,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+phinfinity,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+NIGHTFIT,Lucky Sum,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+NIGHTFIT,Lucky Transformation,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+vance,Lucky Sum,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+vance,Lucky Transformation,1,B,1,0,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,strings
+vance,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+DangTH,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+DangTH,Lucky Transformation,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+DangTH,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+handojo1,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+handojo1,Lucky Permutation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+handojo1,Lucky Transformation,1,B,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,strings
+gevak,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+gevak,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gevak,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+gevak,Lucky Segments,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+forifchen,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+forifchen,Lucky Transformation,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,strings
+forifchen,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+jehad131,Lucky Sum,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+jehad131,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+package.zaic,Lucky Sum,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+package.zaic,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+package.zaic,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+package.zaic,Lucky Array,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+tanzaku,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tanzaku,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tanzaku,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+tanzaku,Lucky Array,0,E,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Monyura,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Monyura,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Monyura,Lucky Segments,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,implementation,two pointers"
+lianlian,Lucky Sum,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+lianlian,Lucky Transformation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+lianlian,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+helThazar,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+helThazar,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+lavin,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lavin,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+lavin,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,combinatorics,number theory"
+hasi,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hasi,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+hasi,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+piotr.kukla,Lucky Sum,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+piotr.kukla,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+piotr.kukla,Lucky Permutation,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Aman,Lucky Sum,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+Aman,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Ferlon,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ferlon,Lucky Transformation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Ferlon,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+FoodIsGood,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+FoodIsGood,Lucky Transformation,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+FoodIsGood,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+cjLD,Lucky Sum,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+cjLD,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+cjLD,Lucky Permutation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+cjLD,Lucky Segments,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+yenthanh.t7,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yenthanh.t7,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+yenthanh.t7,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+chronotable,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chronotable,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+chronotable,Lucky Permutation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+frp,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+frp,Lucky Transformation,1,B,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,strings
+frp,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+dimasta,Lucky Sum,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+AHdoc,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+AHdoc,Lucky Transformation,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+AHdoc,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Belonogov,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Belonogov,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Belonogov,Lucky Permutation,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+yukim,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yukim,Lucky Transformation,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+yukim,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+zjut_DD,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zjut_DD,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+zjut_DD,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+zjut_DD,Lucky Array,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+ahmed_thabet,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahmed_thabet,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ahmed_thabet,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+chaemon,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chaemon,Lucky Transformation,1,B,1,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,strings
+chaemon,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+vkg,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vkg,Lucky Transformation,1,B,1,0,0,1,13,10,0,1,0,0,0,0,0,0,0,0,0,strings
+Darko,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Darko,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,strings
+Darko,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Igor_Kudryashov,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Igor_Kudryashov,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Igor_Kudryashov,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Igor_Kudryashov,Lucky Segments,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+lucyfer,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lucyfer,Lucky Transformation,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,strings
+lucyfer,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+VladGavrila,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+VladGavrila,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+VladGavrila,Lucky Permutation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+edward_mj,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+edward_mj,Lucky Transformation,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+edward_mj,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+iensen,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+iensen,Lucky Transformation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+map,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+map,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,combinatorics,number theory"
+map,Lucky Array,0,E,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+fengzlzl,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fengzlzl,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+fengzlzl,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Moskupols,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Moskupols,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tavo92,Lucky Sum,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tavo92,Lucky Transformation,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,strings
+Nikolai,Lucky Sum,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nikolai,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Nikolai,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,combinatorics,number theory"
+paulocezar,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+paulocezar,Lucky Transformation,1,B,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,strings
+vanchope,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vanchope,Lucky Transformation,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+vanchope,Lucky Permutation,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+icyrhyme,Lucky Sum,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+icyrhyme,Lucky Transformation,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+iwiwi,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+iwiwi,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+iwiwi,Lucky Segments,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+iwiwi,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+iwiwi,Lucky Array,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+hs484,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hs484,Lucky Transformation,0,B,1,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,strings
+hs484,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+ZhouYuChen,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ZhouYuChen,Lucky Permutation,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+ZhouYuChen,Lucky Transformation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+kuzmichev_dima,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kuzmichev_dima,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kuzmichev_dima,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,combinatorics,number theory"
+tomcat,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tomcat,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+tomcat,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+ILJ,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ILJ,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ILJ,Lucky Permutation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+krhgg,Lucky Sum,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+krhgg,Lucky Transformation,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+krhgg,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+krhgg,Lucky Segments,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+mingrimingyue,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mingrimingyue,Lucky Transformation,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+mingrimingyue,Lucky Array,0,E,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,data structures
+riad,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+riad,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+riad,Lucky Permutation,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+reiracofage,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+reiracofage,Lucky Transformation,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+reiracofage,Lucky Permutation,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"brute force,combinatorics,number theory"
+Xazker,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Xazker,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Xazker,Lucky Array,1,E,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,data structures
+superpear,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+superpear,Lucky Transformation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+superpear,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+jskhirtladze,Lucky Sum,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+jskhirtladze,Lucky Transformation,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+marxi,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+marxi,Lucky Transformation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+marxi,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+AguL,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AguL,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+chyx,Lucky Sum,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+chyx,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+chyx,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+chyx,Lucky Array,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+Ramzes2,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ramzes2,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Ramzes2,Lucky Permutation,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Timus,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Timus,Lucky Transformation,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Timus,Lucky Array,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+mastersobg,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mastersobg,Lucky Transformation,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+mastersobg,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+mastersobg,Lucky Array,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Mehrdad,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mehrdad,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Mehrdad,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Goshish,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Goshish,Lucky Transformation,0,B,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,strings
+Goshish,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Mikes,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mikes,Lucky Transformation,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,strings
+lamphanviet,Lucky Sum,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+lamphanviet,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+masha,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+masha,Lucky Transformation,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,strings
+I-juice,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+I-juice,Lucky Transformation,1,B,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,strings
+AndreySiunov,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+AndreySiunov,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+AndreySiunov,Lucky Permutation,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Alchemist,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alchemist,Lucky Transformation,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+tereshinvs,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tereshinvs,Lucky Transformation,1,B,1,0,0,0,0,0,0,4,0,0,0,0,0,0,1,0,0,strings
+loveqinqin,Lucky Sum,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+loveqinqin,Lucky Transformation,1,B,1,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,strings
+loveqinqin,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+loveqinqin,Lucky Array,0,E,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,data structures
+Lancelot,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Lancelot,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+roypalacios,Lucky Sum,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+roypalacios,Lucky Transformation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+thocevar,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+thocevar,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+thocevar,Lucky Permutation,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+lenny,Lucky Sum,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lenny,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+anhdt,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+anhdt,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+anhdt,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Shapo,Lucky Transformation,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+Shapo,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shapo,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Shapo,Lucky Array,1,E,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,data structures
+garik,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+garik,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+garik,Lucky Segments,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+evgentu,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+evgentu,Lucky Sum,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+evgentu,Lucky Permutation,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+AlphaStream,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlphaStream,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+AlphaStream,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Alex-Gran,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alex-Gran,Lucky Transformation,0,B,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,strings
+Alex-Gran,Lucky Permutation,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Reshetnikov_Ivan,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Reshetnikov_Ivan,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Reshetnikov_Ivan,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+zhuxi,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhuxi,Lucky Transformation,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+zhuxi,Lucky Permutation,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+flowlight,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+flowlight,Lucky Transformation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+flowlight,Lucky Permutation,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Saimon_Saret,Lucky Sum,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Saimon_Saret,Lucky Transformation,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+bobogei81123,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bobogei81123,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+bobogei81123,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Obaida,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Obaida,Lucky Transformation,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ts10,Lucky Sum,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+ts10,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+standy,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+standy,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+standy,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+pperm,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pperm,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pperm,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+pperm,Lucky Array,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+imrankane2005,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+imrankane2005,Lucky Transformation,0,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,1,0,0,strings
+imrankane2005,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+anders.westling,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+anders.westling,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+nadeem,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nadeem,Lucky Transformation,1,B,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,strings
+nadeem,Lucky Permutation,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+darksta5,Lucky Sum,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+darksta5,Lucky Transformation,1,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,strings
+11fingers,Lucky Sum,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+11fingers,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+11fingers,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+ibra,Lucky Sum,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ibra,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ningbohezhijun,Lucky Sum,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+ningbohezhijun,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ningbohezhijun,Lucky Permutation,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+kamranm,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kamranm,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kamranm,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+natalia,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+natalia,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+natalia,Lucky Permutation,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+natalia,Lucky Array,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+hhoomn,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hhoomn,Lucky Transformation,1,B,1,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,strings
+hhoomn,Lucky Permutation,1,C,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+mcsharma1990,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mcsharma1990,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mcsharma1990,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+constkir,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+constkir,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+constkir,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+sakyalol,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sakyalol,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+sakyalol,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+xDDD,Lucky Sum,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+xDDD,Lucky Transformation,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,strings
+_jte_,Lucky Sum,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+_jte_,Lucky Transformation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+_jte_,Lucky Permutation,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+ksjuchi,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ksjuchi,Lucky Transformation,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ksjuchi,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+ICOA,Lucky Sum,0,A,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,implementation
+pauldb,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pauldb,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+pauldb,Lucky Permutation,1,C,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+mukel,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mukel,Lucky Transformation,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+mukel,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+sune2,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sune2,Lucky Transformation,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+sune2,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+yiyiyi4321,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yiyiyi4321,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ValenKof,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ValenKof,Lucky Transformation,1,B,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,strings
+Hossein_Hima,Lucky Sum,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+Hossein_Hima,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Hossein_Hima,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+liangjiaxing57,Lucky Sum,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+liangjiaxing57,Lucky Transformation,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+liangjiaxing57,Lucky Permutation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+pfctgeorge,Lucky Sum,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pfctgeorge,Lucky Transformation,1,B,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,strings
+riversouther,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+riversouther,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+riversouther,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Kasparyan_Mihail,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kasparyan_Mihail,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Kasparyan_Mihail,Lucky Permutation,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Depool,Lucky Sum,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Depool,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Depool,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+BECEJIb4AK_U,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BECEJIb4AK_U,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+BECEJIb4AK_U,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Tranvick,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tranvick,Lucky Transformation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+delta_4d,Lucky Sum,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+delta_4d,Lucky Transformation,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,strings
+evader,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+evader,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+evader,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+tclsm,Lucky Sum,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tclsm,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Fata1ist,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fata1ist,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Fata1ist,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+shinian,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shinian,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+shinian,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+carabet.cosmin,Lucky Sum,0,A,1,0,0,2,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+carabet.cosmin,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+carabet.cosmin,Lucky Permutation,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+zurg,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zurg,Lucky Transformation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+zurg,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+---Grigor---,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+---Grigor---,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+---Grigor---,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+TheRaven,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TheRaven,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+TheRaven,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+cjoa,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cjoa,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,strings
+luvlubb,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+luvlubb,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+luvlubb,Lucky Permutation,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Seemann,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Seemann,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Seemann,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+No.Wizard,Lucky Sum,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+No.Wizard,Lucky Transformation,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+No.Wizard,Lucky Permutation,0,C,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Nox,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nox,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Tariqul,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tariqul,Lucky Transformation,1,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,strings
+ali.mashreghi,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ali.mashreghi,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+dyussenaliyev,Lucky Sum,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+dyussenaliyev,Lucky Transformation,1,B,0,0,0,0,2,6,0,0,0,0,0,0,0,0,0,0,0,strings
+mrtempo,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mrtempo,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mrtempo,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+july,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+july,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+july,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+july,Lucky Array,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+songlj,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+songlj,Lucky Transformation,1,B,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,strings
+songlj,Lucky Permutation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+alexey.enkov,Lucky Transformation,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+alexey.enkov,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+alexey.enkov,Lucky Segments,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,implementation,two pointers"
+zgw,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zgw,Lucky Transformation,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+zgw,Lucky Permutation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,combinatorics,number theory"
+KapJI,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KapJI,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+wcwswswws,Lucky Sum,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wcwswswws,Lucky Transformation,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+wcwswswws,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+luyi0619,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+luyi0619,Lucky Transformation,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,strings
+luyi0619,Lucky Permutation,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+bloops,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bloops,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+bloops,Lucky Permutation,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Scientist1642,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Scientist1642,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+kaushik.mv3,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kaushik.mv3,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+lengly,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lengly,Lucky Transformation,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+lengly,Lucky Permutation,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+jki14,Lucky Sum,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+jki14,Lucky Transformation,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+jki14,Lucky Permutation,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+kormyshov,Lucky Transformation,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+kormyshov,Lucky Sum,1,A,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,implementation
+kormyshov,Lucky Permutation,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+hnu0314,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hnu0314,Lucky Transformation,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+hnu0314,Lucky Permutation,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+lordklotski,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lordklotski,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+lijunle,Lucky Sum,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+lijunle,Lucky Transformation,1,B,0,0,0,1,0,1,0,4,1,0,0,0,0,0,0,0,0,strings
+sas4eka,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sas4eka,Lucky Transformation,1,B,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,strings
+toi333,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+toi333,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+DDDDDDDDDDDDDDDDDDDDDDDD,Lucky Sum,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+DDDDDDDDDDDDDDDDDDDDDDDD,Lucky Array,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+DDDDDDDDDDDDDDDDDDDDDDDD,Lucky Transformation,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+Garret,Lucky Sum,0,A,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,implementation
+Garret,Lucky Transformation,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+ikk,Lucky Sum,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ikk,Lucky Transformation,1,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,strings
+johnLate,Lucky Transformation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,strings
+johnLate,Lucky Sum,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Qili,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Qili,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Qili,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+barty,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+barty,Lucky Transformation,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+barty,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+VladimirLi,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+VladimirLi,Lucky Transformation,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+VladimirLi,Lucky Permutation,0,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+tyamgin,Lucky Sum,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tyamgin,Lucky Transformation,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,strings
+AnnKats93,Lucky Sum,1,A,1,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+AnnKats93,Lucky Transformation,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,strings
+greedee,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+greedee,Lucky Transformation,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+VUAcoder,Lucky Sum,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,implementation
+VUAcoder,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+mihaha,Lucky Permutation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+mihaha,Lucky Sum,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+mihaha,Lucky Transformation,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+sillyboy,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sillyboy,Lucky Transformation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+sillyboy,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+kyuridenamida,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyuridenamida,Lucky Transformation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+DuX,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DuX,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+DuX,Lucky Permutation,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+willmetalufg,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+willmetalufg,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+willmetalufg,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,combinatorics,number theory"
+matushkin,Lucky Sum,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+matushkin,Lucky Transformation,1,B,1,0,0,0,1,1,0,2,0,0,0,0,0,0,1,0,0,strings
+vietnam,Lucky Transformation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+vietnam,Lucky Sum,1,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+vietnam,Lucky Permutation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+ilya.m,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ilya.m,Lucky Transformation,1,B,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,strings
+ilya.m,Lucky Permutation,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+ishikado,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ishikado,Lucky Transformation,1,B,0,0,0,0,0,4,0,1,2,0,0,0,0,0,0,0,0,strings
+yano0oyan,Lucky Sum,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+yano0oyan,Lucky Array,0,E,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,data structures
+tatsuhiro.t,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tatsuhiro.t,Lucky Transformation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+stafp,Lucky Sum,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+stafp,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+stafp,Lucky Permutation,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+xwings,Lucky Transformation,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+xwings,Lucky Sum,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xwings,Lucky Permutation,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+buaamm,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+buaamm,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+buaamm,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Icemore,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Icemore,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Icemore,Lucky Permutation,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+diogen,Lucky Sum,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+diogen,Lucky Transformation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+diogen,Lucky Permutation,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Shafaet,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shafaet,Lucky Transformation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+jonathanirvings,Lucky Sum,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+jonathanirvings,Lucky Transformation,1,B,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+bcurcio,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bcurcio,Lucky Transformation,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,strings
+evg-zhabotinsky,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+evg-zhabotinsky,Lucky Transformation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+AlexanderBolshakov,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlexanderBolshakov,Lucky Transformation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+AliD,Lucky Sum,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+AliD,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+alexej,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexej,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Ixanezis,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ixanezis,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Ixanezis,Lucky Permutation,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+EriKKo,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+EriKKo,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+natsugiri,Lucky Sum,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+natsugiri,Lucky Transformation,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,strings
+natsugiri,Lucky Permutation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+calculus.saransh,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+calculus.saransh,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+BogdanBugaev,Lucky Sum,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+BogdanBugaev,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Anarivu,Lucky Sum,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Anarivu,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,strings
+Nadezhda,Lucky Sum,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nadezhda,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Artishok,Lucky Sum,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Artishok,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+PanZverski,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PanZverski,Lucky Transformation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+PanZverski,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+KungA,Lucky Sum,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+KungA,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Nomad,Lucky Sum,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nomad,Lucky Transformation,1,B,0,0,0,2,0,1,0,0,0,0,0,0,0,0,1,0,0,strings
+Nomad,Lucky Permutation,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+ilya.korovin,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ilya.korovin,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+Jughead,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jughead,Lucky Transformation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+Jughead,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+guille,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+guille,Lucky Transformation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+guille,Lucky Permutation,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+svrsvr,Lucky Sum,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+svrsvr,Lucky Transformation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+domhow,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+domhow,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+domhow,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+251083874,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+251083874,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+thanabhat,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+thanabhat,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+miketcyue,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+miketcyue,Lucky Transformation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+toxahak,Lucky Sum,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+toxahak,Lucky Transformation,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,strings
+evgeny11,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+evgeny11,Lucky Transformation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,strings
+winterwolf94,Lucky Sum,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+winterwolf94,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+winterwolf94,Lucky Permutation,1,C,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+Sanya_M,Lucky Sum,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sanya_M,Lucky Transformation,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+DraG,Lucky Sum,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+DraG,Lucky Transformation,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+Ch0W,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ch0W,Lucky Transformation,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,strings
+hanfei19910905,Lucky Sum,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+hanfei19910905,Lucky Transformation,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,strings
+cakcups,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cakcups,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+amoc,Lucky Sum,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+amoc,Lucky Transformation,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,strings
+balakrishnan,Lucky Permutation,0,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+balakrishnan,Lucky Transformation,0,B,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,strings
+balakrishnan,Lucky Sum,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+I_love_natalia,Lucky Array,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+I_love_natalia,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+I_love_natalia,Lucky Sum,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+beyondxgb,Lucky Sum,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,implementation
+beyondxgb,Lucky Transformation,1,B,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,strings
+Respect2D,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Respect2D,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+bsrkaditya,Lucky Sum,1,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bsrkaditya,Lucky Transformation,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,strings
+AndreyP,Lucky Sum,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AndreyP,Lucky Transformation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,strings
+AndreyP,Lucky Permutation,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+alkaid,Lucky Sum,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+alkaid,Lucky Transformation,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,strings
+cpphamza,Lucky Permutation,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,combinatorics,number theory"
+cpphamza,Lucky Transformation,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,strings
+cpphamza,Lucky Sum,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wanghd,Lucky Sum,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation

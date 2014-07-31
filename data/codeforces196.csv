@@ -1,0 +1,976 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+RAVEman,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+RAVEman,Infinite Maze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+RAVEman,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+RAVEman,The Next Good String,0,D,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"data structures,greedy,hashing,strings"
+RAVEman,Opening Portals,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+Krig,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Krig,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Krig,Opening Portals,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+Egor,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Egor,Infinite Maze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Egor,Paint Tree,1,C,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Egor,Opening Portals,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+qwaker.00,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+qwaker.00,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+qwaker.00,Paint Tree,0,C,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Romka,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Romka,Infinite Maze,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,dfs and similar
+Romka,Paint Tree,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+al13n,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+al13n,Paint Tree,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+al13n,The Next Good String,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,hashing,strings"
+al13n,Opening Portals,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+al13n,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Bugman,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Bugman,Infinite Maze,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+Bugman,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+chnlich,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+chnlich,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dfs and similar
+chnlich,Paint Tree,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+chnlich,Opening Portals,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+Petr,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Petr,Infinite Maze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Petr,Paint Tree,0,C,1,0,0,0,6,0,0,2,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Petr,Opening Portals,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+sevenkplus,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sevenkplus,Infinite Maze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+sevenkplus,Paint Tree,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+sevenkplus,Opening Portals,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+sevenkplus,The Next Good String,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,hashing,strings"
+-DMYTRO-,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+-DMYTRO-,Paint Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+xlk,Lexicographically Maximum Subsequence,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+xlk,Infinite Maze,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+jonathanirvings,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jonathanirvings,Infinite Maze,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,2,0,0,0,dfs and similar
+shevchen,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shevchen,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+shevchen,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+tourist,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tourist,Infinite Maze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+tourist,Paint Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+tourist,Opening Portals,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+tourist,The Next Good String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,hashing,strings"
+Burunduk1,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Burunduk1,Paint Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Burunduk1,Opening Portals,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+Burunduk1,The Next Good String,1,D,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,hashing,strings"
+Burunduk1,Infinite Maze,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+aropan,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+aropan,Paint Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"divide and conquer,geometry,sortings,trees"
+aropan,Infinite Maze,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+aropan,Opening Portals,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+AleX,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AleX,Paint Tree,1,C,0,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+AleX,Infinite Maze,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+huyuanming11,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+huyuanming11,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+huyuanming11,Opening Portals,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+helThazar,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+helThazar,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Ra16bit,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ra16bit,Infinite Maze,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,dfs and similar
+Ra16bit,Paint Tree,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Fefer_Ivan,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Fefer_Ivan,Infinite Maze,0,B,0,0,0,0,0,4,0,0,1,0,0,0,0,2,0,0,0,dfs and similar
+Fefer_Ivan,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Fefer_Ivan,Opening Portals,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+sdryapko,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sdryapko,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+sdryapko,Paint Tree,0,C,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+muliguishou,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+muliguishou,Infinite Maze,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+muliguishou,Paint Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Mimino,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mimino,Infinite Maze,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+Mimino,Paint Tree,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+fushar,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+fushar,Infinite Maze,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+fushar,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+ryry56,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ryry56,Infinite Maze,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+WJMZBMR,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+WJMZBMR,Infinite Maze,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+WJMZBMR,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+WJMZBMR,Opening Portals,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+WJMZBMR,The Next Good String,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,hashing,strings"
+vagnard,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vagnard,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+vagnard,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Endagorion,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Endagorion,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Endagorion,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Endagorion,Opening Portals,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+superpear,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+superpear,Infinite Maze,0,B,0,0,0,1,1,3,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+superpear,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+PavelKunyavskiy,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+PavelKunyavskiy,Infinite Maze,0,B,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,dfs and similar
+PavelKunyavskiy,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+PavelKunyavskiy,The Next Good String,1,D,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,hashing,strings"
+Erop,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Erop,Infinite Maze,0,B,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,dfs and similar
+Erop,Paint Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Erop,Opening Portals,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+mR.ilchi,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mR.ilchi,Infinite Maze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+mR.ilchi,Paint Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+bayleef,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+bayleef,Infinite Maze,0,B,1,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,dfs and similar
+bayleef,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+yeputons,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yeputons,Infinite Maze,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+yeputons,Paint Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+yeputons,Opening Portals,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+YakumoYukari,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+YakumoYukari,Infinite Maze,1,B,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,dfs and similar
+tanzaku,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tanzaku,Infinite Maze,1,B,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+tanzaku,Paint Tree,0,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+tunyash,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tunyash,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+tunyash,Paint Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Dmitry_Egorov,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dmitry_Egorov,Infinite Maze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Dmitry_Egorov,Paint Tree,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Dmitry_Egorov,Opening Portals,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+cmd,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cmd,Infinite Maze,1,B,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+cmd,Paint Tree,0,C,0,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+lzqxh,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lzqxh,Infinite Maze,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+lzqxh,Opening Portals,0,E,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+vlad107,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vlad107,Infinite Maze,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+vlad107,Paint Tree,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+RAD,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+RAD,Infinite Maze,0,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dfs and similar
+RAD,Paint Tree,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+RAD,The Next Good String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,hashing,strings"
+RAD,Opening Portals,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+hydrastuff,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hydrastuff,Infinite Maze,1,B,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+hydrastuff,Paint Tree,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+hydrastuff,Opening Portals,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+Andrew_Makar,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Andrew_Makar,Infinite Maze,1,B,0,0,0,0,0,2,0,0,4,0,0,0,0,2,0,0,0,dfs and similar
+Andrew_Makar,Paint Tree,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+random.johnnyh,Lexicographically Maximum Subsequence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+random.johnnyh,Infinite Maze,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+random.johnnyh,Paint Tree,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+e-maxx,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+e-maxx,Infinite Maze,1,B,0,0,0,0,0,3,0,0,1,0,0,0,0,1,0,0,0,dfs and similar
+e-maxx,Paint Tree,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+e-maxx,The Next Good String,0,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,hashing,strings"
+sexyprincess91,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sexyprincess91,Paint Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+sexyprincess91,Infinite Maze,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+sexyprincess91,Opening Portals,0,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+rudradevbasak,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rudradevbasak,Infinite Maze,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+rudradevbasak,Paint Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+maksay,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+maksay,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+maksay,Paint Tree,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+maksay,Opening Portals,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+adrian.jaskolka,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+adrian.jaskolka,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+adrian.jaskolka,Paint Tree,1,C,0,0,0,1,0,8,0,3,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+subscriber,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+subscriber,Paint Tree,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+subscriber,Infinite Maze,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+heyihong,Lexicographically Maximum Subsequence,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+heyihong,Infinite Maze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+heyihong,Paint Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Rubanenko,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Rubanenko,Infinite Maze,1,B,0,0,0,0,0,0,0,0,6,0,0,0,0,2,0,0,0,dfs and similar
+aram90,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+aram90,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Sereja,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sereja,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Sereja,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+sdya,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sdya,Infinite Maze,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+sdya,Paint Tree,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+sdya,The Next Good String,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,hashing,strings"
+yongheng5871,Lexicographically Maximum Subsequence,1,A,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+yongheng5871,Infinite Maze,1,B,0,0,0,0,4,3,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+spnautilus,Lexicographically Maximum Subsequence,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+spnautilus,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+sune2,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sune2,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+havaliza,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+havaliza,Infinite Maze,0,B,1,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,dfs and similar
+havaliza,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+yarrr,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yarrr,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+seanwu,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+seanwu,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+seanwu,Paint Tree,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+haas,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+haas,Infinite Maze,1,B,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,dfs and similar
+haas,Paint Tree,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"divide and conquer,geometry,sortings,trees"
+Monyura,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Monyura,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+sankear,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sankear,Infinite Maze,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+sankear,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+sankear,Opening Portals,0,E,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+daizhenyang,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+daizhenyang,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+moreD,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+moreD,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+moreD,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+esrever,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+esrever,Infinite Maze,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+esrever,Paint Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+shilov,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shilov,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+shilov,Opening Portals,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+standy,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+standy,Infinite Maze,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,dfs and similar
+standy,Paint Tree,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+object022,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+object022,Infinite Maze,1,B,1,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+object022,Opening Portals,1,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+stubbscroll,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+stubbscroll,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+bjin,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+bjin,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+bjin,Paint Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+scottai1,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+scottai1,Infinite Maze,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+scottai1,Paint Tree,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+SergeyLazarev,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SergeyLazarev,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+piob,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+piob,Infinite Maze,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+piob,Paint Tree,0,C,0,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+This_poet,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+This_poet,Infinite Maze,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+Seyaua,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Seyaua,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+Seyaua,Paint Tree,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Shtrix,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shtrix,Infinite Maze,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+akashin,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+akashin,Infinite Maze,1,B,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,dfs and similar
+akashin,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+AlexDmitriev,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AlexDmitriev,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+AlexDmitriev,Paint Tree,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"divide and conquer,geometry,sortings,trees"
+tkcn,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tkcn,Infinite Maze,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,dfs and similar
+tkcn,Paint Tree,1,C,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+iloahz,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+iloahz,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+iloahz,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+iloahz,Opening Portals,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+Oryshych,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Oryshych,Infinite Maze,1,B,0,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,dfs and similar
+kormyshov,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kormyshov,Infinite Maze,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,dfs and similar
+kormyshov,Paint Tree,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+__tutankhamun__,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+__tutankhamun__,Infinite Maze,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+Fcdkbear,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Fcdkbear,Infinite Maze,1,B,0,0,0,0,1,3,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+Fcdkbear,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+-XraY-,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+-XraY-,Infinite Maze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+-XraY-,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+-XraY-,Opening Portals,1,E,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+wuzhengkai,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+wuzhengkai,Infinite Maze,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+wuzhengkai,Paint Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+wuzhengkai,Opening Portals,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+zetsubou,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zetsubou,Paint Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+zetsubou,Infinite Maze,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+zetsubou,Opening Portals,0,E,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+Proscriptus,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Proscriptus,Infinite Maze,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+Hinidu,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hinidu,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,dfs and similar
+Hinidu,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Pattara.S,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Pattara.S,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Pattara.S,Paint Tree,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+handojo1,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+handojo1,Paint Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+czy941030,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+czy941030,Infinite Maze,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+czy941030,Paint Tree,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+pva701,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pva701,Infinite Maze,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+yefllower,Lexicographically Maximum Subsequence,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+yefllower,Infinite Maze,0,B,0,0,0,0,0,7,0,0,3,0,0,0,0,1,0,0,0,dfs and similar
+fura2,Lexicographically Maximum Subsequence,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fura2,Infinite Maze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+fura2,Paint Tree,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+tsukuno,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tsukuno,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+tsukuno,Paint Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+tsukuno,The Next Good String,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,greedy,hashing,strings"
+OmniLRenegadE,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+OmniLRenegadE,Infinite Maze,1,B,0,0,0,0,3,3,0,1,0,0,0,0,0,1,0,0,0,dfs and similar
+eik0u,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+eik0u,Infinite Maze,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+kAc,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kAc,Infinite Maze,1,B,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+kAc,Paint Tree,0,C,0,0,0,0,0,5,0,3,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+uwi,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+uwi,Infinite Maze,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+uwi,Paint Tree,1,C,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Kharybin,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kharybin,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,dfs and similar
+ballon,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ballon,Paint Tree,1,C,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+UESTC_Defense,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+UESTC_Defense,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+UESTC_Defense,Opening Portals,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+Malinovsky239,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Malinovsky239,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+buithilien,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+buithilien,Infinite Maze,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+izban,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+izban,Infinite Maze,1,B,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+Frommi,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Frommi,Infinite Maze,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+Igor_Kudryashov,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Igor_Kudryashov,Infinite Maze,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Igor_Kudryashov,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+mzry1992,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mzry1992,Infinite Maze,1,B,0,0,0,0,1,0,0,2,0,0,0,0,0,2,0,0,0,dfs and similar
+DamianS,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DamianS,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+DamianS,Paint Tree,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+yh_victor,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yh_victor,Paint Tree,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+fcspartakm,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fcspartakm,Infinite Maze,1,B,0,0,0,3,1,7,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+kamranm,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kamranm,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+kamranm,Paint Tree,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+WXYZ,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+WXYZ,Infinite Maze,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+WXYZ,Paint Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+WXYZ,Opening Portals,0,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+naagi,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+naagi,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+coolinging,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+coolinging,Infinite Maze,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+coolinging,Paint Tree,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Mick,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mick,Infinite Maze,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Mick,Paint Tree,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+oimaster,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+oimaster,Infinite Maze,1,B,1,0,0,0,1,6,0,0,1,0,0,0,0,0,0,0,0,dfs and similar
+oimaster,Opening Portals,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,2,0,0,"dsu,graphs,shortest paths"
+moonlight131,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+moonlight131,Infinite Maze,1,B,0,0,0,0,0,18,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Kepnu4,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kepnu4,Infinite Maze,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,dfs and similar
+espr1t,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+espr1t,Infinite Maze,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+espr1t,Paint Tree,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+espr1t,Opening Portals,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+kuzmichev_dima,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kuzmichev_dima,Infinite Maze,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+kuzmichev_dima,Paint Tree,0,C,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+chavit,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+chavit,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"divide and conquer,geometry,sortings,trees"
+S.Yesipenko,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+S.Yesipenko,Infinite Maze,1,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+shinian,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shinian,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+zpl1,Lexicographically Maximum Subsequence,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zpl1,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+zpl1,Infinite Maze,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+dhh1995,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dhh1995,Infinite Maze,1,B,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+zcwwzdjn,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zcwwzdjn,Infinite Maze,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,0,dfs and similar
+AguL,Lexicographically Maximum Subsequence,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AguL,Infinite Maze,1,B,0,0,0,2,0,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+Chmel_Tolstiy,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Chmel_Tolstiy,Infinite Maze,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+Chmel_Tolstiy,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Witalia,Lexicographically Maximum Subsequence,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Witalia,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+Witalia,Paint Tree,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+buko,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+buko,Infinite Maze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+buko,Paint Tree,1,C,1,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,"divide and conquer,geometry,sortings,trees"
+knightL,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+knightL,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+knightL,Paint Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+kraskevich,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kraskevich,Paint Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"divide and conquer,geometry,sortings,trees"
+kraskevich,Infinite Maze,0,B,0,0,0,0,0,2,0,0,7,0,0,0,0,2,0,0,0,dfs and similar
+hasi,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hasi,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+fura,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fura,Infinite Maze,1,B,0,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,dfs and similar
+kyuridenamida,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kyuridenamida,Infinite Maze,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+AlexFetisov,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AlexFetisov,Infinite Maze,1,B,0,0,0,0,0,13,0,0,1,0,0,0,0,2,0,0,0,dfs and similar
+Gassa,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gassa,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Gassa,Paint Tree,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+xiaodao,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xiaodao,Infinite Maze,1,B,1,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,dfs and similar
+xiaodao,The Next Good String,1,D,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"data structures,greedy,hashing,strings"
+fjxmlhx,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fjxmlhx,Infinite Maze,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+fjxmlhx,Paint Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+xay,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xay,Infinite Maze,1,B,0,0,0,0,0,1,0,0,2,0,0,0,0,1,0,0,0,dfs and similar
+xay,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+komiya,Lexicographically Maximum Subsequence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+komiya,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+komiya,Paint Tree,1,C,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Riatre,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Riatre,Infinite Maze,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,2,0,0,0,dfs and similar
+mr146,Lexicographically Maximum Subsequence,1,A,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+mr146,Infinite Maze,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+mr146,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+pzzxj,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pzzxj,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+pzzxj,Paint Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+michal27,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+michal27,Infinite Maze,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+EllipsisDweller,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+EllipsisDweller,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+hytirt,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hytirt,Infinite Maze,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Omar_ElAzazy,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yaro,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yaro,Infinite Maze,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+yaro,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+yaro,Opening Portals,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+hadi,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hadi,Infinite Maze,1,B,0,0,0,0,0,2,0,1,3,0,0,0,0,1,0,0,0,dfs and similar
+hadi,Paint Tree,0,C,0,0,0,0,0,2,0,8,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+kyo_key,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kyo_key,Infinite Maze,1,B,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+kyo_key,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+tjmtss,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tjmtss,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+tjmtss,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+chun10161991,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+chun10161991,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+lazylie,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lazylie,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+lazylie,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+piotr.kukla,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+piotr.kukla,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+flashmt,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+flashmt,Infinite Maze,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+flashmt,Opening Portals,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+portal,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+portal,Infinite Maze,1,B,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,dfs and similar
+portal,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"divide and conquer,geometry,sortings,trees"
+stgatilov,Lexicographically Maximum Subsequence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+stgatilov,Infinite Maze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+stgatilov,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+ptrrsn_1,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ptrrsn_1,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ptrrsn_1,Paint Tree,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+cheshire_cat,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cheshire_cat,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+cheshire_cat,Paint Tree,1,C,0,0,0,1,0,5,0,3,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+pashkal,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pashkal,Infinite Maze,1,B,1,0,0,0,0,4,0,6,0,0,0,0,0,0,0,0,0,dfs and similar
+lyoz,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lyoz,Infinite Maze,1,B,1,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,dfs and similar
+FattyPenguin,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+FattyPenguin,Infinite Maze,1,B,0,0,0,0,0,5,0,0,2,0,0,0,0,2,0,0,0,dfs and similar
+MarioYC,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MarioYC,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+cjtoribio,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cjtoribio,Infinite Maze,0,B,0,0,0,0,1,4,0,0,1,0,0,0,0,1,0,0,0,dfs and similar
+cjtoribio,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+riad,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+riad,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+riad,Paint Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+LGM,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+LGM,Infinite Maze,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+LGM,Paint Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+windy7926778,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+windy7926778,Infinite Maze,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+windy7926778,Paint Tree,1,C,1,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,"divide and conquer,geometry,sortings,trees"
+ZhouYuChen,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ZhouYuChen,Paint Tree,1,C,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+qwerty787788,Lexicographically Maximum Subsequence,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+qwerty787788,Infinite Maze,1,B,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,dfs and similar
+qwerty787788,Paint Tree,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+ib18,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ib18,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ib18,Paint Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+barty,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+barty,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+barty,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+R_R_,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+R_R_,Infinite Maze,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+R_R_,Paint Tree,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Borisp,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Borisp,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Borisp,Paint Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Borisp,Opening Portals,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+Shef,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shef,Infinite Maze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Shef,Paint Tree,1,C,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Merlininice,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Merlininice,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+chEEtah,Lexicographically Maximum Subsequence,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+chEEtah,Infinite Maze,1,B,1,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,0,dfs and similar
+chEEtah,Paint Tree,1,C,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+KADR,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KADR,Infinite Maze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+KADR,Paint Tree,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+KADR,Opening Portals,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+yoh149,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yoh149,Infinite Maze,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+yoh149,Paint Tree,0,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+point3251,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+point3251,Infinite Maze,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+marcin_smu,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+marcin_smu,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+marcin_smu,Paint Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Cyin,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Cyin,Infinite Maze,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+SkyHawk,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SkyHawk,Infinite Maze,1,B,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+SkyHawk,Paint Tree,0,C,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+asembl,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+asembl,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,dfs and similar
+asembl,Paint Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+witua,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+witua,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+witua,Paint Tree,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+yvasyliv,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yvasyliv,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+yvasyliv,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+salex,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+salex,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+nathanajah,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nathanajah,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+nathanajah,Paint Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+jyliu27,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jyliu27,Infinite Maze,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+jyliu27,Opening Portals,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+not,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+not,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+NuM,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NuM,Paint Tree,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+NuM,Infinite Maze,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+dancho,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dancho,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+D.M.,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+D.M.,Paint Tree,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+D.M.,The Next Good String,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,hashing,strings"
+GeKa,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+GeKa,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+fmm,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fmm,Infinite Maze,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+fmm,Paint Tree,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+tigvarts,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tigvarts,Paint Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+tigvarts,Opening Portals,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+suhang1994,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+suhang1994,Infinite Maze,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+_M_,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+_M_,Paint Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+edly,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+edly,Infinite Maze,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ryanaaa,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ryanaaa,Infinite Maze,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+flydutchman,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+flydutchman,Infinite Maze,1,B,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+flydutchman,Paint Tree,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+jiangzhijie,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jiangzhijie,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+RomaWhite,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+RomaWhite,Infinite Maze,1,B,0,0,0,2,0,4,0,4,0,0,0,0,0,0,0,0,0,dfs and similar
+dani1373,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dani1373,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+dani1373,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+buaagg,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+buaagg,Infinite Maze,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+simp1eton,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+simp1eton,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+simp1eton,Opening Portals,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+it4.kp,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+it4.kp,Infinite Maze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+it4.kp,Paint Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Kornacker,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kornacker,Infinite Maze,1,B,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,dfs and similar
+Kornacker,Paint Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+steiner,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+steiner,Infinite Maze,1,B,0,0,0,1,1,4,0,0,2,0,0,0,0,1,0,0,0,dfs and similar
+xujie,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xujie,Infinite Maze,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+xujie,Paint Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"divide and conquer,geometry,sortings,trees"
+kolesov93,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kolesov93,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+kolesov93,Paint Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+poopi,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+poopi,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+domhow,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+domhow,Infinite Maze,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Fata1ist,Lexicographically Maximum Subsequence,0,A,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Fata1ist,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dfs and similar
+zhanyl,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zhanyl,Infinite Maze,1,B,0,0,0,0,0,8,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+HolkinPV,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+HolkinPV,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+olpetOdessaONU,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+olpetOdessaONU,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+olpetOdessaONU,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+khanhptnk,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+khanhptnk,Infinite Maze,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+khanhptnk,Paint Tree,1,C,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+cheezer,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+cheezer,Infinite Maze,1,B,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,dfs and similar
+cheezer,Paint Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+mengpq,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+acherepanov,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+acherepanov,Infinite Maze,0,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dfs and similar
+acherepanov,Opening Portals,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+dut200901102,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dut200901102,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+Hadi_Asiaie,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hadi_Asiaie,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+Hadi_Asiaie,Paint Tree,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+cuperman,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cuperman,Infinite Maze,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+PanZverski,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+PanZverski,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+maximkoval,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+maximkoval,Infinite Maze,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+maximkoval,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+maximkoval,Opening Portals,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+UESTC_Nocturne,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+UESTC_Nocturne,Infinite Maze,1,B,0,0,0,0,0,4,0,1,1,0,0,0,0,1,0,0,0,dfs and similar
+Ixanezis,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ixanezis,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+Toshik,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Toshik,Infinite Maze,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+constkir,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+constkir,Paint Tree,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Archon.JK,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Archon.JK,Infinite Maze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Archon.JK,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Archon.JK,Opening Portals,1,E,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+carlop,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+carlop,Infinite Maze,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ahmed_aly,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ahmed_aly,Infinite Maze,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+YaoZ,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+YaoZ,Infinite Maze,1,B,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,dfs and similar
+Deamon,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Deamon,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Deamon,Infinite Maze,1,B,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,dfs and similar
+IlyaCk,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+IlyaCk,Infinite Maze,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Kostroma,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kostroma,Infinite Maze,1,B,0,0,0,0,0,8,0,0,2,0,0,0,0,2,0,0,0,dfs and similar
+CleRIC,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+CleRIC,Infinite Maze,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+cjLD,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cjLD,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+cjLD,Paint Tree,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+wRabbits_AlMag,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+wRabbits_AlMag,Infinite Maze,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+ArtemKadeev,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ArtemKadeev,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ArtemKadeev,Paint Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+jskhirtladze,Lexicographically Maximum Subsequence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+jskhirtladze,Infinite Maze,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+c_loud26,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+c_loud26,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+freak93,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+freak93,Infinite Maze,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+freak93,Paint Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Timur_Sitdikov,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Timur_Sitdikov,Infinite Maze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Timur_Sitdikov,Paint Tree,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+guille,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+guille,Infinite Maze,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+guille,Paint Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+ghostplant,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ghostplant,Infinite Maze,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+sniper0221,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sniper0221,Infinite Maze,1,B,0,0,0,0,0,1,0,2,0,0,0,0,0,2,0,0,0,dfs and similar
+Martial,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Martial,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+malcolm,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+malcolm,Paint Tree,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+MaxBuzz,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MaxBuzz,Infinite Maze,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+MaxBuzz,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+MaxBuzz,Opening Portals,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+Depool,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Depool,Infinite Maze,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+fenzhang,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fenzhang,Infinite Maze,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+fenzhang,Paint Tree,1,C,1,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+dzhioev,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+trungda,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,greedy
+nakari1124,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+luyi0619,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+luyi0619,Infinite Maze,1,B,0,0,0,0,0,3,0,1,0,0,0,0,0,1,0,0,0,dfs and similar
+balakrishnan,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+balakrishnan,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Captain_CoCo,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Captain_CoCo,Infinite Maze,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+Captain_CoCo,Paint Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Cenadar,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Cenadar,Infinite Maze,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+shettynamit,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shettynamit,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+iensen,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+iensen,Infinite Maze,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+AlexanderBolshakov,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AlexanderBolshakov,Infinite Maze,1,B,0,0,0,0,1,1,0,0,1,0,0,0,0,1,0,0,0,dfs and similar
+AlexanderBolshakov,Opening Portals,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+ilya.korovin,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ilya.korovin,Infinite Maze,1,B,0,0,0,0,1,3,0,0,1,0,0,0,0,1,0,0,0,dfs and similar
+mruxim,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+mruxim,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+mruxim,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+lydrainbowcat,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lydrainbowcat,Infinite Maze,1,B,0,0,0,0,1,3,0,0,0,0,0,0,0,2,0,0,0,dfs and similar
+Anarivu,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Anarivu,Infinite Maze,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+dlhham,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dlhham,Infinite Maze,1,B,0,0,0,0,0,16,0,0,9,0,0,0,0,2,0,0,0,dfs and similar
+Neil,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Neil,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+Neil,Paint Tree,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+fcjy888,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fcjy888,Infinite Maze,1,B,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,dfs and similar
+cfjhzcb,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cfjhzcb,Infinite Maze,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+yukim,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yukim,Infinite Maze,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+yukim,Paint Tree,1,C,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+MorningSYJ,Lexicographically Maximum Subsequence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+MorningSYJ,Infinite Maze,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+MorningSYJ,Paint Tree,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+L7we,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+L7we,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+LinKin,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+LinKin,Infinite Maze,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Simplex,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Simplex,Infinite Maze,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+justever,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+justever,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Logic_IU,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Logic_IU,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+Logic_IU,Paint Tree,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+shef_2318,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shef_2318,Infinite Maze,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+haxxpop,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+haxxpop,Infinite Maze,1,B,0,0,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+csimstu,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+csimstu,Infinite Maze,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+csimstu,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+at1,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+at1,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+at1,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+y346491470,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+y346491470,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+1guangnian,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+1guangnian,Infinite Maze,1,B,0,0,0,0,0,8,0,0,1,0,0,0,0,0,0,0,0,dfs and similar
+brokenwing,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+brokenwing,Infinite Maze,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,dfs and similar
+Sphinx,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sphinx,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+emo,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+emo,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+mgqa34,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mgqa34,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+mgqa34,Paint Tree,0,C,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+AlTimin,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AlTimin,Paint Tree,1,C,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+paulocezar,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+paulocezar,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+frp,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+frp,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+jimon,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jimon,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+jimon,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+jimon,Opening Portals,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+KAN,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KAN,Infinite Maze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+KAN,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Darko,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Darko,Infinite Maze,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+JFantasy,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+JFantasy,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+wyest,Lexicographically Maximum Subsequence,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+wyest,Infinite Maze,1,B,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,dfs and similar
+wyest,The Next Good String,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy,hashing,strings"
+wyest,Opening Portals,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+pratikmoona,Lexicographically Maximum Subsequence,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pratikmoona,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+Azras,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Azras,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Azras,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Zlobober,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,greedy
+Zlobober,Infinite Maze,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Zlobober,Paint Tree,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Tomik,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Tomik,Infinite Maze,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+lne,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Abra,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Abra,Infinite Maze,1,B,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,dfs and similar
+Abra,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Pad,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+renisfan,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+renisfan,Infinite Maze,1,B,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,dfs and similar
+yjulica,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yjulica,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+ErzhanDS,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ErzhanDS,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+z__jj,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+z__jj,Infinite Maze,1,B,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,dfs and similar
+hustlike,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hustlike,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ningbohezhijun,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ningbohezhijun,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+Restart,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Restart,Infinite Maze,1,B,0,0,0,0,3,2,0,0,1,0,0,0,0,1,0,0,0,dfs and similar
+alexey.shchepin,Lexicographically Maximum Subsequence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+alexey.shchepin,Infinite Maze,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+choice,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+choice,Infinite Maze,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,dfs and similar
+Ch0W,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ch0W,Infinite Maze,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Leoyu,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Leoyu,Infinite Maze,1,B,0,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,dfs and similar
+Battle_Mage,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Battle_Mage,Infinite Maze,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+Battle_Mage,Opening Portals,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+mcsharma1990,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mcsharma1990,Infinite Maze,1,B,1,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,dfs and similar
+atetubou,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+atetubou,Paint Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+dimatomp,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+dimatomp,Infinite Maze,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+alexej,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alexej,Infinite Maze,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+iroro,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+iroro,Paint Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+AstroConjecture,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AstroConjecture,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+lavin,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lavin,Infinite Maze,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+lavin,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Slamur,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Slamur,Infinite Maze,1,B,0,0,0,0,0,4,0,0,2,0,0,0,0,0,0,0,0,dfs and similar
+etendren,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+etendren,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+go_zyw,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+go_zyw,Infinite Maze,1,B,1,0,0,0,0,7,0,1,1,0,0,0,0,0,0,0,0,dfs and similar
+KirillB,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KirillB,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,3,0,0,0,dfs and similar
+KirillB,Paint Tree,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+alex_tolstov,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+whitetooth,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+whitetooth,Infinite Maze,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+whitetooth,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Creed,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Creed,Infinite Maze,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+---Grigor---,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+---Grigor---,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+MaiorPe,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MaiorPe,Infinite Maze,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+bloops,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+bloops,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+bloops,Paint Tree,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+grey_wind,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+grey_wind,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Sammarize,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sammarize,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+peterae86,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+peterae86,Infinite Maze,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+Qili,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Qili,Infinite Maze,1,B,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+phtniit,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+phtniit,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+hos.lyric,Paint Tree,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+hos.lyric,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hos.lyric,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+YX201314,Lexicographically Maximum Subsequence,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+YX201314,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+YX201314,Paint Tree,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"divide and conquer,geometry,sortings,trees"
+Kostyazz,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+Kostyazz,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+xkszltl,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xkszltl,Infinite Maze,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ItsLastDay,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ItsLastDay,Infinite Maze,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ronaflx,Infinite Maze,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+ronaflx,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+HwangScornedAsianTeams,Lexicographically Maximum Subsequence,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+HwangScornedAsianTeams,Infinite Maze,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+lisang,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lisang,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+zanoes,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zanoes,Infinite Maze,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+zanoes,Paint Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"divide and conquer,geometry,sortings,trees"
+dreamoon,Infinite Maze,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+dreamoon,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dreamoon,Paint Tree,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+alexander.musman,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alexander.musman,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+yenthanh.t7,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yenthanh.t7,Infinite Maze,1,B,0,0,0,0,0,14,0,0,0,2,0,0,0,1,0,0,0,dfs and similar
+Troy1118,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Troy1118,Infinite Maze,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+ts10,Lexicographically Maximum Subsequence,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+ts10,Infinite Maze,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+ADJA,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ADJA,Infinite Maze,1,B,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+cgy4ever,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cgy4ever,Infinite Maze,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+cgy4ever,Paint Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+cgy4ever,Opening Portals,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+evima,Lexicographically Maximum Subsequence,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+evima,Infinite Maze,1,B,0,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+azaky,Lexicographically Maximum Subsequence,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+azaky,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+azaky,Paint Tree,0,C,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+zayhero,Lexicographically Maximum Subsequence,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+zayhero,Infinite Maze,1,B,0,0,0,1,5,3,0,0,1,0,0,0,0,1,0,0,0,dfs and similar
+zayhero,Paint Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+HJWAJ,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+HJWAJ,Infinite Maze,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dfs and similar
+abcsampson,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+abcsampson,Infinite Maze,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+arti1990,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+arti1990,Infinite Maze,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Timur_Keks,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Timur_Keks,Infinite Maze,1,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Conny,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Conny,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+dani93.f,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+dani93.f,Infinite Maze,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+shadow_codeforces,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+shadow_codeforces,Infinite Maze,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Martin,Paint Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+Martin,Opening Portals,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+Martin,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Aksenov239,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Aksenov239,Infinite Maze,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+MBabin,Opening Portals,0,E,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+MBabin,Paint Tree,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"divide and conquer,geometry,sortings,trees"
+MBabin,Lexicographically Maximum Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hirosegolf,Opening Portals,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,graphs,shortest paths"
+hirosegolf,Lexicographically Maximum Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hirosegolf,Infinite Maze,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar

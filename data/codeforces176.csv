@@ -1,0 +1,621 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+AleX,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+AleX,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+AleX,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+KADR,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+KADR,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+KADR,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+vepifanov,Trading Business,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+vepifanov,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+vepifanov,Playing with Superglue,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+vepifanov,Hyper String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+0O0o00OO0Oo0o0Oo,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+0O0o00OO0Oo0o0Oo,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+0O0o00OO0Oo0o0Oo,Playing with Superglue,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+0O0o00OO0Oo0o0Oo,Hyper String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+SergeyRogulenko,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+SergeyRogulenko,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+SergeyRogulenko,Playing with Superglue,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,constructive algorithms"
+al13n,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+al13n,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+al13n,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+Nerevar,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Nerevar,Word Cut,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Nerevar,Playing with Superglue,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+ll931110,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+ll931110,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ll931110,Hyper String,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ll931110,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+sdya,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+sdya,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sdya,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+sdya,Hyper String,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+SergeiFedorov,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+SergeiFedorov,Word Cut,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+SergeiFedorov,Playing with Superglue,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+winger,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+winger,Playing with Superglue,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+winger,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+winger,Hyper String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+winger,Archaeology,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+espr1t,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+espr1t,Playing with Superglue,0,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+espr1t,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+bayleef,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+bayleef,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+bayleef,Hyper String,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+qwaker.00,Trading Business,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+qwaker.00,Word Cut,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+qwaker.00,Playing with Superglue,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,"combinatorics,constructive algorithms"
+qwaker.00,Hyper String,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Dener,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Dener,Word Cut,1,B,0,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,dp
+Dener,Playing with Superglue,0,C,0,0,0,0,0,8,0,0,0,0,0,0,0,2,0,0,0,"combinatorics,constructive algorithms"
+Gassa,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Gassa,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Gassa,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+homo_sapiens,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+homo_sapiens,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+homo_sapiens,Playing with Superglue,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+Jokser,Trading Business,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Jokser,Word Cut,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Jokser,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+LayCurse,Trading Business,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+LayCurse,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+LayCurse,Playing with Superglue,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+LayCurse,Hyper String,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Fdg,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Fdg,Word Cut,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Fdg,Playing with Superglue,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+coolinging,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+coolinging,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+coolinging,Playing with Superglue,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+coolinging,Hyper String,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+VArtem,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+VArtem,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Archon.JK,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Archon.JK,Word Cut,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Archon.JK,Hyper String,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Dmitry_Egorov,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Dmitry_Egorov,Word Cut,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+Dmitry_Egorov,Playing with Superglue,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+Dmitry_Egorov,Hyper String,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+AlexFetisov,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+AlexFetisov,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+AlexFetisov,Playing with Superglue,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+NALP,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+NALP,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+NALP,Hyper String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+NALP,Playing with Superglue,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+GlebsHP,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+GlebsHP,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+GlebsHP,Playing with Superglue,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+GlebsHP,Hyper String,1,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+eatmore,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+eatmore,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+eatmore,Hyper String,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+eatmore,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+Malinovsky239,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Malinovsky239,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Malinovsky239,Playing with Superglue,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+fetetriste,Trading Business,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+fetetriste,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+fetetriste,Playing with Superglue,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+hmich,Trading Business,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+hmich,Word Cut,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,dp
+hmich,Playing with Superglue,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+hmich,Hyper String,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+cgy4ever,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+cgy4ever,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+cgy4ever,Playing with Superglue,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,"combinatorics,constructive algorithms"
+Kepnu4,Trading Business,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"greedy,sortings"
+Kepnu4,Word Cut,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Kepnu4,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+chnlich,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+chnlich,Word Cut,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+chnlich,Playing with Superglue,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,0,"combinatorics,constructive algorithms"
+chnlich,Hyper String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+freopen,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+freopen,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+freopen,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+IlyaLos,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+IlyaLos,Word Cut,1,B,1,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,dp
+jiangzhijie,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+jiangzhijie,Playing with Superglue,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+jiangzhijie,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Shik,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,sortings"
+Shik,Word Cut,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Shik,Playing with Superglue,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+Shik,Hyper String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ashmelev,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+ashmelev,Playing with Superglue,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+ashmelev,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ashmelev,Hyper String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Mex-Mans,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Mex-Mans,Word Cut,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Seyaua,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Seyaua,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Seyaua,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+yarrr,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+yarrr,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+yarrr,Hyper String,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+GagGuy,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+GagGuy,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+GagGuy,Hyper String,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+liympanda,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+liympanda,Word Cut,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+liympanda,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+liympanda,Hyper String,1,D,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,dp
+Fire,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Fire,Hyper String,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Fire,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Fire,Playing with Superglue,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+craus,Trading Business,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+craus,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+craus,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+_meshanya_,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+_meshanya_,Word Cut,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+_meshanya_,Hyper String,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dreamoon,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dreamoon,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+dreamoon,Playing with Superglue,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+vsb,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+vsb,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,dp
+vsb,Playing with Superglue,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+Ra16bit,Trading Business,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Ra16bit,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Ra16bit,Playing with Superglue,1,C,1,0,0,1,0,4,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+knightL,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+knightL,Word Cut,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+nijiushibudong,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+nijiushibudong,Playing with Superglue,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+nijiushibudong,Word Cut,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+nijiushibudong,Hyper String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Alexus,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Alexus,Word Cut,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+kmxyvb,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+kmxyvb,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kmxyvb,Hyper String,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,dp
+AlexDmitriev,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+AlexDmitriev,Word Cut,0,B,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+AlexDmitriev,Playing with Superglue,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+JalbaRu,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+JalbaRu,Playing with Superglue,1,C,1,0,0,0,0,7,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+JalbaRu,Word Cut,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+dancho,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dancho,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+dancho,Playing with Superglue,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,constructive algorithms"
+dancho,Hyper String,1,D,0,0,0,0,0,1,0,1,2,0,0,0,0,0,1,0,0,dp
+Monyura,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Monyura,Word Cut,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Monyura,Playing with Superglue,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+kelvin,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+kelvin,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kelvin,Playing with Superglue,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+kelvin,Hyper String,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+evgentu,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+evgentu,Word Cut,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+evgentu,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+xukaiwen,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+wjomlex,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+wjomlex,Word Cut,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+wjomlex,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+aropan,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+aropan,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+aropan,Playing with Superglue,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+MarioYC,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+MarioYC,Word Cut,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+MarioYC,Playing with Superglue,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+HolkinPV,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+HolkinPV,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Hinidu,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Hinidu,Word Cut,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Hinidu,Playing with Superglue,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+aram90,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+aram90,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+aram90,Playing with Superglue,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+gen,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+gen,Word Cut,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+gen,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+simp1eton,Trading Business,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+simp1eton,Word Cut,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+simp1eton,Playing with Superglue,1,C,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+elizarov,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+elizarov,Playing with Superglue,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+elizarov,Word Cut,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+yaro,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+yaro,Word Cut,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+yaro,Hyper String,1,D,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+yaro,Playing with Superglue,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+SobolS,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+SobolS,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+SobolS,Playing with Superglue,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+matejbalog,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+matejbalog,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+matejbalog,Playing with Superglue,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+sune2,Trading Business,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"greedy,sortings"
+sune2,Word Cut,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+DStepanenko,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+DStepanenko,Playing with Superglue,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+DStepanenko,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+SuBaRaSi,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+SuBaRaSi,Word Cut,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+SuBaRaSi,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+SuBaRaSi,Hyper String,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Igor_Kudryashov,Word Cut,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Igor_Kudryashov,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Igor_Kudryashov,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+kormyshov,Trading Business,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+kormyshov,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kormyshov,Hyper String,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+R_R_,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+R_R_,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+R_R_,Playing with Superglue,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+Avalanche,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Avalanche,Word Cut,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+ballon,Trading Business,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+ballon,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ballon,Playing with Superglue,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+flashmt,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+flashmt,Word Cut,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+flashmt,Playing with Superglue,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+flashmt,Hyper String,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+navi,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+navi,Word Cut,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+navi,Playing with Superglue,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+wangchaohui,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+wangchaohui,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+wangchaohui,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+rinigan,Trading Business,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+rinigan,Word Cut,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+rinigan,Playing with Superglue,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+helThazar,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+helThazar,Playing with Superglue,0,C,0,0,0,1,0,4,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+helThazar,Word Cut,1,B,1,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,0,dp
+SkyHawk,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+SkyHawk,Word Cut,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+SkyHawk,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+SkyHawk,Hyper String,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+SpookyCookie,Trading Business,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+SpookyCookie,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+SpookyCookie,Playing with Superglue,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+l.j.q.light,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+l.j.q.light,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+l.j.q.light,Playing with Superglue,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+chiemduybao,Trading Business,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+chiemduybao,Word Cut,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Cepera,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Cepera,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Cepera,Playing with Superglue,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+al_maz,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+al_maz,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+al_maz,Playing with Superglue,1,C,0,0,0,0,0,5,0,1,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+sankear,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+sankear,Word Cut,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+sankear,Archaeology,1,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,trees"
+Vasya.V,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Vasya.V,Word Cut,1,B,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,dp
+Aleksander,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Aleksander,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Aleksander,Playing with Superglue,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+ikar,Trading Business,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+ikar,Word Cut,1,B,0,0,0,0,0,5,0,3,0,0,0,0,0,1,0,0,0,dp
+romanandreev,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+romanandreev,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+romanandreev,Playing with Superglue,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,constructive algorithms"
+dmitrydyatlov,Trading Business,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+dmitrydyatlov,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dmitrydyatlov,Playing with Superglue,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+frozenbear,Trading Business,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+frozenbear,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+frozenbear,Playing with Superglue,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+fastblood,Trading Business,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+fastblood,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+fastblood,Playing with Superglue,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+Martin,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Martin,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Martin,Playing with Superglue,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+Martin,Hyper String,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+vot,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+vot,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+vot,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+orangenius,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+orangenius,Playing with Superglue,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+Vedensky,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Vedensky,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Vedensky,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+Stansilav,Trading Business,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Stansilav,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Stansilav,Playing with Superglue,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+SergeyLazarev,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+SergeyLazarev,Playing with Superglue,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+SergeyLazarev,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Ilya_MSU,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Ilya_MSU,Word Cut,0,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Ilya_MSU,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+zjut_DD,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+zjut_DD,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+zjut_DD,Playing with Superglue,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+shilov,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+shilov,Playing with Superglue,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+windy7926778,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+windy7926778,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ytau,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+ytau,Hyper String,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ytau,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Taygrim,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Taygrim,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+Taygrim,Playing with Superglue,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,2,0,0,0,"combinatorics,constructive algorithms"
+udalov,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+udalov,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+udalov,Playing with Superglue,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,2,0,0,0,"combinatorics,constructive algorithms"
+Sinner,Trading Business,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Sinner,Word Cut,1,B,0,0,0,0,0,1,0,2,0,0,0,0,0,0,1,0,0,dp
+Proscriptus,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Proscriptus,Word Cut,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Proscriptus,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+soundsdx,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+soundsdx,Word Cut,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+v.haralampiev,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+v.haralampiev,Word Cut,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+v.haralampiev,Playing with Superglue,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+zanoes,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+zanoes,Word Cut,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+zanoes,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+lxyxynt,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+lxyxynt,Word Cut,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+lxyxynt,Hyper String,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+lxyxynt,Playing with Superglue,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+maos,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+maos,Word Cut,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+mipt.vi002,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+lightning,Trading Business,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+lightning,Playing with Superglue,1,C,0,0,0,0,1,8,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+lightning,Word Cut,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+apathism,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+apathism,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+apathism,Playing with Superglue,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+Endagorion,Trading Business,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Endagorion,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Endagorion,Playing with Superglue,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"combinatorics,constructive algorithms"
+DAle,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,sortings"
+DAle,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+fura2,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+fura2,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+fura2,Playing with Superglue,1,C,1,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+Crush,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Crush,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+Crush,Playing with Superglue,1,C,1,0,0,0,0,7,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+DPR-pavlin,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+DPR-pavlin,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+neex.emil,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+neex.emil,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+neex.emil,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+sakyalol,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+sakyalol,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sakyalol,Playing with Superglue,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+Zhukov_Dmitry,Playing with Superglue,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+Zhukov_Dmitry,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Zhukov_Dmitry,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Zhukov_Dmitry,Hyper String,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+CleRIC,Trading Business,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+VArt,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+VArt,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+VArt,Playing with Superglue,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+Kokos,Trading Business,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Kokos,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Kokos,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+Sammarize,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Sammarize,Word Cut,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Sammarize,Playing with Superglue,1,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+zlfengyi1,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,sortings"
+zlfengyi1,Word Cut,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+zlfengyi1,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+riad,Trading Business,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+riad,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+riad,Playing with Superglue,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+ant.ermilov,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+ant.ermilov,Word Cut,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,dp
+xkszltl,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+xkszltl,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+xkszltl,Playing with Superglue,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+Aleks,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Aleks,Playing with Superglue,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+roypalacios,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+roypalacios,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+chavit,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+chavit,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+chavit,Playing with Superglue,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+chavit,Hyper String,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+gogokefakefa,Trading Business,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+gogokefakefa,Word Cut,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+gogokefakefa,Playing with Superglue,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+husheyn,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+husheyn,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+husheyn,Playing with Superglue,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+twds,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+twds,Word Cut,1,B,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,dp
+KrK,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+KrK,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+KrK,Playing with Superglue,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+GaoYusong,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+OoO000oOOOoOooOo,Word Cut,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+OoO000oOOOoOooOo,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+OoO000oOOOoOooOo,Playing with Superglue,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+OoO000oOOOoOooOo,Hyper String,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+domhow,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+domhow,Word Cut,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+domhow,Playing with Superglue,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+akashin,Trading Business,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+akashin,Word Cut,1,B,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,dp
+indiancoder,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+indiancoder,Word Cut,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+yefllower,Trading Business,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+yefllower,Hyper String,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+yefllower,Playing with Superglue,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+it4.kp,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+it4.kp,Word Cut,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+it4.kp,Playing with Superglue,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+Merkurev,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Merkurev,Word Cut,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Merkurev,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+Renderhp,Trading Business,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Renderhp,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+takapt,Trading Business,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+takapt,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+takapt,Playing with Superglue,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+marcoskwkm,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+marcoskwkm,Word Cut,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+marcoskwkm,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+dj3500,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+dj3500,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dj3500,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+quyse,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+quyse,Word Cut,1,B,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+quyse,Playing with Superglue,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+__tutankhamun__,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+__tutankhamun__,Word Cut,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+__tutankhamun__,Playing with Superglue,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+Reshetnikov_Ivan,Trading Business,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Reshetnikov_Ivan,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Reshetnikov_Ivan,Playing with Superglue,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+MRoizner,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+MRoizner,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+MRoizner,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+SourSpinach,Trading Business,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+SourSpinach,Word Cut,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+SourSpinach,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+Fessmax,Trading Business,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Fessmax,Playing with Superglue,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+sexyprincess91,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sexyprincess91,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+sexyprincess91,Playing with Superglue,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+sexyprincess91,Hyper String,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+SkorKNURE,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+SkorKNURE,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+SkorKNURE,Playing with Superglue,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+xscape,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+xscape,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+xscape,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+ArtemKadeev,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+ArtemKadeev,Word Cut,1,B,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,dp
+ArtemKadeev,Playing with Superglue,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+naagi,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+naagi,Playing with Superglue,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+naagi,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Liaksiejka,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Liaksiejka,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Liaksiejka,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+dalex,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+dalex,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dalex,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+goryinyich,Playing with Superglue,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"combinatorics,constructive algorithms"
+goryinyich,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+goryinyich,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+thwbbb,Trading Business,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+thwbbb,Playing with Superglue,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+thwbbb,Word Cut,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+zeliboba,Playing with Superglue,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+zeliboba,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+zeliboba,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+zeliboba,Hyper String,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+sas4eka,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+sas4eka,Word Cut,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Baz93,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Baz93,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Baz93,Playing with Superglue,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+Baz93,Hyper String,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+mystery_boy,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+PanZverski,Trading Business,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+PanZverski,Word Cut,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+---Grigor---,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+---Grigor---,Word Cut,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+ItsLastDay,Trading Business,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+FattyChicken,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+FattyChicken,Word Cut,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+FattyChicken,Playing with Superglue,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+L.I.S.,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+L.I.S.,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+HwangScornedAsianTeams,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+EriKKo,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+EriKKo,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+EriKKo,Playing with Superglue,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+FedyuninV,Trading Business,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+dark_ai,Trading Business,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+dark_ai,Word Cut,1,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+putin,Trading Business,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+putin,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+GeLo,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+GeLo,Playing with Superglue,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+nextgen,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+nextgen,Word Cut,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Creed,Trading Business,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"greedy,sortings"
+Creed,Word Cut,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+pashkal,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+pashkal,Trading Business,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+pashkal,Hyper String,1,D,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,dp
+evader,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+evader,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+evader,Playing with Superglue,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+TheHedgehog,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+TheHedgehog,Playing with Superglue,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+TheHedgehog,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Deamon,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Deamon,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Deamon,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+Sklyack,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Sklyack,Word Cut,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,dp
+Nadezhda,Trading Business,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Mark_tven,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Mark_tven,Playing with Superglue,1,C,1,0,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+AndreySiunov,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+AndreySiunov,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+AndreySiunov,Playing with Superglue,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+AndreySiunov,Hyper String,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+knok16,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+knok16,Playing with Superglue,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+JKeeJ1e30,Trading Business,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+JKeeJ1e30,Playing with Superglue,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+JKeeJ1e30,Word Cut,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+s864372002,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+s864372002,Word Cut,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+serik,Trading Business,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+constkir,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+constkir,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+constkir,Playing with Superglue,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+bohuss,Trading Business,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"greedy,sortings"
+bohuss,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+cjtoribio,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+cjtoribio,Word Cut,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+cjtoribio,Playing with Superglue,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+knst,Trading Business,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+knst,Word Cut,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+myar,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+myar,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+myar,Playing with Superglue,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+kAc,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+kAc,Word Cut,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+kAc,Playing with Superglue,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+C.degree,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Parhomets,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Parhomets,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Parhomets,Playing with Superglue,1,C,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+Monmoy,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Monmoy,Word Cut,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+reiracofage,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+reiracofage,Word Cut,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+esrever,Trading Business,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+esrever,Word Cut,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+Mars314,Trading Business,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+Mars314,Word Cut,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Mars314,Playing with Superglue,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,constructive algorithms"
+KirillB,Word Cut,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+KirillB,Trading Business,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+KirillB,Playing with Superglue,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,constructive algorithms"
+De_nis,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+De_nis,Word Cut,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+gridnevvvit,Trading Business,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+dzhioev,Trading Business,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+hex539,Hyper String,0,D,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,dp
+hex539,Trading Business,1,A,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"
+s1mple,Trading Business,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,sortings"

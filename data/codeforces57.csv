@@ -1,0 +1,1464 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+SyFy,Square Earth?,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+SyFy,Martian Architecture,0,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+SyFy,Array,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+SyFy,Journey,0,D,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+SyFy,Chess,0,E,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"math,shortest paths"
+Ixanezis,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Ixanezis,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ixanezis,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Ixanezis,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+Ignorance,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Ignorance,Martian Architecture,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ignorance,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+diogen,Square Earth?,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+diogen,Array,0,C,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+filipbitola,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+filipbitola,Martian Architecture,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+filipbitola,Array,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+tourist,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+tourist,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tourist,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+tourist,Journey,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+Zlobober,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Zlobober,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zlobober,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Zlobober,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,math"
+Zlobober,Chess,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,shortest paths"
+niquefa_diego,Square Earth?,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+niquefa_diego,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+-dp-,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+-dp-,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Scalar,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+MAK,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+MAK,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+MAK,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+sandygupta,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,"dfs and similar,greedy,implementation"
+sandygupta,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+sandygupta,Array,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+e-maxx,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+e-maxx,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+e-maxx,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Imba,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Imba,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Imba,Journey,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,math"
+Imba,Martian Architecture,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mmaxio,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+mmaxio,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mmaxio,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+mmaxio,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+pperm,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+pperm,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pperm,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+pperm,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+slycelote,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+slycelote,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+slycelote,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+slycelote,Journey,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,math"
+2222,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+2222,Martian Architecture,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+2222,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+2222,Journey,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+ilyakor,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+ilyakor,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ilyakor,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+ilyakor,Journey,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,math"
+Kipok,Square Earth?,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+Kipok,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+maksay,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+maksay,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+maksay,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+maksay,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+---Grigor---,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+---Grigor---,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SergeiFedorov,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+SergeiFedorov,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SergeiFedorov,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+SergeiFedorov,Journey,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,math"
+bwps,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+bwps,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bwps,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+bwps,Journey,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+fiddler,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+fiddler,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fiddler,Array,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+fiddler,Journey,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+NALP,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+NALP,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NALP,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+NALP,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+Skiminok,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Skiminok,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Skiminok,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+buko,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+buko,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+buko,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+buko,Journey,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+KADR,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+KADR,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KADR,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+KADR,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+gen,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+gen,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gen,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+GagGuy,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+GagGuy,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+GagGuy,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+GagGuy,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+Gassa,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Gassa,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Gassa,Journey,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+Gassa,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Duc,Square Earth?,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+Duc,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Duc,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+ivan.popelyshev,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+ivan.popelyshev,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ivan.popelyshev,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+ivan.popelyshev,Journey,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,math"
+Fdg,Square Earth?,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dfs and similar,greedy,implementation"
+Fdg,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fdg,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+fhlasek,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+fhlasek,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+vlad107,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+vlad107,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vlad107,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+omir,Square Earth?,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+ysyshtc,Square Earth?,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+ysyshtc,Martian Architecture,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ysyshtc,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+MBabin,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+MBabin,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+MBabin,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ACube,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+ACube,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ACube,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Slavik,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Slavik,Martian Architecture,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Slavik,Journey,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,math"
+syco,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+syco,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+syco,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+syco,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,math"
+watashi,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+watashi,Martian Architecture,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+watashi,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+watashi,Journey,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+cgy4ever,Square Earth?,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+cgy4ever,Martian Architecture,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+cgy4ever,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+cgy4ever,Journey,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+voover,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+voover,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+voover,Array,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+voover,Journey,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+fushar,Square Earth?,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+fushar,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fushar,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Shik,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Shik,Array,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,math"
+Shik,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shik,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+Seemann,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Seemann,Martian Architecture,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Seemann,Array,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+pragrame,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+pragrame,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+pragrame,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+AleX,Square Earth?,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+AleX,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AleX,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+AleX,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+niyaznigmatul,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+niyaznigmatul,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+niyaznigmatul,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+niyaznigmatul,Journey,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+ania,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+ania,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+ania,Journey,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+ania,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MaxBuzz,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+MaxBuzz,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MaxBuzz,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+RosyIsh,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+RosyIsh,Martian Architecture,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+RosyIsh,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+mruxim,Square Earth?,0,A,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+mruxim,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mruxim,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+mruxim,Journey,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+wistful,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+wistful,Array,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+wistful,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LayCurse,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+LayCurse,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LayCurse,Journey,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,math"
+LayCurse,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Vintik,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Vintik,Martian Architecture,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Vintik,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Zhukov_Dmitry,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Zhukov_Dmitry,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhukov_Dmitry,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Zhukov_Dmitry,Chess,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,shortest paths"
+Zhukov_Dmitry,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+Garret,Square Earth?,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Garret,Martian Architecture,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Garret,Array,0,C,0,0,0,0,1,1,0,1,0,0,0,0,0,2,0,0,0,"combinatorics,math"
+rudradevbasak,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+rudradevbasak,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+rudradevbasak,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+rudradevbasak,Journey,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+ahm.kam_92,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,greedy,implementation"
+ahm.kam_92,Martian Architecture,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,implementation
+homo_sapiens,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+homo_sapiens,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+homo_sapiens,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+tgoulart,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+tgoulart,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tgoulart,Array,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,math"
+mekagem,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+mekagem,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+JalbaRu,Square Earth?,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+JalbaRu,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+asif_iut,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+Transfe10,Square Earth?,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+Transfe10,Martian Architecture,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Transfe10,Array,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+daftcoder,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+daftcoder,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+daftcoder,Array,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+Rei,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Rei,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rei,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Rei,Journey,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+PavelKunyavskiy,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+PavelKunyavskiy,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PavelKunyavskiy,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+PavelKunyavskiy,Journey,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+DoublePointer,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+DoublePointer,Array,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+DoublePointer,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+abd.yerzhan,Square Earth?,0,A,0,0,0,0,1,3,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+abd.yerzhan,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+boski.jr,Square Earth?,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+boski.jr,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+boski.jr,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+mob_lived,Square Earth?,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+primorial,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+primorial,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+primorial,Array,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+LeBron,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+LeBron,Martian Architecture,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+K_operafan,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+K_operafan,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+cyx5320856,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Sereja,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Sereja,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sereja,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+AleksBannikov,Square Earth?,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+AleksBannikov,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+AleksBannikov,Array,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Zool,Square Earth?,0,A,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Zool,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zool,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+zaq1xsw2tktk,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+zaq1xsw2tktk,Array,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+zaq1xsw2tktk,Journey,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,math"
+Kriii,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Kriii,Martian Architecture,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,implementation
+Kriii,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+valikluks1995,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+valikluks1995,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hctannus,Square Earth?,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Rubanenko,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Rubanenko,Martian Architecture,1,B,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rubanenko,Array,1,C,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,"combinatorics,math"
+marvin666,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+akshayk0406,Square Earth?,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,2,0,0,0,"dfs and similar,greedy,implementation"
+akshayk0406,Martian Architecture,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,implementation
+akshayk0406,Array,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+amrSamir,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+amrSamir,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+amrSamir,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+anuragb,Square Earth?,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Egor,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Egor,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Egor,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Egor,Journey,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+Snich,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Snich,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+u1ik,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+u1ik,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+u1ik,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+IlyaLos,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dfs and similar,greedy,implementation"
+IlyaLos,Martian Architecture,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,implementation
+IlyaLos,Array,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+chhung6,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+chhung6,Martian Architecture,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+chhung6,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+chhung6,Journey,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,math"
+Nenash,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Nenash,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nenash,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Nenash,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+vepifanov,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+vepifanov,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vepifanov,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+vepifanov,Journey,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+Commandos,Square Earth?,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Commandos,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+spartac,Square Earth?,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+spartac,Martian Architecture,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+spartac,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+htrinh,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+htrinh,Array,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Genyaz,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Genyaz,Martian Architecture,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Spacejoker,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Spacejoker,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+riad,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+riad,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+riad,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+MciprianM,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+MciprianM,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MciprianM,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+alexander86,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+alexander86,Martian Architecture,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexander86,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+cmd,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+cmd,Martian Architecture,0,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+cmd,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Oleg,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Oleg,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Oleg,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+cjtoribio,Square Earth?,0,A,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+cjtoribio,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zibada,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,greedy,implementation"
+zibada,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zibada,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Eledven,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Eledven,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eledven,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+premprakash,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+premprakash,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kusano,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+kusano,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kusano,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+daffes,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+daffes,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+daffes,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,math"
+rembocoder,Square Earth?,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+rembocoder,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+rembocoder,Martian Architecture,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rasifiel,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Rasifiel,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rasifiel,Array,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+logicmachine,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+SpookyCookie,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+SpookyCookie,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SpookyCookie,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+SpookyCookie,Journey,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+_skip_,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+_skip_,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+_skip_,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+AlexFetisov,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+AlexFetisov,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlexFetisov,Array,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+ryuzmukhametov,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+ryuzmukhametov,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ryuzmukhametov,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+KirillB,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+KirillB,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KirillB,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+rankalee,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+rankalee,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+rankalee,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+mjmjmtl,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+mjmjmtl,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mjmjmtl,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+mjmjmtl,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+Foton,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Foton,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Foton,Array,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+paulocezar,Square Earth?,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+paulocezar,Array,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+paulocezar,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+natalia,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+natalia,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+natalia,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+natalia,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"dp,math"
+birbbit,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+birbbit,Martian Architecture,1,B,1,0,0,1,0,4,0,0,0,0,0,0,0,0,1,0,0,implementation
+sjtu_pigoneand,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+sjtu_pigoneand,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pdwd,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,greedy,implementation"
+pdwd,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pdwd,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+mcsharma1990,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+mcsharma1990,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mcsharma1990,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+wjomlex,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+wjomlex,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wjomlex,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+kasyankrak,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+kasyankrak,Martian Architecture,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+SkidanovAlex,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+SkidanovAlex,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SkidanovAlex,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+VladGavrila,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+VladGavrila,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+VladGavrila,Journey,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+VladGavrila,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+thocevar,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+thocevar,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+thocevar,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+practice4fun,Square Earth?,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Ra16bit,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Ra16bit,Martian Architecture,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ra16bit,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+AlTimin,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+AlTimin,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlTimin,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+EbTech,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+EbTech,Martian Architecture,0,B,0,0,0,1,3,2,0,1,0,0,0,0,0,0,0,0,0,implementation
+EbTech,Array,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+OgieKako,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+OgieKako,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+OgieKako,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+OgieKako,Journey,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+adavydow,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+adavydow,Martian Architecture,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+adavydow,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+tkcn,Square Earth?,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+tkcn,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+tkcn,Array,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+tkcn,Journey,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,math"
+zzsy_fox,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Connector,Square Earth?,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Connector,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Connector,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Connector,Chess,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,shortest paths"
+mk74rus,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+philolo1,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+c_loud26,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+c_loud26,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vlady,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+vlady,Martian Architecture,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+vlady,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+AndreySiunov,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+AndreySiunov,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AndreySiunov,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,math"
+Andark,Square Earth?,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+andrei.d,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+dimatomp,Square Earth?,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+dimatomp,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+sohelH,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+sohelH,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Snipx,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Snipx,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+SergeyLazarev,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+SergeyLazarev,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vector9x,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+vector9x,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+enot.1.10,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+enot.1.10,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+enot.1.10,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+package.zaic,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+package.zaic,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shilov,Square Earth?,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+shilov,Martian Architecture,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+shilov,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+ameydhar,Square Earth?,0,A,0,0,0,6,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+ameydhar,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mex-Mans,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Mex-Mans,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mex-Mans,Array,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+piotr.kukla,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+piotr.kukla,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Copymaster,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Copymaster,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Copymaster,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+aropan,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+aropan,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+aropan,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+aropan,Journey,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+the_saint,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+the_saint,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+the_saint,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Waiter,Square Earth?,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+fura2,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+fura2,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fura2,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+I-juice,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+I-juice,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+I-juice,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+ahmed_aly,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+ahmed_aly,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahmed_aly,Array,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+ahmed_aly,Journey,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,math"
+ZumZoom,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+ZumZoom,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ZumZoom,Array,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+Georgy,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Georgy,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Georgy,Array,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+kunaljain,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+kunaljain,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kunaljain,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+navi,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+navi,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+navi,Martian Architecture,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+navi,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,math"
+rinigan,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+rinigan,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+rinigan,Array,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+dancho,Square Earth?,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+dancho,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dancho,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+dancho,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+Steps09,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Steps09,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Steps09,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+sazzad,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+sazzad,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shevchen,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+shevchen,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shevchen,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+ciprianfarcasanu,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+kolina,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+kolina,Martian Architecture,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kolina,Array,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+QZAR,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+QZAR,Martian Architecture,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+QZAR,Array,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+neverous,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+neverous,Martian Architecture,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+neverous,Array,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+popovaclaire,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+popovaclaire,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+popovaclaire,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+popovaclaire,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+xDDD,Square Earth?,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+gojira,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+gojira,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+gojira,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kwetril,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+kwetril,Martian Architecture,1,B,0,0,0,0,0,3,0,1,0,0,0,0,0,1,0,0,0,implementation
+kwetril,Array,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+WhiteCrow,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+WhiteCrow,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kormak,Martian Architecture,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kormak,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+kormak,Square Earth?,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+wooyaggo,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+wooyaggo,Martian Architecture,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wooyaggo,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Respect2D,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,greedy,implementation"
+Respect2D,Array,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Aleksey,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Aleksey,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aleksey,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Abulkhair,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Abulkhair,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Abulkhair,Array,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+v.haralampiev,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+v.haralampiev,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+burdakovd,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+burdakovd,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+burdakovd,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+luizribeiro,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+luizribeiro,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+luizribeiro,Array,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+dieglaube,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+dieglaube,Martian Architecture,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dieglaube,Journey,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+Icemore,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Icemore,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MSGM,Square Earth?,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+MSGM,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+MSGM,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+-RooneY-,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+-RooneY-,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+-RooneY-,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+vprakash.gayasen,Square Earth?,0,A,1,0,0,1,2,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+vprakash.gayasen,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Krzhemelik,Square Earth?,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Kostroma,Square Earth?,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Kostroma,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+kennethsnow,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+kennethsnow,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kennethsnow,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Ariosxcw,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Ariosxcw,Array,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Ariosxcw,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ariosxcw,Journey,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+Konstantin,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+Konstantin,Martian Architecture,1,B,1,0,0,0,0,3,0,1,0,0,0,0,0,1,0,0,0,implementation
+Konstantin,Array,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+mongolrgata,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+mongolrgata,Martian Architecture,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+Diman_yoyo,Square Earth?,1,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Diman_yoyo,Martian Architecture,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+jbernadas,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+jbernadas,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jbernadas,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+jbernadas,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+stefandechev,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+stefandechev,Martian Architecture,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,implementation
+Padme,Square Earth?,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Padme,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Padme,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+ronaflx,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+ronaflx,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+rofi,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+rofi,Martian Architecture,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pt1989,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+pt1989,Array,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+pt1989,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pt1989,Journey,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+sicasli,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Dullittle,Square Earth?,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Dullittle,Martian Architecture,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dullittle,Array,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+sankalp91,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+sankalp91,Martian Architecture,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+sankalp91,Array,0,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+kssilveira,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+kssilveira,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kssilveira,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+mislav,Square Earth?,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+mislav,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+chakradarraju,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+masha,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+masha,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+masha,Array,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+hs484,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+hs484,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hs484,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Alisafe,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+al13n,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+al13n,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+al13n,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+al13n,Journey,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+goooooooopan,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,greedy,implementation"
+goooooooopan,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+goooooooopan,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Shlakoblock,Square Earth?,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+Shlakoblock,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shlakoblock,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+dragoon,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+dragoon,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dragoon,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+ant.ermilov,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jughead,Square Earth?,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Jughead,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jughead,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Timus,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Timus,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Surogatov_S,Square Earth?,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Surogatov_S,Martian Architecture,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Surogatov_S,Array,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Oryshych,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Oryshych,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Oryshych,Array,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+nodchip,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+nodchip,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+nodchip,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+KhaustovPavel,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+KhaustovPavel,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KhaustovPavel,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+KhaustovPavel,Journey,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,math"
+FedyuninV,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+FedyuninV,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+FedyuninV,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+pedja,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+pedja,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mightyvoice,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+mightyvoice,Array,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+shhdup,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+shhdup,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+shhdup,Array,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+nigo92,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+behdadb,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Vaness,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Vaness,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Vaness,Array,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+sggutier,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+sggutier,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+alexandret,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+OutSide,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+OutSide,Martian Architecture,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+OutSide,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+luyi0619,Square Earth?,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+luyi0619,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Slevin,Square Earth?,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Slevin,Martian Architecture,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Slevin,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+tudorsiminic1,Square Earth?,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+zhaozhouyang,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+zhaozhouyang,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tunyash,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+tunyash,Martian Architecture,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,implementation
+69-64-79,Square Earth?,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+69-64-79,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+natsuki_i,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+Diabolic,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Diabolic,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+Catchy,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Catchy,Martian Architecture,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+taichi,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+taichi,Array,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+ViktorM,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+ViktorM,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+lordklotski,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+lordklotski,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lordklotski,Array,1,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"combinatorics,math"
+witua,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+witua,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+witua,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+BLIZZARD,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+park0ur,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+FreezingCool,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+msagimbekov,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,greedy,implementation"
+msagimbekov,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+msagimbekov,Array,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+liangjiaxing57,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+liangjiaxing57,Array,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+liangjiaxing57,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+DimaPhil,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+DimaPhil,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+sajjad_gh,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+sajjad_gh,Array,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Mohammad_JRS,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Mohammad_JRS,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mohammad_JRS,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+rysiek,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+rysiek,Martian Architecture,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+lyrics,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+lyrics,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lyrics,Array,1,C,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+yvasyliv,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+yvasyliv,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yvasyliv,Array,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+dronimal,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+dronimal,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+VorobeY1326,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+VorobeY1326,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+diver_ru,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+diver_ru,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+diver_ru,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+balakrishnan,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+balakrishnan,Martian Architecture,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+balakrishnan,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+TALGAT,Square Earth?,0,A,0,0,0,0,1,9,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+kartiknayak,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+kartiknayak,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+peety12,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+rishabhm,Square Earth?,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+rishabhm,Array,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Roma-PKTL,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+vudduu,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+vudduu,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+z__jj,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+z__jj,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+z__jj,Array,1,C,1,0,0,1,2,2,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+Qulinxao,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+NikitaPogodin,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+wasi.ahmed,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+wasi.ahmed,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wasi.ahmed,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Ministr,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Ministr,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vanchope,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+vanchope,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+vanchope,Array,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Malinovsky239,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Malinovsky239,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+aan93,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+aan93,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hemant_baid,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+hemant_baid,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+xiaoyoulei,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+xiaoyoulei,Martian Architecture,1,B,1,0,0,1,0,2,0,2,0,0,0,0,0,0,0,0,0,implementation
+nagochan,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+nagochan,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nagochan,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+y3eadgbe,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+y3eadgbe,Martian Architecture,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+y3eadgbe,Array,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+mark1989,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+mark1989,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mark1989,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Medium,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Medium,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Medium,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Nightmie,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Nightmie,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nightmie,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+zaitsev,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+zaitsev,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zaitsev,Array,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+johar,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+johar,Array,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"combinatorics,math"
+johar,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Seikang,Square Earth?,0,A,1,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Seikang,Array,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Seikang,Martian Architecture,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+aura,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+aura,Martian Architecture,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+aura,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+magdi,Square Earth?,1,A,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+nickbuelich,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Shtrix,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Shtrix,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shtrix,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+Shtrix,Journey,1,D,0,0,0,2,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+PanZverski,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+PanZverski,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PanZverski,Array,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+rufferzool,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+HwangScornedAsianTeams,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+HwangScornedAsianTeams,Array,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+komiya,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+komiya,Array,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+moshiur,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+moshiur,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+moshiur,Martian Architecture,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Arkadiy,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Arkadiy,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Arkadiy,Array,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+xlfd,Square Earth?,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+NotImplemented,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+NotImplemented,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+NotImplemented,Martian Architecture,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+vineet5046,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+vineet5046,Martian Architecture,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+spongebob,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+digiter,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+digiter,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+digiter,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+S.Yesipenko,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+S.Yesipenko,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+S.Yesipenko,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+it4.kp,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+it4.kp,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+it4.kp,Array,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+pablo.aguilar,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+pablo.aguilar,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+pablo.aguilar,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Artishok,Square Earth?,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Artishok,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fafafft,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+fafafft,Array,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+fafafft,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+akashin,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+akashin,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+akashin,Array,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,math"
+nook,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+nook,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yuta1024,Square Earth?,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,"dfs and similar,greedy,implementation"
+yuta1024,Martian Architecture,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+juver,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+juver,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+juver,Array,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+timmy,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+timmy,Martian Architecture,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+comehome,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+comehome,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+AlexDmitriev,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+AlexDmitriev,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlexDmitriev,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Slamur,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Slamur,Martian Architecture,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+vance,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+vance,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vance,Array,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+sdryapko,Square Earth?,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+sdryapko,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sdryapko,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+sas4eka,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+sas4eka,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fmm,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+fmm,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+fmm,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hadi_Asiaie,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Hadi_Asiaie,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Hadi_Asiaie,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shioshiota,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+shioshiota,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+allocator,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+allocator,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kamiltalipov,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Alexey,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Alexey,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+KTR,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+KTR,Martian Architecture,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+KTR,Array,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+hogeover30,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+hogeover30,Martian Architecture,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hogeover30,Array,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+anton192,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+anton192,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Radomir,Square Earth?,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+fura,Martian Architecture,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+fura,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+fura,Array,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+d_k_phong,Square Earth?,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+d_k_phong,Martian Architecture,0,B,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+sharpie,Square Earth?,0,A,0,0,0,3,0,4,0,5,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+05yesterday,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+05yesterday,Array,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"combinatorics,math"
+05yesterday,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pab2,Square Earth?,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+pab2,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pab2,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+chorui12,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+chorui12,Martian Architecture,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Ab.Sultan,Square Earth?,0,A,0,0,0,1,0,10,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+al_maz,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+al_maz,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+al_maz,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+d_i,Square Earth?,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+d_i,Martian Architecture,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Obaida,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+Obaida,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Andrew_Makar,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Andrew_Makar,Martian Architecture,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+marser,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Kreator,Square Earth?,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+Kreator,Array,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+comco,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+comco,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+comco,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+a286729485,Square Earth?,1,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+hpinto,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+hpinto,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hpinto,Array,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+frost_nova,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+frost_nova,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+frost_nova,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+lijunle,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+lijunle,Martian Architecture,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Perlik,Square Earth?,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Perlik,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Perlik,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+mukel,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+mukel,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+mukel,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+camit90,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+camit90,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexej,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+alexej,Martian Architecture,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexej,Array,1,C,0,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+bogdanov,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,greedy,implementation"
+bogdanov,Martian Architecture,1,B,1,0,0,0,2,2,0,0,0,0,0,0,0,0,1,0,0,implementation
+Fcdkbear,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Fcdkbear,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fcdkbear,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+blazerer,Square Earth?,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+blazerer,Martian Architecture,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,implementation
+viswanathgs,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+AntonDubovik,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+AntonDubovik,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AntonDubovik,Array,1,C,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+sabbir_yousuf,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+sabbir_yousuf,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sabbir_yousuf,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+rocket323,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+rocket323,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+rocket323,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ultimate,Square Earth?,1,A,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+aakashj.sky,Square Earth?,0,A,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+aakashj.sky,Martian Architecture,1,B,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+KapJI,Square Earth?,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+KapJI,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+M0sTik,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,greedy,implementation"
+M0sTik,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+extremall,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+extremall,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+crbtmac,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+crbtmac,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+crbtmac,Array,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+dir,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Igel_SK,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Igel_SK,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Igel_SK,Array,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+nokia,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+nokia,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+nokia,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+saurabhmodi102000,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+at1,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+at1,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+at1,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+druidnik,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+muriloufg,Square Earth?,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+muriloufg,Martian Architecture,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+yaro,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+yaro,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+UC2,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+UC2,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+UC2,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Monk,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+idivyanshu,Square Earth?,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+idivyanshu,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+idivyanshu,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sakyalol,Square Earth?,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Ahmed_Salama,Square Earth?,0,A,0,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+zyx3d,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+zyx3d,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tanzaku,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+tanzaku,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+tanzaku,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BIT_silence,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+BIT_silence,Martian Architecture,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sasa_0824,Square Earth?,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+kyuridenamida,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+kyuridenamida,Array,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+era_kaz_93,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Kivi,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Kivi,Martian Architecture,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,implementation
+MOPMblLLlKA,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+TRUONG,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+dalex,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+dalex,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+olimpo,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+olimpo,Martian Architecture,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+olimpo,Array,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+MarioYC,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+MarioYC,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MarioYC,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Ress,Square Earth?,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Ress,Array,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+mtvnastya,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+mtvnastya,Martian Architecture,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+Sammax,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Sammax,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sammax,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+DamianS,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+DamianS,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+DamianS,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+Skird,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Skird,Martian Architecture,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Skird,Array,0,C,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Rania_Salama,Square Earth?,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+Rania_Salama,Martian Architecture,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+amit36,Square Earth?,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Adai_is,Square Earth?,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+zlly,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+zlly,Martian Architecture,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+MoViS08,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+julsa,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+julsa,Martian Architecture,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+C8LUKA,Square Earth?,0,A,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+aksonov,Square Earth?,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+belltail,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+fuch,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+fuch,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fuch,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+HolkinPV,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+HolkinPV,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+haas,Array,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+mchweb,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+matklad,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+matklad,Martian Architecture,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+matklad,Array,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+almaz_kh,Square Earth?,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,2,0,0,0,"dfs and similar,greedy,implementation"
+almaz_kh,Martian Architecture,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+Veldrin,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Veldrin,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kharybin,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Kharybin,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kharybin,Array,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+LinJiYuan90,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+LinJiYuan90,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+LinJiYuan90,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zeliboba,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+zeliboba,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zeliboba,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+msh_shiplu,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+msh_shiplu,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+msh_shiplu,Array,1,C,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+manishmap2,Square Earth?,1,A,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+manishmap2,Martian Architecture,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+JFantasy,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+JFantasy,Martian Architecture,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+JFantasy,Array,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+cupo_O,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+cupo_O,Martian Architecture,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+BenderRodriges,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+VChikh,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+oleg.ivye,Square Earth?,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+aleksei,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+KrK,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+KrK,Martian Architecture,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Katran,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Katran,Martian Architecture,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Bearjie,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Bearjie,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yuShaf,Square Earth?,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+pyshnograev,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+pyshnograev,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pyshnograev,Array,1,C,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+ajmarin,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+ajmarin,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ajmarin,Array,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+Austeritas,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Austeritas,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+matreshka,Square Earth?,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+matreshka,Martian Architecture,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+crackhead,Square Earth?,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+sh19910711,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+sh19910711,Martian Architecture,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+icek,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+icek,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+icek,Array,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+huyuealex,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+huyuealex,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+VUAcoder,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+VUAcoder,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+VUAcoder,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+yuanshi,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+Moskupols,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Moskupols,Square Earth?,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+AvaMight,Square Earth?,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+odule,Square Earth?,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+odule,Array,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+ankulgarg,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+ankulgarg,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ankulgarg,Array,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Pepelac,Square Earth?,0,A,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+sotonamitol,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+DanDrago,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+DanDrago,Martian Architecture,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+DanDrago,Array,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+marque,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+kabir.sohel,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+kabir.sohel,Martian Architecture,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Komaki,Martian Architecture,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Komaki,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Komaki,Array,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+Komaki,Journey,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+andryuhell,Square Earth?,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Sectrait,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"dfs and similar,greedy,implementation"
+_sunny,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+_sunny,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+_sunny,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+_sunny,Journey,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,math"
+master_j,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+amit.codename13,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,greedy,implementation"
+amit.codename13,Array,1,C,0,0,0,2,3,5,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+tardosmors,Square Earth?,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Atef,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Atef,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Atef,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+ashi009,Square Earth?,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,greedy,implementation"
+ashi009,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+Jami_CSEDU,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+Snow_storm,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Snow_storm,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ridowan007,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+ridowan007,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+MirOn,Square Earth?,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+MirOn,Martian Architecture,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+root5,Square Earth?,0,A,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+daizhenyang,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+daizhenyang,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+daizhenyang,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahmedkotb,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+ahmedkotb,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+upoma,Square Earth?,0,A,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+NovaBlast,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+NovaBlast,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+grey_wind,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+grey_wind,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+pius_88,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+pius_88,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mng,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+mng,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+riki,Square Earth?,0,A,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+soundsdx,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+soundsdx,Array,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,math"
+soundsdx,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+S_Barnes,Square Earth?,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+S_Barnes,Array,1,C,0,0,0,0,0,2,0,4,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+S_Barnes,Martian Architecture,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Natka,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Natka,Martian Architecture,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,implementation
+uwi,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+uwi,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+uwi,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+uwi,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+Spone,Square Earth?,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+Spone,Journey,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+mfazekas,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+mfazekas,Martian Architecture,0,B,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+Petrushenko,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Petrushenko,Martian Architecture,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+chealsea,Square Earth?,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+chealsea,Array,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+ruslan.sennov,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+ruslan.sennov,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruslan.sennov,Array,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+kindnessjk,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Haleh,Square Earth?,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+kaushik.mv3,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+k06a,Square Earth?,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+k06a,Martian Architecture,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+devilofaboy,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+devilofaboy,Martian Architecture,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhandos,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+Zhandos,Martian Architecture,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Noskov,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Noskov,Martian Architecture,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+vish,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+vish,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TRR,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+907th,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+907th,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+907th,Array,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+907th,Journey,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,math"
+Eather,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+DQKrait,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+DQKrait,Martian Architecture,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+DQKrait,Array,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+delta,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+delta,Array,1,C,0,0,0,2,0,0,0,1,2,0,0,0,0,1,0,0,0,"combinatorics,math"
+vasja_p,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Denor,Square Earth?,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Denor,Martian Architecture,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,implementation
+yarrr,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+yarrr,Martian Architecture,1,B,0,0,0,1,2,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+yarrr,Array,0,C,0,0,0,0,0,4,0,2,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+PER,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+PER,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pavlin,Square Earth?,0,A,1,0,0,0,1,10,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+pavlin,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhuravlyov.A,Square Earth?,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+Zhuravlyov.A,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+Sphinx,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Sphinx,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Sphinx,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aa3245,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+aa3245,Array,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+arshuaz,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+chenzeyu,Square Earth?,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+nicogu,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+nicogu,Martian Architecture,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+BVI,Square Earth?,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Tariqul,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Tariqul,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+edem.kwadzo,Square Earth?,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+KaskaRUS,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Goshish,Square Earth?,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Goshish,Martian Architecture,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruban,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+ruban,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+FSOG,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+FSOG,Martian Architecture,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,2,0,0,0,implementation
+baky,Square Earth?,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Anuharakon,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Anuharakon,Martian Architecture,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ondrah,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Eugene_nik,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,greedy,implementation"
+Eugene_nik,Martian Architecture,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,implementation
+gn13,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+xRudeRado,Square Earth?,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+ufo008ahw,Square Earth?,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+ufo008ahw,Array,0,C,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+ufo008ahw,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+guestonearth,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+guestonearth,Array,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+naagi,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+naagi,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+naagi,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mars314,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Anton_Rodick,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+Anton_Rodick,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+xeronix,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+xeronix,Array,1,C,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+20092100003,Square Earth?,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+kb.,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Eugen,Square Earth?,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Eugen,Martian Architecture,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+ymondelo20,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Egor4k,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Saken,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Saken,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+ryad0m,Square Earth?,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+logic_max,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+logic_max,Martian Architecture,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+logic_max,Array,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Dr.McKay,Square Earth?,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+vin_74,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+andzhilin,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+betterbearat,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+notEphim,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+notEphim,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+www.viki.wwww,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+mohammad.mahmoodi,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+kotokur,Square Earth?,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+KTY,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Ragvena,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Ragvena,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexlz661,Square Earth?,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+fahimpatel,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+fahimpatel,Martian Architecture,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+born_coder,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+born_coder,Array,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+gangil,Square Earth?,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+n_bool,Square Earth?,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+DasrkSide,Square Earth?,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+DasrkSide,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mohamed.gaber,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+UndeadDen,Square Earth?,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+N_B_B,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+N_B_B,Martian Architecture,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+owetganna,Square Earth?,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+owetganna,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+arpit_mittal,Square Earth?,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,1,0,0,"dfs and similar,greedy,implementation"
+Mohannad,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+niquefa,Square Earth?,0,A,0,0,0,0,0,2,0,2,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+vinicius,Square Earth?,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+vinicius,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mario88,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mario88,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+boba,Square Earth?,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+closefile,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+closefile,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+closefile,Array,1,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+PaintKiller,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+PaintKiller,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chitose,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+madhu1990,Square Earth?,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+billionerdv,Square Earth?,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+SITZ,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+SITZ,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+andrey_s,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+nikunj165,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+srish.sriv,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+srish.sriv,Martian Architecture,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+evader,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+berden,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+kenny59,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kenny59,Square Earth?,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Chepurnoy.A,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+sina_uice,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+naaaag,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+naaaag,Martian Architecture,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+peria,Square Earth?,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+new,Square Earth?,1,A,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Mukhamedgarif,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Anurag,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Scientist1642,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Scientist1642,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Aman,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Aman,Martian Architecture,1,B,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+RedAnt,Array,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+RedAnt,Martian Architecture,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+RedAnt,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+4a1ka,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+4a1ka,Martian Architecture,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+foxermen,Square Earth?,0,A,0,0,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+foxermen,Array,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+zafar_sust_bd,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+zafar_sust_bd,Martian Architecture,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,implementation
+72VanVector_SevNTU,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+72VanVector_SevNTU,Martian Architecture,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Isa,Square Earth?,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+komron_hkl,Square Earth?,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+laurenceHR,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,greedy,implementation"
+piyush.neo,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+piyush.neo,Martian Architecture,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+PAG,Array,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+PAG,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+PAG,Martian Architecture,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+svrsvr,Array,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+svrsvr,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Nicolay_R,Square Earth?,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Nicolay_R,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+Super_Visor,Square Earth?,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+vishwakarma,Martian Architecture,0,B,0,0,0,0,0,7,0,1,0,0,0,0,0,1,0,0,0,implementation
+vishwakarma,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Void,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Void,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+amitk,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Ernestas,Square Earth?,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+MakTraDe,Square Earth?,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+MakTraDe,Martian Architecture,0,B,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dias,Square Earth?,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Dias,Martian Architecture,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aleksandr,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Mercer,Square Earth?,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Mercer,Martian Architecture,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,implementation
+evg-zhabotinsky,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+evg-zhabotinsky,Martian Architecture,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+EvAn,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+EvAn,Array,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+Djteam,Square Earth?,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Verdona0,Array,0,C,0,0,0,1,2,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+Gelka,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Gelka,Martian Architecture,1,B,1,0,0,0,0,3,0,1,0,0,0,0,0,1,0,0,0,implementation
+hajan17,Array,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+hajan17,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+lgvallejo,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+lgvallejo,Martian Architecture,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+diggin,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+diggin,Martian Architecture,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+red_skull,Square Earth?,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+anuragupta1,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+azizul_fahim,Square Earth?,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Dj_Antony,Martian Architecture,0,B,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dj_Antony,Array,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+T-30,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+T-30,Martian Architecture,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Constant,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Nike,Square Earth?,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+CYanAn,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+koder_dima,Square Earth?,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dfs and similar,greedy,implementation"
+HJWAJ,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+oskr,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+manjunath426jc,Martian Architecture,0,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+manjunath426jc,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+gauravs,Square Earth?,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Mrs.Jehad,Square Earth?,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Tristan,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Alexander-1709,Square Earth?,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+just_alisher,Square Earth?,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+shrishkrish,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+nfs420,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+nfs420,Martian Architecture,0,B,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,implementation
+melkor,Martian Architecture,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pritpal,Square Earth?,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+parklinkivic,Square Earth?,0,A,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+BaturaDima,Martian Architecture,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+BaturaDima,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+RAINBOW123,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+vfix,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+rifat,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+vlade087,Martian Architecture,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vlade087,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+lame,Square Earth?,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+nise_nabe,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+biscuit,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+biscuit,Array,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+ER.abd_off,Square Earth?,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+ER.abd_off,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+middle_impulse,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+abody97,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+mtcomscxstart,Array,0,C,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,"combinatorics,math"
+asukaev,Square Earth?,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+VK.ua,Array,0,C,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,"combinatorics,math"
+deximat,Square Earth?,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Danik,Array,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,math"
+fullaccepted,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+EzhikOo,Square Earth?,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+EG0R,Square Earth?,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Tahlil,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Malibu-6009,Square Earth?,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,greedy,implementation"
+islamhamdi,Square Earth?,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+Allahabadi,Square Earth?,0,A,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+ty70,Square Earth?,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"
+dany,Martian Architecture,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sajib_cuet09,Square Earth?,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,greedy,implementation"

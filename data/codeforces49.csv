@@ -1,0 +1,951 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+delphihandle,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+delphihandle,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+z-unit,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+z-unit,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+z-unit,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+david.a.peter,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+david.a.peter,Sum,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+david.a.peter,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+david.a.peter,Disposition,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+mr.trololo,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mr.trololo,Disposition,0,C,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+mr.trololo,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+mr.trololo,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Berzhik,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Berzhik,Sum,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Berzhik,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Berzhik,Disposition,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Sahar,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sahar,Sum,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+astrovsky,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+astrovsky,Disposition,1,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+astrovsky,Game,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Garret,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Garret,Sum,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Garret,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Garret,Common ancestor,1,E,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+test1,Sleuth,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ViruZ,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ViruZ,Sum,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+ViruZ,Disposition,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Oi.,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Oi.,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Oi.,Disposition,0,C,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Oi.,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+zermx_011,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zermx_011,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Kiberbit,Sleuth,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kiberbit,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Fedya,Sleuth,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fedya,Sum,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,math
+diogen,Sleuth,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+diogen,Sum,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+diogen,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+diogen,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+ANTANTA,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ANTANTA,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ANTANTA,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Salat,Sleuth,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Salat,Sum,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Salat,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Salat,Disposition,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,math"
+Skiminok,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Skiminok,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Skiminok,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ghostof2007,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ghostof2007,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ghostof2007,Disposition,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ghostof2007,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+NikitaPogodin,Sleuth,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+NikitaPogodin,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+NikitaPogodin,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+NikitaPogodin,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+LinKin,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LinKin,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dronoff,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+dronoff,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+dronoff,Game,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+dronoff,Disposition,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+nfs420,Sleuth,1,A,1,0,0,2,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+nfs420,Sum,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+nfs420,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Roman-uragan,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Roman-uragan,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ZorN,Sleuth,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ZorN,Sum,0,B,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+ZorN,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ZorN,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+srivatsan_vn,Sleuth,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+srivatsan_vn,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+usul,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+usul,Sum,1,B,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,math
+random_1,Sleuth,0,A,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,implementation
+random_1,Sum,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+random_1,Game,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp,implementation"
+random_1,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+sandro_barna,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sandro_barna,Sum,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Fetiorin,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+Fetiorin,Game,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+DimaPhil,Sleuth,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+DimaPhil,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+DimaPhil,Disposition,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+DimaPhil,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+kyriapelagia,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyriapelagia,Sum,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+mmatrosov,Sleuth,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mmatrosov,Sum,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+mmatrosov,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,math"
+mmatrosov,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+danek_g30,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+danek_g30,Sum,0,B,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+danek_g30,Game,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+danek_g30,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+imslavko,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+imslavko,Sum,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+imslavko,Disposition,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+imslavko,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Zavalin,Sleuth,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zavalin,Sum,1,B,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,math
+Zavalin,Disposition,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+vlad,Sleuth,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+vlad,Sum,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+vlad,Disposition,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+vlad,Game,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+mousavi.uk,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mousavi.uk,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Tahlil,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tahlil,Sum,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Tahlil,Game,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp,implementation"
+dimatomp,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dimatomp,Sum,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dimatomp,Common ancestor,1,E,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,dp
+Spacejoker,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Spacejoker,Sum,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Respect2D,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Respect2D,Sum,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Respect2D,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Respect2D,Disposition,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+lazzrov,Sleuth,0,A,1,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lazzrov,Game,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+lazzrov,Sum,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+TeRom,Sleuth,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+TeRom,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+TeRom,Disposition,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+lightning,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lightning,Sum,1,B,0,0,0,0,2,6,0,0,0,0,0,0,0,0,0,0,0,math
+lightning,Disposition,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+vector9x,Sleuth,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vector9x,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vector9x,Disposition,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+vector9x,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+aakashj.sky,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aakashj.sky,Sum,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+K_operafan,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+K_operafan,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,math
+K_operafan,Game,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+K_operafan,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+katygolova,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+katygolova,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+katygolova,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+katygolova,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+oleg.ivye,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+oleg.ivye,Game,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+oleg.ivye,Sum,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+shadeel,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shadeel,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+shadeel,Disposition,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+shadeel,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+KTY,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KTY,Sum,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+KTY,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+roxion1377,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+roxion1377,Sum,0,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+roxion1377,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Mars314,Sleuth,0,A,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,implementation
+Mars314,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Mars314,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+ylllxw08,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ylllxw08,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ylllxw08,Disposition,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ylllxw08,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+chandubaba,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chandubaba,Sum,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+lodza,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lodza,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+zinger,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zinger,Sum,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Komaki,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Komaki,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Komaki,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Komaki,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Diego7,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Diego7,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Diego7,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+playdice,Sleuth,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+playdice,Sum,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+playdice,Disposition,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+playdice,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Xerxes,Sleuth,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Xerxes,Sum,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,math
+cvalentim,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cvalentim,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+cvalentim,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+crbtmac,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+crbtmac,Sum,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+crbtmac,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+crbtmac,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+PavelParhomenko,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PavelParhomenko,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+PavelParhomenko,Game,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp,implementation"
+romzes,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+romzes,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+koder_dima,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+koder_dima,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+koder_dima,Disposition,0,C,0,0,0,2,0,1,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,math"
+jijoti2,Sleuth,0,A,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sas4eka,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sas4eka,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+sas4eka,Game,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+sas4eka,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+kioa,Sleuth,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+kioa,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kioa,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+kangbb,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kangbb,Sum,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+kangbb,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+kangbb,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+kangbb,Common ancestor,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+paulocezar,Sleuth,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+paulocezar,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+paulocezar,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+paulocezar,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+paulocezar,Common ancestor,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Qary.,Sleuth,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Qary.,Game,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Qary.,Sum,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Qary.,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+rafsan,Sleuth,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rafsan,Sum,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+rafsan,Game,1,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+zlatkov,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zlatkov,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+zlatkov,Common ancestor,0,E,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,dp
+zlatkov,Sum,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+sharpie,Sleuth,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sharpie,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+sharpie,Disposition,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+sharpie,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+undefined_thimpu,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+undefined_thimpu,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+undefined_thimpu,Disposition,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+undefined_thimpu,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+rj7.1990,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rj7.1990,Sum,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+rj7.1990,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+IlyaLos,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+IlyaLos,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+IlyaLos,Disposition,0,C,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+IlyaLos,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+gourav.bit,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gourav.bit,Sum,0,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+gourav.bit,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+gourav.bit,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+luky.kashyap,Sleuth,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+luky.kashyap,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+luky.kashyap,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Ralf,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ralf,Sum,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Ralf,Disposition,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Ralf,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Saif,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+muriloufg,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+muriloufg,Sum,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+muriloufg,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+andreyrmg,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+andreyrmg,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+andreyrmg,Game,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+andreyrmg,Common ancestor,0,E,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,dp
+andreyrmg,Disposition,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+mixser.by,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mixser.by,Sum,0,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+mixser.by,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+mixser.by,Disposition,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+yongwhan,Sleuth,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yongwhan,Sum,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+yongwhan,Disposition,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,math"
+yongwhan,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+xth1,Sleuth,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xth1,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+sjbr,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sjbr,Sum,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+sjbr,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Alexander,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alexander,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Alexander,Disposition,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Alexander,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Alexander,Common ancestor,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,dp
+shovonshovo,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shovonshovo,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+shovonshovo,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+shovonshovo,Game,1,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Ferdous_CUET,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+o948,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+o948,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+o948,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+o948,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+free0u,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+free0u,Sum,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Anurag,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Anurag,Sum,0,B,0,0,0,0,0,7,0,1,0,0,0,0,0,0,0,0,0,math
+Anurag,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+piyush.neo,Sleuth,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+piyush.neo,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,math
+saurabh29789,Sleuth,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+saurabh29789,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Datsik_Anton,Sleuth,1,A,1,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,implementation
+Datsik_Anton,Disposition,1,C,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+prizrakc,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+prizrakc,Sum,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+htrinh,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+htrinh,Sum,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+htrinh,Game,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+fayyaz,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fayyaz,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fayyaz,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+fayyaz,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+pavlin,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pavlin,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+pavlin,Disposition,1,C,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+pavlin,Game,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+mohammad.mahmoodi,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mohammad.mahmoodi,Sum,1,B,0,0,0,0,1,11,0,0,0,0,0,0,0,0,0,0,0,math
+mohammad.mahmoodi,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+rampage,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rampage,Sum,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Manish-Kumar,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Manish-Kumar,Sum,0,B,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,math
+Manish-Kumar,Disposition,1,C,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+logic_max,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+logic_max,Sum,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+logic_max,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+madhu1990,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+madhu1990,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+madhu1990,Sum,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+yt_siden,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yt_siden,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yt_siden,Disposition,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+yt_siden,Common ancestor,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+163max,Sleuth,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+163max,Sum,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+163max,Game,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+163max,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Wahba,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sasuke,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sasuke,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Hthang187,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+San_Sany4,Sleuth,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+San_Sany4,Sum,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+San_Sany4,Game,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+San_Sany4,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+robb_billy,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+M03G11,Sleuth,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+M03G11,Sum,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+kvm,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kvm,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kvm,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+burger016,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sherry,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sherry,Disposition,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+sherry,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+sherry,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+sherry,Common ancestor,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+DraG,Sleuth,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+DraG,Sum,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+AleksBannikov,Sleuth,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+AleksBannikov,Sum,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Denor,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Denor,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Denor,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Hapuk,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hapuk,Disposition,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Hapuk,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Hapuk,Sum,0,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,math
+roku,Sleuth,1,A,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+roku,Sum,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+vprakash.gayasen,Sleuth,1,A,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,implementation
+vprakash.gayasen,Sum,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+tk_,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tk_,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+tk_,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+tk_,Game,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+begoon,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+begoon,Sum,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,math
+Eather,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wahyuoi,Sleuth,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wahyuoi,Sum,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+peety12,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fahad.sust,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fahad.sust,Sum,0,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fahad.sust,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+TarifEzaz,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TarifEzaz,Sum,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+TarifEzaz,Disposition,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Anton_Rodick,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Anton_Rodick,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+hardyyeh,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hardyyeh,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+hardyyeh,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+hardyyeh,Disposition,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+justcodeit,Sleuth,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ramilwow,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ramilwow,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+zsasuke,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zsasuke,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+nulpatrol,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nulpatrol,Sum,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+nulpatrol,Disposition,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+nulpatrol,Game,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+nulpatrol,Common ancestor,1,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ondrah,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ondrah,Sum,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ondrah,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+edem.kwadzo,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+edem.kwadzo,Sum,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,math
+Ksunya,Sleuth,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ksunya,Sum,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Ksunya,Disposition,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Ksunya,Common ancestor,0,E,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Ksunya,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+chiragjain1989,Sleuth,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tatsuyafw,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tatsuyafw,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tatsuyafw,Disposition,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+tatsuyafw,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+tatsuyafw,Common ancestor,1,E,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sergei.voroncov,Sleuth,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sergei.voroncov,Sum,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+navinag,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+navinag,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+navinag,Game,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+demalah,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kasyankrak,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kasyankrak,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kasyankrak,Game,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp,implementation"
+primorial,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+primorial,Sum,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+primorial,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+primorial,Game,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+sp2hari,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sp2hari,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Jemie_Effendy,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jemie_Effendy,Game,1,D,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+kwetril,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kwetril,Sum,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+kwetril,Disposition,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+kwetril,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+kolina,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kolina,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kolina,Disposition,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+kolina,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+codecrux,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+codecrux,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+codecrux,Disposition,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+neronmoon,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+neronmoon,Sum,0,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,math
+neronmoon,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+neronmoon,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+prattsishunk,Sleuth,1,A,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+prattsishunk,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+tudorsiminic1,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tudorsiminic1,Game,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+iYoung,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+iYoung,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+iYoung,Game,1,D,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+deximat,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+deximat,Sum,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+shuklaravi,Sleuth,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+SupeR-MaN,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SupeR-MaN,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+SupeR-MaN,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+jafarjon,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jafarjon,Sum,1,B,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+jafarjon,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+ztk,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ztk,Sum,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,math
+ztk,Game,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+ztk,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+fz1989,Sleuth,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+fz1989,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+fz1989,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+007.chandru.vels,Sleuth,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+007.chandru.vels,Sum,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Algorithm,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+Algorithm,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+chitose,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chitose,Sum,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+chitose,Game,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+nuhbye,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nuhbye,Sum,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+nuhbye,Game,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+marque,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+marque,Sum,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+marque,Disposition,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+marque,Game,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+notEphim,Sleuth,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+notEphim,Sum,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+notEphim,Disposition,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+notEphim,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Roschin,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Roschin,Disposition,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Roschin,Game,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+samshu,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cmepiii,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cmepiii,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+cmepiii,Disposition,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+happy,Sleuth,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+happy,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+happy,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+MOPMblLLlKA,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+MOPMblLLlKA,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+MOPMblLLlKA,Disposition,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+wenming17,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wenming17,Sum,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+XuPoKaCaMa,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+XuPoKaCaMa,Game,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+XuPoKaCaMa,Sum,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+XuPoKaCaMa,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+CleRIC,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CleRIC,Sum,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+CleRIC,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+vishnevskaja,Sleuth,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vishnevskaja,Sum,0,B,0,0,0,2,9,7,0,0,0,0,0,0,0,0,0,0,0,math
+vishnevskaja,Disposition,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+JIOCb_SPb,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+JIOCb_SPb,Disposition,0,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+JIOCb_SPb,Sleuth,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+JIOCb_SPb,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+NiceDay,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NiceDay,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+NiceDay,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+4ybakut2004,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+4ybakut2004,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,math
+yazh,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yazh,Sum,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+MitRo,Sleuth,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+MitRo,Sum,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+Arsenicum,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Arsenicum,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Arsenicum,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+wasi.ahmed,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wasi.ahmed,Sum,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+wasi.ahmed,Game,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,dp,implementation"
+wasi.ahmed,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+wasi.ahmed,Common ancestor,1,E,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,dp
+aleksandr_gusarov,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Lapenkov,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Lapenkov,Disposition,1,C,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+shnell,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shnell,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+shnell,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+McLaren,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+McLaren,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+McLaren,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+dark.wizard,Sleuth,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dark.wizard,Sum,1,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,math
+f.nasim,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+f.nasim,Sum,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Ne0n,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sourav_22,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sourav_22,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Thug,Sleuth,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Thug,Sum,1,B,0,0,0,1,0,9,0,0,0,0,0,0,0,0,0,0,0,math
+Blink,Sleuth,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Blink,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+Blink,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Blink,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Zhuravlyov.A,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhuravlyov.A,Sum,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Zhuravlyov.A,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+sert314,Sleuth,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sert314,Sum,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+KashinYana.,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+KashinYana.,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+KashinYana.,Disposition,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+KashinYana.,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+ViVi66,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Evgeni,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Evgeni,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Evgeni,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Evgeni,Game,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+codebugger,Sleuth,1,A,1,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,implementation
+Cyin,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Cyin,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Cyin,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+TRR,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TRR,Sum,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+nise_nabe,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nise_nabe,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+nise_nabe,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+U_E_D,Sleuth,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+U_E_D,Sum,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+U_E_D,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+masoud1459,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+masoud1459,Sum,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+ald,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ald,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ald,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+shtorm941,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shtorm941,Sum,1,B,0,0,0,1,0,6,0,3,0,0,0,0,0,0,0,0,0,math
+gn13,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gn13,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ankit_shukla,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ankit_shukla,Sum,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+ankit_shukla,Common ancestor,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+Conopus,Sleuth,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Conopus,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Conopus,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Arcady27,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jacinta,Sleuth,1,A,1,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+NoobOK,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+NoobOK,Sum,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+sajjad_gh,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sajjad_gh,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+sajjad_gh,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+sajjad_gh,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+kari,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kari,Sum,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+kari,Game,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp,implementation"
+kari,Disposition,0,C,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+LongCtrl,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LongCtrl,Sum,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+LongCtrl,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+LongCtrl,Disposition,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+KA-95,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KA-95,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+KA-95,Disposition,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+KA-95,Game,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+1guangnian,Sleuth,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+1guangnian,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+1guangnian,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+ViktorM,Sleuth,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ViktorM,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rdik,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rdik,Sum,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Alexander-1709,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alexander-1709,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Alexander-1709,Disposition,1,C,1,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Alexander-1709,Game,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Angel,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Angel,Game,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Angel,Sum,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Angel,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+slip0110,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+slip0110,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+slip0110,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+slip0110,Disposition,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+slip0110,Common ancestor,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+Zugzug,Sleuth,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zugzug,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+zjsxzy,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+skull,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+skull,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+FERDOUS_06,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rajib,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+rajib,Sum,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+rajib,Game,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+new,Sleuth,0,A,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+new,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Diman_yoyo,Sleuth,1,A,1,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+leeyoungjin84,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+leeyoungjin84,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+leeyoungjin84,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+cyber.njust,Sleuth,0,A,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+cyber.njust,Sum,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+cyber.njust,Game,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+cyber.njust,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+mitash.chaitanya,Sleuth,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mitash.chaitanya,Sum,1,B,0,0,0,3,1,3,0,0,0,0,0,0,0,0,1,0,0,math
+trukanduk,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+trukanduk,Sum,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+shahriaroo,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shahriaroo,Sum,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+shahriaroo,Game,1,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+shahriaroo,Common ancestor,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Zachary,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zachary,Sum,1,B,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Zachary,Disposition,0,C,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Zachary,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+hungamaboy,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hungamaboy,Sum,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+vids_spring,Sleuth,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vids_spring,Sum,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+n_bool,Sleuth,1,A,1,0,0,1,0,2,8,0,0,0,0,0,0,0,0,0,0,implementation
+n_bool,Game,1,D,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+n_bool,Disposition,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Cromel,Sleuth,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Cromel,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+pius_88,Sleuth,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+pius_88,Sum,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+pius_88,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+pius_88,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+HourGlass,Sleuth,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ilsaf13,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ilsaf13,Sum,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+vijitthetopcoder,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vijitthetopcoder,Sum,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+vijitthetopcoder,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,dp,implementation"
+tamilmani,Sleuth,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tamilmani,Sum,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+tamilmani,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+mishanay,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mishanay,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+mishanay,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+mishanay,Disposition,0,C,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ray040123,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ray040123,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ray040123,Disposition,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+ray040123,Game,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Kolya_Kryukov,Sleuth,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kolya_Kryukov,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Kolya_Kryukov,Disposition,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,math"
+Kolya_Kryukov,Game,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Ragvena,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ragvena,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Ragvena,Sum,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Ragvena,Game,0,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Iain,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Iain,Sum,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+nicogu,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nicogu,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+nicogu,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+lonelyprog,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lonelyprog,Sum,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+sakib.malek,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sakib.malek,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Pouya.Payandeh,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pouya.Payandeh,Sum,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ARHIGOD,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ankit_sablok19,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ankit_sablok19,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kyonghun90,Sleuth,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+savant.2020,Sleuth,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+savant.2020,Game,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp,implementation"
+savant.2020,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+TaTa,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TaTa,Sum,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+TaTa,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+TEN2NAUGHT,Sleuth,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+TEN2NAUGHT,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+TEN2NAUGHT,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Monk,Sleuth,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Monk,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+galiver,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+galiver,Sum,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,math
+mng,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mng,Sum,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+al_x,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+al_x,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+berden,Sleuth,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+berden,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,dp,implementation"
+berden,Sum,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+dima11221122,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dima11221122,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rst,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rst,Sum,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+rst,Game,1,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+gaomamma,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+gaomamma,Game,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+licker.nandor,Sum,0,B,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+licker.nandor,Sleuth,1,A,1,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+licker.nandor,Game,1,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+licker.nandor,Common ancestor,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Stels,Sleuth,1,A,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+Stels,Disposition,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+BogdanBugaev,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BogdanBugaev,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+BogdanBugaev,Game,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+BogdanBugaev,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+aleksei,Sleuth,0,A,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,implementation
+aleksei,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+iman_MC,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+iman_MC,Sum,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+vicD,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vicD,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Yan_Kurganov_Kovrov_STA,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Yan_Kurganov_Kovrov_STA,Sum,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Yan_Kurganov_Kovrov_STA,Game,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Yan_Kurganov_Kovrov_STA,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Levantiy,Sleuth,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+amaury.vegzav,Sleuth,0,A,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+User30000,Sleuth,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Warxezz,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Warxezz,Sum,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+Warxezz,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Mercer,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mercer,Sum,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+DeLiS,Sleuth,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fei,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pliz_delete_me,Sleuth,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pliz_delete_me,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+quocquan,Sleuth,1,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+iguto,Sleuth,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+im_mh,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+farhan.khwaja,Sleuth,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+farhan.khwaja,Game,1,D,0,0,0,0,8,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+alexandar92,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mehran-r,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+patsp,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+patsp,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+patsp,Game,1,D,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+powail,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+powail,Sum,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+ashi009,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ashi009,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ashi009,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+ashi009,Common ancestor,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+vfix,Sleuth,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+hacker007,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hacker007,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+hacker007,Game,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp,implementation"
+hacker007,Disposition,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Slamur,Sleuth,0,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+Slamur,Sum,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Slamur,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Profvip.Abotaleb,Sleuth,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Profvip.Abotaleb,Sum,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+khanaleemullah,Sleuth,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+khanaleemullah,Sum,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+cappy,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cappy,Sum,0,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+cappy,Disposition,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,math"
+cappy,Game,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+maxim-m94,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+maxim-m94,Sum,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+maxim-m94,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+maxim-m94,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+spacerays,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nayimsust,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nayimsust,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Darkstalker,Sleuth,0,A,1,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Darkstalker,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Djteam,Sleuth,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+Djteam,Sum,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+MOZGOLOM,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MOZGOLOM,Disposition,1,C,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+MOZGOLOM,Game,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+STAJIKER,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+STAJIKER,Sum,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+STAJIKER,Disposition,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+STAJIKER,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+aosuka,Disposition,0,C,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+aosuka,Sleuth,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+aosuka,Game,1,D,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,dp,implementation"
+nox757,Sleuth,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+xtoffer,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xtoffer,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+RaidBoss,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+RaidBoss,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+RaidBoss,Disposition,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+RaidBoss,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+vicky,Sleuth,1,A,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+vicky,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+NSV,Sleuth,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+NSV,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Gampr,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gampr,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+BreakDark,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BreakDark,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+sayefsakin,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sayefsakin,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+RDR,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rufferzool,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+rufferzool,Sum,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+rufferzool,Disposition,0,C,1,0,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+rufferzool,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+SkRusel,Sleuth,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+4a1ka,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+4a1ka,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+EvAn,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+EvAn,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+EvAn,Disposition,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+kicke,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kicke,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+EG0R,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sophiekh,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sophiekh,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+xy6er,Sleuth,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,implementation
+xy6er,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+EzhikOo,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+eka,Common ancestor,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+eka,Game,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,dp,implementation"
+eka,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+eka,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ravi_villuri,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+ravi_villuri,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ravi_villuri,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Noskov,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Noskov,Sum,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+GDA,Sleuth,1,A,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Wayne,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Wayne,Sum,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Wayne,Disposition,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Wayne,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+G4c4r0,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+G4c4r0,Sum,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+G4c4r0,Game,1,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+DnS,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+DnS,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Han_ksp,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+falcon,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+falcon,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dimilisher,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dimilisher,Disposition,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+riki,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lokeshcse,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lokeshcse,Sum,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+ruban,Game,0,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+ruban,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ruban,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vishnutej,Sleuth,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Permykov,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Permykov,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Permykov,Game,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Permykov,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+Alpus,Common ancestor,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Alpus,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mamhh,Sleuth,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eugene_nik,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eugene_nik,Sum,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+T-30,Sleuth,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+T-30,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+parklinkivic,Sum,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+parklinkivic,Sleuth,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+parklinkivic,Game,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+N_B_B,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Petrushenko,Sleuth,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Petrushenko,Disposition,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+lolik,Sleuth,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Tanin,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tanin,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ameydhar,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ameydhar,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ameydhar,Game,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+Nivikz,Sleuth,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nivikz,Sum,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+England,Sleuth,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+MasterX,Sleuth,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+-----,Sum,0,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+-----,Sleuth,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+KOVROV_STA3,Disposition,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,math"
+KOVROV_STA3,Game,0,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp,implementation"
+KOVROV_STA3,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jays6215,Sleuth,0,A,0,0,0,1,0,0,11,2,0,0,0,0,0,0,0,0,0,implementation
+Adai_is,Sleuth,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ekrilov92,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tamara.agayan,Sleuth,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+askarian,Sleuth,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+askarian,Sum,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+sakilimran,Sum,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sakilimran,Sleuth,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation

@@ -1,0 +1,851 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+ftiasch,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+ftiasch,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ftiasch,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ftiasch,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Egor,Statues,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Egor,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Egor,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Egor,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Egor,Birthday,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,math"
+xiaowuc1,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+xiaowuc1,Games with Rectangle,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+xiaowuc1,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+xiaowuc1,Birthday,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,math"
+xiaowuc1,String,0,B,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+KADR,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+KADR,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+KADR,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+KADR,Numbers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+daizhenyang,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+daizhenyang,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+dzhulgakov,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+dzhulgakov,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+dzhulgakov,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dzhulgakov,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+SergeyRogulenko,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+SergeyRogulenko,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+SergeyRogulenko,Numbers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+SergeyRogulenko,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+SergeyRogulenko,Birthday,1,E,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"geometry,math"
+e-maxx,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+e-maxx,String,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+e-maxx,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+e-maxx,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+e-maxx,Birthday,0,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"geometry,math"
+a9108,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+a9108,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+a9108,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+a9108,Numbers,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+a9108,Birthday,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,math"
+pt1989,Statues,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+pt1989,String,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+pt1989,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+pt1989,Numbers,1,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+atetubou,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+atetubou,Games with Rectangle,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+RAVEman,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+RAVEman,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+RAVEman,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+RAVEman,Numbers,1,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Zhukov_Dmitry,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Zhukov_Dmitry,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Zhukov_Dmitry,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Zhukov_Dmitry,Numbers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Zhukov_Dmitry,Birthday,1,E,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"geometry,math"
+yeputons,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+yeputons,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+yeputons,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+yeputons,String,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+random.johnnyh,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+random.johnnyh,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp"
+random.johnnyh,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+random.johnnyh,String,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Fdg,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Fdg,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Fdg,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Fdg,Numbers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+unicef,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+unicef,String,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+unicef,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+unicef,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+zjut_DD,String,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+zjut_DD,Statues,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+zjut_DD,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+zjut_DD,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+vitar,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+vitar,String,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+vitar,Numbers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+vitar,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Gassa,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Gassa,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Gassa,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Gassa,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Kh.Madi,Statues,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Kh.Madi,Numbers,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,constructive algorithms
+Kh.Madi,Games with Rectangle,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+alleluja,Statues,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+alleluja,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+alleluja,String,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+alleluja,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+thinfaifai,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dfs and similar
+thinfaifai,String,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+thinfaifai,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Ra16bit,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Ra16bit,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Ra16bit,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Ra16bit,Numbers,1,D,0,0,0,1,0,3,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+Orfest,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Orfest,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Orfest,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Orfest,Games with Rectangle,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+tourist,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+tourist,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+tourist,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+tourist,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+tourist,Birthday,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,math"
+kawatea,Statues,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+kawatea,String,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+kawatea,Numbers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+hos.lyric,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+hos.lyric,Numbers,0,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+hos.lyric,Statues,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+hos.lyric,String,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+hos.lyric,Birthday,0,E,0,0,0,0,0,4,0,11,0,0,0,0,0,0,0,0,0,"geometry,math"
+Sereja,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Sereja,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Sereja,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Sereja,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+maksay,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+maksay,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+maksay,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+maksay,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+WJMZBMR,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+WJMZBMR,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+WJMZBMR,String,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+WJMZBMR,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+scottai1,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+scottai1,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+scottai1,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+scottai1,Numbers,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+havaliza,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+havaliza,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+havaliza,String,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+havaliza,Numbers,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Kepnu4,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+espr1t,Statues,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+espr1t,Numbers,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Lumpy,Statues,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Lumpy,String,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Lumpy,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+sicasli,String,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+pablo.aguilar,Statues,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+pablo.aguilar,String,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+pablo.aguilar,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+bayleef,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+bayleef,Games with Rectangle,1,C,1,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+bayleef,String,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Chmel_Tolstiy,Statues,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Chmel_Tolstiy,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Chmel_Tolstiy,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Chmel_Tolstiy,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+_meshanya_,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+_meshanya_,String,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+LayCurse,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+LayCurse,String,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+LayCurse,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+LayCurse,Numbers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+UESTC_Nocturne,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+UESTC_Nocturne,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+UESTC_Nocturne,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+subscriber,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+subscriber,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+subscriber,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+subscriber,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Pattara.S,Statues,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Pattara.S,Numbers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Pattara.S,Games with Rectangle,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+I-juice,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+I-juice,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+I-juice,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+I-juice,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+---Grigor---,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+---Grigor---,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+---Grigor---,String,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+---Grigor---,Games with Rectangle,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+freak93,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+freak93,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+freak93,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+yoh149,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+shangjingbo,Games with Rectangle,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp"
+shangjingbo,String,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+shangjingbo,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+shangjingbo,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ACube,Statues,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ACube,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ACube,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ACube,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+SergeiFedorov,Statues,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+SergeiFedorov,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+SergeiFedorov,Numbers,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+SergeiFedorov,String,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+hydrastuff,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+hydrastuff,Games with Rectangle,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+hydrastuff,Numbers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ftc,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ftc,String,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+ftc,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ftc,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+juver,Statues,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+juver,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+syco,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+syco,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp"
+syco,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+syco,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+sohelH,Statues,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+sohelH,Games with Rectangle,1,C,0,0,0,0,1,0,0,0,2,0,0,1,0,1,0,0,0,"combinatorics,dp"
+Milanin,Statues,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Milanin,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Milanin,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Milanin,Numbers,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dancho,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+dancho,String,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+dancho,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+tsukuno,Statues,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+tsukuno,String,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+tsukuno,Games with Rectangle,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+tsukuno,Numbers,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+azizkhan,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+azizkhan,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+azizkhan,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+azizkhan,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Endagorion,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Endagorion,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Endagorion,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Endagorion,Birthday,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,math"
+Eledven,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Eledven,Numbers,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+bwps,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+bwps,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+bwps,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+bwps,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Aleksander,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Aleksander,Games with Rectangle,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+bapcoi,Statues,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+bapcoi,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+bapcoi,String,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+bapcoi,Numbers,0,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+jzd,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+jzd,Games with Rectangle,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Commandos,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Commandos,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+rankalee,Statues,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+rankalee,String,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+venkateshb,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+venkateshb,String,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+venkateshb,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+venkateshb,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Snipx,Statues,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Abra,Statues,0,A,1,0,0,0,0,5,0,0,3,0,0,0,0,0,0,0,0,dfs and similar
+Abra,String,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Abra,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+louise,Statues,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+louise,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+louise,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+louise,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ICOA,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dfs and similar
+ICOA,String,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+ICOA,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ICOA,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+cmd,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+cmd,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+cmd,Games with Rectangle,1,C,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Rubanenko,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Rubanenko,Games with Rectangle,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp"
+Rubanenko,Numbers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+bjin,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+bjin,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+bjin,Numbers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+bjin,String,1,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+mike,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+mike,Numbers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mike,String,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+tomek,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+tomek,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+tomek,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+tomek,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+tomek,Birthday,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,math"
+wRabbits_AlMag,Statues,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+wRabbits_AlMag,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Ripatti,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Ripatti,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Ripatti,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Ripatti,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+UESTC_Defense,Statues,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+UESTC_Defense,String,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+UESTC_Defense,Numbers,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+AHdoc,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+AHdoc,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+AHdoc,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+zeliboba,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+zeliboba,Games with Rectangle,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+zeliboba,Numbers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+vlady,Statues,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+vlady,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Gerald,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Gerald,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Gerald,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Gerald,Numbers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+whd,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+whd,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+whd,Numbers,1,D,0,0,0,0,1,5,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+whd,String,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+mukel,String,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+mukel,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+-XraY-,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+-XraY-,Games with Rectangle,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+-XraY-,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+SkorKNURE,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+SkorKNURE,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+SkorKNURE,Numbers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+muliguishou,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+muliguishou,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+muliguishou,Numbers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+LGM,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+LGM,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp"
+LGM,Numbers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+wanghd,Statues,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+wanghd,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+wanghd,String,1,B,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+zglicz,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+zglicz,String,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+zglicz,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+zglicz,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+pauldb,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+pauldb,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+pauldb,Numbers,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+kamranm,Statues,0,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+kamranm,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+kamranm,String,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+heyihong,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+heyihong,String,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+heyihong,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+heyihong,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Babanin_Ivan,Statues,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Babanin_Ivan,String,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+ahmed_aly,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ahmed_aly,String,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+AlexDmitriev,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+AlexDmitriev,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+AlexDmitriev,Games with Rectangle,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+chyx,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+chyx,String,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+chyx,Games with Rectangle,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+chyx,Numbers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+wuzhengkai,Statues,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+wuzhengkai,String,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+wuzhengkai,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+wuzhengkai,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+NuM,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+NuM,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+NuM,String,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+_sunny,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+_sunny,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+_sunny,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+_sunny,Numbers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+sune2,Statues,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+sune2,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+sune2,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Slavik,Statues,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Slavik,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+zhymaoiing,Statues,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+zhymaoiing,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+zhymaoiing,Numbers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mmaxio,String,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+mmaxio,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+mmaxio,Games with Rectangle,0,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+mmaxio,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+White_Bear,Statues,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+White_Bear,Games with Rectangle,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+White_Bear,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+White_Bear,String,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+marxi,Statues,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+marxi,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Kenny_HORROR,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Kenny_HORROR,Games with Rectangle,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,"combinatorics,dp"
+Kenny_HORROR,Numbers,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Kenny_HORROR,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+psint,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+psint,Games with Rectangle,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+psint,Numbers,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+DamianS,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+DamianS,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+DamianS,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+DamianS,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+GlebsHP,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+GlebsHP,String,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+GlebsHP,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+GlebsHP,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+paladin8,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+paladin8,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+paladin8,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+paladin8,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+guille,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+guille,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+guille,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+guille,Games with Rectangle,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ifsmirnov,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ifsmirnov,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ifsmirnov,String,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+ifsmirnov,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+GagGuy,Statues,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+GagGuy,Numbers,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+GagGuy,String,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+GagGuy,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+mruxim,Statues,0,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+mruxim,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mruxim,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+mruxim,String,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Matt,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Matt,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Matt,Games with Rectangle,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+lala,Statues,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+lala,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+lala,Numbers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Dimke,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Dimke,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+piloop,Statues,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+piloop,String,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+piloop,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+piloop,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+vance,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+vance,Numbers,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+rgt0820,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+rgt0820,Statues,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+rgt0820,Games with Rectangle,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+rgt0820,Numbers,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+OutSide,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+OutSide,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+OutSide,String,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+imslavko,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+imslavko,String,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+imslavko,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+monocofe,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+monocofe,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+monocofe,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+keivan,Statues,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+keivan,Numbers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+rinigan,Statues,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+rinigan,Games with Rectangle,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+rinigan,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+SkyHawk,Statues,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+SkyHawk,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+majia5,Statues,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+majia5,String,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Farzam,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Jughead,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Jughead,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Jughead,String,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Jughead,Numbers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+roypalacios,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+roypalacios,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+roypalacios,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+suhang1994,Statues,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+suhang1994,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+suhang1994,Numbers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+beginner1010,Statues,1,A,1,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,dfs and similar
+xiaodao,Numbers,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+xiaodao,Games with Rectangle,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+xiaodao,Statues,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ysyshtc,Statues,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ysyshtc,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ysyshtc,String,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+ysyshtc,Numbers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+forest,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+forest,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+forest,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+forest,String,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+panyuchao,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+panyuchao,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+panyuchao,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+panyuchao,Numbers,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+DarthBeleg,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Hohol,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+zaq1xsw2tktk,Statues,0,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+zaq1xsw2tktk,String,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+zaq1xsw2tktk,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+zaq1xsw2tktk,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+AndreySiunov,Statues,0,A,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+AndreySiunov,Numbers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+hogehogehoge,Statues,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+hogehogehoge,String,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+hogehogehoge,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Kriii,String,0,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Kriii,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Kriii,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Kriii,Numbers,1,D,0,0,0,0,1,3,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+SkylyXD,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+SkylyXD,String,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+acherepanov,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+shinian,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+shinian,Numbers,0,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+shinian,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+amylase,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+amylase,String,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+amylase,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+amylase,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mustafij,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Aziza,Statues,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Aziza,Numbers,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+steiner,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+steiner,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+steiner,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+steiner,String,0,B,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Shtrix,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Shtrix,Games with Rectangle,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Shtrix,Numbers,1,D,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+aropan,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,dfs and similar
+aropan,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+aropan,Numbers,0,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+aropan,String,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+DPR-pavlin,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+DPR-pavlin,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+DPR-pavlin,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+witua,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+witua,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+witua,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+balakrishnan,Statues,1,A,1,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+balakrishnan,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mR.ilchi,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+mR.ilchi,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+mR.ilchi,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mR.ilchi,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+alberist,Statues,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+iensen,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+iensen,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+rowdark,Statues,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+rowdark,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+rowdark,Numbers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+prpr,Statues,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+prpr,Games with Rectangle,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+prpr,Numbers,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+aandrew,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+aandrew,String,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+paulocezar,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+paulocezar,String,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+FranckRibery,Statues,1,A,1,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+AleX,Statues,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+AleX,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+AleX,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+AleX,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+shindo,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+shindo,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+shindo,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+haas,Statues,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+haas,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+haas,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+TheRaven,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+TheRaven,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+TheRaven,Numbers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+zpl2,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+zpl2,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+zpl2,Numbers,0,D,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+zpl2,String,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Malinovsky239,Statues,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Malinovsky239,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+Malinovsky239,Games with Rectangle,1,C,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+self_healing,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+self_healing,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+self_healing,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+MorningSYJ,Statues,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+MorningSYJ,Numbers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+MorningSYJ,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+alexeykuzmin0,Statues,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+alexeykuzmin0,Games with Rectangle,0,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+alexeykuzmin0,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dolphinigle,String,0,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+dolphinigle,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+dolphinigle,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+dolphinigle,Birthday,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"geometry,math"
+dolphinigle,Numbers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+SobolS,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+SobolS,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+SobolS,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+permin,Statues,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+permin,Numbers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+edly,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+edly,Numbers,0,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+edly,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+serbanstan,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+serbanstan,String,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+serbanstan,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+serbanstan,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Martin,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Martin,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Martin,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Martin,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Mehrdad,Statues,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Mehrdad,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Mehrdad,Numbers,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+Mehrdad,String,0,B,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+apathism,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+apathism,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+chnlich,Statues,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+chnlich,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+chnlich,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+chnlich,String,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+PolarNick,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+undef,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+undef,String,0,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+undef,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Ramzes2,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Ramzes2,String,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Ramzes2,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+loveqinqin,Statues,1,A,1,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,dfs and similar
+Le-Nika,Statues,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Le-Nika,Numbers,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+adavydow,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+adavydow,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+adavydow,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+DimaPhil,Numbers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+DimaPhil,Statues,1,A,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+mylyanyk.ivan,Statues,1,A,1,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,dfs and similar
+mylyanyk.ivan,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+tloinuy,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+tloinuy,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+tloinuy,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+shavkat,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+shavkat,Games with Rectangle,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Borisp,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Borisp,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Borisp,Numbers,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Borisp,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+rembocoder,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+rembocoder,String,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+zurg,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+zurg,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Eclipse,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Eclipse,Games with Rectangle,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Eclipse,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+evima,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+evima,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+sakyalol,Statues,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+sakyalol,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+sakyalol,Numbers,1,D,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Alireza,Statues,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Alireza,Numbers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+BlinKer,String,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+BlinKer,Numbers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+flashmt,Statues,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+flashmt,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+flashmt,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Deamon,Statues,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+kennethsnow,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+kennethsnow,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+kennethsnow,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+cjLD,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+cjLD,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+cjLD,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+cjLD,Games with Rectangle,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+naonao,Numbers,0,D,1,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+naonao,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+tanas,Statues,1,A,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+olpetOdessaONU,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+olpetOdessaONU,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+siuvit,Statues,1,A,1,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Dumpty,Numbers,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Dumpty,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+DuX,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+DuX,Games with Rectangle,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+DuX,Numbers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+constkir,Statues,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+constkir,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+M0sTik,Statues,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+M0sTik,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+xujie,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+xujie,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+xujie,Numbers,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+daftcoder,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+vlad107,Statues,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+vlad107,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+vlad107,Numbers,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+homo_sapiens,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+homo_sapiens,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+homo_sapiens,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+homo_sapiens,Numbers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+fmm,Statues,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+fmm,String,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Mex-Mans,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Mex-Mans,String,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+fura,Statues,1,A,1,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+fura,Numbers,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Archon.JK,Statues,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+Archon.JK,Games with Rectangle,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Archon.JK,String,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Archon.JK,Numbers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+SCNU20082200090,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+SCNU20082200090,Games with Rectangle,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+SCNU20082200090,Numbers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+naagi,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+naagi,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+dusty.and.rusty,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+dusty.and.rusty,String,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+natsugiri,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+natsugiri,String,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+natsugiri,Games with Rectangle,0,C,0,0,0,0,0,0,0,5,1,0,0,0,0,0,0,0,0,"combinatorics,dp"
+z__jj,Statues,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+z__jj,String,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+z__jj,Numbers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Balajiganapathi,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+AlexanderBolshakov,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Mahdi,Statues,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Mahdi,String,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+lucyfer,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+lucyfer,String,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+yenthanh.t7,Statues,1,A,1,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+chronotable,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+chronotable,String,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+chronotable,Numbers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mekagem,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+mekagem,Games with Rectangle,0,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+mekagem,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+poopi,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+poopi,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+poopi,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+NovaBlast,Statues,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+NovaBlast,Numbers,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ir5,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ir5,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+ir5,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ir5,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ir5,Birthday,1,E,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"geometry,math"
+Kasparyan_Mihail,Statues,1,A,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Kasparyan_Mihail,Numbers,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+al_maz,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+al_maz,String,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+thanabhat,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+thanabhat,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+thanabhat,String,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+searcher769,Statues,1,A,1,0,0,0,1,8,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+searcher769,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Baz93,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Baz93,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Baz93,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+SergeyLazarev,Statues,0,A,1,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,dfs and similar
+SergeyLazarev,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+SergeyLazarev,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+gojira,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+gojira,Numbers,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+gojira,Statues,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+EvgeniusASPX,Statues,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Spumote,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Spumote,Games with Rectangle,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+IlyaCk,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+IlyaCk,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+yukim,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+yukim,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+yukim,Games with Rectangle,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+yukim,Numbers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+MatRush,Statues,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Jacob,Birthday,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,math"
+Jacob,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Jacob,Statues,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Jacob,Numbers,1,D,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Victor,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Victor,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+coolinging,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+coolinging,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+coolinging,Numbers,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,constructive algorithms
+coolinging,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Pavlo_Lviv_NU,Statues,1,A,1,0,0,0,0,9,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+Pavlo_Lviv_NU,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+Pavlo_Lviv_NU,Games with Rectangle,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+lavin,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+lavin,String,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+sjtu_pigoneand,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+sjtu_pigoneand,String,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+sjtu_pigoneand,Games with Rectangle,0,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+sjtu_pigoneand,Numbers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Lancelot,Statues,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Lancelot,Numbers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Copymaster,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Copymaster,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+cos,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+cos,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp"
+cos,String,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+cos,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ryry56,Statues,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ryry56,String,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+olimpo,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+olimpo,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+olimpo,Numbers,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+olimpo,String,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+botay,Statues,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+A.I,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+A.I,String,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Thost,Numbers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+pfctgeorge,Statues,1,A,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+dyussenaliyev,String,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+dyussenaliyev,Games with Rectangle,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+dyussenaliyev,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+DeMoN,String,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+DeMoN,Numbers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+DeMoN,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+shibly,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+haker4o,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+sas4eka,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+sas4eka,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Martial,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Martial,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Epiq,Statues,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Epiq,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+map,Statues,0,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+map,Numbers,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+map,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+diogen,Statues,1,A,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,dfs and similar
+diogen,Numbers,1,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Arios,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Arios,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Arios,String,1,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Berestinsky,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Berestinsky,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Berestinsky,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+OldY,Statues,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+OldY,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+OldY,Numbers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Komaki,Games with Rectangle,0,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Komaki,Statues,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Komaki,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Komaki,String,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Nox,Statues,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,dfs and similar
+Nox,Games with Rectangle,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+bigeye,Statues,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+bigeye,String,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+eucho,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+eucho,String,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+malcolm,Statues,0,A,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Belonogov,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+fushar,String,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+fushar,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+2009210656,Statues,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+2009210656,String,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+gchebanov,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+gchebanov,Games with Rectangle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+gchebanov,String,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+barty,Statues,1,A,1,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+barty,Numbers,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+AguL,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+AguL,Numbers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+BaJIuK,Statues,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+hirosegolf,Numbers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+hirosegolf,Games with Rectangle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+hirosegolf,Statues,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+domhow,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+domhow,Numbers,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+jianglinjie,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+cpphamza,Games with Rectangle,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp"
+cpphamza,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Seemann,String,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,constructive algorithms,hashing,string suffix structures,strings"
+Seemann,Statues,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+amrSamir,Numbers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+yudaer,Statues,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar

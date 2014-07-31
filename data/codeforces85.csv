@@ -1,0 +1,1893 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+hasi,Domino,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+hasi,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+hasi,Petya and Tree,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+hasi,Sum of Medians,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,brute force,data structures,implementation"
+pt1989,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+pt1989,Embassy Queue,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+pt1989,Sum of Medians,1,D,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Narg,Domino,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Narg,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Narg,Sum of Medians,1,D,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Mex-Mans,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Mex-Mans,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+vepifanov,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+vepifanov,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+vepifanov,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+vepifanov,Sum of Medians,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+vepifanov,Guard Towers,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+Light_moon,Domino,0,A,1,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Light_moon,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+mmaxio,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+mmaxio,Embassy Queue,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+mmaxio,Petya and Tree,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+darkbtf,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+darkbtf,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+darkbtf,Guard Towers,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+pperm,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+pperm,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+pperm,Petya and Tree,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+pperm,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Genyaz,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Genyaz,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Genyaz,Petya and Tree,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+fujiyama,Domino,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+fujiyama,Sum of Medians,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,data structures,implementation"
+LuXueQi,Domino,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+LuXueQi,Embassy Queue,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+LuXueQi,Petya and Tree,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Al.Cash,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Al.Cash,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Al.Cash,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+xiaoziqian,Domino,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+xiaoziqian,Embassy Queue,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+xiaoziqian,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+K_operafan,Domino,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+K_operafan,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+kormak,Domino,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+kormak,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+kormak,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+I_love_ilona,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+I_love_ilona,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+I_love_ilona,Petya and Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Burunduk1,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Burunduk1,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Burunduk1,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Burunduk1,Sum of Medians,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Burunduk1,Guard Towers,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,dsu,geometry,graphs,sortings"
+y3eadgbe,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+y3eadgbe,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+havaliza,Domino,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+havaliza,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+havaliza,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Zlobober,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Zlobober,Embassy Queue,1,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Zlobober,Petya and Tree,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+ACube,Domino,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ACube,Petya and Tree,0,C,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+ACube,Sum of Medians,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+ACube,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+sdya,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+sdya,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+sdya,Petya and Tree,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Sergey.Bankevich,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Sergey.Bankevich,Petya and Tree,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Sergey.Bankevich,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+giantarum,Domino,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+giantarum,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+giantarum,Petya and Tree,1,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+al13n,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+al13n,Petya and Tree,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+al13n,Sum of Medians,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+al13n,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Kostroma,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Kostroma,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,data structures
+AleX,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+AleX,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+AleX,Sum of Medians,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+AleX,Guard Towers,0,E,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+mR.ilchi,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+mR.ilchi,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+mR.ilchi,Petya and Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+akim239,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+akim239,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+akim239,Petya and Tree,1,C,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+akim239,Sum of Medians,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+maksay,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+maksay,Petya and Tree,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+maksay,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+maksay,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+maksay,Guard Towers,0,E,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+Daiki_Ando,Domino,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Daiki_Ando,Sum of Medians,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,data structures,implementation"
+cmd,Domino,1,A,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+cmd,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+cmd,Petya and Tree,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+parenti,Domino,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+pieguy,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+pieguy,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+pieguy,Petya and Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+dgozman,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+dgozman,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,data structures
+dgozman,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+dgozman,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+dgozman,Guard Towers,1,E,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+AlexDmitriev,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+AlexDmitriev,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+AlexDmitriev,Petya and Tree,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+hzgd,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+hzgd,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+hzgd,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+borisgrubic,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+borisgrubic,Embassy Queue,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+borisgrubic,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+poopi,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+poopi,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+poopi,Sum of Medians,1,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+fastblood,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+fastblood,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+fastblood,Sum of Medians,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+tourist,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+tourist,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+tourist,Guard Towers,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+tourist,Sum of Medians,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+tourist,Petya and Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+DamianS,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+DamianS,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+m7nika,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+m7nika,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+kormyshov,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+kormyshov,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+uwi,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+uwi,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+uwi,Petya and Tree,1,C,1,0,0,0,13,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Anton_Lunyov,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Anton_Lunyov,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Anton_Lunyov,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Anton_Lunyov,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+drazil,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+drazil,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+drazil,Petya and Tree,1,C,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Borisp,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Borisp,Embassy Queue,0,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Borisp,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+kelvin,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+kelvin,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+kelvin,Petya and Tree,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+andrewzta,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+andrewzta,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+andrewzta,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+andrewzta,Sum of Medians,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+andrewzta,Guard Towers,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+darnley,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+darnley,Embassy Queue,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+darnley,Petya and Tree,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+darnley,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+rng_58,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+rng_58,Guard Towers,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+ainu7,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ainu7,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ainu7,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+ainu7,Sum of Medians,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+vitar,Domino,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+vitar,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+vitar,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+cerealguy,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+cerealguy,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+cerealguy,Sum of Medians,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+cerealguy,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+wrong,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+wrong,Embassy Queue,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+wrong,Petya and Tree,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Zhukov_Dmitry,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Zhukov_Dmitry,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Zhukov_Dmitry,Guard Towers,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+Zhukov_Dmitry,Petya and Tree,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Progger,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Progger,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Progger,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Progger,Guard Towers,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+Progger,Petya and Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Gassa,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Gassa,Sum of Medians,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,brute force,data structures,implementation"
+Gassa,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+qwaker.00,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+qwaker.00,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+qwaker.00,Petya and Tree,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+qwaker.00,Sum of Medians,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+ashmelev,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ashmelev,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ashmelev,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+ashmelev,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+romanandreev,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+romanandreev,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+romanandreev,Petya and Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+romanandreev,Sum of Medians,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Dmitry_Egorov,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Dmitry_Egorov,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Dmitry_Egorov,Sum of Medians,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Dmitry_Egorov,Petya and Tree,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+portal,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+portal,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+portal,Petya and Tree,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+t__nt,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+t__nt,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+t__nt,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+HJWAJ,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+HJWAJ,Sum of Medians,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+bogatrv,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+bogatrv,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+bogatrv,Guard Towers,0,E,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+ir5,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ir5,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+ir5,Petya and Tree,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Seyaua,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Seyaua,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Seyaua,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+self_healing,Domino,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+self_healing,Petya and Tree,1,C,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+OoO000oOOOoOooOo,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+OoO000oOOOoOooOo,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+OoO000oOOOoOooOo,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+OoO000oOOOoOooOo,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+OoO000oOOOoOooOo,Guard Towers,1,E,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+Sereja,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Sereja,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Sereja,Petya and Tree,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+dzhulgakov,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+dzhulgakov,Petya and Tree,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+dzhulgakov,Sum of Medians,0,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+dzhulgakov,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+Imba,Domino,0,A,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Imba,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Imba,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Nightmie,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Nightmie,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+freopen,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+freopen,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+freopen,Sum of Medians,1,D,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+logicmachine,Domino,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+logicmachine,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+logicmachine,Petya and Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+logicmachine,Sum of Medians,0,D,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Gluk,Domino,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Gluk,Embassy Queue,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Gluk,Sum of Medians,1,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Gluk,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+JKeeJ1e30,Domino,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+JKeeJ1e30,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,data structures
+Fly,Domino,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Fly,Embassy Queue,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Fly,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+SpookyCookie,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+SpookyCookie,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+SpookyCookie,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+avriskin,Domino,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+avriskin,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+avriskin,Petya and Tree,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+I-juice,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+I-juice,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+I-juice,Petya and Tree,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+NotOnlySuccess,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+NotOnlySuccess,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+NotOnlySuccess,Petya and Tree,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+zjut_DD,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+2222,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+2222,Embassy Queue,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+2222,Sum of Medians,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+2222,Guard Towers,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+dAnton,Domino,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+dAnton,Embassy Queue,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+dAnton,Petya and Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+air,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+air,Petya and Tree,0,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+air,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+l.j.q.light,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+l.j.q.light,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+l.j.q.light,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Vedensky,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Vedensky,Petya and Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Vedensky,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,brute force,data structures,implementation"
+kcm1700,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+kcm1700,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+kcm1700,Petya and Tree,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Arkadiy,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Arkadiy,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Smylic,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Smylic,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Smylic,Sum of Medians,1,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+stubbscroll,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+stubbscroll,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+stubbscroll,Sum of Medians,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Erop,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Erop,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Erop,Petya and Tree,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+kolesov93,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+kolesov93,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+kolesov93,Petya and Tree,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+valich,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+valich,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+valich,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+valich,Sum of Medians,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Ripatti,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Ripatti,Petya and Tree,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Ripatti,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Ripatti,Sum of Medians,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+RAVEman,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+RAVEman,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+RAVEman,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+RAVEman,Sum of Medians,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+RAVEman,Guard Towers,1,E,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+Commandos,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Commandos,Embassy Queue,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+amrSamir,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+amrSamir,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+amrSamir,Petya and Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Jacob,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Jacob,Sum of Medians,0,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Jacob,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+goryinyich,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+goryinyich,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+goryinyich,Sum of Medians,1,D,2,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+suhendry,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+suhendry,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+suhendry,Sum of Medians,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+enot.1.10,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+enot.1.10,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+enot.1.10,Petya and Tree,1,C,1,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+whhone,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+whhone,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ArtDitel,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ArtDitel,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ArtDitel,Petya and Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Dembel,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Dembel,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Dembel,Petya and Tree,0,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Dembel,Sum of Medians,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+yeputons,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+yeputons,Embassy Queue,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+yeputons,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+yeputons,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Petr,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Petr,Sum of Medians,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Petr,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Petr,Petya and Tree,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Petr,Guard Towers,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+Shef,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Shef,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Shef,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Shef,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+dyukha,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+dyukha,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+dyukha,Petya and Tree,0,C,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+dyukha,Sum of Medians,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,brute force,data structures,implementation"
+ahmed_aly,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ahmed_aly,Embassy Queue,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+ahmed_aly,Petya and Tree,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Olja,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Olja,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Olja,Petya and Tree,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+seanwentzel42,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+seanwentzel42,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+vudduu,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+vudduu,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+vudduu,Sum of Medians,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+NikitaD,Domino,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+NikitaD,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+NikitaD,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+iwiwi,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+iwiwi,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+iwiwi,Sum of Medians,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,brute force,data structures,implementation"
+wywcgs,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+wywcgs,Sum of Medians,0,D,1,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+wywcgs,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+DDDDDDDDDDDDDDDDDDDDDDDD,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+DDDDDDDDDDDDDDDDDDDDDDDD,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+DDDDDDDDDDDDDDDDDDDDDDDD,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+murphy,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+murphy,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+murphy,Sum of Medians,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"binary search,brute force,data structures,implementation"
+alexey.enkov,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+alexey.enkov,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+alexey.enkov,Petya and Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+varlevani,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,implementation"
+varlevani,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+varlevani,Sum of Medians,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+ardiankp,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ardiankp,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ardiankp,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+ardiankp,Sum of Medians,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+ktuan,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ktuan,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ktuan,Petya and Tree,1,C,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+dmitrydyatlov,Domino,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+dmitrydyatlov,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+dmitrydyatlov,Petya and Tree,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+levlam,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+levlam,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+levlam,Petya and Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Slevin,Domino,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Slevin,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Slevin,Petya and Tree,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+stgatilov,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+stgatilov,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+stgatilov,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+LazyChild,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+alexander.yuriev,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+alexander.yuriev,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+alexander.yuriev,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+PavelKunyavskiy,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+PavelKunyavskiy,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+PavelKunyavskiy,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+PavelKunyavskiy,Sum of Medians,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+LinesPrower,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+LinesPrower,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+LinesPrower,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+LinesPrower,Sum of Medians,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+gchebanov,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+gchebanov,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+gchebanov,Petya and Tree,1,C,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+dragoon,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+dragoon,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+dragoon,Petya and Tree,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Archon.JK,Domino,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Archon.JK,Embassy Queue,0,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,data structures
+Archon.JK,Petya and Tree,1,C,1,0,0,3,4,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+White_Bear,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+White_Bear,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+White_Bear,Sum of Medians,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+White_Bear,Petya and Tree,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+sky58,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+sky58,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+sky58,Petya and Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+taras.klaskovsky,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+valikluks1995,Domino,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+right_wing,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+right_wing,Petya and Tree,0,C,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+right_wing,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+JalbaRu,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+JalbaRu,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+JalbaRu,Petya and Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Romka,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Romka,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Romka,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Romka,Sum of Medians,1,D,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Baz93,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ne.rwa.lz,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ne.rwa.lz,Embassy Queue,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+ne.rwa.lz,Sum of Medians,0,D,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,data structures,implementation"
+ne.rwa.lz,Petya and Tree,0,C,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+mob_lived,Domino,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+UC2,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+UC2,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+UC2,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Oi.,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Oi.,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Oi.,Petya and Tree,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+ebd,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ebd,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ebd,Petya and Tree,1,C,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+ConanKudo,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ConanKudo,Embassy Queue,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ConanKudo,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Cepera,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+hayk.saribekyan,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+hayk.saribekyan,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+ivan.popelyshev,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ivan.popelyshev,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ivan.popelyshev,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+ivan.popelyshev,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Stigius,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Stigius,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Stigius,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Stigius,Sum of Medians,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Stigius,Guard Towers,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+bubnov,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+bubnov,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+bubnov,Petya and Tree,1,C,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+cafelier,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+cafelier,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+cafelier,Petya and Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+cgy4ever,Domino,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+cgy4ever,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+cgy4ever,Petya and Tree,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+NSL,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+atol,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+atol,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+atol,Sum of Medians,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+tomerun,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+tomerun,Embassy Queue,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+tomerun,Petya and Tree,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+ilyakor,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ilyakor,Embassy Queue,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,data structures
+ilyakor,Sum of Medians,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+ilyakor,Petya and Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+bayleef,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+bayleef,Petya and Tree,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+bayleef,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+the_saint,Domino,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+the_saint,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Monyura,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Monyura,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+wiw,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+wiw,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+wiw,Petya and Tree,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Igor_Kudryashov,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Igor_Kudryashov,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Igor_Kudryashov,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Fdg,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Fdg,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Fdg,Sum of Medians,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+ptrrsn_1,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ptrrsn_1,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ptrrsn_1,Petya and Tree,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+sexyprincess91,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+sexyprincess91,Sum of Medians,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,data structures,implementation"
+sexyprincess91,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+yongwhan,Domino,1,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+yongwhan,Sum of Medians,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,1,1,0,0,"binary search,brute force,data structures,implementation"
+nodchip,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+nodchip,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+nodchip,Sum of Medians,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+LayCurse,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+LayCurse,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+LayCurse,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+LayCurse,Sum of Medians,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,"binary search,brute force,data structures,implementation"
+adavydow,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+adavydow,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+adavydow,Sum of Medians,1,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+forifchen,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+forifchen,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+forifchen,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Kenny_HORROR,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Kenny_HORROR,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Kenny_HORROR,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Shapo,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Shapo,Embassy Queue,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+Shapo,Petya and Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+dreamoon,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+dreamoon,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+dreamoon,Petya and Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+opiekacz,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+opiekacz,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+opiekacz,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+opiekacz,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+venkateshb,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+venkateshb,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+venkateshb,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+ivan.metelsky,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ivan.metelsky,Petya and Tree,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+ivan.metelsky,Sum of Medians,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+ivan.metelsky,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+iostream,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+iostream,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+iostream,Petya and Tree,1,C,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+e-maxx,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+e-maxx,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+e-maxx,Sum of Medians,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+e-maxx,Petya and Tree,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Georgy,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Georgy,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+mukas,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+mukas,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ydnl,Domino,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Milanin,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Milanin,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Milanin,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+zibada,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+zibada,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+zibada,Petya and Tree,1,C,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+SergeyRogulenko,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+SergeyRogulenko,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+SergeyRogulenko,Petya and Tree,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+SergeyRogulenko,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+alger95,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+alger95,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+alger95,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+ania,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ania,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ania,Petya and Tree,1,C,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+ania,Guard Towers,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+Cruiser,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Cruiser,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Cruiser,Petya and Tree,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+ifsmirnov,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ifsmirnov,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ifsmirnov,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+swgr,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+swgr,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+hos.lyric,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+hos.lyric,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+hos.lyric,Sum of Medians,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+hos.lyric,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+hos.lyric,Guard Towers,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,dsu,geometry,graphs,sortings"
+CherryTree,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+CherryTree,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+CherryTree,Sum of Medians,1,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+trukanduk,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+trukanduk,Petya and Tree,1,C,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+mr146,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+mr146,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+mr146,Petya and Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+NALP,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+NALP,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+NALP,Petya and Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+NALP,Sum of Medians,1,D,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Skiminok,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Skiminok,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+package.zaic,Domino,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+package.zaic,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+package.zaic,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"binary search,brute force,data structures,implementation"
+etendren,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+etendren,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,data structures
+etendren,Petya and Tree,0,C,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Nil_ct,Domino,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Nil_ct,Embassy Queue,1,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Nil_ct,Sum of Medians,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,brute force,data structures,implementation"
+bor.is,Domino,1,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+bor.is,Petya and Tree,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+wjomlex,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+wjomlex,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+wjomlex,Petya and Tree,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Tatyana_Petrashko,Domino,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Tatyana_Petrashko,Sum of Medians,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+vlad89,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+vlad89,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+vlad89,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+vlad89,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+hbagherinezhad,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+hbagherinezhad,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+hbagherinezhad,Petya and Tree,1,C,0,0,0,1,1,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+igogo,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+igogo,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+igogo,Petya and Tree,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+igogo,Sum of Medians,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,data structures,implementation"
+vsb,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+vsb,Sum of Medians,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+vsb,Petya and Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+chhung6,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+chhung6,Embassy Queue,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+chhung6,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Philip_PV,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Philip_PV,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Philip_PV,Petya and Tree,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+shevchen,Domino,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+shevchen,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ll931110,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ll931110,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ll931110,Petya and Tree,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+ll931110,Guard Towers,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+Oleg805,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Oleg805,Embassy Queue,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+Oleg805,Sum of Medians,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,brute force,data structures,implementation"
+zurg,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+zurg,Embassy Queue,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+zurg,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+donehl,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+donehl,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+donehl,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+donehl,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+donehl,Guard Towers,1,E,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+Steps09,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Steps09,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Steps09,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+polmauri,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+polmauri,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+polmauri,Petya and Tree,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+lxhgww,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+lxhgww,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+lxhgww,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+lxhgww,Guard Towers,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+tanzaku,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+tanzaku,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+tanzaku,Petya and Tree,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+standy,Domino,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+standy,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+standy,Embassy Queue,1,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,data structures
+x-ray,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+x-ray,Embassy Queue,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+Austeritas,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Austeritas,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Mick,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Mick,Embassy Queue,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+Mick,Petya and Tree,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+dancho,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+dancho,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+dancho,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Thunder,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Thunder,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Thunder,Sum of Medians,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+chyx,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+chyx,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+pank.dm,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+pank.dm,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+pank.dm,Petya and Tree,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+lightning_31,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,implementation"
+lightning_31,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,data structures
+lightning_31,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+dmitry.uvarov,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+dmitry.uvarov,Embassy Queue,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,data structures
+dmitry.uvarov,Petya and Tree,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+helThazar,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+helThazar,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+evgentu,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+evgentu,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,data structures
+evgentu,Petya and Tree,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Oleg,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Oleg,Embassy Queue,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Oleg,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Oleg,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+gawry,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+gawry,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+nasarouf,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+nasarouf,Petya and Tree,1,C,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+watashi,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+watashi,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+watashi,Petya and Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+kilotaras,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+kilotaras,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+kilotaras,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+kilotaras,Guard Towers,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+vyahhi,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+vyahhi,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+vyahhi,Petya and Tree,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+tanas,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+tanas,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+GARNETCROW_a.k.a_hhanger,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+GARNETCROW_a.k.a_hhanger,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+GARNETCROW_a.k.a_hhanger,Petya and Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+DPR-pavlin,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+DPR-pavlin,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+DPR-pavlin,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+zetsubou,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+zetsubou,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+zetsubou,Sum of Medians,1,D,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+-dp-,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+-dp-,Petya and Tree,0,C,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+-dp-,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+AlexErofeev,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+AlexErofeev,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+AlfaCoding,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+lucasr,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+lucasr,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+lucasr,Petya and Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+andrey-tsb,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+andrey-tsb,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+andrey-tsb,Petya and Tree,1,C,0,0,0,0,2,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Soultaker,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Soultaker,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Soultaker,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Soultaker,Sum of Medians,1,D,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+espr1t,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Lepetrandr,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Lepetrandr,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Lepetrandr,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Xazker,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Xazker,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Xazker,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Xazker,Petya and Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+KADR,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+KADR,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+KADR,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,brute force,data structures,implementation"
+geka666,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+geka666,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+iakolzin,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+iakolzin,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+iakolzin,Sum of Medians,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+m.sabouri,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+m.sabouri,Petya and Tree,1,C,0,0,0,0,3,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+matushkin,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+matushkin,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+matushkin,Petya and Tree,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+lcch,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+lcch,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+lcch,Petya and Tree,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+u1ik,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+u1ik,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+u1ik,Petya and Tree,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Goofy57,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Goofy57,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+xscape,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+xscape,Petya and Tree,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+xscape,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+AlexFetisov,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+AlexFetisov,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+AlexFetisov,Petya and Tree,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+AlexFetisov,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Dumpty,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Dumpty,Petya and Tree,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Dumpty,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Deamon,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Deamon,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Deamon,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+wistful,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+wistful,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+wistful,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+wistful,Sum of Medians,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Andrew_Makar,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Andrew_Makar,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Andrew_Makar,Petya and Tree,1,C,0,0,0,0,0,4,0,1,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+bobogei81123,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+fhlasek,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+fhlasek,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+fhlasek,Petya and Tree,1,C,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+hydrastuff,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+hydrastuff,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+haas,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+haas,Petya and Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+dolphinigle,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+dolphinigle,Petya and Tree,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+dolphinigle,Sum of Medians,0,D,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,"binary search,brute force,data structures,implementation"
+dolphinigle,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Connector,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Connector,Petya and Tree,1,C,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+tian,Domino,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+tian,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+tian,Petya and Tree,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+tian,Sum of Medians,1,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+UESTC_Defense,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+UESTC_Defense,Petya and Tree,1,C,0,0,0,0,0,3,0,0,2,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Alexus,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Alexus,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Alexus,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+qjklw,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+dkirienko,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+dkirienko,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+dkirienko,Petya and Tree,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Nickolas,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Nickolas,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+KungA,Domino,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Sisu,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Sisu,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+Sisu,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+R_R_,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+R_R_,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+R_R_,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Rydberg,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Rydberg,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Rydberg,Petya and Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Mahdi,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Mahdi,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+Mahdi,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Di735,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Di735,Embassy Queue,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+SobolS,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+SobolS,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+SobolS,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+LeBron,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+kuzmichev_dima,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,implementation"
+kuzmichev_dima,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+kuzmichev_dima,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+rajatag12,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+rajatag12,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+AlTimin,Domino,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+AlTimin,Embassy Queue,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+AlTimin,Sum of Medians,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+homo_sapiens,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+homo_sapiens,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+homo_sapiens,Petya and Tree,1,C,0,0,0,0,2,3,0,1,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+homo_sapiens,Sum of Medians,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+S.Yesipenko,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+S.Yesipenko,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+S.Yesipenko,Petya and Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Ramzes2,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Ramzes2,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+MarioYC,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+MarioYC,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+sonyckson,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+sonyckson,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+sonyckson,Petya and Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+tanakh,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+tanakh,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+tanakh,Petya and Tree,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+ashi009,Domino,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ashi009,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+hirosegolf,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+chEEtah,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+chEEtah,Petya and Tree,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Martin,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Martin,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Martin,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+ilya.korovin,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ilya.korovin,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ilya.korovin,Sum of Medians,1,D,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+bigeye,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+bigeye,Embassy Queue,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+kinodjnz,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+kinodjnz,Embassy Queue,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,data structures
+kinodjnz,Petya and Tree,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+ant.ermilov,Domino,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ant.ermilov,Petya and Tree,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+69-64-79,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+69-64-79,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+69-64-79,Petya and Tree,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+satej,Domino,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+satej,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+satej,Petya and Tree,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+fmm,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+fmm,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+w10d,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+w10d,Embassy Queue,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+w10d,Petya and Tree,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+KhaustovPavel,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+KhaustovPavel,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+KhaustovPavel,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+liangjiaxing57,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+liangjiaxing57,Petya and Tree,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+felix_halim,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+felix_halim,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+felix_halim,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+pasin30055,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+pasin30055,Guard Towers,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+pasin30055,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+pasin30055,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+pasin30055,Sum of Medians,1,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Alchemist,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Alchemist,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Alchemist,Petya and Tree,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+knightL,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+knightL,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+delsius.sk,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+delsius.sk,Embassy Queue,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,data structures
+delsius.sk,Guard Towers,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+delsius.sk,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+ft.azadi,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ft.azadi,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+sevenzero,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+sevenzero,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+sevenzero,Petya and Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Gilhirith,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Gilhirith,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+XilinX,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+XilinX,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+XilinX,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+sbzlyessit,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+sbzlyessit,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,data structures
+sbzlyessit,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Bugman,Domino,0,A,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Bugman,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Bugman,Petya and Tree,1,C,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+prpr,Domino,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,implementation"
+prpr,Embassy Queue,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+sprea,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+sprea,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+sprea,Petya and Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+moshiur,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+moshiur,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Mr.Kutso,Domino,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+TheRaven,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+TheRaven,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+TheRaven,Petya and Tree,1,C,0,0,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+sankear,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+sankear,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+sankear,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+sankear,Petya and Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+zglicz,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+zglicz,Embassy Queue,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+zglicz,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+nafi3000,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+nafi3000,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,brute force,data structures,implementation"
+vpj,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+vpj,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+vpj,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+esrever,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+esrever,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+mnlm,Domino,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ztk,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ztk,Petya and Tree,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+zhouxingxing,Domino,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+zhouxingxing,Embassy Queue,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+zhouxingxing,Petya and Tree,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Eugen,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Eugen,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Eugen,Sum of Medians,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+zeliboba,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+zeliboba,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+zeliboba,Guard Towers,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,dsu,geometry,graphs,sortings"
+AntonDubovik,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+AntonDubovik,Embassy Queue,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+atetubou,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+atetubou,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,data structures
+atetubou,Petya and Tree,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+wcwswswws,Domino,1,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+wcwswswws,Embassy Queue,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+cos,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+cos,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+cos,Petya and Tree,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Chaker,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Chaker,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Chaker,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+gustokashin,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+gustokashin,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,data structures
+gustokashin,Petya and Tree,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+pdwd,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+pdwd,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+pdwd,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+anhdt,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+anhdt,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+anhdt,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+alexander86,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+alexander86,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+alexander86,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Sammarize,Domino,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Sammarize,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+Sammarize,Guard Towers,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+Sammarize,Petya and Tree,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Komaki,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Komaki,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Komaki,Petya and Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Egor,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Egor,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Egor,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Egor,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+shadow_codeforces,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+shadow_codeforces,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+moondy,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+moondy,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+moondy,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+gaston770,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+gaston770,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+forest,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+forest,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+forest,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+evader,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+evader,Sum of Medians,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+evader,Petya and Tree,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+antonkov,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+antonkov,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+antonkov,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Vintik,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Vintik,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Vintik,Petya and Tree,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Vintik,Sum of Medians,1,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+maggot092,Domino,1,A,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+maggot092,Embassy Queue,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+Dener,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Dener,Embassy Queue,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+Dener,Petya and Tree,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+sequence,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+sequence,Embassy Queue,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,data structures
+quyse,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+quyse,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+quyse,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+quyse,Sum of Medians,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+bjin,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+bjin,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+neal,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+neal,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+neal,Guard Towers,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+neal,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+fura2,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+fura2,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+fura2,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Babanin_Ivan,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Babanin_Ivan,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Babanin_Ivan,Petya and Tree,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+starvae,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+starvae,Embassy Queue,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,data structures
+starvae,Sum of Medians,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,brute force,data structures,implementation"
+starvae,Petya and Tree,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+seen,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+seen,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+seen,Petya and Tree,1,C,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+yudaer,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+yudaer,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+yudaer,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+DmitriyH,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+DmitriyH,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+impetus,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+impetus,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+domeng,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+domeng,Embassy Queue,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+domeng,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Jorni,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Jorni,Sum of Medians,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+NuM,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+NuM,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+permin,Domino,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+permin,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+permin,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+AndreySiunov,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+AndreySiunov,Embassy Queue,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,data structures
+lyrics,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+lyrics,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+lyrics,Petya and Tree,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+flashmt,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+flashmt,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+flashmt,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+VUAcoder,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+VUAcoder,Embassy Queue,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,data structures
+hust.elt,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+hust.elt,Embassy Queue,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+hust.elt,Petya and Tree,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+scenetree,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+scenetree,Petya and Tree,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+scenetree,Guard Towers,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+Ferrazrenan,Domino,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Ferrazrenan,Petya and Tree,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+sondrago,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+zhk,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+huyuealex,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+huyuealex,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+huyuealex,Petya and Tree,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+wangyc6,Domino,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+wangyc6,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+wangyc6,Petya and Tree,1,C,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+navi,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+navi,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+navi,Sum of Medians,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,brute force,data structures,implementation"
+UESTC_Nocturne,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+UESTC_Nocturne,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+UESTC_Nocturne,Embassy Queue,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+alevshunov,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+alevshunov,Sum of Medians,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+alevshunov,Embassy Queue,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+alevshunov,Guard Towers,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+kontr,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Coder,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Coder,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Coder,Petya and Tree,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Coder,Sum of Medians,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+L.I.S.,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+L.I.S.,Embassy Queue,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+L.I.S.,Petya and Tree,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+it4.kp,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+it4.kp,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+it4.kp,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+it4.kp,Sum of Medians,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+riversouther,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+riversouther,Sum of Medians,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,data structures,implementation"
+riversouther,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+riversouther,Petya and Tree,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Nenash,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Nenash,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Nenash,Sum of Medians,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Astein,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Astein,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Astein,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,brute force,data structures,implementation"
+TeCNoYoTTa,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+TeCNoYoTTa,Petya and Tree,1,C,0,0,0,0,0,8,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+brokenwing,Domino,0,A,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+brokenwing,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+tgoulart,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+tgoulart,Embassy Queue,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+tgoulart,Petya and Tree,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+witua,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+witua,Embassy Queue,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+witua,Petya and Tree,1,C,0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+frankyym,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+frankyym,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Slavik,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Slavik,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Slavik,Sum of Medians,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+aropan,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+aropan,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+aropan,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+aropan,Sum of Medians,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+SergeyLazarev,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+SergeyLazarev,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+SergeyLazarev,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+zgmmail,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+zgmmail,Petya and Tree,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+zaq1xsw2tktk,Domino,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+zaq1xsw2tktk,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+A.I,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+A.I,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Jokser,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Jokser,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+IvayloS,Domino,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+IvayloS,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+ballon,Domino,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ballon,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+vout,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+vout,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+xhsong,Domino,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Aeon_Industries,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Aeon_Industries,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Veldrin,Domino,0,A,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+biochem_fan,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+biochem_fan,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+daffes,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,implementation"
+daffes,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+daffes,Petya and Tree,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+VArtem,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+VArtem,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+VArtem,Sum of Medians,1,D,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+yiuyuho,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+yiuyuho,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+yiuyuho,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+SkyFire,Domino,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+SkyFire,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+SkyFire,Petya and Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+jie414341055,Domino,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+niyaznigmatul,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+niyaznigmatul,Sum of Medians,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+niyaznigmatul,Petya and Tree,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+niyaznigmatul,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+niyaznigmatul,Guard Towers,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+myar,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+myar,Petya and Tree,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+yak_ex,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+yak_ex,Embassy Queue,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+yak_ex,Petya and Tree,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Medium,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Medium,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,data structures
+Medium,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+yarrr,Domino,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+yarrr,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+yarrr,Petya and Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+FoodIsGood,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+FoodIsGood,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+FoodIsGood,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,brute force,data structures,implementation"
+dj3500,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+dj3500,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+dj3500,Petya and Tree,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+AekdyCoin,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+AekdyCoin,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+AekdyCoin,Petya and Tree,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+juarez.paulino,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Malinovsky239,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Malinovsky239,Embassy Queue,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+ArchMaG,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ArchMaG,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ArchMaG,Petya and Tree,1,C,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+teams2ua,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+teams2ua,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+teams2ua,Petya and Tree,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Nyatl,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Nyatl,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Nyatl,Petya and Tree,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+udalov,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+udalov,Sum of Medians,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,data structures,implementation"
+ArtemKadeev,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ArtemKadeev,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ArtemKadeev,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+KOTEHOK,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+KOTEHOK,Petya and Tree,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+KOTEHOK,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+cheshire_cat,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+cheshire_cat,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+lunae,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+lunae,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+khanhptnk,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Nerevar,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Nerevar,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Nerevar,Petya and Tree,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Nerevar,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+mukel,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+mukel,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+theycallhimtom,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+theycallhimtom,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+theycallhimtom,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+theycallhimtom,Guard Towers,1,E,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+USA,Domino,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,implementation"
+USA,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+USA,Sum of Medians,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,data structures,implementation"
+timgaripov,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+timgaripov,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+MAK,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+MAK,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+MAK,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+DStepanenko,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+DStepanenko,Embassy Queue,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+fengzlzl,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+fengzlzl,Embassy Queue,0,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,data structures
+fengzlzl,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Surogatov_S,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Fata1ist,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Fata1ist,Petya and Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+nel215,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+pablo.aguilar,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+pablo.aguilar,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+pablo.aguilar,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+ArkChar,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ArkChar,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+tracyhenry,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+tracyhenry,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+tracyhenry,Sum of Medians,0,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+tracyhenry,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Shik,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Shik,Embassy Queue,1,B,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,data structures
+Shik,Petya and Tree,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+steiner,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+steiner,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+shindo,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+shindo,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+shindo,Petya and Tree,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+cjc,Domino,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+diogen,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+zuko3d,Domino,1,A,1,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+zuko3d,Sum of Medians,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,data structures,implementation"
+Sarkin,Domino,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Sarkin,Embassy Queue,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+Sarkin,Petya and Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+sip,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+sip,Petya and Tree,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+sip,Embassy Queue,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+sip,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+eik0u,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+eik0u,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+eik0u,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Sigmar,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Sigmar,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+Sigmar,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+vance,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+barsuk2,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+barsuk2,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+primorial,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Shtrix,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Shtrix,Petya and Tree,1,C,0,0,0,0,4,7,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+pedrovictor,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+pedrovictor,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+pedrovictor,Petya and Tree,0,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+EbTech,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+EbTech,Embassy Queue,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+EbTech,Petya and Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+strelok1918,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+chviktor,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+chviktor,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+mingrimingyue,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+mingrimingyue,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+stostap,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+stostap,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+stostap,Petya and Tree,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+cyx5320856,Domino,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,implementation"
+ahmedsaad,Domino,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ahmedsaad,Embassy Queue,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+macs,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+macs,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+macs,Petya and Tree,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+kdalex,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+kdalex,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+kdalex,Petya and Tree,1,C,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+mib,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+mib,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+mib,Petya and Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+wata,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+wata,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+wata,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+wata,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+toxahak,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+toxahak,Petya and Tree,1,C,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+gmunkhbaatarmn,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+vish,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+vish,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+GeLo,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+GeLo,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ftfish,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ftfish,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Jughead,Domino,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Jughead,Embassy Queue,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+Jughead,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+vovapolu,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+vovapolu,Embassy Queue,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+ridowan007,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ridowan007,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+ridowan007,Petya and Tree,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+-XraY-,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+-XraY-,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+-XraY-,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+a180285,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+a180285,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+a180285,Petya and Tree,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+a180285,Sum of Medians,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,data structures,implementation"
+Kandyman,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Kandyman,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Kandyman,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+flowlight,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+flowlight,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Orfest,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Orfest,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Orfest,Petya and Tree,0,C,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Orfest,Sum of Medians,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+hydyw,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+AlexAlvarez,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+AlexAlvarez,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+AlexAlvarez,Petya and Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Gerald,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Gerald,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Gerald,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+tavo92,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+xiaoyoulei,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+xiaoyoulei,Embassy Queue,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+henshiru,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+henshiru,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+henshiru,Petya and Tree,1,C,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+piob,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+piob,Petya and Tree,1,C,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+siuvit,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+siuvit,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+siuvit,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Oryshych,Domino,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Oryshych,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Oryshych,Sum of Medians,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+GopCoder,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+MikhailRubinchik,Domino,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+mehas,Domino,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+digiter,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+digiter,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+lordklotski,Domino,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+lordklotski,Petya and Tree,1,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+pernay,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+pernay,Embassy Queue,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+daizhenyang,Domino,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+daizhenyang,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Alex-Gran,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Alex-Gran,Embassy Queue,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+Parhomets,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Parhomets,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+olimpo,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+olimpo,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+haker4o,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+haker4o,Embassy Queue,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+guirns,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+guirns,Embassy Queue,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+SmirnovBoris,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+SmirnovBoris,Embassy Queue,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+SmirnovBoris,Petya and Tree,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+lolotp,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+lolotp,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+tomcat,Domino,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+tomcat,Petya and Tree,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+comco,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+comco,Petya and Tree,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+11fingers,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+11fingers,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+GagGuy,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+GagGuy,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+GagGuy,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+GagGuy,Sum of Medians,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+alberist,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+alberist,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+lijunle,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+lijunle,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+lijunle,Petya and Tree,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+AdrianKuegel,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+AdrianKuegel,Embassy Queue,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+AdrianKuegel,Petya and Tree,1,C,1,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+kennethsnow,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+kennethsnow,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+kennethsnow,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+pulkitg10,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+pulkitg10,Petya and Tree,1,C,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+mcsharma1990,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+mcsharma1990,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+mgqa34,Domino,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+galileo,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+galileo,Petya and Tree,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+DreamFox,Domino,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Thost,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Thost,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Thost,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Duke,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Duke,Embassy Queue,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,data structures
+Duke,Petya and Tree,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+KirillB,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+KirillB,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+ankulgarg,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ferr,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ferr,Embassy Queue,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+Ruslan,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Ruslan,Embassy Queue,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Ruslan,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+z__jj,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+z__jj,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+z__jj,Petya and Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+pyshnograev,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+chavit,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+chavit,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+chavit,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,brute force,data structures,implementation"
+tuananh93,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+tuananh93,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+tuananh93,Sum of Medians,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+morteza.keshtkaran,Domino,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+morteza.keshtkaran,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,data structures
+lgarcia,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+lgarcia,Sum of Medians,1,D,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+baihacker,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+baihacker,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+haskile,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+shioshiota,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+shioshiota,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Konstantin,Domino,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Konstantin,Sum of Medians,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,data structures,implementation"
+dened,Domino,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+dened,Petya and Tree,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+alexej,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+alexej,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+paulik,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+paulik,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+paulik,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+Nikolai,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Nikolai,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Nikolai,Petya and Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+masha,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+masha,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+YuRNeRo_KZ,Domino,1,A,1,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,implementation"
+YuRNeRo_KZ,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+YuRNeRo_KZ,Sum of Medians,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,data structures,implementation"
+shilov,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+shilov,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+HolkinPV,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+HolkinPV,Petya and Tree,1,C,0,0,0,1,0,0,0,3,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+NotImplemented,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Alireza,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Alireza,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Alireza,Petya and Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+dudkamaster,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Aleksander,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Aleksander,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Aleksander,Petya and Tree,1,C,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+FattyPenguin,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+FattyPenguin,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,data structures
+FattyPenguin,Sum of Medians,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Matt,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Matt,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Matt,Petya and Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+dragon_hdu,Domino,0,A,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+extremall,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+extremall,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+kasyankrak,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+philolo1,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+philolo1,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+philolo1,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+MrMT,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+MrMT,Embassy Queue,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+ACRush,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ACRush,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ACRush,Sum of Medians,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+ACRush,Petya and Tree,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+ACRush,Guard Towers,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+aurinegro,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+aurinegro,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Ferlon,Domino,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Ferlon,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Ferlon,Petya and Tree,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+rizar,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+rizar,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+rizar,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+rizar,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+pius_88,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+pius_88,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+sweiss,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+sweiss,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+sweiss,Petya and Tree,1,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+suneast,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+suneast,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+suneast,Petya and Tree,1,C,0,0,0,0,0,7,0,6,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+kohyatoh,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+kohyatoh,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+kohyatoh,Petya and Tree,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+kohyatoh,Sum of Medians,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+coolinging,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+coolinging,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+coolinging,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+die.saito,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+die.saito,Embassy Queue,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,data structures
+die.saito,Petya and Tree,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Googly,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+al_maz,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+al_maz,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+al_maz,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+nhzp339,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+nhzp339,Embassy Queue,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+idivyanshu,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+idivyanshu,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Creed,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Creed,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+JFantasy,Domino,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+JFantasy,Embassy Queue,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+zendo,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+zendo,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+zendo,Petya and Tree,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+varduhi.yeghiazaryan,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+varduhi.yeghiazaryan,Embassy Queue,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+ahmed_thabet,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+maksimkzn,Domino,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+maksimkzn,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+lantimilan,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Artishok,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Artishok,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Artishok,Petya and Tree,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+botay,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+botay,Petya and Tree,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+libe,Domino,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+libe,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+libe,Sum of Medians,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,data structures,implementation"
+kamranm,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+kamranm,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+kamranm,Petya and Tree,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Vaness,Domino,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Vaness,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Qulinxao,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+MEC,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+MEC,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+fetetriste,Domino,0,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+fetetriste,Sum of Medians,0,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+fetetriste,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+cleaner_leon,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+cleaner_leon,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+DangTH,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+DangTH,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Ixanezis,Domino,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Ixanezis,Embassy Queue,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+Ixanezis,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+segrey,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+segrey,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Jicote,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Jicote,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+hbuoc,Domino,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+asml,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+asml,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+MSPA,Domino,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+icyrhyme,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+icyrhyme,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+tomoya,Domino,1,A,1,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+kemo,Domino,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+kemo,Petya and Tree,0,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Dmitry.Gerasimov,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Dmitry.Gerasimov,Embassy Queue,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+WAVwind,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+WAVwind,Sum of Medians,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+---Grigor---,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+---Grigor---,Petya and Tree,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+---Grigor---,Embassy Queue,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ronaflx,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+delta_4d,Domino,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+delta_4d,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+waterhao,Domino,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+waterhao,Petya and Tree,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+reiracofage,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+reiracofage,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+phinfinity,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+phinfinity,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+phinfinity,Petya and Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+zplinti1,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+zplinti1,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+zplinti1,Petya and Tree,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+arosusti,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+arosusti,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+giongto35,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+giongto35,Embassy Queue,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,data structures
+discover.,Domino,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+discover.,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+sabbir_yousuf,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+sabbir_yousuf,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+sabbir_yousuf,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Jesus,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Dasha,Domino,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ningbohezhijun,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ningbohezhijun,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Avalanche,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Avalanche,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Avalanche,Petya and Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+redox,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+redox,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+rofi,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+rofi,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+brainail,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+riad,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+riad,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ss.nurboolean,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ss.nurboolean,Sum of Medians,1,D,0,0,0,0,3,4,0,1,0,0,0,0,0,0,1,0,0,"binary search,brute force,data structures,implementation"
+yvasyliv,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+yvasyliv,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+yvasyliv,Petya and Tree,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Pavlo_Lviv_NU,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Pavlo_Lviv_NU,Sum of Medians,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,brute force,data structures,implementation"
+Pavlo_Lviv_NU,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Nemui,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Nemui,Petya and Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+acherepanov,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+acherepanov,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+litstrong,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+litstrong,Petya and Tree,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+topskychen,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+topskychen,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+0806580124,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+0806580124,Embassy Queue,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Towhid,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+huangchao,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+huangchao,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+MciprianM,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+DarthBeleg,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+DarthBeleg,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+RodrigoBurgos,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+RodrigoBurgos,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+RodrigoBurgos,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Hadi_Asiaie,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Hadi_Asiaie,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+lwc626,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+yantar92,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+chronotable,Domino,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+chronotable,Embassy Queue,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,data structures
+_sunny,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+_sunny,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+at1,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+bolin.huang,Domino,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+bolin.huang,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+litwin,Sum of Medians,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+litwin,Petya and Tree,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+litwin,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+svilen,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+svilen,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+Barsuk_Alexey,Domino,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Barsuk_Alexey,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+naagi,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+naagi,Sum of Medians,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Scalar,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+smilitude,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+GoldenSection,Domino,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+GoldenSection,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+GoldenSection,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+I_love_natalia,Sum of Medians,1,D,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+I_love_natalia,Petya and Tree,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+zlly,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+zlly,Embassy Queue,1,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,data structures
+BlackBerry,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+spagiarri,Domino,1,A,1,0,0,1,0,3,0,3,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+mystery_boy,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+mystery_boy,Embassy Queue,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,data structures
+mystery_boy,Petya and Tree,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+darksta5,Domino,0,A,0,0,0,0,2,6,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Torax,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Torax,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+WCoder,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+WCoder,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+accepted,Domino,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+accepted,Sum of Medians,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,brute force,data structures,implementation"
+soundsdx,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+soundsdx,Embassy Queue,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+soundsdx,Sum of Medians,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Alias,Sum of Medians,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+Alias,Domino,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+val,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+val,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,data structures
+sggutier,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ployee,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ployee,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+fbarl,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+DIT,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+alabax,Domino,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+alabax,Embassy Queue,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+duolon,Domino,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+duolon,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Balajiganapathi,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Balajiganapathi,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Balajiganapathi,Petya and Tree,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+goooooooopan,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+goooooooopan,Embassy Queue,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,data structures
+GaoYusong,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+GaoYusong,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+rawroot,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+rawroot,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+rawroot,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+sunhaowen123,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+sunhaowen123,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+sunhaowen123,Petya and Tree,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Bidhan,Domino,0,A,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Sklyack,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Eledven,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Eledven,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Hossein_Hima,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Hossein_Hima,Embassy Queue,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+eduard.piliposyan,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+mylyanyk.ivan,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+miaowu,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+yogesh_sharma,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+yogesh_sharma,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+yogesh_sharma,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+kozima,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+kozima,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+kozima,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+paulocezar,Domino,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+nk.karpov,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+nk.karpov,Sum of Medians,1,D,0,0,0,1,2,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+magicdlf,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+magicdlf,Petya and Tree,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+yzq110abc,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+yzq110abc,Sum of Medians,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+xhae,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+xhae,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+xhae,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+peterae86,Domino,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+peterae86,Sum of Medians,0,D,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+OmirZhan,Domino,0,A,0,0,0,0,0,8,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+noriok,Domino,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+devilofaboy,Domino,1,A,1,0,0,0,2,5,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+leefour,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+leefour,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,data structures
+flipcoin,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+LinJiYuan90,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+LinJiYuan90,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+LinJiYuan90,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Ever1989,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Ever1989,Domino,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Ever1989,Petya and Tree,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+sajad22,Guard Towers,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+sajad22,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+sajad22,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+sajad22,Petya and Tree,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+LALAqq,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+LALAqq,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+LALAqq,Sum of Medians,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,data structures,implementation"
+LALAqq,Petya and Tree,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Toshik,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+Toshik,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+pparys,Guard Towers,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dsu,geometry,graphs,sortings"
+pparys,Sum of Medians,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+pparys,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+pparys,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+gojira,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+gojira,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+907th,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+907th,Petya and Tree,1,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+takacsg84,Domino,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+takacsg84,Embassy Queue,1,B,1,0,0,1,2,0,0,0,0,0,0,0,0,2,0,0,0,data structures
+takacsg84,Petya and Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+godofthunder,Embassy Queue,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,data structures
+godofthunder,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+godofthunder,Sum of Medians,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,brute force,data structures,implementation"
+fushar,Petya and Tree,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+jiangzhijie,Domino,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+jiangzhijie,Petya and Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+grey_wind,Petya and Tree,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+grey_wind,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+mipt.vi002,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+mipt.vi002,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+mipt.vi002,Petya and Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+vanchope,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+vanchope,Embassy Queue,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+maxwell44,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+maxwell44,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+maxwell44,Petya and Tree,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+frp,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+frp,Petya and Tree,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+Haleh,Domino,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+4a1ka,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+4a1ka,Sum of Medians,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,data structures,implementation"
+itoasquall,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+itoasquall,Embassy Queue,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+mbfilho91,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+mbfilho91,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ruslan.sennov,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ruslan.sennov,Petya and Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+ruslan.sennov,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+FatSheep,Embassy Queue,0,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,data structures
+FatSheep,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+avm,Domino,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+asaveljevs,Petya and Tree,0,C,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+asaveljevs,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+towelenee,Domino,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+towelenee,Petya and Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+towelenee,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+jackiesteed,Embassy Queue,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+jackiesteed,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ER.abd_off,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ER.abd_off,Sum of Medians,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,brute force,data structures,implementation"
+kuangye,Domino,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+espy,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+BaturaDima,Petya and Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+BaturaDima,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+BaturaDima,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Dias,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,implementation"
+Dias,Sum of Medians,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,data structures,implementation"
+cjtoribio,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+ponamarev,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+victor_kamashev,Petya and Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,dfs and similar,probabilities,sortings,trees"
+victor_kamashev,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+lala,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+balakrishnan,Embassy Queue,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+searcher769,Domino,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+searcher769,Embassy Queue,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+cpy,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+rizwanhudda,Domino,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+rizwanhudda,Embassy Queue,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+vlady,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+indy256,Embassy Queue,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Rotsor,Domino,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+allocator,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+allocator,Embassy Queue,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+4T-Shirt,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,implementation"
+new,Domino,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,implementation"
+new,Sum of Medians,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,brute force,data structures,implementation"

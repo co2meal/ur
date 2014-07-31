@@ -1,0 +1,1525 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+vepifanov,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+vepifanov,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+vepifanov,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Dmitry_Egorov,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Dmitry_Egorov,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Dmitry_Egorov,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Dmitry_Egorov,Iahub and Xors,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,data structures
+enot.1.10,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+enot.1.10,Bubble Sort Graph,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+enot.1.10,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+enot.1.10,Candies Game,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy"
+enot.1.10,Iahub and Xors,0,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,data structures
+bayleef,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+bayleef,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+bayleef,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+huzecong,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+huzecong,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+huzecong,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+huzecong,Iahub and Xors,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+gawry,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+gawry,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+gawry,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+gawry,Iahub and Xors,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+yeputons,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+yeputons,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+yeputons,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+yeputons,Iahub and Xors,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+voover,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+voover,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+voover,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+KADR,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+KADR,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+KADR,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+KADR,Iahub and Xors,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+KADR,Candies Game,1,E,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy"
+mmaxio,Tourist Problem,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+mmaxio,Bubble Sort Graph,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+mmaxio,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ftiasch,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ftiasch,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ftiasch,Iahub and Permutations,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ftiasch,Iahub and Xors,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+lovelymoon,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lovelymoon,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+lovelymoon,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+lovelymoon,Candies Game,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy"
+MrDindows,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+MrDindows,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+MrDindows,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ig_dug,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ig_dug,Tourist Problem,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ig_dug,Iahub and Permutations,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Igel_SK,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Igel_SK,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Igel_SK,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+James,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+James,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+James,Iahub and Xors,0,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+James,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+clp012345,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+clp012345,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+clp012345,Iahub and Permutations,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Copymaster,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Copymaster,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Copymaster,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Copymaster,Iahub and Xors,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+Fdg,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Fdg,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Fdg,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Fdg,Iahub and Xors,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+Fdg,Candies Game,0,E,0,0,0,1,3,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy"
+DoublePointer,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+DoublePointer,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+DoublePointer,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+sune2,Tourist Problem,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+sune2,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+sune2,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+neal,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+neal,Iahub and Permutations,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+neal,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Endagorion,Tourist Problem,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Endagorion,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Endagorion,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Endagorion,Iahub and Xors,1,D,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,data structures
+atetubou,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+atetubou,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+atetubou,Iahub and Permutations,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Ilya_MSU,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Ilya_MSU,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Ilya_MSU,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+cgy4ever,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cgy4ever,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+cgy4ever,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+cgy4ever,Iahub and Xors,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+cgy4ever,Candies Game,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy"
+Arterm,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Arterm,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Arterm,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+PavelKunyavskiy,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+PavelKunyavskiy,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+PavelKunyavskiy,Iahub and Permutations,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+PavelKunyavskiy,Iahub and Xors,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Ra16bit,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Ra16bit,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Ra16bit,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Ra16bit,Iahub and Xors,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+kissbuaa,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kissbuaa,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kissbuaa,Iahub and Xors,0,D,0,0,0,2,0,1,0,6,2,0,0,0,0,0,0,0,0,data structures
+kissbuaa,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+LeBron,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+LeBron,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+LeBron,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+BSBandme,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+BSBandme,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+BSBandme,Iahub and Permutations,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+BSBandme,Iahub and Xors,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+pragrame,Bubble Sort Graph,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+pragrame,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+pragrame,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+cfy,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cfy,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+cfy,Iahub and Permutations,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+cfy,Iahub and Xors,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+I-juice,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+I-juice,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+I-juice,Iahub and Permutations,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+I-juice,Candies Game,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy"
+MarioYC,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+MarioYC,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+MarioYC,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Goofy57,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Goofy57,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Goofy57,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+cafelier,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cafelier,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+cafelier,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+cafelier,Candies Game,1,E,0,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,"constructive algorithms,greedy"
+Harhro94,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Harhro94,Bubble Sort Graph,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+prowindy,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+prowindy,Tourist Problem,0,A,1,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+prowindy,Iahub and Permutations,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Eureka,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Eureka,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Eureka,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+bekzhan29,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+bekzhan29,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+bekzhan29,Iahub and Permutations,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+wolf1000,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+wolf1000,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+shytangyuan,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+shytangyuan,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+shytangyuan,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+shytangyuan,Iahub and Xors,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+ydc,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ydc,Bubble Sort Graph,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ydc,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+v.haralampiev,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+v.haralampiev,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+v.haralampiev,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+v.haralampiev,Iahub and Xors,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+hza,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+hza,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+hza,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+hza,Iahub and Xors,1,D,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,data structures
+Shik,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Shik,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Shik,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Shik,Iahub and Xors,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+azlhust,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+azlhust,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+jehad131,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+jehad131,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+jehad131,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+tunyash,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+zxr960115,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zxr960115,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+zxr960115,Iahub and Permutations,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+marcin_smu,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+marcin_smu,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+marcin_smu,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+marcin_smu,Iahub and Xors,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+Shapo,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Shapo,Iahub and Xors,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Shapo,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Shapo,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+mugurelionut,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mugurelionut,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+mugurelionut,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+mugurelionut,Iahub and Xors,1,D,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,data structures
+i1s9m9s5,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+i1s9m9s5,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp"
+i1s9m9s5,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+i1s9m9s5,Iahub and Xors,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+iroro,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+iroro,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+iroro,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+d891320478,Bubble Sort Graph,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+d891320478,Iahub and Permutations,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+d891320478,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+frog1902,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+frog1902,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+__math,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+__math,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+__math,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+yukim,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yukim,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+yukim,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Enchom,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Enchom,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Enchom,Iahub and Permutations,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+GlebsHP,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+GlebsHP,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+GlebsHP,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+GlebsHP,Iahub and Xors,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Myth5,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Myth5,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Myth5,Iahub and Xors,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Myth5,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ivan100sic,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ivan100sic,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ivan100sic,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ivan100sic,Iahub and Xors,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,data structures
+Scau-Ly,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Scau-Ly,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Akhtyamov_Pavel,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Akhtyamov_Pavel,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Akhtyamov_Pavel,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+bakabakashyoshyo,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+bakabakashyoshyo,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+bakabakashyoshyo,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+bakabakashyoshyo,Iahub and Xors,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+milosz,Bubble Sort Graph,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+milosz,Iahub and Permutations,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+KungA,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+KungA,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+KungA,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+gxnncrxl993,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+gxnncrxl993,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+FerranAlet,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+FerranAlet,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+FerranAlet,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+hpfdf,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hpfdf,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+hpfdf,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+kawatea,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kawatea,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kawatea,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+kawatea,Iahub and Xors,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+tzupengwang,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+tzupengwang,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+tzupengwang,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+tuananh93,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tuananh93,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+tuananh93,Iahub and Permutations,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+xukaiwen,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+xukaiwen,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+xukaiwen,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+lzqxh,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lzqxh,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+lzqxh,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+lzqxh,Iahub and Xors,1,D,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,data structures
+eha,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+eha,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+alger95,Tourist Problem,0,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,math
+alger95,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+alger95,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ilyakor,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ilyakor,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ilyakor,Iahub and Permutations,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+neko13,Tourist Problem,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+neko13,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+neko13,Iahub and Permutations,1,C,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+S7012MY,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+S7012MY,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ifsmirnov,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ifsmirnov,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ifsmirnov,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ifsmirnov,Iahub and Xors,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+lost3030,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+lost3030,Bubble Sort Graph,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+noel_trang,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+noel_trang,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+pzzxj,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pzzxj,Bubble Sort Graph,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+pzzxj,Iahub and Permutations,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+MW1245,Bubble Sort Graph,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+MW1245,Tourist Problem,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+phidnight,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+phidnight,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+phidnight,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Gabaum,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Gabaum,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Gabaum,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Gabaum,Iahub and Xors,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Miras321,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Miras321,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kmjp,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+kmjp,Bubble Sort Graph,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kmjp,Iahub and Permutations,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Shtrix,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Shtrix,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Shtrix,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+akshatb,Tourist Problem,0,A,1,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,math
+akshatb,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+akshatb,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+akshatb,Iahub and Xors,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+chanming,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+chanming,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+chanming,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+SBullet,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+SBullet,Tourist Problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+SBullet,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+chavit,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+chavit,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+chavit,Iahub and Permutations,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+chavit,Iahub and Xors,1,D,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+RNS2,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+RNS2,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+RNS2,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+RNS2,Iahub and Xors,1,D,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,data structures
+RNS2,Candies Game,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy"
+Eledven,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Eledven,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Eledven,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+kolina,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kolina,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kolina,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+XiaoDan,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+XiaoDan,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+XiaoDan,Iahub and Permutations,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ILoveftiasch,Tourist Problem,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+ILoveftiasch,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ztxz16,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ztxz16,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ztxz16,Iahub and Xors,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+ztxz16,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+matrix,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+matrix,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+matrix,Iahub and Permutations,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+suiyuan2009,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+suiyuan2009,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+mkirsche,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+mkirsche,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+IvL,Tourist Problem,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+IvL,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+lamphanviet,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+lamphanviet,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+akdal,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+akdal,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+flashmt,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+flashmt,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+flashmt,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+azneyes,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+azneyes,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+azneyes,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+edward_mj,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+edward_mj,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+edward_mj,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+edward_mj,Iahub and Xors,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+Smit,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Smit,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Smit,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+eduardische,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+eduardische,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+eduardische,Iahub and Xors,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+lccycc,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lccycc,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+lccycc,Iahub and Permutations,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+uwi,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+uwi,Bubble Sort Graph,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+uwi,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+uwi,Iahub and Xors,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Alex_2oo8,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Alex_2oo8,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Alex_2oo8,Iahub and Xors,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,data structures
+Alex_2oo8,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+poopi,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+poopi,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+poopi,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ksun48,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ksun48,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ksun48,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Zlobober,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Zlobober,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Zlobober,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Revain,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Revain,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Revain,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Revain,Iahub and Xors,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+songrenjie,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+songrenjie,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+songrenjie,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+SebP,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+SebP,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+SebP,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+persianpars,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+persianpars,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+persianpars,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+jolteon,Tourist Problem,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+jolteon,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+dr.ken,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+dr.ken,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+dr.ken,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+S.Yesipenko,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+S.Yesipenko,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+S.Yesipenko,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+pedrovictor,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pedrovictor,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+pedrovictor,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+pedrovictor,Iahub and Xors,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,data structures
+worms,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+worms,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+worms,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+arosusti,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+arosusti,Iahub and Permutations,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+arosusti,Bubble Sort Graph,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+arosusti,Iahub and Xors,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+37ae912,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+37ae912,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+37ae912,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+zcg.cs60,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+zcg.cs60,Iahub and Xors,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+zcg.cs60,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Pattara.S,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Pattara.S,Iahub and Permutations,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+riad,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+riad,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+riad,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+amitsaharana,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+amitsaharana,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+sillyboy,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+sillyboy,Tourist Problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+sillyboy,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+wanbo,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+wanbo,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+wanbo,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+dvdreddy,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dvdreddy,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+dvdreddy,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+kostya_by,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kostya_by,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kostya_by,Iahub and Permutations,1,C,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+meteorcloudy,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+meteorcloudy,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+meteorcloudy,Iahub and Permutations,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+yummy,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yummy,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+yummy,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+freak93,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+freak93,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+freak93,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+freak93,Iahub and Xors,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+standy,Tourist Problem,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,math
+standy,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+standy,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+standy,Iahub and Xors,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+tigupine,Tourist Problem,1,A,1,0,0,0,0,3,0,2,0,0,0,0,0,1,0,0,0,math
+tigupine,Bubble Sort Graph,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+vitux,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+vitux,Bubble Sort Graph,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+yosupo,Tourist Problem,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+yosupo,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+yosupo,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Hachiikung,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Hachiikung,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Hachiikung,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Hachiikung,Iahub and Xors,0,D,0,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,data structures
+Slayer_,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Slayer_,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Slayer_,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+espr1t,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+espr1t,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+espr1t,Iahub and Permutations,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+moonlight131,Bubble Sort Graph,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+moonlight131,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+moonlight131,Iahub and Xors,1,D,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,data structures
+moonlight131,Iahub and Permutations,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+skrydg,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+skrydg,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+skrydg,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+coldplay,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+coldplay,Bubble Sort Graph,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+coldplay,Iahub and Xors,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+sd0061,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sd0061,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+sd0061,Iahub and Xors,1,D,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,data structures
+gskhirtladze,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+gskhirtladze,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+gskhirtladze,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Serenade,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Serenade,Bubble Sort Graph,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kuzmichev_dima,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kuzmichev_dima,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kuzmichev_dima,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+balakrishnan,Tourist Problem,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+balakrishnan,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+balakrishnan,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Gassa,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Gassa,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Nerevar,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Nerevar,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Nerevar,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Nerevar,Iahub and Xors,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+al13n,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+al13n,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+al13n,Iahub and Permutations,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+hhoomn,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+hhoomn,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+hhoomn,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Connector,Tourist Problem,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Connector,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Connector,Iahub and Xors,1,D,0,0,0,0,0,2,0,2,3,0,0,0,0,0,0,0,0,data structures
+hime,Iahub and Permutations,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+hime,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+hime,Tourist Problem,1,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+hime,Iahub and Xors,0,D,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,data structures
+yh_victor,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+yh_victor,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+yh_victor,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+architkarandikar,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+architkarandikar,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+architkarandikar,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+_meshanya_,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+_meshanya_,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+_meshanya_,Iahub and Xors,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+_meshanya_,Tourist Problem,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Austeritas,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Austeritas,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Austeritas,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+fura,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fura,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+y346491470,Tourist Problem,0,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+y346491470,Iahub and Permutations,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+y346491470,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Zarg,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Zarg,Tourist Problem,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+TeaPot,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+TeaPot,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+TeaPot,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+IceTube,Bubble Sort Graph,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+fitter,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+fitter,Tourist Problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+fitter,Iahub and Permutations,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+CHEN_Zhi,Bubble Sort Graph,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+CHEN_Zhi,Iahub and Permutations,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+carabet.cosmin,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+carabet.cosmin,Iahub and Xors,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+daizhenyang,Tourist Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+daizhenyang,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+nownikhil,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+nownikhil,Bubble Sort Graph,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+xhae,Bubble Sort Graph,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+xhae,Tourist Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+xhae,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+kuailezhish,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kuailezhish,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Beranabus,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Beranabus,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Beranabus,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+qwerty787788,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+qwerty787788,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+qwerty787788,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+qwerty787788,Iahub and Xors,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+Tifuera,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Tifuera,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Tifuera,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+clouilt,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+clouilt,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+clouilt,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Crazy_Ha,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Crazy_Ha,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Crazy_Ha,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+fhlasek,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fhlasek,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+fhlasek,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+pkqs90,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pkqs90,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+pkqs90,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+IgorL,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+IgorL,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+WCG,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+WCG,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+WCG,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+kuviman,Iahub and Permutations,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+kuviman,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kuviman,Tourist Problem,1,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+guille,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+guille,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+guille,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Skeas,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Skeas,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Skeas,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ufo,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ufo,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ufo,Iahub and Permutations,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+TankEngineer,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+TankEngineer,Bubble Sort Graph,0,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+TankEngineer,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+TankEngineer,Iahub and Xors,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+sanjeev,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sanjeev,Bubble Sort Graph,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+vlad107,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vlad107,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+vlad107,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+knightL,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+knightL,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+knightL,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+knightL,Iahub and Xors,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Rubanenko,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Rubanenko,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Vaness,Bubble Sort Graph,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Vaness,Tourist Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Vaness,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+wcwswswws,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+wcwswswws,Bubble Sort Graph,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+wcwswswws,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+paulik,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+paulik,Iahub and Permutations,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+paulik,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+For_the_Love,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+For_the_Love,Iahub and Permutations,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+For_the_Love,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+charlie,Bubble Sort Graph,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Nipuna_Samarasekara,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Nipuna_Samarasekara,Bubble Sort Graph,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Nipuna_Samarasekara,Iahub and Permutations,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Fcdkbear,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Fcdkbear,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Fcdkbear,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Fcdkbear,Iahub and Xors,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+wither,Tourist Problem,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+wither,Bubble Sort Graph,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+wither,Iahub and Permutations,0,C,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+esrever,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+esrever,Iahub and Xors,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+esrever,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+TiChuot97,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+TiChuot97,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+paulocezar,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+paulocezar,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+doubleH,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+doubleH,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+doubleH,Iahub and Permutations,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+R_R_,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+R_R_,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+R_R_,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+R_R_,Iahub and Xors,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+lpp_,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+lpp_,Tourist Problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+lpp_,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+IbukiSuika,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+IbukiSuika,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+IbukiSuika,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+IbukiSuika,Iahub and Xors,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Sfairat,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Sfairat,Bubble Sort Graph,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Sfairat,Iahub and Permutations,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+yoh149,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yoh149,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+HTML_Sanek,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+HTML_Sanek,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+HTML_Sanek,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+crx,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+crx,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+crx,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+crx,Iahub and Xors,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+Hedayet,Bubble Sort Graph,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Hedayet,Tourist Problem,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+AlexDmitriev,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"binary search,data structures,dp"
+AlexDmitriev,Tourist Problem,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AlexDmitriev,Iahub and Permutations,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+yimmon,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yimmon,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ai00,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ai00,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ai00,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+lxyxynt,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+lxyxynt,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+lxyxynt,Iahub and Xors,1,D,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,data structures
+shef_2318,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+shef_2318,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+shef_2318,Iahub and Xors,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,data structures
+oGhost,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+oGhost,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+oGhost,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Sereja,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Sereja,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Sereja,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Angor,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Angor,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Angor,Iahub and Permutations,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+vient,Bubble Sort Graph,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+roypalacios,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+roypalacios,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+roypalacios,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+jonathanirvings,Tourist Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+jonathanirvings,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+jonathanirvings,Bubble Sort Graph,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Fride,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Fride,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Fride,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+PMichalak,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+PMichalak,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+PMichalak,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+blood,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+fsouza,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fsouza,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+fsouza,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+fsouza,Iahub and Xors,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+con_nha_ngheo,Tourist Problem,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+con_nha_ngheo,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+con_nha_ngheo,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+sy2006,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sy2006,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+sy2006,Iahub and Permutations,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Timur_Keks,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Timur_Keks,Tourist Problem,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,math
+AnnKats93,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AnnKats93,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+AnnKats93,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+AnnKats93,Iahub and Xors,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+Zhiying,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Zhiying,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Zhiying,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+135678942570,Bubble Sort Graph,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+135678942570,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+135678942570,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+gen,Tourist Problem,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+gen,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+gen,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+tzzcl2,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tzzcl2,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+tzzcl2,Candies Game,1,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy"
+Seemann,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Seemann,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Seemann,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ft.azadi,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ft.azadi,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ft.azadi,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+zeulb,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zeulb,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Corei13,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Corei13,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Corei13,Iahub and Permutations,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+fkmj,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fkmj,Bubble Sort Graph,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+rantd,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+rantd,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+rantd,Iahub and Permutations,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+nakari1124,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,math
+nakari1124,Bubble Sort Graph,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+marcoskwkm,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+marcoskwkm,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+marcoskwkm,Iahub and Permutations,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+marcoskwkm,Iahub and Xors,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,data structures
+rockytheprogrammer,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+rockytheprogrammer,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+rockytheprogrammer,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+darrenhp,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+darrenhp,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+darrenhp,Iahub and Permutations,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+darrenhp,Iahub and Xors,1,D,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,data structures
+lazzrov,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+lazzrov,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+honghaijie,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+honghaijie,Bubble Sort Graph,1,B,1,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+honghaijie,Iahub and Permutations,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+ccdd4211,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ccdd4211,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ccdd4211,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+Babanin_Ivan,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Babanin_Ivan,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Babanin_Ivan,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Timus,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+phtniit,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+phtniit,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+cchao,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+cchao,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+cchao,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+fenzhang,Tourist Problem,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+fenzhang,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+fenzhang,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+tonkosi,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tonkosi,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+vml,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+vml,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vml,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+BIT_nono,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+BIT_nono,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+BIT_nono,Iahub and Permutations,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ika,Iahub and Permutations,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ika,Tourist Problem,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+ika,Bubble Sort Graph,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+mayukuner,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mayukuner,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp"
+Soldat,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Soldat,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Soldat,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+oruas,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+oruas,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+oruas,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+seland,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+seland,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+seland,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+xenoslash,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+xenoslash,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp"
+xenoslash,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+HYDROXIDE,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+HYDROXIDE,Bubble Sort Graph,1,B,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+james007,Iahub and Permutations,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+james007,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+jasperH,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+jasperH,Bubble Sort Graph,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+jasperH,Iahub and Permutations,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+glapul,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+glapul,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+glapul,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+qinhang3,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+qinhang3,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+qinhang3,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Metamorphus,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Metamorphus,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Metamorphus,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+pashkal,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+pashkal,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+pashkal,Iahub and Xors,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+vlyubin,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vlyubin,Bubble Sort Graph,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+vlyubin,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+hlwt,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hlwt,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+hlwt,Iahub and Permutations,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+916852,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+916852,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+916852,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+nwin,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+nwin,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+nwin,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Sfiction,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Sfiction,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+studytolive,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+studytolive,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+niyaznigmatul,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+niyaznigmatul,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+niyaznigmatul,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+niyaznigmatul,Iahub and Xors,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+bkSaturn,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+bkSaturn,Bubble Sort Graph,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+bkSaturn,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+shimomire,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Trumen,Bubble Sort Graph,0,B,0,0,0,1,3,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Trumen,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Trumen,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ridowan007,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xing89qs,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+xing89qs,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+nbasic,Tourist Problem,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,math
+nbasic,Bubble Sort Graph,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+nbasic,Iahub and Permutations,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+zhanyl,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zhanyl,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+zhanyl,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+zhanyl,Iahub and Xors,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,data structures
+abczzz,Tourist Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+abczzz,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+tanzaku,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tanzaku,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+tanzaku,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+PolarNick,Tourist Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+PolarNick,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+PolarNick,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+kybconnor,Tourist Problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+kybconnor,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kybconnor,Iahub and Xors,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+magickaito,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+magickaito,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+magickaito,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+magickaito,Iahub and Xors,0,D,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,data structures
+shervinkh,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+shervinkh,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+shervinkh,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+tmanohar02,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lxgsbqylbk,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+lxgsbqylbk,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+lxgsbqylbk,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ainta,Tourist Problem,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+ainta,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ainta,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ericpts,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+ericpts,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+sakyalol,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+sakyalol,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+sakyalol,Iahub and Permutations,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+kb.,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kb.,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+yoones.rezaei,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+yoones.rezaei,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yoones.rezaei,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Niko,Bubble Sort Graph,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Niko,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Niko,Tourist Problem,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+dziadek,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+dziadek,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Kharybin,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Kharybin,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Kharybin,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+migdal,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+migdal,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+visanr,Tourist Problem,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+visanr,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+C.degree,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+C.degree,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+C.degree,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+heduenas,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+heduenas,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+heduenas,Iahub and Permutations,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ishiney,Tourist Problem,1,A,1,0,0,1,1,4,0,1,1,0,0,0,0,0,0,0,0,math
+Bistrigova_Anastasiya,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Bistrigova_Anastasiya,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Bistrigova_Anastasiya,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+douglasantos,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+douglasantos,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+douglasantos,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+douglasantos,Iahub and Xors,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,data structures
+Omelyanenko,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Omelyanenko,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+yxdb,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+yxdb,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+yxdb,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+hama-du,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+hama-du,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+hama-du,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+qph-Jeremy,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+qph-Jeremy,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+qph-Jeremy,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+cxlove,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+cxlove,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cxlove,Iahub and Permutations,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+jupanul,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Anarivu,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Anarivu,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Anarivu,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+chaotic_iak,Tourist Problem,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+chaotic_iak,Bubble Sort Graph,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+chaotic_iak,Iahub and Permutations,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+abhinav92003,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+abhinav92003,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+geniucos,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+geniucos,Tourist Problem,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+geniucos,Iahub and Permutations,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+viv001,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+viv001,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+viv001,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+Nobik_Glem,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Nobik_Glem,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Nobik_Glem,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+dkirienko,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+dkirienko,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ishikado,Tourist Problem,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,math
+ishikado,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+chanme,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+chanme,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+chanme,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+SkylyXD,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+SkylyXD,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+SkylyXD,Iahub and Xors,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+sunshuo,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sunshuo,Bubble Sort Graph,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Dwell_at_Penn,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Dwell_at_Penn,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Dwell_at_Penn,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+mzsh,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+mzsh,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+mzsh,Iahub and Permutations,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ikbal,Tourist Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ikbal,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ikbal,Iahub and Permutations,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+BananaTree,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+BananaTree,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp"
+BananaTree,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+gopdoly,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+gopdoly,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+gopdoly,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+alculquicondor,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+alculquicondor,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+alculquicondor,Iahub and Permutations,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+chipchip3412,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+chipchip3412,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+vitipunto,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vitipunto,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Dabek,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Dabek,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Dabek,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+pavellevap,Iahub and Permutations,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+pavellevap,Tourist Problem,1,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,math
+Omar_Obeya,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Omar_Obeya,Tourist Problem,1,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+pdwd,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pdwd,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+pdwd,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+astar4ru,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+astar4ru,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+astar4ru,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+nurs,Bubble Sort Graph,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+srnth,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+srnth,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+srnth,Iahub and Permutations,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+fegla,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+fegla,Bubble Sort Graph,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+dilsonguim,Tourist Problem,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+dilsonguim,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+dilsonguim,Iahub and Permutations,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Arashking,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Arashking,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+buaabarty,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+buaabarty,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+praveen123,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+praveen123,Bubble Sort Graph,1,B,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+praveen123,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Monmoy,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Monmoy,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Monmoy,Tourist Problem,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+SYSU_LoveBY,Bubble Sort Graph,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+SYSU_LoveBY,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Darsein,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Darsein,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+River,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+River,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+SergeyLazarev,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+SergeyLazarev,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+SergeyLazarev,Iahub and Permutations,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+nuip,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+nuip,Bubble Sort Graph,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+aropan,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+aropan,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+aropan,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Progerr,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Progerr,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+xHassassin,Tourist Problem,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,math
+xHassassin,Bubble Sort Graph,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+xHassassin,Iahub and Permutations,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Breakun,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Breakun,Iahub and Xors,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Breakun,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Breakun,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+shettynamit,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+shettynamit,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+shettynamit,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+astro75,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+astro75,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+LoneDruid,Iahub and Xors,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+LoneDruid,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+LoneDruid,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+LoneDruid,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+louise,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+louise,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+louise,Iahub and Permutations,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Mark_Fan,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Mark_Fan,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Mark_Fan,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+lzsb,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lzsb,Bubble Sort Graph,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+lzsb,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+spentplaying,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+spentplaying,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+spentplaying,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+Lord_F,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Lord_F,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+takapt,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+takapt,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+takapt,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+pedromnasc,Bubble Sort Graph,0,B,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+pedromnasc,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+324857679,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+324857679,Iahub and Xors,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+becauseofyou,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+becauseofyou,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+becauseofyou,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+discover.,Tourist Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+discover.,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+discover.,Iahub and Permutations,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+bsrkaditya,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+bsrkaditya,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+taring,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+taring,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+taring,Iahub and Xors,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+NateRiverxkh,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+NateRiverxkh,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+NateRiverxkh,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+gaurav708,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+gaurav708,Bubble Sort Graph,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+lnsuyn,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+lnsuyn,Iahub and Permutations,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Amir.bh,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Amir.bh,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Amir.bh,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+IlyaCk,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+_Vadim_,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+_Vadim_,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+_Vadim_,Bubble Sort Graph,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kreep,Tourist Problem,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+kreep,Bubble Sort Graph,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Up1,Tourist Problem,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Up1,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Up1,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+sn23581,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+sn23581,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+sn23581,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+igorwr,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+igorwr,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+igorwr,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+HwangScornedAsianTeams,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+HwangScornedAsianTeams,Tourist Problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Nikitosh,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Nikitosh,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+JayYe,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+JayYe,Iahub and Permutations,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Hasan0540,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+asmn,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+asmn,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+asmn,Iahub and Permutations,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+siIlycross,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+siIlycross,Iahub and Xors,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+siIlycross,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+hjx1212,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hjx1212,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+zengarden,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zengarden,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Misha100896,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Misha100896,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+NikitaD,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+NikitaD,Iahub and Permutations,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Aleksander,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Aleksander,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Aleksander,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Xdp,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Xdp,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+pawel.jasinski1986,Tourist Problem,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+pawel.jasinski1986,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+music960633,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+music960633,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+mjy0503,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mjy0503,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+mjy0503,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Divanshu,Tourist Problem,1,A,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,math
+Divanshu,Bubble Sort Graph,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+lama,Tourist Problem,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+lama,Bubble Sort Graph,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+littlesheep2012,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+littlesheep2012,Iahub and Xors,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+littlesheep2012,Candies Game,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy"
+Vadim2,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Vadim2,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+skyvn97,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+skyvn97,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ksjuchi,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ksjuchi,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ksjuchi,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Drazen,Tourist Problem,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+Drazen,Bubble Sort Graph,0,B,0,0,0,0,1,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+lsc36,Bubble Sort Graph,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+KarlisS,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+KarlisS,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+kolesov93,Tourist Problem,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+kolesov93,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kolesov93,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+zhk,Iahub and Xors,0,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+ZeRoGerc,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ilya.krokus,Tourist Problem,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+fushar,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+fushar,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+fushar,Bubble Sort Graph,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+orzsd0061,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+orzsd0061,Iahub and Permutations,1,C,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+nodchip,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+nodchip,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+nodchip,Iahub and Permutations,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+alpc164,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+alpc164,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Kamilot,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Gullesnuffs,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Gullesnuffs,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Gullesnuffs,Iahub and Xors,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+lazier,Bubble Sort Graph,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+lazier,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+i_love_dima,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+i_love_dima,Tourist Problem,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Sinner,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Sinner,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Bobgy,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Bobgy,Tourist Problem,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+cReaTIv3,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+cReaTIv3,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+coderbd,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Reshetnikov_Ivan,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Reshetnikov_Ivan,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Reshetnikov_Ivan,Iahub and Permutations,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+SanSiroWaltz,Tourist Problem,0,A,0,0,0,2,1,1,0,0,0,0,0,0,0,1,0,0,0,math
+SanSiroWaltz,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+SanSiroWaltz,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+cyk2011,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+cyk2011,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+cyk2011,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+haku,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+haku,Bubble Sort Graph,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Oryshych,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Oryshych,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+perennial_fanatic,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+perennial_fanatic,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+alpc115,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+alpc115,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+alpc115,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+nrg3,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+nrg3,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+nrg3,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+derbaer,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+lkjslkjdlk,Bubble Sort Graph,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+beegerous,Tourist Problem,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+beegerous,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Kaban-5,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Kaban-5,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Kaban-5,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+HIR180,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+HIR180,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+HIR180,Iahub and Xors,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+natsugiri,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+natsugiri,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+natsugiri,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+alex4814,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+alex4814,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+alex4814,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+lyoz,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+lyoz,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kemskems,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kemskems,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+aquamongoose,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+aquamongoose,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+aquamongoose,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+sbasrik,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+sbasrik,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cgangee,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+cgangee,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+xiaoke,Tourist Problem,0,A,0,0,0,0,0,2,0,0,2,0,0,0,0,1,0,0,0,math
+xiaoke,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+hjd,Bubble Sort Graph,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+hjd,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Shafaet,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Shafaet,Iahub and Permutations,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+SteelRaven,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+SteelRaven,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+JustN,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+JustN,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+JustN,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+dongockhanh1997,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+dongockhanh1997,Tourist Problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+dongockhanh1997,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+farisv,Tourist Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+farisv,Iahub and Permutations,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+farisv,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+phyllipecesar,Tourist Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+phyllipecesar,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+phyllipecesar,Iahub and Permutations,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+mirob,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mirob,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+mirob,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+gangsterveggies,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+gangsterveggies,Bubble Sort Graph,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+dojiboy9,Iahub and Permutations,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+dojiboy9,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+MDantas,Tourist Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+MDantas,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+romanandreev,Iahub and Permutations,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+romanandreev,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+romanandreev,Iahub and Xors,1,D,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,data structures
+Farzam,Tourist Problem,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Farzam,Bubble Sort Graph,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+zhyang,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+zhyang,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+boleyn.su,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+boleyn.su,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+PavelSavchenkov,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+PavelSavchenkov,Bubble Sort Graph,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Silent_coder,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Silent_coder,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+BMan,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+BMan,Bubble Sort Graph,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+zhusha,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zhusha,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Kostroma,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Kostroma,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Kostroma,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+asadthehell,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+asadthehell,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+arti,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+arti,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Malinovsky239,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Malinovsky239,Tourist Problem,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Igor_Kudryashov,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Igor_Kudryashov,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Igor_Kudryashov,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Igor_Kudryashov,Candies Game,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy"
+kaszubki,Bubble Sort Graph,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+urahara,Bubble Sort Graph,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+snake13,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hs484,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hs484,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+hs484,Iahub and Permutations,1,C,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+dragonic,Tourist Problem,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dragonic,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+dimatomp,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+dimatomp,Bubble Sort Graph,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+fram,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+fiver,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+fiver,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+orange.ua,Bubble Sort Graph,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+orange.ua,Tourist Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+KrK,Tourist Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+KrK,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+KrK,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+KrK,Iahub and Xors,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Logvinov_Leon,Tourist Problem,1,A,1,0,0,1,0,9,0,5,0,0,0,0,0,0,0,0,0,math
+alpc104,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+alpc104,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+DmitriyH,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+qw4990,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+qw4990,Bubble Sort Graph,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+LongTimeNoThin,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+LongTimeNoThin,Tourist Problem,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+nims11,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+nims11,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+nims11,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+tsfn,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tsfn,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+cacophonix,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+cacophonix,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+cacophonix,Iahub and Permutations,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+johnLate,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+johnLate,Bubble Sort Graph,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+alpc105,Tourist Problem,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+alpc105,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+zck921031,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zck921031,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+zck921031,Iahub and Permutations,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+muliguishou,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+muliguishou,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+muliguishou,Iahub and Permutations,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+dovegx,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+dovegx,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Thrax,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sriksama,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sriksama,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+sriksama,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+wa1tz719,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+yandry,Tourist Problem,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+aid,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+fengzlzl,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+fengzlzl,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+veziev,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+veziev,Tourist Problem,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+yobobobo,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ptnk_1215_panaka_13,Tourist Problem,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ptnk_1215_panaka_13,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+AcmerArthur,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+AcmerArthur,Tourist Problem,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+badpoet,Tourist Problem,0,A,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+badpoet,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+fajrinazis,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+fajrinazis,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+braveTester,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+braveTester,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rafaelclp,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+manuel,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+manuel,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+manuel,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+qwaker.00,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+qwaker.00,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+qwaker.00,Bubble Sort Graph,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+limed,Bubble Sort Graph,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+limed,Iahub and Permutations,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Zool,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Zool,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+danalex97,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+danalex97,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+i14,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+i14,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Aleksander94,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Aleksander94,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Aleksander94,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+maggot092,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+maggot092,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp"
+xh286286,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+xh286286,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+xh286286,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+white_cobra3,Tourist Problem,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+white_cobra3,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+asi1024,Tourist Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+asi1024,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+asi1024,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+andrew.volchek,Iahub and Permutations,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+andrew.volchek,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+andrew.volchek,Tourist Problem,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Sklyack,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Sklyack,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ynq1242,Tourist Problem,0,A,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,math
+ynq1242,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ping128,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ping128,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ping128,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+airon,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+xorfire,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+xorfire,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+xorfire,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+minus9d,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pineapple,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+pineapple,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Avq,Tourist Problem,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+alexey.enkov,Iahub and Permutations,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+alexey.enkov,Tourist Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+alexey.enkov,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+BUET_moinul_10,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+BUET_moinul_10,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+BUET_moinul_10,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+YerzhanU,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+YerzhanU,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+donraj,Bubble Sort Graph,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+donraj,Tourist Problem,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+donraj,Iahub and Permutations,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+gvalentiny,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Wild_Hamster,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Wild_Hamster,Bubble Sort Graph,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Wild_Hamster,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+fwm94,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+fwm94,Bubble Sort Graph,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+mystery_boy,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+mystery_boy,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+wadefk,Tourist Problem,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+wadefk,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+bookgetter,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+bookgetter,Tourist Problem,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+I_Love_Ximera,Tourist Problem,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+I_Love_Ximera,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+wind,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+wind,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+wind,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+Dixtosa,Tourist Problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Dixtosa,Bubble Sort Graph,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Heart_Blue,Tourist Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Heart_Blue,Bubble Sort Graph,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+cebrusfs,Tourist Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+cebrusfs,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+9mmlitswe,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+SherlockHolmes,Tourist Problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Stirpar,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+mrkorkai,Iahub and Permutations,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+mrkorkai,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+mrkorkai,Tourist Problem,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+phoenix1120102012,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Alisafe,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Alisafe,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+vexorian,Iahub and Permutations,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+vexorian,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+himanshu.tt01,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+himanshu.tt01,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Kazim,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+chiemduybao,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+chiemduybao,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+welter,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+welter,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Fyc,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Fyc,Tourist Problem,1,A,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,math
+FJYsmall,Tourist Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+FJYsmall,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+FJYsmall,Iahub and Permutations,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Melnyk,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+2011022322,Iahub and Permutations,0,C,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+chen_tr,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+grey_wind,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+grey_wind,Bubble Sort Graph,1,B,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+savinov,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+savinov,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+savinov,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+chickenwilful,Bubble Sort Graph,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+chickenwilful,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+baolaoban,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+baolaoban,Tourist Problem,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Shangke7788,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+panacekcz,Iahub and Xors,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+alapshin,Tourist Problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+alapshin,Bubble Sort Graph,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+hockey_for_NOI,Candies Game,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy"
+Sender,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Sender,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+GameR,Tourist Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+IvanShafran,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+xsx,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xsx,Bubble Sort Graph,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+withwind,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Darko,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Darko,Bubble Sort Graph,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Daniyar_7,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Daniyar_7,Bubble Sort Graph,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Daniyar_7,Iahub and Permutations,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+MZuev,Iahub and Xors,0,D,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,data structures
+stostap,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+iTwin,Iahub and Xors,0,D,0,0,0,0,5,1,0,2,0,0,0,0,0,0,0,0,0,data structures
+iTwin,Tourist Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hcretescu,Bubble Sort Graph,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+rares.buhai,Tourist Problem,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+rares.buhai,Bubble Sort Graph,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+API,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ben.hwang,Tourist Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Anastasko,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Dwylkz,Tourist Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kevmo314,Tourist Problem,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+aa2985759,Iahub and Xors,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+aa2985759,Tourist Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+aa2985759,Bubble Sort Graph,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+aa2985759,Iahub and Permutations,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Kostyazz,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+gridnevvvit,Iahub and Permutations,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+gridnevvvit,Bubble Sort Graph,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+mc_mosa,Tourist Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math

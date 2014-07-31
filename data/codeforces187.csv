@@ -1,0 +1,776 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+Egor,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Egor,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Egor,BRT Contract ,0,D,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+Egor,Weak Memory,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+bayleef,Permutations,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+bayleef,AlgoRace,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+bayleef,Weak Memory,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+aram90,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+aram90,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+aram90,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+havaliza,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+havaliza,AlgoRace,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+havaliza,Weak Memory,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+AlexDmitriev,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AlexDmitriev,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+flashmt,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+flashmt,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+flashmt,Weak Memory,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+flashmt,BRT Contract ,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+PavelKunyavskiy,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+PavelKunyavskiy,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+PavelKunyavskiy,Weak Memory,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+eduardische,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+eduardische,AlgoRace,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+eduardische,Weak Memory,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+mmaxio,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mmaxio,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+mmaxio,Weak Memory,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+vepifanov,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+vepifanov,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+vepifanov,Weak Memory,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+uwi,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+uwi,AlgoRace,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+uwi,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+it4.kp,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+it4.kp,Weak Memory,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+it4.kp,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+drazil,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+drazil,AlgoRace,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+drazil,Weak Memory,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Komaki,Permutations,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Komaki,AlgoRace,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Komaki,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Komaki,BRT Contract ,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Mimino,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mimino,AlgoRace,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Mimino,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Mimino,BRT Contract ,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+permin,Permutations,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+permin,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+permin,Weak Memory,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+lzqxh,Permutations,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+lzqxh,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+lzqxh,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+yukim,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+yukim,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+yukim,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Endagorion,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Endagorion,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Endagorion,Weak Memory,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+delsius.sk,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+delsius.sk,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+delsius.sk,Weak Memory,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+azaky,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+azaky,AlgoRace,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+xscape,Permutations,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+xscape,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+xscape,Weak Memory,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+shangjingbo,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+shangjingbo,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,shortest paths"
+shangjingbo,Weak Memory,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Merlininice,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Merlininice,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Merlininice,Weak Memory,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,dsu"
+yefllower,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yefllower,Weak Memory,1,C,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+yefllower,AlgoRace,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+watashi,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+watashi,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+watashi,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+watashi,BRT Contract ,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+Ra16bit,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ra16bit,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Ra16bit,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+shioshiota,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shioshiota,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+shioshiota,Weak Memory,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+ballon,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+ballon,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+ballon,Weak Memory,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+RedAnt,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+RedAnt,AlgoRace,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+IlyaLos,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+IlyaLos,AlgoRace,1,B,0,0,0,1,0,0,0,2,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+IlyaLos,Weak Memory,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+pperm,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pperm,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+pperm,Weak Memory,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+subscriber,Permutations,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+subscriber,AlgoRace,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+subscriber,Weak Memory,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+tunyash,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tunyash,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+tunyash,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+stubbscroll,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+stubbscroll,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+self_healing,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+self_healing,AlgoRace,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,"dp,shortest paths"
+self_healing,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,dsu"
+gen,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+gen,AlgoRace,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+seanwu,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+seanwu,AlgoRace,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+seanwu,Weak Memory,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+chnlich,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+chnlich,AlgoRace,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+chnlich,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+chnlich,BRT Contract ,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Commandos,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Commandos,AlgoRace,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+Commandos,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+ptrrsn_1,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ptrrsn_1,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+your_conscience,Permutations,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+your_conscience,AlgoRace,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+yeputons,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yeputons,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+yeputons,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+yeputons,BRT Contract ,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+StefanoT,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+StefanoT,AlgoRace,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"dp,shortest paths"
+zjut_DD,Permutations,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ArtemKadeev,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ArtemKadeev,AlgoRace,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+KADR,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KADR,AlgoRace,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+KADR,Weak Memory,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+KADR,BRT Contract ,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+shevchen,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shevchen,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+a9108,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+a9108,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+a9108,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+knightL,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+knightL,AlgoRace,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+knightL,Weak Memory,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+carber,Permutations,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+carber,AlgoRace,1,B,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+witua,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+witua,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,shortest paths"
+witua,Weak Memory,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+ftiasch,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ftiasch,Weak Memory,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+ftiasch,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+ftiasch,BRT Contract ,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+0O0o00OO0Oo0o0Oo,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+0O0o00OO0Oo0o0Oo,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+0O0o00OO0Oo0o0Oo,Weak Memory,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+0O0o00OO0Oo0o0Oo,BRT Contract ,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+0O0o00OO0Oo0o0Oo,Heaven Tour,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy"
+Sisu,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sisu,AlgoRace,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Sisu,Weak Memory,1,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+totalfrank,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+totalfrank,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+totalfrank,Weak Memory,1,C,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Krig,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Krig,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Krig,Weak Memory,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Archon.JK,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Archon.JK,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Archon.JK,Weak Memory,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+jskhirtladze,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jskhirtladze,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+SuBaRaSi,Permutations,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+SuBaRaSi,AlgoRace,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,shortest paths"
+SuBaRaSi,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Martin,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Martin,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Martin,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Martin,Heaven Tour,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy"
+fjxmlhx,Permutations,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+fjxmlhx,AlgoRace,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+fjxmlhx,Weak Memory,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+barty,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+barty,AlgoRace,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+barty,Weak Memory,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+ahmed_aly,Permutations,1,A,1,0,0,0,6,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+ahmed_aly,AlgoRace,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+tsotne,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tsotne,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+tsotne,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+qwerty787788,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+qwerty787788,AlgoRace,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+qwerty787788,Weak Memory,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Shinta,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+Shinta,Weak Memory,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Shinta,AlgoRace,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+kmxyvb,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kmxyvb,AlgoRace,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+kmxyvb,Weak Memory,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+majia5,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+majia5,AlgoRace,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+hex539,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hex539,Weak Memory,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+hytirt,Permutations,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+hytirt,AlgoRace,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+hytirt,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+chaemon,Permutations,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+chaemon,AlgoRace,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+MarioYC,Permutations,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+MarioYC,AlgoRace,1,B,0,0,0,0,0,4,0,1,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+MarioYC,Weak Memory,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+vexorian,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vexorian,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+vexorian,Weak Memory,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+ts10,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ts10,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+LeBron,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+LeBron,AlgoRace,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"dp,shortest paths"
+LeBron,Weak Memory,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+NuM,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NuM,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,shortest paths"
+NuM,Weak Memory,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+izban,Permutations,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+izban,AlgoRace,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+VArtem,Permutations,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+VArtem,AlgoRace,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+mihail,Permutations,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+mihail,AlgoRace,1,B,1,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,"dp,shortest paths"
+mihail,Weak Memory,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+navi,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+navi,AlgoRace,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,shortest paths"
+navi,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+shinian,Permutations,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+shinian,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Proscriptus,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Proscriptus,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Proscriptus,Weak Memory,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+yarrr,Permutations,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+yarrr,AlgoRace,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,1,0,0,"dp,shortest paths"
+Vaness,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Vaness,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+evima,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+evima,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+evima,Weak Memory,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Abra,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Abra,AlgoRace,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Abra,Weak Memory,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+yayamao,Permutations,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Timur_Sitdikov,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Timur_Sitdikov,AlgoRace,1,B,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+RAD,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+RAD,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+RAD,Weak Memory,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+RAD,BRT Contract ,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+vitar,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vitar,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+vitar,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+I-juice,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+I-juice,AlgoRace,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+I-juice,Weak Memory,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+chavit,Permutations,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+chavit,Weak Memory,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+chavit,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+fuqinho,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+fuqinho,AlgoRace,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+windy7926778,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+windy7926778,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+windy7926778,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Mick,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mick,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Mick,Weak Memory,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+xneby,Permutations,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+xneby,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+xneby,AlgoRace,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+xneby,Heaven Tour,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy"
+L7we,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sillyboy,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sillyboy,AlgoRace,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+olimpo,Permutations,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+olimpo,AlgoRace,1,B,0,0,0,0,0,3,0,0,1,0,0,0,0,1,0,0,0,"dp,shortest paths"
+Ahmed_Salama,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ahmed_Salama,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,shortest paths"
+Ahmed_Salama,Weak Memory,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+kterry,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kterry,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+kterry,Weak Memory,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+kterry,Heaven Tour,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,greedy"
+sths,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sths,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+sths,Weak Memory,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+matejbalog,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+matejbalog,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+matejbalog,Weak Memory,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+sadkangaroo,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sadkangaroo,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+sadkangaroo,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Milanin,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Milanin,AlgoRace,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Milanin,Weak Memory,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+xkszltl,Permutations,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+xkszltl,AlgoRace,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+xkszltl,Weak Memory,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+lcch,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lcch,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+lcch,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+natsugiri,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+natsugiri,AlgoRace,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+natsugiri,Weak Memory,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+hovinhthinh,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hovinhthinh,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+hovinhthinh,Weak Memory,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+mR.ilchi,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mR.ilchi,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+mR.ilchi,BRT Contract ,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+-DMYTRO-,Permutations,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+-DMYTRO-,AlgoRace,1,B,0,0,0,0,0,2,0,2,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+helThazar,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+helThazar,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+helThazar,Weak Memory,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+HellKitsune,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+HellKitsune,Weak Memory,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+azizkhan,Permutations,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+haas,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+haas,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+haas,Weak Memory,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+imslavko,Permutations,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+imslavko,AlgoRace,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+ifsmirnov,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ifsmirnov,AlgoRace,1,B,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+ifsmirnov,Weak Memory,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+RomaWhite,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+RomaWhite,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+RomaWhite,Weak Memory,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+ACube,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ACube,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,shortest paths"
+ACube,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+ACube,BRT Contract ,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,data structures
+dreamoon,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+dreamoon,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dreamoon,Weak Memory,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+dreamoon,BRT Contract ,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+huyuanming11,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+huyuanming11,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+huyuanming11,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+pashkal,Permutations,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kenny_HORROR,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kenny_HORROR,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Kenny_HORROR,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+yaro,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yaro,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+yaro,Weak Memory,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+GaoYusong,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+GaoYusong,Weak Memory,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Bidhan,Permutations,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Bidhan,AlgoRace,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+fatest,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+fatest,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+arti1990,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+arti1990,AlgoRace,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+alexey.shchepin,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+alexey.shchepin,AlgoRace,0,B,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+alexey.shchepin,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+imbanoob,Permutations,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+imbanoob,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+imbanoob,Weak Memory,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+NIGHTFIT,Permutations,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+elizarov,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+elizarov,AlgoRace,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+elizarov,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Pattara.S,Permutations,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Pattara.S,AlgoRace,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+Pattara.S,Weak Memory,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Shtrix,Permutations,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shtrix,AlgoRace,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Shtrix,Weak Memory,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+marspeople,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+marspeople,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+__tutankhamun__,Permutations,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+dj3500,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dj3500,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+dj3500,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Al.Cash,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Al.Cash,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Al.Cash,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Al.Cash,BRT Contract ,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+prpr,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+prpr,AlgoRace,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,shortest paths"
+BaJIuK,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+BaJIuK,AlgoRace,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+yvasyliv,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yvasyliv,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+yvasyliv,Weak Memory,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+homo_sapiens,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+homo_sapiens,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+homo_sapiens,Weak Memory,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Riatre,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Riatre,AlgoRace,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Riatre,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+ADJA,Permutations,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ADJA,AlgoRace,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+salex,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+salex,AlgoRace,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+EriKKo,Permutations,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+EriKKo,Weak Memory,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+ckl1994,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ckl1994,AlgoRace,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+ckl1994,Weak Memory,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+ZhouYuChen,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ZhouYuChen,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+ZhouYuChen,Weak Memory,1,C,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+pulkitg10,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+pulkitg10,AlgoRace,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,shortest paths"
+fenzhang,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+fenzhang,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Perlik,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Perlik,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Jughead,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Jughead,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Jughead,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,dsu"
+K_operafan,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+K_operafan,AlgoRace,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+K_operafan,Weak Memory,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Sphinx,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sphinx,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Sphinx,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+xhsong,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xhsong,AlgoRace,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Deamon,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Deamon,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Deamon,Weak Memory,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Igor_Kudryashov,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Igor_Kudryashov,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Igor_Kudryashov,Weak Memory,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+chhung6,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+chhung6,AlgoRace,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+chhung6,Weak Memory,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Monyura,Permutations,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Monyura,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Monyura,Weak Memory,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+SkidanovAlex,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SkidanovAlex,AlgoRace,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+sdryapko,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sdryapko,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+xukaiwen,Permutations,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+xukaiwen,AlgoRace,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+xukaiwen,Weak Memory,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+lydrainbowcat,Permutations,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+lydrainbowcat,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+lydrainbowcat,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+evader,Permutations,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+evader,Weak Memory,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+kohyatoh,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kohyatoh,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+kohyatoh,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+dusty.and.rusty,Permutations,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+dusty.and.rusty,AlgoRace,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+doraemon,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+doraemon,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Cenadar,Permutations,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+Cenadar,AlgoRace,0,B,0,0,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,"dp,shortest paths"
+Cenadar,Weak Memory,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Konstantin,Permutations,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+2910201028,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+2910201028,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+ysyshtc,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ysyshtc,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+ysyshtc,Weak Memory,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+esrever,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+esrever,AlgoRace,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+esrever,Weak Memory,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+lavin,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lavin,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+lavin,Weak Memory,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+cyan,Permutations,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+cyan,Weak Memory,1,C,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+guille,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+guille,AlgoRace,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+zgmf_x42s,Permutations,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+Rubanenko,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Rubanenko,AlgoRace,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+alberist,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alberist,AlgoRace,1,B,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+pva701,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+pva701,AlgoRace,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+pva701,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Ilya_MSU,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ilya_MSU,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Conan630,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Conan630,AlgoRace,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+moonlight131,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+moonlight131,AlgoRace,0,B,0,0,0,0,0,4,0,2,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+moonlight131,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Snich,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Snich,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+Snich,Weak Memory,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+kucingimbalance,Permutations,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kucingimbalance,AlgoRace,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,shortest paths"
+Jens,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+wRabbits_AlMag,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+wRabbits_AlMag,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+wRabbits_AlMag,Weak Memory,1,C,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+hanfei19910905,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hanfei19910905,AlgoRace,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+FattyPenguin,Permutations,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+FattyPenguin,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+FattyPenguin,Weak Memory,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+vsb,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vsb,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+vsb,Weak Memory,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+afix,Permutations,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+SkyHawk,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+SkyHawk,AlgoRace,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Copymaster,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Copymaster,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Copymaster,Weak Memory,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+july,Permutations,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+july,AlgoRace,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+eagletmt,Permutations,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+espr1t,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+espr1t,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,shortest paths"
+espr1t,Weak Memory,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+fura2,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fura2,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,shortest paths"
+fura2,Weak Memory,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+M0sTik,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+M0sTik,AlgoRace,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Belonogov,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Belonogov,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Belonogov,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Gammy,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gammy,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+ultra.red.eye,Permutations,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,greedy
+KirillB,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KirillB,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+KirillB,Weak Memory,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+chyx,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+chyx,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+chyx,Weak Memory,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Captain_CoCo,Permutations,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+riad,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+riad,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+oimaster,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+oimaster,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+oimaster,Weak Memory,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+oimaster,BRT Contract ,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Malinovsky239,Permutations,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Malinovsky239,AlgoRace,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Malinovsky239,Weak Memory,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Shapo,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shapo,AlgoRace,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+go_zyw,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+go_zyw,AlgoRace,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"dp,shortest paths"
+go_zyw,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+suhendry,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+suhendry,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+suhendry,Weak Memory,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+PMichalak,Permutations,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+KAN,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KAN,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+KAN,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+zetsubou,Permutations,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+zetsubou,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+zetsubou,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+DamianS,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DamianS,AlgoRace,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+DamianS,Weak Memory,0,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+hasi,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hasi,AlgoRace,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+wcwswswws,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+wcwswswws,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+HolkinPV,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hanhan0912,Permutations,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+hanhan0912,AlgoRace,0,B,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"dp,shortest paths"
+wanghd,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+wanghd,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+ridowan007,Permutations,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+ridowan007,AlgoRace,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+SergeyLazarev,Permutations,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+SergeyLazarev,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+VNBZTY,Permutations,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+cbx,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cbx,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+cbx,Weak Memory,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Spumote,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jiangzhijie,Permutations,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+jiangzhijie,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+jiangzhijie,Weak Memory,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+FatSheep,Weak Memory,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+FatSheep,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+FatSheep,AlgoRace,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+rng_58,Weak Memory,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+rng_58,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+rng_58,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+rng_58,BRT Contract ,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+fura,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fura,AlgoRace,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+fura,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+eterxroc,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+eterxroc,AlgoRace,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Jokser,Permutations,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Jokser,AlgoRace,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+Jokser,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+ishikado,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ronaflx,AlgoRace,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+ronaflx,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ronaflx,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Sereja,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sereja,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Sereja,Weak Memory,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Alchemist,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Alchemist,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Alchemist,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+frost_nova,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+frost_nova,AlgoRace,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+sune2,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sune2,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+sune2,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+paulocezar,Permutations,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+mukel,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mukel,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+mukel,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+masha_and_beer,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+masha_and_beer,Permutations,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+sankear,AlgoRace,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+sankear,Permutations,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+pedrovictor,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pedrovictor,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+xpycc,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xpycc,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+wack-a-mole,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+wack-a-mole,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,shortest paths"
+NKolotey,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NKolotey,AlgoRace,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+hust.elt,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hust.elt,AlgoRace,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+amylase,Permutations,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+amylase,AlgoRace,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+infrmtcs,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+infrmtcs,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+momo_vn,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+momo_vn,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+momo_vn,Weak Memory,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+SobolS,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SobolS,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+phtniit,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+phtniit,AlgoRace,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+Martynas,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Martynas,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,shortest paths"
+Martynas,Weak Memory,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Bugman,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+Bugman,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Troy1118,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Troy1118,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Troy1118,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+KarlisS,Permutations,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+KarlisS,Weak Memory,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+cheezer,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cheezer,Weak Memory,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+cheezer,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Kaylin,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kaylin,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Kaylin,Weak Memory,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+tracyzhu,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tracyzhu,AlgoRace,1,B,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+kelvinlau,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kelvinlau,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+kelvinlau,Weak Memory,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Enterpaise,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Enterpaise,AlgoRace,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+goooooooopan,Permutations,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nicolai_Kovrov,Permutations,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hackson,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hackson,AlgoRace,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+Hackson,Weak Memory,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+pratikmoona,Permutations,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+pratikmoona,AlgoRace,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+thphong,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+malcolm,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+malcolm,AlgoRace,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+malcolm,Weak Memory,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+yenthanh.t7,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yenthanh.t7,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+yenthanh.t7,Weak Memory,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Gassa,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gassa,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Gassa,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+kb.,Permutations,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+naagi,Permutations,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+flydutchman,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+flydutchman,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+flydutchman,Weak Memory,1,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+SkorKNURE,Permutations,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+lne,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lne,AlgoRace,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+iensen,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+iensen,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+not,AlgoRace,0,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+not,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Respect2D,Permutations,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kharybin,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kharybin,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Kharybin,Weak Memory,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+maximkoval,AlgoRace,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+maximkoval,Permutations,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+maximkoval,Weak Memory,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Mex-Mans,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mex-Mans,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Mex-Mans,Weak Memory,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+ymatsux,Permutations,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ymatsux,AlgoRace,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Snow_storm,Permutations,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Snow_storm,AlgoRace,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+antonkov,AlgoRace,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+antonkov,Permutations,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+antonkov,Weak Memory,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+fcspartakm,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fcspartakm,AlgoRace,1,B,0,0,0,0,1,14,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+reiracofage,Permutations,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+reiracofage,AlgoRace,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Timur_Keks,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Timur_Keks,AlgoRace,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+moshiur,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hinidu,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hinidu,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Hinidu,Weak Memory,1,C,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Aleks,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DimaPhil,Permutations,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+cyk2011,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cyk2011,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+diogen,Weak Memory,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+diogen,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vagnard,Weak Memory,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+vagnard,Permutations,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+vagnard,AlgoRace,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+fcjy888,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kuzmichev_dima,Permutations,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,greedy
+_sunny,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+zhk,AlgoRace,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+zhk,Weak Memory,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+zhk,Permutations,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+hadi,AlgoRace,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+AguL,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pavel13,AlgoRace,0,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Oryshych,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ralekseenkov,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+ralekseenkov,Weak Memory,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+delta,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xiaoshua2,Permutations,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+iloahz,AlgoRace,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+iloahz,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+iloahz,Weak Memory,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+Parhomets,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lantimilan,Permutations,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+lantimilan,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Tenich,Permutations,0,A,0,0,0,0,3,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+lijunle,Permutations,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+lijunle,AlgoRace,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"dp,shortest paths"
+YaoZ,Permutations,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+OoO000oOOOoOooOo,Permutations,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+OoO000oOOOoOooOo,AlgoRace,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+OoO000oOOOoOooOo,Weak Memory,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+YerzhanU,Permutations,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+YerzhanU,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Lebesgue,Permutations,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+botay,AlgoRace,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+botay,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+marxi,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+marxi,AlgoRace,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"
+Mikes,Permutations,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pragrame,Permutations,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kAc,Weak Memory,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu"
+kAc,Permutations,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kAc,AlgoRace,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,shortest paths"

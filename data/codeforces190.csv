@@ -1,0 +1,2566 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+Sgr,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Sgr,Surrounded,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+balou,Vasya and the Bus,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+balou,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Sherlock_Holmes,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Sherlock_Holmes,STL,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Sherlock_Holmes,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Sherlock_Holmes,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+chernega,Vasya and the Bus,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+pzzxj,Vasya and the Bus,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pzzxj,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,geometry
+pzzxj,STL,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+pzzxj,Non-Secret Cypher,0,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+pzzxj,Counter Attack,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+Zhuravlyov.A,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Zhuravlyov.A,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Zhuravlyov.A,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+EmptyHadron,Vasya and the Bus,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+HeartCircuit,Vasya and the Bus,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+HeartCircuit,Surrounded,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+HeartCircuit,STL,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+HeartCircuit,Non-Secret Cypher,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+HeartCircuit,Counter Attack,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+ahm.kam_92,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ahm.kam_92,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+ikar,Vasya and the Bus,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ikar,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ikar,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ikar,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+MeowMeow,Vasya and the Bus,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,4,0,0,"greedy,math"
+MeowMeow,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Jace_Beleren,Vasya and the Bus,0,A,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Jace_Beleren,Surrounded,0,B,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+cs_Diablo,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cs_Diablo,Surrounded,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+cs_Diablo,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Wackloner,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Wackloner,Surrounded,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+Wackloner,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+CepGamer,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+CepGamer,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+GR1n,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+GR1n,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+GR1n,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+GR1n,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Sultan,Vasya and the Bus,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Sultan,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+pumka,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rexim,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rexim,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+rexim,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+EGZ95,Vasya and the Bus,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+EGZ95,Surrounded,1,B,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+nakari1124,Vasya and the Bus,0,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nakari1124,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+nakari1124,STL,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Wimag,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Wimag,Surrounded,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+Wimag,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Logvinov_Leon,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Logvinov_Leon,Surrounded,0,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Logvinov_Leon,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Logvinov_Leon,Counter Attack,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+Player1_SERG,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Player1_SERG,Surrounded,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Player1_SERG,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+milesperhour,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+milesperhour,Surrounded,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+milesperhour,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+wxcc,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+wxcc,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+135678942570,Vasya and the Bus,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+135678942570,STL,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+135678942570,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+deeas,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,3,0,0,"greedy,math"
+deeas,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+deeas,STL,0,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,dfs and similar
+vikashparida,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vikashparida,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+sert,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sert,Surrounded,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+sert,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+FKint,Vasya and the Bus,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+FKint,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+FKint,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+FKint,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Conny,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Conny,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Conny,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Conny,Counter Attack,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+wy89767,Vasya and the Bus,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+wy89767,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Algiz,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Algiz,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Algiz,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+jhill.ucf,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+jhill.ucf,Surrounded,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+jhill.ucf,STL,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+annaalkh,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+annaalkh,STL,0,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dfs and similar
+annaalkh,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+galileo,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+galileo,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+galileo,STL,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+galileo,Non-Secret Cypher,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,two pointers
+kovshi,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kovshi,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+lucien,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lucien,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+lucien,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+lucien,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+lucien,Counter Attack,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+mmd,Vasya and the Bus,0,A,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mmd,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+zhyu,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zhyu,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+zhyu,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+Dmitry_Aksenik,Vasya and the Bus,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,4,0,0,"greedy,math"
+Dmitry_Aksenik,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+nCk,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nCk,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+nCk,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Dianochka,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Dianochka,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Dianochka,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+sachith500,Vasya and the Bus,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sachith500,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ridowan007,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ridowan007,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ridowan007,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ridowan007,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+jyhuang,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,3,0,0,"greedy,math"
+jyhuang,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+jyhuang,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+svm11,Vasya and the Bus,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mirsaid_mir,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mirsaid_mir,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+mirsaid_mir,STL,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Umqra,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Umqra,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Umqra,STL,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Odeen,Vasya and the Bus,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,3,0,0,"greedy,math"
+Odeen,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Neil,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Neil,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Neil,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+Neil,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+vlyubin,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vlyubin,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+cmepiii,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cmepiii,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+aitzhan.askar,Vasya and the Bus,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+aitzhan.askar,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+aitzhan.askar,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Cyber.1,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Cyber.1,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Cyber.1,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+Rosetta,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Rosetta,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+korektur,Vasya and the Bus,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,4,0,0,"greedy,math"
+korektur,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Natali,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Natali,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Natali,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+pedja,Vasya and the Bus,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pedja,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+xiaoy,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xiaoy,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+xiaoy,Non-Secret Cypher,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+PashaAC,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+PashaAC,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Red_Lv,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Red_Lv,Surrounded,0,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Red_Lv,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+kid177,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kid177,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+amirrr,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+amirrr,Surrounded,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+amirrr,Non-Secret Cypher,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Gantz,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,4,0,0,"greedy,math"
+Gantz,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+bookcity_clock,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bookcity_clock,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+bookcity_clock,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+bookcity_clock,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Alex_2oo8,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Alex_2oo8,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dfs and similar
+Alex_2oo8,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+maksimkzn,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Zimbabwe_23,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Zimbabwe_23,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+bagnikita,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bagnikita,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+bagnikita,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+bagnikita,Counter Attack,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+kraskevich,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kraskevich,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+kraskevich,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+kraskevich,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+dimatomp,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dimatomp,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+dimatomp,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Miron95,Vasya and the Bus,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Miron95,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+lolo4ka,Vasya and the Bus,0,A,1,0,0,0,0,8,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+lolo4ka,Surrounded,0,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+lolo4ka,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+lolo4ka,Non-Secret Cypher,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+fatest0,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+fatest0,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+fatest0,STL,0,C,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+fatest0,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+wtf123,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+wtf123,Surrounded,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+wtf123,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+DimaPhil,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+DimaPhil,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+InvincibleUZ,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+InvincibleUZ,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+BenderRodriges,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+BenderRodriges,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+BenderRodriges,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+tatuyan_edson,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tatuyan_edson,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+tatuyan_edson,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+triwinter91,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+triwinter91,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+triwinter91,STL,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+triwinter91,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+hunterx109,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hunterx109,Surrounded,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+hunterx109,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+hunterx109,STL,0,C,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Zip753,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Zip753,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+makanbeling,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+makanbeling,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+makanbeling,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+cup_of_tea,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cup_of_tea,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+cup_of_tea,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+cup_of_tea,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+matrix,Vasya and the Bus,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+matrix,STL,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+matrix,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+matrix,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Obaida,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Obaida,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Obaida,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+sasha.sochka,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sasha.sochka,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+sasha.sochka,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Mikes,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Mikes,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Mikes,STL,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Mikes,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+notEphim,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+notEphim,Surrounded,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+notEphim,STL,1,C,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+kolina,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kolina,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+kolina,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+kolina,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+asif_iut,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+asif_iut,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+kon_an,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kon_an,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+kon_an,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+AllProblemAreNetworkFlow,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+AllProblemAreNetworkFlow,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+AllProblemAreNetworkFlow,STL,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+RosyIsh,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ycalvino,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ycalvino,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ycalvino,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Semenov_Petr,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Semenov_Petr,Surrounded,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Semenov_Petr,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+HJWAJ,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+HJWAJ,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+HJWAJ,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Mars314,Vasya and the Bus,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Mars314,Surrounded,1,B,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Mars314,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+juancate,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+juancate,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+hacker007,Vasya and the Bus,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+hacker007,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+hacker007,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Battle_Mage,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Battle_Mage,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+McLaren,Vasya and the Bus,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+McLaren,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Kru4eTolkoTourist,Vasya and the Bus,0,A,0,0,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hulk,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hulk,Surrounded,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+hulk,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+CtrlAlt,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+CtrlAlt,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+CtrlAlt,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+CtrlAlt,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+mustafij,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mustafij,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+mustafij,STL,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+SUPERSTAR_MITSURU,Vasya and the Bus,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+SUPERSTAR_MITSURU,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+SUPERSTAR_MITSURU,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+SUPERSTAR_MITSURU,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+SUPERSTAR_MITSURU,Counter Attack,1,E,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+dokhue96,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dokhue96,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+giongto35,Vasya and the Bus,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+giongto35,Surrounded,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+giongto35,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+giongto35,Counter Attack,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+max777alex,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+max777alex,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Simplex,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Simplex,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Simplex,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+Simplex,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+iTwin,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+iTwin,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+iTwin,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+ruvinbsu,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ruvinbsu,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ctzsm,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+ctzsm,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ctzsm,STL,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+hlchan,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hlchan,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+hlchan,STL,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+sjazayeri,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sjazayeri,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+assault,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+assault,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+FurukawaNagisa,Vasya and the Bus,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+FurukawaNagisa,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+FurukawaNagisa,STL,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+FurukawaNagisa,Non-Secret Cypher,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+FurukawaNagisa,Counter Attack,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+sniper0221,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sniper0221,Surrounded,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+sniper0221,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+sniper0221,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+xioumu,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ibragimov_Bauyrzhan,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,3,0,0,"greedy,math"
+Ibragimov_Bauyrzhan,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+icerain,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+icerain,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+icerain,STL,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ts12,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+PavelSavchenkov,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+PavelSavchenkov,Surrounded,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,geometry
+PavelSavchenkov,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+AguL,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+AguL,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+AguL,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+UESTC_Mie,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+UESTC_Mie,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Nicolai_Kovrov,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Nicolai_Kovrov,Surrounded,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+Nicolai_Kovrov,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+Nicolai_Kovrov,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+6eJIa9IzZzTeHb,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+6eJIa9IzZzTeHb,Surrounded,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+6eJIa9IzZzTeHb,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+6eJIa9IzZzTeHb,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Scipt,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Scipt,Surrounded,1,B,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+Scipt,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Betlista,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Betlista,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Betlista,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+Aries512,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Aries512,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Aries512,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+Pekaz,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Pekaz,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+amit5148,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+amit5148,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+amit5148,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+peterz,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+peterz,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+peterz,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+yinthewind,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yinthewind,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Jerrysnow,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Jerrysnow,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Jerrysnow,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Parsa.pordel,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Parsa.pordel,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+AC_Lover,Vasya and the Bus,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+AC_Lover,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+AC_Lover,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+DexTrom,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+DexTrom,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+DexTrom,STL,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+DexTrom,Non-Secret Cypher,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Hobo,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Hobo,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Trytrytry,Vasya and the Bus,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+Trytrytry,STL,1,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Trytrytry,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+kucingimbalance,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kucingimbalance,Surrounded,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+kucingimbalance,STL,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+aknow,Vasya and the Bus,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,4,0,0,"greedy,math"
+aknow,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+aknow,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dfs and similar
+consoleapplication1,Vasya and the Bus,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+consoleapplication1,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+consoleapplication1,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+consoleapplication1,Counter Attack,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+Leewings,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+Leewings,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Leewings,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Leewings,STL,0,C,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,dfs and similar
+iwtbaRTlAE,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,5,0,0,"greedy,math"
+iwtbaRTlAE,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+iwtbaRTlAE,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+youbin110,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+youbin110,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+youbin110,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+youbin110,Non-Secret Cypher,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+hnu0314,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hnu0314,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+hnu0314,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+alexandr.vladimirov,Vasya and the Bus,1,A,1,0,0,2,0,2,0,0,0,0,0,0,0,0,3,0,0,"greedy,math"
+alexandr.vladimirov,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+prakhar3agrwal,Vasya and the Bus,0,A,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+prakhar3agrwal,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+kojingharang,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+kojingharang,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+kojingharang,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+kojingharang,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+tiirz,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+penhuforever,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+penhuforever,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+mtcomscxstart,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mtcomscxstart,Surrounded,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+mtcomscxstart,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+aldar,Vasya and the Bus,1,A,1,0,0,2,0,3,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+aldar,Surrounded,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+amargvela,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,3,0,0,"greedy,math"
+ddragostinov,Vasya and the Bus,0,A,0,0,0,2,0,8,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ddragostinov,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ddragostinov,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ddragostinov,Non-Secret Cypher,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+ddragostinov,Counter Attack,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+sokian,Vasya and the Bus,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sokian,Surrounded,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+demolishka,Vasya and the Bus,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Astekinane,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,3,0,0,"greedy,math"
+Astekinane,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Astekinane,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+sazzad,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sazzad,Surrounded,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+sazzad,STL,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+sergiyko,Vasya and the Bus,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sergiyko,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+welly_91,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+welly_91,Surrounded,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+welly_91,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Akio,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Akio,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Isa_rentacs,Vasya and the Bus,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Isa_rentacs,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+FakeFake,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+FakeFake,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Lebesgue,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Lebesgue,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Lebesgue,Non-Secret Cypher,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+coderbd,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+coderbd,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+coderbd,STL,0,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dfs and similar
+catupper,Vasya and the Bus,1,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+catupper,Surrounded,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+budabudimir,Vasya and the Bus,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+budabudimir,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+budabudimir,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+budabudimir,STL,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+3141592653ly,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+3141592653ly,Non-Secret Cypher,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,two pointers
+aasimovic,Vasya and the Bus,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+aasimovic,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Hidden,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Hidden,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+TMandzu,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+TMandzu,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+TMandzu,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+insane,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+insane,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+insane,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+VNBZTY,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+VNBZTY,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+VNBZTY,Counter Attack,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+master_j,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+master_j,Surrounded,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+master_j,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+zerotrac,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zerotrac,Surrounded,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+zerotrac,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+MMJ,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+MMJ,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+charlie,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,"greedy,math"
+charlie,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+charlie,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+utkarsh,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+utkarsh,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+utkarsh,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+karamelka,Vasya and the Bus,0,A,0,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+karamelka,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+AlirezaN,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+AlirezaN,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+AlirezaN,STL,0,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,dfs and similar
+timurtibeyev,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+timurtibeyev,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+timurtibeyev,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+Blazer,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Blazer,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Blazer,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Empty,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Empty,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Empty,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Empty,Non-Secret Cypher,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,two pointers
+DenXX,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,"greedy,math"
+DenXX,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+DenXX,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+buaabella,Vasya and the Bus,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+buaabella,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+filo,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+filo,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+filo,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+crystal,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+brdassign,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+brdassign,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+brdassign,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+gskhirtladze,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gskhirtladze,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Yermak0v,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Yermak0v,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+hcretescu,Vasya and the Bus,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hcretescu,Surrounded,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+adnim,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+adnim,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+adnim,STL,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Diabolic,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Diabolic,Surrounded,1,B,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Alick,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Alick,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+I_Love_Ximera,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+I_Love_Ximera,Surrounded,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+I_Love_Ximera,STL,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+cplayer,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+cplayer,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+strelok1918,Surrounded,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+strelok1918,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+romanova,Vasya and the Bus,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+romanova,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+jasonchuzewei,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+jasonchuzewei,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+FarbodY,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+FarbodY,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+iustin,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+iustin,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+iustin,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+billy_scabilly,Vasya and the Bus,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+billy_scabilly,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+billy_scabilly,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+billy_scabilly,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Infoshoc,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Infoshoc,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Infoshoc,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+xJoK3Rx,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xJoK3Rx,Surrounded,0,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+xJoK3Rx,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+sailspark,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lynne,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lynne,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+lynne,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+OkazakiTomoya,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+OkazakiTomoya,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+OkazakiTomoya,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+OkazakiTomoya,Non-Secret Cypher,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+OkazakiTomoya,Counter Attack,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+pradeep_cdf,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pradeep_cdf,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+phantom11,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+phantom11,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+PetarV,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+PetarV,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+gjuro,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gjuro,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+gjuro,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+wind,Vasya and the Bus,0,A,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+wind,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Shaykhutdinov-T-I,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Shaykhutdinov-T-I,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+neo434,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zhouji2012,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zhouji2012,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+zhouji2012,Non-Secret Cypher,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+kuskova,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kuskova,Surrounded,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+winkzy,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+winkzy,Surrounded,0,B,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+sky1216,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+sky1216,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+AdilbekZh,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+AdilbekZh,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+XiaoDan,Vasya and the Bus,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,3,0,0,"greedy,math"
+XiaoDan,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+jlcastrillon,Vasya and the Bus,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+jlcastrillon,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+jlcastrillon,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+jlcastrillon,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+szeyiuchau,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+szeyiuchau,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+szeyiuchau,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+tyamgin,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tyamgin,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+tyamgin,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+tyamgin,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+tyamgin,Counter Attack,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+tatsuhiro.t,Vasya and the Bus,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tatsuhiro.t,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+tatsuhiro.t,STL,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+kb.,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kb.,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+XadillaX,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+XadillaX,STL,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+trunghieu11,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+trunghieu11,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Darkstalker,Vasya and the Bus,0,A,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+SSJJ,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+SSJJ,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+SSJJ,STL,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Misha100896,Vasya and the Bus,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+YYOne,Vasya and the Bus,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+YYOne,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+love2_LH,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+love2_LH,Surrounded,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+platinumthinker,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+platinumthinker,Surrounded,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+platinumthinker,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+sliverwxj,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sliverwxj,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+gridnevvvit,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,7,0,0,"greedy,math"
+viv001,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+viv001,Surrounded,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+viv001,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+yomean,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+yomean,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Milesian,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Milesian,Surrounded,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+Milesian,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Milesian,Non-Secret Cypher,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Milesian,Counter Attack,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+Andfive,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+Andfive,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Andfive,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+evgenii,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+evgenii,Surrounded,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,geometry
+evgenii,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Bill,Vasya and the Bus,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Bill,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Bill,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+kiking0501,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+kiking0501,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+linleo,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+urahara,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+urahara,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+urahara,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+urahara,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+eater,Vasya and the Bus,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+eater,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+eater,STL,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+fremn,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+fremn,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+andrevs,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+andrevs,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+darkl0rd,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+darkl0rd,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+darkl0rd,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+yanush,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yanush,Surrounded,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+yanush,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Gampr,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Gampr,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+mongolrgata,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mongolrgata,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+mongolrgata,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+mafia,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mafia,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+mafia,STL,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+cugb1004101218,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cugb1004101218,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+qnmlgb,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+qnmlgb,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+zuev93,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zuev93,Surrounded,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+zuev93,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+zuev93,Counter Attack,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+NeLeGaL,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+NeLeGaL,Surrounded,0,B,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+NeLeGaL,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Skiminok,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Skiminok,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Skiminok,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Eulerdora,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Eulerdora,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Eulerdora,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+3111006139,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+3111006139,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+gpac,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+gpac,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+abczz,Vasya and the Bus,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+abczz,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+tennisru,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tennisru,Surrounded,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+Sardor,Vasya and the Bus,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Sardor,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Sardor,STL,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Ch0W,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ch0W,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Ch0W,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+lxc,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+upoma,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zgmf_x42s,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zgmf_x42s,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+zgmf_x42s,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+vector9x,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vector9x,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+vector9x,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+vector9x,Non-Secret Cypher,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Eugen,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Eugen,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Eugen,STL,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+hexflashor,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hexflashor,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+sagar.topcoder,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sagar.topcoder,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Zhandos,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Zhandos,STL,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+LFLONG,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,4,0,0,"greedy,math"
+LFLONG,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+LFLONG,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+zead,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zead,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+magdi,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+magdi,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Spider-man,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+Spider-man,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Spider-man,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Spider-man,Non-Secret Cypher,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+rkrahul324,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+bohuss,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+bohuss,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+shtorm941,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+shtorm941,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+wil93,Vasya and the Bus,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+wil93,Surrounded,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+avriskin,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+avriskin,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+avriskin,Counter Attack,0,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+flash36,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+flash36,STL,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+duoxida,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,3,0,0,"greedy,math"
+duoxida,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+duoxida,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+andrew1024,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,4,0,0,"greedy,math"
+andrew1024,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+idivyanshu,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+idivyanshu,STL,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Scientist1642,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Scientist1642,Surrounded,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Blockadenick,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Blockadenick,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+otero1991,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+otero1991,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+otero1991,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+Poiuyluo,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Poiuyluo,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+mbaros,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mbaros,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+zd987,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zd987,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+wisterik,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+wisterik,STL,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+wisterik,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+zroom,Vasya and the Bus,0,A,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+zroom,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Ramp,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ramp,Surrounded,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ximo,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ximo,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ximo,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+piggy95,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+piggy95,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+lenohoo,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lenohoo,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+renisfan,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+renisfan,Surrounded,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+renisfan,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+lyon.lys,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lyon.lys,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+lyon.lys,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+adya,Surrounded,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+adya,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lucky_man,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lucky_man,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+cska63,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cska63,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+byte,Vasya and the Bus,0,A,0,0,0,2,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+byte,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+byte,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Upsilon,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Upsilon,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Upsilon,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Kipok,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+Kipok,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+K.CSE13,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+K.CSE13,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+K.CSE13,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+cxjyx_xme,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cxjyx_xme,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+cxjyx_xme,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+C.degree,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,"greedy,math"
+C.degree,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+rdik,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rdik,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ilona_kpr,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,3,0,0,"greedy,math"
+Georgievbg,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Georgievbg,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Georgievbg,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Artem533,Vasya and the Bus,0,A,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+minhao,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+minhao,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+minhao,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+minhao,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+ghnjk_2,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ghnjk_2,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+rg90,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+rg90,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+rg90,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Sokolov,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Toshik,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Toshik,Surrounded,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Toshik,STL,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dfs and similar
+Toshik,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+BIV,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dihimono,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dihimono,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+dihimono,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+DENDUKA,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+DENDUKA,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Manish-Kumar,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Manish-Kumar,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Manish-Kumar,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+sanjeev,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sanjeev,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+sanjeev,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+delta_4d,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+delta_4d,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Scau-Ly,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Scau-Ly,STL,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Scau-Ly,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+alpc104,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+alpc104,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+alpc104,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+alpc104,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+goooooooopan,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+goooooooopan,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+goooooooopan,STL,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+goooooooopan,Non-Secret Cypher,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+jfuentes,Vasya and the Bus,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+jfuentes,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+jfuentes,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+jfuentes,Counter Attack,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+obag,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+obag,Surrounded,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+obag,STL,1,C,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,dfs and similar
+srb,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+srb,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Jamik,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Jamik,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Jamik,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+rookie052,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rookie052,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+rookie052,STL,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+d891320478,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+d891320478,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+cont,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cont,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+smileking67,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+smileking67,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+KBakozoda,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+KBakozoda,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+snow_lotus,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+snow_lotus,Surrounded,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+S.David,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+S.David,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+SeyedParsa,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+SeyedParsa,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+SeyedParsa,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+1101,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+1101,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+savinov,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+savinov,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+savinov,STL,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+MrDindows,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+MrDindows,Surrounded,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+MrDindows,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Kokos,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+Kokos,STL,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+Kokos,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+ruban,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ruban,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Yan_KSTA,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Yan_KSTA,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+George.S,Vasya and the Bus,0,A,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+San_Sany4,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+San_Sany4,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+TheCamel,Vasya and the Bus,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+TheCamel,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+TheCamel,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+fuck_acm,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+fuck_acm,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+yiyezhiqiu,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yiyezhiqiu,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+yiyezhiqiu,STL,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+doxuanviet1996,Vasya and the Bus,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cchao,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cchao,Surrounded,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+cchao,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+nmacho,Vasya and the Bus,1,A,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nmacho,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+eggeek,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+eggeek,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+916852,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+916852,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+916852,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+touhou,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+touhou,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Cardi,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Cardi,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+kisses,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kisses,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+try_skycn,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+try_skycn,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+try_skycn,STL,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Bool,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Bool,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Bool,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Bool,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+hime,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hime,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+jack950703,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+jack950703,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+spentplaying,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+spentplaying,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+zhanyl,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zhanyl,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+zhanyl,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+hama-du,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hama-du,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+hama-du,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+hama-du,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+shnell,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+affix,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+affix,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+affix,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+affix,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Nina_Sidorova,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Nina_Sidorova,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+sagarchoudhury,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sagarchoudhury,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+cxlove,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cxlove,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ameydhar,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ameydhar,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+HEU_xueyan,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+HEU_xueyan,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ne210023,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ne210023,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ne210023,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+rubbaltherebel,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rubbaltherebel,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+bird5x,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bird5x,Surrounded,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+bird5x,STL,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+bird5x,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Valery,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Valery,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+yjxyjx,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yjxyjx,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+yjxyjx,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Daniyar_7,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Daniyar_7,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+linh810,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+linh810,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+handleisnotused,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+handleisnotused,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Nobik_Glem,Vasya and the Bus,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,4,0,0,"greedy,math"
+Nobik_Glem,Surrounded,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Reikon,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,3,0,0,"greedy,math"
+Reikon,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+huicpc0207,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+huicpc0207,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+huicpc0207,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+pius_88,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+pius_88,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+gorbunov,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gorbunov,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+gorbunov,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+kyrieleith,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kyrieleith,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+xiaocairush,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xiaocairush,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+PeterGriffin,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,"greedy,math"
+PeterGriffin,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,geometry
+Bistrigova_Anastasiya,Surrounded,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,geometry
+Bistrigova_Anastasiya,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Bistrigova_Anastasiya,STL,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+johnathan79717,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+johnathan79717,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+johnathan79717,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+hurry.,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hurry.,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Samsara,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Samsara,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Lakers,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Lakers,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+HusKy,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+HusKy,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Slovinsky,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Slovinsky,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+shayesteh.hamid,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+shayesteh.hamid,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+dudechandan,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,"greedy,math"
+shax,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+shax,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+shax,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+kenrick95,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kenrick95,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+marque,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+xie,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xie,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+longjianbiao,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+longjianbiao,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+fxu,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+fxu,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+fxu,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+1106100116,Vasya and the Bus,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+1106100116,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Jvevermore,Vasya and the Bus,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+like,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+like,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+like,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Mishutka2011,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Mishutka2011,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Respect2D,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ravelo1991,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ravelo1991,STL,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ravelo1991,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ymondelo20,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ymondelo20,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+ymondelo20,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+__math,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+__math,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+__math,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+__math,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+nav_krh,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nav_krh,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+nav_krh,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dfs and similar
+N-canTER,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,4,0,0,"greedy,math"
+rofi,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rofi,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+rofi,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Life_is_good,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+Life_is_good,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+zhbb1228,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zhbb1228,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+zhuraulevich,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zhuraulevich,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Averon,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Averon,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+beats_of_music,Vasya and the Bus,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+beats_of_music,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+FameofLight,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+FameofLight,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+FameofLight,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+qqz003,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+qqz003,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+qqz003,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+qqz003,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+trungda,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+trungda,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+trungda,STL,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+techxacm,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tpkey,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tpkey,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+tpkey,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+minizfx,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+minizfx,STL,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+minizfx,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+minizfx,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+miketcyue,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+miketcyue,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+miketcyue,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+miketcyue,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+mr.ky,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mr.ky,Surrounded,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+mr.ky,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+72VanVector_SevNTU,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+72VanVector_SevNTU,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+72VanVector_SevNTU,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+nlazouski,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nlazouski,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+hithere,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hithere,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+hithere,STL,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+hithere,Non-Secret Cypher,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,two pointers
+zhangjian,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zhangjian,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+jetis,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+jetis,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+dohteM,Vasya and the Bus,0,A,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dohteM,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+QuantumMechanicus,Vasya and the Bus,1,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+QuantumMechanicus,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+hard_ac,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hard_ac,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+hard_ac,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+5mds,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+5mds,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+haxxpop,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+haxxpop,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+haxxpop,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+LJ1043041006,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+LJ1043041006,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+LJ1043041006,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+bora_marian,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bora_marian,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+PotapovAlex,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+4nddr3,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+psyclaudeZ,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+psyclaudeZ,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+psyclaudeZ,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Tokiru,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Nathan,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Nathan,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+330459659,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+I_Moo,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+I_Moo,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+hupmscy,Vasya and the Bus,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hupmscy,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+SyFy,Surrounded,0,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,geometry
+johar,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+longbiau,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+longbiau,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+longbiau,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+Kaga2,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+Kaga2,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Kaga2,STL,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+sharpie,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+WHITE2302,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+WHITE2302,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+andrey_glebov,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+andrey_glebov,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Miras321,Vasya and the Bus,0,A,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Miras321,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Miras321,Counter Attack,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+TarifEzaz,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+TarifEzaz,Surrounded,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+xiaoshua3,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xiaoshua3,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+xiaoshua3,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+xiaoshua3,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+WakingBoy,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+WakingBoy,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+SharpBlade,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+SharpBlade,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+SharpBlade,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+fayyaz,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+fayyaz,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Chang.Mei,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ralf,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Predimonio,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+Predimonio,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+mayank.punetha,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mayank.punetha,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+csurfer,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,"greedy,math"
+csurfer,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+czz,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,7,0,0,"greedy,math"
+czz,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+czz,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+ediston,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ediston,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ediston,Counter Attack,0,E,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+lysine,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lysine,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+lysine,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+lysine,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+RezaSi,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+RezaSi,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+luckyi,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+luckyi,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+luckyi,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+luckyi,STL,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+luckyi,Counter Attack,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+Diman_yoyo,Vasya and the Bus,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Diman_yoyo,STL,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Diman_yoyo,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+natsugiri,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+natsugiri,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+natsugiri,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+natsugiri,Non-Secret Cypher,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+sss2391267,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sss2391267,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+john_bug,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+john_bug,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+citxx,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+citxx,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+citxx,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+citxx,Counter Attack,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+yin_ch,Surrounded,0,B,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+yin_ch,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+wangxiao1254,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+wangxiao1254,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ymwm,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+ymwm,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+lkjslkjdlk,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+PaHaK,Vasya and the Bus,0,A,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+PaHaK,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+at.usual,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+delta,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+delta,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+fullsimplify,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+fullsimplify,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+verytable,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+verytable,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Estraaanged,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+Estraaanged,Surrounded,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+s.gutierrez,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+s.gutierrez,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+s.gutierrez,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+Yukar,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,"greedy,math"
+Nikolo.frost,Vasya and the Bus,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Cobalt,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Cobalt,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+qvazar,Vasya and the Bus,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+0x1337,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+0x1337,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+0x1337,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+AmirAli,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+IvanShafran,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+IdleMind,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+IdleMind,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Shafaet,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+chen,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+OVR,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+OVR,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+OVR,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+OVR,Non-Secret Cypher,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+jainor,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+jainor,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+cc272309126,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+qidiot,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+qidiot,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Shuaib,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Shuaib,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+hetong007,Vasya and the Bus,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hetong007,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+rahulsingal14,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rahulsingal14,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+_jte_,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+_jte_,Surrounded,0,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+_jte_,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+_jte_,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+zjqilu,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zjqilu,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+kolya37,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kolya37,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Hellis,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Hellis,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Icemanack,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+Icemanack,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ilnur.shug,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ilnur.shug,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Alexandr_TS,Vasya and the Bus,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Alexp239,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Alexp239,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+hellocbjj,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hellocbjj,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+baqargam,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+baqargam,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+neo0057,Vasya and the Bus,0,A,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+neo0057,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+rayafjyblue,Vasya and the Bus,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"greedy,math"
+rayafjyblue,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Aman.m.95,Vasya and the Bus,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Aman.m.95,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Aman.m.95,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+DanteoO,Vasya and the Bus,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+DanteoO,Surrounded,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+hota911,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hota911,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+hota911,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+radix.ru,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+radix.ru,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+silver__bullet,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+silver__bullet,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+qu_hidayet,Vasya and the Bus,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+qu_hidayet,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+lhm,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lhm,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+lijunle,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lijunle,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+lijunle,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+lijunle,Non-Secret Cypher,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Baskape,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Baskape,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+heike520,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+heike520,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+heike520,STL,0,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dfs and similar
+hangweiqiang,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hangweiqiang,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+hangweiqiang,STL,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+binh95,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+merdan,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+merdan,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+merdan,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+lightning,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+chuxing0119,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+chuxing0119,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+drahton,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+drahton,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Besidnuk,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Besidnuk,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Besidnuk,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+nebokaknebo,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nebokaknebo,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+nebokaknebo,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+RAINBOW123,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+RAINBOW123,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+RAINBOW123,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+justpractice,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+justpractice,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+justpractice,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+justpractice,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+con_nha_ngheo,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+con_nha_ngheo,Surrounded,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+con_nha_ngheo,STL,0,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dfs and similar
+con_nha_ngheo,Non-Secret Cypher,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+con_nha_ngheo,Counter Attack,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+yueqiq,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yueqiq,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+eizhen,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+asaran,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+djychum,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+djychum,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+unrated,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+unrated,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+unrated,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+chris,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+chris,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+wdydyb,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+wdydyb,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+X__X,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+X__X,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+troyodk,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+andres3,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+andres3,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+andres3,STL,0,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dfs and similar
+ecv,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ecv,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+ecv,Counter Attack,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+flp_102,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,"greedy,math"
+flp_102,Surrounded,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+farisv,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+farisv,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Shining,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Shining,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Shining,STL,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+kira,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+kira,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+chanming,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+marcalla,Vasya and the Bus,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+marcalla,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+marcalla,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+jaric,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+jaric,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+jaric,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ruslan_thakohov,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,"greedy,math"
+562908590,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+562908590,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+562908590,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+wyffaddy,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+wyffaddy,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+FengqianLi,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+FengqianLi,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+fata2ex,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+fata2ex,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+fata2ex,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+lesha_creator,Vasya and the Bus,1,A,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lesha_creator,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+lesha_creator,STL,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+removeit,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+removeit,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+332697234,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+332697234,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+hung06061995,Vasya and the Bus,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hung06061995,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+hung06061995,STL,0,C,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+Gowill_Yellow,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Gowill_Yellow,Surrounded,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Gowill_Yellow,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Gowill_Yellow,Non-Secret Cypher,1,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Gowill_Yellow,Counter Attack,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+dimka,Vasya and the Bus,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+dimka,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+dimka,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+zeulb,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zeulb,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+zeulb,STL,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+sora,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sora,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+chaos_king,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+chaos_king,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+chaos_king,Non-Secret Cypher,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+trash,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+trash,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+trash,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+vkg,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+vkg,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Thomas_94,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Thomas_94,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+slavik990,Vasya and the Bus,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,4,0,0,"greedy,math"
+slavik990,STL,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+mykasperwing,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vctzhao1010,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,"greedy,math"
+vctzhao1010,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+vctzhao1010,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+hnu_0913_zsl,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hnu_0913_zsl,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+faisalbaazigar,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+faisalbaazigar,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+faisalbaazigar,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+faisalbaazigar,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Folery,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Folery,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Nomad,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Nomad,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+trickShuffle,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+trickShuffle,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+trickShuffle,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ycid,Vasya and the Bus,0,A,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ycid,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ycid,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ycid,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+razvan.popa2010,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+iksuy,Vasya and the Bus,0,A,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+iksuy,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+iksuy,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+T0RRES,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+T0RRES,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+shakandrew,Vasya and the Bus,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Onlylonely,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Onlylonely,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Onlylonely,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+AlienForce,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zlhsmfj,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Simeon,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+neha1241,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+neha1241,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+kiana,Vasya and the Bus,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kiana,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+BaJIuK,Vasya and the Bus,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+BaJIuK,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+goagain,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+goagain,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+goagain,STL,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ptnk8554517,Vasya and the Bus,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bluemao,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bluemao,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+zyt,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zyt,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+zyt,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+csuchenan,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hogeover30,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+balajinix,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+balajinix,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+balajinix,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+lth,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pine,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pine,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+dileep123456789,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dileep123456789,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+gmtranthanhtu,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,"greedy,math"
+gmtranthanhtu,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Roma_Balabko,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Roma_Balabko,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+vanogam,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vanogam,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Anastasia,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ivancastel,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ivancastel,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+dmitry.s,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dmitry.s,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+dmitry.s,Counter Attack,0,E,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+individum,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+individum,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+shinshin0811,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+shinshin0811,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+shinshin0811,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+minute,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+minute,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+minute,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Aice,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Aice,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ravingeek,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+loying,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+afix,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+afix,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+afix,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+squarefk,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+squarefk,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+squarefk,STL,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+zyz,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zyz,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+MDantas,Vasya and the Bus,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+MDantas,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+MDantas,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Vratika,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Vratika,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+mohs3n71,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mohs3n71,STL,0,C,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+mohs3n71,Counter Attack,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+mohs3n71,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ndduy1995,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ndduy1995,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+gestapolur,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gestapolur,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Sunits789,Vasya and the Bus,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Sunits789,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Sunits789,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Nigga,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+raza,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+raza,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+code_man,Vasya and the Bus,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+code_man,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+victor.juquila,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xenophobia,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+xenophobia,Surrounded,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+xenophobia,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Taras_Savitskiy,Vasya and the Bus,1,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,3,0,0,"greedy,math"
+Taras_Savitskiy,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Taras_Savitskiy,Non-Secret Cypher,0,D,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,two pointers
+Taras_Savitskiy,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+xDEMONx,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+nitin.gangahar,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Tamanna_24,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Tamanna_24,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+nocLyt,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nocLyt,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+nocLyt,STL,0,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dfs and similar
+ArK,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ArK,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ArK,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+leakingtapan,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+leakingtapan,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+dinhha,Vasya and the Bus,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+delgoog,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+delgoog,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+marut,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+marut,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+marut,STL,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+becauseofyou,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+becauseofyou,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+becauseofyou,STL,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+kodosov,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kodosov,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+yangzongshuai,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yangzongshuai,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+beyondxgb,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+1106100214,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+1106100214,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+wolf1000,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+wolf1000,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+sami001,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sami001,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+htrinh,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+htrinh,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+htrinh,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+645688540,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+645688540,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ov3r1ord,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+usg,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+usg,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+usg,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+koloniss,Vasya and the Bus,0,A,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+koloniss,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+koloniss,Surrounded,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+temerario,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+temerario,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+tardosmors,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+tardosmors,STL,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+tardosmors,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+uestc_zhongchao,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+uestc_zhongchao,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Andrekk,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Andrekk,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+thinh2601,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+thinh2601,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+llaki,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+llaki,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+xtu_hrq,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xtu_hrq,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+xtu_hrq,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+mukt,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mukt,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+mukt,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+rglv,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rglv,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+rglv,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Farsid,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Farsid,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+4ybakut2004,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+manonmission,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+manonmission,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+manonmission,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+rem_digga,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rem_digga,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+rem_digga,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+Bat-man,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Bat-man,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Bat-man,Counter Attack,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+cdump,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cdump,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+cdump,STL,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+alexandre,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,"greedy,math"
+Belbesy,Vasya and the Bus,0,A,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Belbesy,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Belbesy,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+yangff,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yangff,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+siddharth_l,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+siddharth_l,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+endrilian,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+endrilian,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Midav7,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Midav7,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+kamentk,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kamentk,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ardatt1155,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ardatt1155,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+alp-arslan,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+alp-arslan,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+MMS,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ViktorM,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ortiga,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ortiga,STL,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+kshitij,Vasya and the Bus,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+littleturtle,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+littleturtle,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+eng.arsany.hany,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+andheroe,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+andheroe,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+zigzag,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zigzag,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+alexandee,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+alexandee,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+greenhope,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+greenhope,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+sbasrik,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sbasrik,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+sbasrik,STL,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+4erneff,Vasya and the Bus,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+choro3,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+choro3,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+choro3,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+fuzzz3r,Vasya and the Bus,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+fuzzz3r,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+fuzzz3r,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+gbr,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+gbr,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+tmiyamon,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tmiyamon,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+tmiyamon,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+zlc,Surrounded,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+zlc,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zlc,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+icekitten,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Aterk,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Yu2012,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Yu2012,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+z451538473,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+z451538473,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Airarts,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Airarts,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+xtu_zxd,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xtu_zxd,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+niklasb,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"greedy,math"
+niklasb,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+niklasb,STL,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+gollu,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Terds,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Terds,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+shantanushanto,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+shantanushanto,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ShuanDao,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ShuanDao,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+lonely_heart888,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lonely_heart888,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+sleipnir_m,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+darknstd,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vorushin,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vorushin,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+vorushin,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+vorushin,Non-Secret Cypher,0,D,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,two pointers
+sunzuhan,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sunzuhan,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+sunzuhan,Counter Attack,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+.PEIN.,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Eugene,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Eugene,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Eugene,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+cgangee,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cgangee,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+201024450128,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ajneo57,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sasharon74,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sasharon74,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+raedselim,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+raedselim,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+raedselim,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+lovegleek,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+plamenchooo,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ash_veda,Vasya and the Bus,0,A,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+negi_magnet,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+negi_magnet,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+negi_magnet,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+viper,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Attitude,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Attitude,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Iamanorange,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Iamanorange,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Iamanorange,STL,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+lastassassin,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lastassassin,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+PAG,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+PAG,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+PAG,Counter Attack,1,E,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+turkmen,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+turkmen,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+lyopen,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lyopen,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+khairy,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+calc,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+calc,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+wyzmn3402,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+wyzmn3402,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+zybaibai,Vasya and the Bus,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xiaocai,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xiaocai,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+xiaocai,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+xiaocai,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+aHsirG,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+aHsirG,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+aHsirG,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+simplest_coder,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+simplest_coder,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+simplest_coder,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+simplest_coder,Non-Secret Cypher,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,two pointers
+andres.escobar,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+andres.escobar,Surrounded,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+homje,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+homje,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+brain_stormer,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+brain_stormer,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+brain_stormer,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+Maksim_Kleschev,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Maksim_Kleschev,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ye7ia,Vasya and the Bus,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ye7ia,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ye7ia,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+carlos.guia,STL,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+carlos.guia,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+carlos.guia,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+carlos.guia,Non-Secret Cypher,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,two pointers
+carlos.guia,Counter Attack,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+Alisafe,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Alisafe,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Xdp,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cojna,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+cojna,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+sergio10barca,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sergio10barca,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+sergio10barca,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+expand,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+expand,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+expand,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+lashabuxo,Vasya and the Bus,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lashabuxo,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+tommy5198,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Denis_Minchuk,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Denis_Minchuk,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+abacadaea,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+abacadaea,STL,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+abacadaea,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+abacadaea,Non-Secret Cypher,0,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+abacadaea,Counter Attack,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+ccdd4211,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ccdd4211,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+nalo,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+nalo,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+nalo,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+MarieL21,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+MarieL21,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Eilen,Vasya and the Bus,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Eilen,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+alquarizm,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+alquarizm,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+mingotlik,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mingotlik,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+mingotlik,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+agnitish11,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+msyrus,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+msyrus,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+msyrus,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+venkat,Vasya and the Bus,0,A,0,0,0,1,2,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nhap96,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nhap96,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+ankit.g1290,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ankit.g1290,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Rins,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Rins,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+happyting,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+happyting,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+robodobo,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+robodobo,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ErfanDK,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ErfanDK,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ErfanDK,Non-Secret Cypher,0,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+monkeyde17,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Chekanin,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Chekanin,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+aditigupta2012,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+aditigupta2012,Surrounded,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+taranov.vv,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+taranov.vv,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+taranov.vv,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+GavrilaZ,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+GavrilaZ,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+GavrilaZ,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+SavchukAM,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+SavchukAM,Surrounded,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+SavchukAM,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+andreidumitru,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+andreidumitru,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+alex_or,Vasya and the Bus,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+alibek_1,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+alibek_1,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+zyz913614263,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zyz913614263,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+vect0r,Vasya and the Bus,0,A,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hlwt,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hlwt,Surrounded,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Anton_Chernev,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Anton_Chernev,Surrounded,0,B,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+bytybai,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ikea0064,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ikea0064,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+dias_jonbek,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+AnastasySt,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+AnastasySt,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+najim4689,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+najim4689,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+shuixianhua,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+shuixianhua,Surrounded,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+akjana35,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dada777,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+red_coder,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+red_coder,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+randomusername,Vasya and the Bus,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,3,0,0,"greedy,math"
+randomusername,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+deinier,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+deinier,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+anshumang,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ming,Vasya and the Bus,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ming,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+HEU_xiuyang,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+HEU_xiuyang,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+lone_wolf,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+lone_wolf,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+lone_wolf,STL,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+hduong,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hduong,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+DoctorLai,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+DoctorLai,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+DoctorLai,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Wolong,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Wolong,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Wolong,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Wolong,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+yu-huh,Surrounded,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+yu-huh,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ARIFIN,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Pingvi,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dims1998,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hbsciw,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mischievous_me,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+fendy_k1,Vasya and the Bus,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sylap97,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sylap97,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+sylap97,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Ahmedov,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+Ahmedov,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Ahmedov,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+dacainiao,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dacainiao,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+laing20ooo,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+laing20ooo,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+edem.kwadzo,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ozi,Vasya and the Bus,0,A,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Ozi,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Ozi,STL,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+shaylakash,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+shaylakash,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+npenate,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,"greedy,math"
+npenate,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+detroit,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+detroit,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+_minato,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+darksta5,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+darksta5,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+darksta5,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ald,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ald,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ald,STL,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Tariqul,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Tariqul,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+aosuka,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+emil,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bookofsky,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bookofsky,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+hoalongntc,Surrounded,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,geometry
+hoalongntc,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hoalongntc,STL,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+mm1310,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+mm1310,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+boba,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+boba,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+boba,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+MOZGOLOM,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+MOZGOLOM,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+anhaabc,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+anhaabc,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Giorgos_Christoglou,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+__Joker,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+__Joker,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+__Joker,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+DLK,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dcp,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dcp,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+dcp,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+night10101,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+night10101,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+night10101,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+happy,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+happy,Surrounded,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Nininene,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yuta1024,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yuta1024,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+yuta1024,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+mukulgupta,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Jeron,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Jeron,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+zBAlN17,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dq04,Vasya and the Bus,0,A,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dq04,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+mapleinsummer,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+LJF,Vasya and the Bus,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+abdukodir,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+abdukodir,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+abdukodir,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+thefourtheye,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vietnam,Vasya and the Bus,0,A,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vietnam,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Omelyanenko,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Omelyanenko,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Xerxes,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kurs,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kurs,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+apostasy,Vasya and the Bus,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+apostasy,Surrounded,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+aminunisbu,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+aminunisbu,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+tselofan,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tselofan,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+HarDToBelieve,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+HarDToBelieve,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Totktonada,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Totktonada,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Totktonada,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Totktonada,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+nerve,Surrounded,0,B,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+nerve,Vasya and the Bus,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+TNLong,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+TNLong,Surrounded,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+romario,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+romario,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+romario,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+pc1ang,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pc1ang,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+golden_lion,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+golden_lion,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+hungar,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hungar,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+iga-c,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+hnuzengchao,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bcloud7,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bcloud7,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+bcloud7,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+bcloud7,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+bcloud7,Counter Attack,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+SNOWSHINE,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hemphries,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hemphries,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+hemphries,STL,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+fail0r,Vasya and the Bus,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sinar,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sinar,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Yagami.Laight,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zlbing,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+konok106,Vasya and the Bus,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+konok106,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+konok106,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+svic,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+Znarf,Vasya and the Bus,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Znarf,Surrounded,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+ann_hmt,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ann_hmt,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ann_hmt,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+PTNK13091996,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+DarkCore,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+oldoldspice,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+oldoldspice,Surrounded,0,B,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+supercooluku,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+supercooluku,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Kostyazz,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Kostyazz,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Kostyazz,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+Gantushig,Vasya and the Bus,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Gantushig,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+yasser_adel,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+soundsdx,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+soundsdx,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+soundsdx,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+FlaminRage,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+FlaminRage,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Farmer,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ricky920,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ricky920,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ricky920,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+NoobOK,Vasya and the Bus,0,A,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xsd,STL,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dfs and similar
+xsd,Non-Secret Cypher,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+xsd,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+xsd,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Antoniuk,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Antoniuk,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Antoniuk,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ujjwal.invent,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ujjwal.invent,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+chaow,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+chaow,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+maratmiki,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+SAHD,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+SAHD,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+azumarill,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+137542539,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+137542539,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+mag_rus,Vasya and the Bus,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+SuhanovPavel,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+SuhanovPavel,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+tieusongngu,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+pirate,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+pirate,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+N0D1R,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+N0D1R,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+dowlet,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dowlet,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+kayrat,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+chenjun0704,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+chenjun0704,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+chenjun0704,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+ershad,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+ershad,Surrounded,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Corecoder_herowei,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Corecoder_herowei,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Corecoder_herowei,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Corecoder_herowei,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+glapul,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+glapul,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+glapul,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+NGiUp,STL,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+NGiUp,Vasya and the Bus,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+NGiUp,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+NGiUp,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+team_A,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+team_A,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+rekbun,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kk_,Surrounded,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+zhao_20111219,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zhao_20111219,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ConLonCon,Vasya and the Bus,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ConLonCon,STL,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ConLonCon,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ConLonCon,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+makrusak,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+makrusak,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+hctannus,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hctannus,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+hctannus,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dfs and similar
+wenbin,Vasya and the Bus,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+wenbin,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ImMrFox,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,"greedy,math"
+index,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+index,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+vinaybajaj2610,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vinaybajaj2610,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+BoomBaster,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+fraiyan5021,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+fraiyan5021,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+motsiconi,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+motsiconi,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+hamed053,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+water,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+torus711,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+torus711,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+torus711,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+sha-grisha,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+MStetsenko,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+blacktail,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+blacktail,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+aumy,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+aumy,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+aumy,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+bilbo1,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bilbo1,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+hydralisk,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+KuZ,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+KuZ,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+evgenyk,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+evgenyk,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+chavo,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+chavo,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+chavo,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+AKim,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+AKim,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+AKim,Counter Attack,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs,hashing,sortings"
+AKim,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+z1p0,Surrounded,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+z1p0,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+KillerB,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+KillerB,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+KillerB,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Stratonov,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ashi009,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ashi009,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ashi009,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dfs and similar
+ashi009,Non-Secret Cypher,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+scier,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+Opu,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Opu,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+kungfu_panda,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+BatusaiX,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+BatusaiX,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+vamsee,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vamsee,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+vamsee,STL,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+alexly25,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+alexly25,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+choke,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+choke,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+choke,STL,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+jonyrock,Vasya and the Bus,0,A,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+jonyrock,Surrounded,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+drbitboy,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+drbitboy,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+drbitboy,Vasya and the Bus,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+drbitboy,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Kolbas,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Sosi,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Sosi,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Sosi,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+vlade087,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vlade087,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+taka_taka,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+taka_taka,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+abd.yerzhan,Vasya and the Bus,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+abd.yerzhan,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+abd.yerzhan,STL,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+thuat26.ng,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Suncelesta,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Suncelesta,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Suncelesta,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+tobeornottobe,Surrounded,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+ZOTAC89,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ZOTAC89,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+hhddff,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hhddff,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+shuhrat1998s,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Light_Yagami,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Light_Yagami,STL,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+myzone,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+myzone,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+huangab,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+zailushang,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,math"
+yc0576,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vducthinh310,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kk91,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kk91,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+dJ_S,Vasya and the Bus,0,A,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"greedy,math"
+dJ_S,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+lvdo92,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lvdo92,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+xalilov,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cchun,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+NiVeR,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+NiVeR,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+pingvinus,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pingvinus,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+alex314,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+alex314,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ganzhiruyi,Vasya and the Bus,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ganzhiruyi,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+HeviDimka,Vasya and the Bus,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+HeviDimka,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+zzxchavo,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+agrigoroi,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+agrigoroi,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+0Silencer,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+0Silencer,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+splinterC3LL,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+splinterC3LL,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Vot1_Bear,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Vot1_Bear,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Vot1_Bear,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Vot1_Bear,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+nickit.yakimovi4,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nickit.yakimovi4,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Zeus1997,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Zeus1997,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+yzernik,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yzernik,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+yzernik,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Zhestkov,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Zhestkov,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+m.elsaka,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+m.elsaka,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+xtu_hana,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+choopan,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+choopan,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+choopan,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+kevinswat,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kevinswat,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+kevinswat,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+nurbol,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nurbol,STL,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+nurbol,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+F1LL,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+F1LL,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Nusratbek,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Nusratbek,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+yalonikopp,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yalonikopp,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Sanin_Jiraya,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+yzlrex,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mohamed.mostafa,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mohamed.mostafa,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+gon4arov.iw,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lyon,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+lyon,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+streetfi8er,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+igorbe,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+TooManySecrets,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+TooManySecrets,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+neuron.spike,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+neuron.spike,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+bellum,Vasya and the Bus,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bellum,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+bellum,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+sergei.voroncov,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sergei.voroncov,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+CKBOP,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nikunj165,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Guliash,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Guliash,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+xth1,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xth1,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+xth1,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Sane,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Sane,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Sane,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+LeTienHanh,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+LeTienHanh,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+LeTienHanh,STL,0,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Twice,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Twice,Surrounded,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+gogogo,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hcs,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+-101-,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+-101-,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+utpal_kuet,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xtu_0504,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xtu_0504,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+k.raghav,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+k.raghav,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+theunforgiven,Vasya and the Bus,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+theunforgiven,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+mr.tropez,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mr.tropez,Surrounded,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+mr.tropez,STL,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ARron,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ARron,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+hamlet_fiis,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+hamlet_fiis,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+hamlet_fiis,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+DDwell,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+jovanna,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+jovanna,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+korsakov.vlad,Vasya and the Bus,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+korsakov.vlad,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Felix_F,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+shiamplus,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+shiamplus,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Wahba,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Wahba,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+san_104,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+san_104,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+angel_beats,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+angel_beats,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+774550615,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+YoungCoder,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+YoungCoder,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+FJYsmall,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nimm,Vasya and the Bus,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nimm,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+KillJoy,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+KillJoy,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+dianbei,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+dianbei,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+dianbei,STL,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+munchor,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Novl,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Novl,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Mr.RgreeN,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tgnghi,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tgnghi,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+xo7,STL,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+maimil,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+citycan_1991,Vasya and the Bus,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Tuvshinbat,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Boxer,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Boxer,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+VasiliyTheCat,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+VasiliyTheCat,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+bahhha.y,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xcoder1,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xcoder1,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ayakut,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ChingYunH,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ChingYunH,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ChingYunH,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+ty70,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ty70,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ty70,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+avalizada,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+fortunado,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+fortunado,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+fortunado,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+Pira,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Pira,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+hieu_96,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+SSSR,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+SSSR,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+NeXT,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+NeXT,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+NeXT,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+shailu,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+shailu,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+coder_1340,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+coder_1340,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+KungA,Non-Secret Cypher,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+KungA,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+KungA,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kartib,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+avngr,Vasya and the Bus,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+andresilva91,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+andresilva91,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Himadri,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Himadri,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+speedcoder,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+speedcoder,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Erfan.aa,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Erfan.aa,Surrounded,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+tryitn1,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+tryitn1,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+dkhaburdzania,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+amanankur,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+amanankur,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+crystal-intel,Vasya and the Bus,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+crystal-intel,Surrounded,0,B,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Najmuzzaman,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Najmuzzaman,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+nikalosaberidze,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+nikalosaberidze,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+a9393j,Vasya and the Bus,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+a9393j,Surrounded,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Firuz,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Firuz,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+snehagupta,Vasya and the Bus,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+snehagupta,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+vickonovianto,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+d_20,Vasya and the Bus,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"greedy,math"
+d_20,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+cxplorer,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+barabolkin,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+aalizzwell,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+aalizzwell,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+landscape95,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+landscape95,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+landscape95,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+stanislav1,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cxjyxx_me,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cxjyxx_me,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+cxjyxx_me,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+suhayli_hkl,Vasya and the Bus,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+suhayli_hkl,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+mf_101,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+mf_101,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rishabhaga,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+zhengjj.asd,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ravio,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mpd,Surrounded,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+mpd,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mpd,STL,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+ilnurik,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+ilnurik,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+TryOnce,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+TryOnce,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+whbm,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+neuer-geist,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+neuer-geist,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+User30000,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+User30000,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Sansan_21,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+f1x3rffx,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+f1x3rffx,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+heba_gamal,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+heba_gamal,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+kp25,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+baurzhan988,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mr.Brazz,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mr.Brazz,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+mrrana,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mrrana,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+stould,Vasya and the Bus,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+stould,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+iman_MC,Vasya and the Bus,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+iman_MC,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+keep.deep,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+keep.deep,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Dimalish,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Dimalish,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+naduxa,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+naduxa,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Monmoy,Non-Secret Cypher,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Monmoy,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+xelbox,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+xelbox,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+EHMXCE,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+EHMXCE,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+eros902002,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+eros902002,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+oatawa1,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+oatawa1,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+oatawa1,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+mohitmahawar007,Vasya and the Bus,0,A,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mrunique.01,STL,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+mrunique.01,Non-Secret Cypher,0,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+gamezovladislav,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+gamezovladislav,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+_RMA_,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+_RMA_,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+cq_point,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+cq_point,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+aajjbb,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+aajjbb,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+palashbnsl,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+palashbnsl,Surrounded,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+undefined_thimpu,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+undefined_thimpu,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+MehrdadAP,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+minhtien_142,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+minhtien_142,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+minhtien_142,Non-Secret Cypher,0,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+bahar,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bahar,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+leminhthong,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+iAndThen,Vasya and the Bus,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+iAndThen,Surrounded,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+vict0r,Vasya and the Bus,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+vict0r,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+haijide,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+haijide,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+haijide,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+pchvirov,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+pchvirov,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+GauravRai,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+GauravRai,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Red_riding_hood,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Red_riding_hood,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+einstein010,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+an_na,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+an_na,Surrounded,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+jordan23,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+qwerty2,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Skady,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Skady,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+sr_k,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+toha1806,Vasya and the Bus,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+toha1806,Surrounded,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+greedee,Non-Secret Cypher,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,two pointers
+greedee,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+greedee,Surrounded,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+MIT_1996,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+MIT_1996,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rakibul,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Srijan,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+__crazy__fire,Vasya and the Bus,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+__crazy__fire,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+gtkesh,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+bonami,Vasya and the Bus,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+akshitpoddar,Vasya and the Bus,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+monkeybrain,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+e.v.mineev,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+e.v.mineev,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+RAF,Non-Secret Cypher,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,two pointers
+Paradise,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+1115332213,Vasya and the Bus,0,A,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+mukku,STL,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+daszc,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+konok,STL,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dfs and similar
+anuj.bhambhani,STL,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dfs and similar
+proton,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+rais.fathin38,Vasya and the Bus,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+kludge,Surrounded,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+vineetonrole,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+sandbad,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"
+Fakeerfaquir,Vasya and the Bus,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,math"

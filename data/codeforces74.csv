@@ -1,0 +1,1801 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+Ignorance,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ignorance,Train,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Eledven,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eledven,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Eledven,Hanger,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+vepifanov,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vepifanov,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,games,greedy"
+vepifanov,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+vepifanov,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Fdg,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fdg,Train,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Fdg,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+tourist,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tourist,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+tourist,Shift It!,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+tourist,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+tourist,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+ballon,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ballon,Train,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Egor,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Egor,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Egor,Hanger,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Egor,Chessboard Billiard,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Coder,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Coder,Train,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Coder,Hanger,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+Coder,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+volkhin,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+volkhin,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"dp,games,greedy"
+volkhin,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+dj3500,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dj3500,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+dj3500,Hanger,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+dj3500,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Jughead,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+Jughead,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+juver,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+juver,Train,1,B,1,0,0,0,0,8,0,0,0,0,0,0,0,0,1,0,0,"dp,games,greedy"
+package.zaic,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+package.zaic,Train,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+package.zaic,Chessboard Billiard,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+cerealguy,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cerealguy,Train,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,games,greedy"
+cerealguy,Chessboard Billiard,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+cerealguy,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+shevchen,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shevchen,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+shevchen,Chessboard Billiard,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+smilitude,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+smilitude,Train,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+KADR,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KADR,Train,0,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+KADR,Hanger,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+KADR,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+daizhenyang,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+daizhenyang,Train,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+daizhenyang,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+mmaxio,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mmaxio,Train,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+mmaxio,Chessboard Billiard,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Romka,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Romka,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Romka,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Romka,Shift It!,1,E,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Abra,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Abra,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,"dp,games,greedy"
+SergeyRogulenko,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SergeyRogulenko,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+SergeyRogulenko,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+SergeyRogulenko,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Shik,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shik,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Shik,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Shik,Hanger,1,D,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+pt1989,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wrong,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wrong,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+wrong,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+romanandreev,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+romanandreev,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+romanandreev,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+romanandreev,Hanger,1,D,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,data structures
+Sereja,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sereja,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Sereja,Chessboard Billiard,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Artishok,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Artishok,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Artishok,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Artishok,Hanger,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+dolphinigle,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dolphinigle,Train,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+dolphinigle,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+dolphinigle,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+fushar,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fushar,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+fushar,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dsu,graphs,number theory"
+uwi,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+uwi,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+uwi,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+uwi,Hanger,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+witua,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+witua,Train,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+hydrastuff,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hydrastuff,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+hydrastuff,Chessboard Billiard,1,C,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+venkateshb,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+venkateshb,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+venkateshb,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+blazerer,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+blazerer,Train,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+maksay,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+maksay,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+maksay,Hanger,0,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+maksay,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+adavydow,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+adavydow,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,games,greedy"
+adavydow,Chessboard Billiard,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+adavydow,Hanger,1,D,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,data structures
+2222,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+2222,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+2222,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+2222,Shift It!,1,E,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+Philip_PV,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Philip_PV,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Philip_PV,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+komiya,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+komiya,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+komiya,Chessboard Billiard,1,C,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+aropan,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aropan,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,"dp,games,greedy"
+aropan,Chessboard Billiard,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+bubnov,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bubnov,Train,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,3,0,0,"dp,games,greedy"
+KhaustovPavel,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KhaustovPavel,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+KhaustovPavel,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+ivan.metelsky,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ivan.metelsky,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"dp,games,greedy"
+ivan.metelsky,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+ivan.metelsky,Hanger,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+SkidanovAlex,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SkidanovAlex,Chessboard Billiard,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+SkidanovAlex,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+SkidanovAlex,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+SkidanovAlex,Shift It!,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dalex,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dalex,Train,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+DryukAlex,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DryukAlex,Train,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"dp,games,greedy"
+DryukAlex,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+NALP,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+NALP,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,"dp,games,greedy"
+NALP,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+NALP,Hanger,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+Hackson,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hackson,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Hackson,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+islam-al-aarag,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+islam-al-aarag,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+islam-al-aarag,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+primorial,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+primorial,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+fura2,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fura2,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+fura2,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+yaro,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yaro,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+yaro,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+yaro,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+WJMZBMR,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+WJMZBMR,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+WJMZBMR,Hanger,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+WJMZBMR,Chessboard Billiard,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+sygi,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sygi,Train,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+helThazar,Room Leader,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+helThazar,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+suneast,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+suneast,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+suneast,Chessboard Billiard,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Shtrix,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shtrix,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Shtrix,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+K_operafan,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+K_operafan,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+K_operafan,Train,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+kcm1700,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kcm1700,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+kcm1700,Chessboard Billiard,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Slevin,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Slevin,Train,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Slevin,Hanger,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+GagGuy,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+GagGuy,Train,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+GagGuy,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Progger,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Progger,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Progger,Hanger,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+nevidomy,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nevidomy,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+nevidomy,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+VArtem,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+VArtem,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+VArtem,Chessboard Billiard,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+eik0u,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+eik0u,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+eik0u,Chessboard Billiard,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+tia,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tia,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+tia,Chessboard Billiard,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+ahmed_aly,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahmed_aly,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ahmed_aly,Chessboard Billiard,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+AlexErofeev,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlexErofeev,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,"dp,games,greedy"
+permin,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+permin,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+permin,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+permin,Hanger,0,D,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+kyuridenamida,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyuridenamida,Train,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+iakolzin,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+iakolzin,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,games,greedy"
+iakolzin,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+_sunny,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+_sunny,Train,0,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+_sunny,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+_sunny,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Sarkin,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sarkin,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+right_wing,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+right_wing,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+atetubou,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+atetubou,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Ministr,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ministr,Shift It!,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Ministr,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Ministr,Chessboard Billiard,1,C,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+AleX,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AleX,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+AleX,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+AleX,Hanger,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Oleg,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Oleg,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Oleg,Hanger,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+Oleg,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+UESTC_Nocturne,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+UESTC_Nocturne,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+UESTC_Nocturne,Chessboard Billiard,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+MSPA,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MSPA,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+dmitrydyatlov,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dmitrydyatlov,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+dmitrydyatlov,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+subscriber,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+subscriber,Train,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Jokser,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jokser,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Jokser,Chessboard Billiard,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+tanzaku,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tanzaku,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+tanzaku,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+novkostya,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+novkostya,Hanger,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,data structures
+NeverQuarrel,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NeverQuarrel,Train,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+NeverQuarrel,Chessboard Billiard,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+CleRIC,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CleRIC,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+CleRIC,Chessboard Billiard,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Archon.JK,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Archon.JK,Train,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Archon.JK,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Al.Cash,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Al.Cash,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Al.Cash,Chessboard Billiard,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Al.Cash,Shift It!,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+-dp-,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+-dp-,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+-dp-,Chessboard Billiard,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+ir5,Room Leader,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ir5,Chessboard Billiard,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+ir5,Train,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ir5,Hanger,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,data structures
+logicmachine,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+logicmachine,Hanger,1,D,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,data structures
+logicmachine,Train,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+USA,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+USA,Train,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+A.K.Goharshady,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+A.K.Goharshady,Train,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+A.K.Goharshady,Chessboard Billiard,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+al13n,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+al13n,Train,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,"dp,games,greedy"
+al13n,Chessboard Billiard,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+al13n,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+fhlasek,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fhlasek,Train,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+fhlasek,Chessboard Billiard,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+svnlog,Room Leader,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+svnlog,Train,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,games,greedy"
+Soultaker,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Soultaker,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Soultaker,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,dsu,graphs,number theory"
+SpookyCookie,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SpookyCookie,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+SpookyCookie,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+SpookyCookie,Hanger,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+tkcn,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tkcn,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+tkcn,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+kormyshov,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kormyshov,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,games,greedy"
+kormyshov,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+zlatkov,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zlatkov,Train,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+sggutier,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sggutier,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+sggutier,Chessboard Billiard,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+dreamoon,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dreamoon,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+dreamoon,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+balroginfire,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+balroginfire,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+balroginfire,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+balroginfire,Hanger,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,data structures
+root85,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+root85,Train,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+root85,Chessboard Billiard,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+niyaznigmatul,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+niyaznigmatul,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+niyaznigmatul,Hanger,1,D,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,data structures
+niyaznigmatul,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+VChikh,Room Leader,0,A,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shindo,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shindo,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+shindo,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+zeliboba,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zeliboba,Train,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"dp,games,greedy"
+zeliboba,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Nox,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nox,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Nox,Chessboard Billiard,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+VladBelous,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+VladBelous,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+cvb,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cvb,Train,1,B,1,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+gmunkhbaatarmn,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gmunkhbaatarmn,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+gmunkhbaatarmn,Chessboard Billiard,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+idivyanshu,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+idivyanshu,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+kennethsnow,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kennethsnow,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+kennethsnow,Chessboard Billiard,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dsu,graphs,number theory"
+frost_nova,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+frost_nova,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,"dp,games,greedy"
+frost_nova,Chessboard Billiard,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Spitfire,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Spitfire,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Spitfire,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+tavo92,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tavo92,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+atol,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+atol,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,games,greedy"
+atol,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+atol,Hanger,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Oi.,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Oi.,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Oi.,Chessboard Billiard,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+v.haralampiev,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+v.haralampiev,Train,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+v.haralampiev,Hanger,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+wRabbits_AlMag,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wRabbits_AlMag,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+wRabbits_AlMag,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+ktuan,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ktuan,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ktuan,Hanger,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+ktuan,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+pdwd,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pdwd,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+pdwd,Chessboard Billiard,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Andrew_Makar,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Andrew_Makar,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Andrew_Makar,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Oryshych,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Oryshych,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+anhdt,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+anhdt,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+udalov,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+udalov,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+udalov,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+brainail,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+brainail,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+coders1122,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+coders1122,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+cmd,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cmd,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+cmd,Chessboard Billiard,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+cmd,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+avm,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+avm,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+avm,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+AguL,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AguL,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+miaout17,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+miaout17,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+miaout17,Chessboard Billiard,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+hos.lyric,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hos.lyric,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+hos.lyric,Hanger,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,data structures
+hos.lyric,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+tempza,Room Leader,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tempza,Train,1,B,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+tempza,Chessboard Billiard,1,C,0,0,0,1,0,12,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+darkbtf,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+darkbtf,Train,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+darkbtf,Chessboard Billiard,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+indy256,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+indy256,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Hadi_Asiaie,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hadi_Asiaie,Train,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Rubanenko,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rubanenko,Train,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Commandos,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Commandos,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Commandos,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Commandos,Hanger,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+calculus.saransh,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+calculus.saransh,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Bugman,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Bugman,Train,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+lxyxynt,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lxyxynt,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+lxyxynt,Chessboard Billiard,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+lyrics,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lyrics,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+lyrics,Chessboard Billiard,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Ra16bit,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ra16bit,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Ra16bit,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Ra16bit,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+OutSide,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+OutSide,Train,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+standy,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+standy,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Erop,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Erop,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Erop,Chessboard Billiard,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+0rbit,Room Leader,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+0rbit,Train,1,B,1,0,0,0,0,8,0,1,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+M0sTik,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+M0sTik,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+tian,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tian,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+tian,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+tian,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+keivan,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+keivan,Train,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+keivan,Chessboard Billiard,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+kelvin,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kelvin,Train,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+kelvin,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+kelvin,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+flashmt,Room Leader,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+flashmt,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+wudired,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wudired,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+wudired,Chessboard Billiard,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+sas4eka,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sas4eka,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,games,greedy"
+metar,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ryuzmukhametov,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ryuzmukhametov,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,dsu,graphs,number theory"
+ryuzmukhametov,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+kgs,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kgs,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Connector,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Connector,Train,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Connector,Chessboard Billiard,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+kasyankrak,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kasyankrak,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+kasyankrak,Chessboard Billiard,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+espr1t,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+espr1t,Train,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+espr1t,Chessboard Billiard,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+sky58,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sky58,Train,0,B,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+sky58,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+SeMeKh,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SeMeKh,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+SeMeKh,Shift It!,1,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,constructive algorithms
+fura,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fura,Train,1,B,0,0,0,0,2,11,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+strelok1918,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+strelok1918,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+lwc626,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lwc626,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+voover,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+voover,Train,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+voover,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+voover,Hanger,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+OgieKako,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+OgieKako,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+OgieKako,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+OgieKako,Hanger,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+nise_nabe,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rinigan,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rinigan,Train,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+rinigan,Chessboard Billiard,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+juarez.paulino,Room Leader,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+juarez.paulino,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+mR.ilchi,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mR.ilchi,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+MyXoBeK,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+MyXoBeK,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+hogeover30,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hogeover30,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+hogeover30,Chessboard Billiard,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+tanas,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tanas,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+surath,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+surath,Chessboard Billiard,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+nobody,Room Leader,1,A,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+ryry56,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ryry56,Train,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+taras.klaskovsky,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+taras.klaskovsky,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+taras.klaskovsky,Chessboard Billiard,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Mirovan,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mirovan,Train,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Mirovan,Chessboard Billiard,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+natalia,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+natalia,Train,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+natalia,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+sdryapko,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sdryapko,Train,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+x-ray,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+x-ray,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+x-ray,Chessboard Billiard,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+u1ik,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+u1ik,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+u1ik,Hanger,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+Le-Nika,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Le-Nika,Train,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Omar.Darwish,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Omar.Darwish,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+beginner1010,Room Leader,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+beginner1010,Train,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+JKeeJ1e30,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+JKeeJ1e30,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+LeBron,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LeBron,Train,0,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+LeBron,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+emiraga,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+emiraga,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Fefer_Ivan,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fefer_Ivan,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,games,greedy"
+Fefer_Ivan,Hanger,1,D,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,data structures
+Gerald,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gerald,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Gerald,Chessboard Billiard,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Gerald,Hanger,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+Steps09,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Steps09,Train,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Steps09,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+FattyPenguin,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+FattyPenguin,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+FattyPenguin,Chessboard Billiard,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+IlyaLos,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+IlyaLos,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+mylyanyk.ivan,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mylyanyk.ivan,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+fahim_zubayer,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hasi,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hasi,Train,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+hasi,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+dasko1,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dasko1,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+dasko1,Hanger,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+dasko1,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+timmy,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+timmy,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+timmy,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+olimpo,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+olimpo,Train,1,B,0,0,0,2,0,15,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ahmed.abdrabo,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pasin30055,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pasin30055,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+pasin30055,Hanger,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+pasin30055,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+goooooooopan,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+goooooooopan,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+pratikmoona,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pratikmoona,Train,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+okulov,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+okulov,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+topskychen,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+topskychen,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Ferlon,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ferlon,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Ferlon,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+toi333,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+toi333,Train,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+toi333,Chessboard Billiard,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+sexyprincess91,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sexyprincess91,Train,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,"dp,games,greedy"
+sexyprincess91,Chessboard Billiard,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,dsu,graphs,number theory"
+sakyalol,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sakyalol,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+sakyalol,Chessboard Billiard,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+alexander86,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexander86,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+alexander86,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+alexander86,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+vlad107,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vlad107,Train,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Respect2D,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Respect2D,Train,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Elday,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Elday,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,games,greedy"
+Pavlo_Lviv_NU,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pavlo_Lviv_NU,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Pavlo_Lviv_NU,Chessboard Billiard,1,C,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Evilin,Room Leader,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Evilin,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Evilin,Chessboard Billiard,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Deamon,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Deamon,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Deamon,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Deamon,Hanger,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+pyshnograev,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pyshnograev,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+pyshnograev,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Rosetta,Room Leader,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rosetta,Train,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+DarthBeleg,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DarthBeleg,Chessboard Billiard,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+DarthBeleg,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Hinidu,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hinidu,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Hinidu,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+LongCtrl,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LongCtrl,Train,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+riad,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+riad,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+kang205,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kang205,Train,1,B,1,0,0,0,0,13,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+chhung6,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chhung6,Train,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+chhung6,Chessboard Billiard,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,dsu,graphs,number theory"
+kamranm,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kamranm,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+kamranm,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Rei,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rei,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Rei,Chessboard Billiard,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Pekaz,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pekaz,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+diogen,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+diogen,Train,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+luckyi,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+luckyi,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+luckyi,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+nhzp339,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nhzp339,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,games,greedy"
+nhzp339,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,dsu,graphs,number theory"
+peety12,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+maxteneff,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+maxteneff,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+imrankane2005,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+imrankane2005,Train,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+imrankane2005,Chessboard Billiard,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+cgy4ever,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cgy4ever,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+cgy4ever,Chessboard Billiard,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+cgy4ever,Shift It!,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+antonkov,Room Leader,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+antonkov,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+antonkov,Chessboard Billiard,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+ICOA,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+DamianS,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DamianS,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+DamianS,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Mario88,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mario88,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Mario88,Chessboard Billiard,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+cauchyk,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cauchyk,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+pius_88,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pius_88,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+pius_88,Chessboard Billiard,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+etendren,Room Leader,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+etendren,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+SergeyLazarev,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SergeyLazarev,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,games,greedy"
+SergeyLazarev,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+facepalmist,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+facepalmist,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,games,greedy"
+zurg,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zurg,Train,1,B,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+zurg,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+tloinuy,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tloinuy,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+tloinuy,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+freak93,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+freak93,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+freak93,Hanger,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+freak93,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+LazyChild,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LazyChild,Train,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,games,greedy"
+11fingers,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+11fingers,Train,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+11fingers,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+lyoz,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lyoz,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+lyoz,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+DPR-pavlin,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DPR-pavlin,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+AliDiep,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+AliDiep,Train,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+lordklotski,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lordklotski,Train,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+lordklotski,Chessboard Billiard,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+flowlight,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+flowlight,Train,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+flowlight,Chessboard Billiard,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+balakrishnan,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+balakrishnan,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+balakrishnan,Hanger,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Fcdkbear,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fcdkbear,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Fcdkbear,Chessboard Billiard,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+TFTM,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TFTM,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+myar,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+myar,Train,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+myar,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+ployee,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ployee,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Lepetrandr,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Lepetrandr,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Lepetrandr,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+air,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+air,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+air,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+DDDDDDDDDDDDDDDDDDDDDDDD,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+DDDDDDDDDDDDDDDDDDDDDDDD,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+jawbreaker,Room Leader,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+jawbreaker,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+yak_ex,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yak_ex,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+yak_ex,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+litwin,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+litwin,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+trukanduk,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+trukanduk,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Mex-Mans,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mex-Mans,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Mex-Mans,Chessboard Billiard,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+zgmf_x09a,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zgmf_x09a,Train,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+zgmf_x09a,Chessboard Billiard,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+weiqi,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+weiqi,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+wangzhihao,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wangzhihao,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+wangzhihao,Chessboard Billiard,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+yayamao,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yayamao,Train,1,B,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Luzan,Room Leader,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Luzan,Train,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Luzan,Chessboard Billiard,1,C,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Kandyman,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kandyman,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+nextgen,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nextgen,Train,1,B,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Duc,Room Leader,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Duc,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Duc,Chessboard Billiard,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Duc,Hanger,0,D,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,data structures
+solyony,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+solyony,Train,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+GaoYusong,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+GaoYusong,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+GaoYusong,Chessboard Billiard,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+lijunle,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lijunle,Train,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+premprakash,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ant.ermilov,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ant.ermilov,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"dp,games,greedy"
+palcuiealex,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+palcuiealex,Train,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+miaowu,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+miaowu,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+miaowu,Chessboard Billiard,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+sazzad,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sazzad,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+kabir.sohel,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kabir.sohel,Train,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+xokin,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xokin,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+die.saito,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+die.saito,Train,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+fz1989,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fz1989,Train,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Zool,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zool,Train,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+fer,Room Leader,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+fer,Train,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+A.I,Room Leader,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+A.I,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+agrigoroi,Room Leader,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+agrigoroi,Train,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,"dp,games,greedy"
+delta,Room Leader,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+delta,Train,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+L.I.S.,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+L.I.S.,Train,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+L.I.S.,Chessboard Billiard,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Chubcheg,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Chubcheg,Train,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Chubcheg,Chessboard Billiard,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Bogdan,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Bogdan,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Bogdan,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+UC2,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+UC2,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+UC2,Chessboard Billiard,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Medium,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Medium,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Medium,Chessboard Billiard,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+crbtmac,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+crbtmac,Train,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ArtDitel,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ArtDitel,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ArtDitel,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Tranvick,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tranvick,Train,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Tranvick,Chessboard Billiard,1,C,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Vladislav-Z,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Vladislav-Z,Train,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+mcsharma1990,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mcsharma1990,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Wahba,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+tiirz,Room Leader,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+tiirz,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+tiirz,Chessboard Billiard,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Konstantin,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Konstantin,Train,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Konstantin,Chessboard Billiard,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+daffes,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+daffes,Train,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+daffes,Chessboard Billiard,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+dcp,Room Leader,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+dcp,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+seen,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+seen,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+SAMueL,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SAMueL,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+FatSheep,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tasyrkin,Room Leader,1,A,1,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,implementation
+tasyrkin,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+bigeye,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bigeye,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+yowa,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yowa,Train,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+yowa,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+KrK,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KrK,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+david942j,Room Leader,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+david942j,Train,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+BenderRodriges,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BenderRodriges,Train,1,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+y3eadgbe,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+y3eadgbe,Train,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+y3eadgbe,Chessboard Billiard,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+ondrah,Room Leader,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+ondrah,Train,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ondrah,Chessboard Billiard,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+mostafa_angel,Room Leader,1,A,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+mostafa_angel,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+WXYZ,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+WXYZ,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+WXYZ,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+WXYZ,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+torb,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+torb,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+torb,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+moshiur,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+moshiur,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+moshiur,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+vudduu,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vudduu,Train,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+vudduu,Chessboard Billiard,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+frankyym,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+frankyym,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+frankyym,Chessboard Billiard,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Tatyana_Petrashko,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+johar,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+johar,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+tohuuquan,Room Leader,0,A,0,0,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,implementation
+Neverauskas,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Neverauskas,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Dmitry.Gerasimov,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dmitry.Gerasimov,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+rayafjyblue,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+rayafjyblue,Train,1,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+pzy3303,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pzy3303,Hanger,1,D,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,data structures
+pzy3303,Chessboard Billiard,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dsu,graphs,number theory"
+aurinegro,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aurinegro,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+z__jj,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+z__jj,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+bjin,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bjin,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+bjin,Chessboard Billiard,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+-RooneY-,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+-RooneY-,Train,1,B,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Mark_tven,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mark_tven,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Mark_tven,Chessboard Billiard,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+RosyIsh,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Komaki,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Komaki,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+dened,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dened,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+dened,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+polmauri,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+polmauri,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+polmauri,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+NuM,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NuM,Train,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+behdadb,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+behdadb,Train,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+behdadb,Chessboard Billiard,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+xeronix,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xeronix,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ATrosinenko,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ATrosinenko,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+milkch,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+milkch,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+milkch,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+bor.is,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bor.is,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+c_loud26,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+c_loud26,Train,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+San_Sany4,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+San_Sany4,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+xujie,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xujie,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+xujie,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+blaklites,Room Leader,1,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+blaklites,Train,1,B,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+nel215,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nel215,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+emo,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+emo,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+emo,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dfs and similar,dsu,graphs,number theory"
+HwangScornedAsianTeams,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+HwangScornedAsianTeams,Train,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Kenny_HORROR,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kenny_HORROR,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,games,greedy"
+Kenny_HORROR,Hanger,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Kenny_HORROR,Chessboard Billiard,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+piotr.kukla,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+piotr.kukla,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+piotr.kukla,Chessboard Billiard,1,C,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Deagle,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Deagle,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ravi_villuri,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ravi_villuri,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+arpit_s,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+arpit_s,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Blink,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Blink,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+VUAcoder,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+VUAcoder,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+sanchit_h,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+sanchit_h,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+jayesh02,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jayesh02,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Psilocybe,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Psilocybe,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+carber,Room Leader,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+carber,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+carber,Hanger,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+aan93,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aan93,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+aan93,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+deadman_22,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kirakira,Room Leader,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kirakira,Train,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+liangjiaxing57,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+liangjiaxing57,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+liangjiaxing57,Chessboard Billiard,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Ahmed_Salama,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Ahmed_Salama,Train,1,B,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+joy32812,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+joy32812,Train,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Scientist1642,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zzldjk,Room Leader,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+zzldjk,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+zzldjk,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Aphrodite,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aphrodite,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+kemo,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kemo,Hanger,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,data structures
+AC9,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+AC9,Chessboard Billiard,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+AC9,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+sonyckson,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sonyckson,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+sonyckson,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+mohammad.mahmoodi,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+legend_ni,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Goshish,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Goshish,Train,1,B,1,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+pioneer,Room Leader,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+pioneer,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+pioneer,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+flash36,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+flash36,Train,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Gantushig,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gantushig,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Salat,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AVoz,Room Leader,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yimao,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+mingrimingyue,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mingrimingyue,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+xkor,Room Leader,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+xkor,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+xkor,Chessboard Billiard,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+CtrlAlt,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CtrlAlt,Chessboard Billiard,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dsu,graphs,number theory"
+CtrlAlt,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ZaviOr,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ZaviOr,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ZaviOr,Chessboard Billiard,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+NomadThanatos,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NomadThanatos,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ahxun2006,Room Leader,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+251083874,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+251083874,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Tokiru,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tokiru,Train,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+best.ua,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+best.ua,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+best.ua,Chessboard Billiard,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Imran_Bin_Azad,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Imran_Bin_Azad,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+fujiyama,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fujiyama,Chessboard Billiard,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dfs and similar,dsu,graphs,number theory"
+fujiyama,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+eka,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+eka,Train,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Shef,Room Leader,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shef,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Shef,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Shef,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+lne,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lne,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+rysiek,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rysiek,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+ksjuchi,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ksjuchi,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ksjuchi,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+sapalskimichal,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sapalskimichal,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+sapalskimichal,Chessboard Billiard,1,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+haas,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Martin,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Martin,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Martin,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Martin,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+SoNoLac,Room Leader,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SoNoLac,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+hust.elt,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hust.elt,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+hust.elt,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Kolyanich,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kolyanich,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+fatboy_cw,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fatboy_cw,Train,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Gassa,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gassa,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Gassa,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+PanZverski,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PanZverski,Train,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+hemant_baid,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hemant_baid,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+t.gogniashvili,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+t.gogniashvili,Train,1,B,1,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Cromel,Room Leader,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Cromel,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+nurs,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xiaoyoulei,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xiaoyoulei,Train,1,B,1,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+xiaoyoulei,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+HJWAJ,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+HJWAJ,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+monocofe,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+monocofe,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+monocofe,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+TMandzu,Room Leader,1,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aule,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aule,Train,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Aule,Chessboard Billiard,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+naaaag,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+taichi,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Qili,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Qili,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+abdo_abdo5,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+abdo_abdo5,Train,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+yuscvscv,Room Leader,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yuscvscv,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+_jte_,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+_jte_,Train,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,"dp,games,greedy"
+_jte_,Chessboard Billiard,1,C,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+manukranthk,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+manukranthk,Train,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+NKolotey,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+NKolotey,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+NKolotey,Chessboard Billiard,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+july,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+july,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+saket-j,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+saket-j,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+paulus,Room Leader,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+paulus,Train,0,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+shadow_codeforces,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+masibonge,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+masibonge,Train,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+redox,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+redox,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Yousef_Salama,Room Leader,1,A,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+ashi009,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ashi009,Train,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+apostol.vlz,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+apostol.vlz,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+apostol.vlz,Chessboard Billiard,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+DenXX,Room Leader,0,A,1,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DenXX,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+muntasir,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+muntasir,Train,1,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+discover,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+discover,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Reshetnikov_Ivan,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Reshetnikov_Ivan,Train,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+zzz,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zzz,Train,1,B,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Narashy,Room Leader,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Narashy,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+LuoYunan,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+UminchuR,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+UminchuR,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+paulocezar,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+paulocezar,Train,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+paulocezar,Chessboard Billiard,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+fsb4000,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fsb4000,Train,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+vishwakarma,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vishwakarma,Train,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+pratvick,Room Leader,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+jimon,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jimon,Train,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+marque,Room Leader,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,1,0,0,0,implementation
+marque,Train,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Ever1989,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ever1989,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+saurabhmodi102000,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+taobingxue,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+taobingxue,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+taobingxue,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+taobingxue,Shift It!,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+LALAqq,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+LALAqq,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+SmirnovBoris,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SmirnovBoris,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+SmirnovBoris,Chessboard Billiard,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Petrushenko,Room Leader,1,A,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Petrushenko,Train,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+muntac,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+muntac,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+masha,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+mkut,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+thejoyofit,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+thejoyofit,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+fengzlzl,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fengzlzl,Train,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+darksta5,Room Leader,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+darksta5,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+a286729485,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+a286729485,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+muriloufg,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+muriloufg,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+muriloufg,Chessboard Billiard,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+uditiiita,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Laputa20,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Laputa20,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Verdona0,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Verdona0,Train,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+winterflame,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+4nddr3,Room Leader,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+4nddr3,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+0806580124,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+0806580124,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+0806580124,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+mrunique.01,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mrunique.01,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Amandyk,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rex,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+nagochan,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nagochan,Train,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+nagochan,Chessboard Billiard,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+logic_max,Room Leader,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+logic_max,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+WAVwind,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+WAVwind,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+WAVwind,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+NSV,Room Leader,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+NSV,Train,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+kaushik.mv3,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kaushik.mv3,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ningbohezhijun,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ningbohezhijun,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+nokia,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nokia,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+kawatea,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kawatea,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+HeVy,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+HeVy,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+esrever,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+esrever,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+SecrofedoC,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ryna4c2e,Room Leader,1,A,1,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+ryna4c2e,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+riversouther,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+riversouther,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+lengxiang,Room Leader,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+max777alex,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+max777alex,Train,1,B,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Rijul_CSEDU,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rijul_CSEDU,Train,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+yuzeming,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yuzeming,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+yuzeming,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+grisaf,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+grisaf,Train,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+sunhaowen123,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sunhaowen123,Train,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+sunhaowen123,Chessboard Billiard,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+tonychiang,Room Leader,1,A,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+tonychiang,Train,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+hota911,Room Leader,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+limiTed,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+limiTed,Train,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"dp,games,greedy"
+Mata,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mouse,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mouse,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+median0816,Room Leader,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+median0816,Train,0,B,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+FameofLight,Room Leader,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ankulgarg,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ulugbek89s,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ulugbek89s,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+69-64-79,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+69-64-79,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+69-64-79,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Includer,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Includer,Train,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+tuananh93,Room Leader,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tuananh93,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+tuananh93,Chessboard Billiard,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,1,0,0,"dfs and similar,dsu,graphs,number theory"
+delta_4d,Room Leader,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+delta_4d,Chessboard Billiard,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+accepted,Room Leader,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+accepted,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+liympanda,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+liympanda,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+liympanda,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+liympanda,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Moskupols,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+i_raqibul,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+i_raqibul,Train,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+UhoYGw,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+UhoYGw,Chessboard Billiard,1,C,0,0,0,2,0,6,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+LayCurse,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LayCurse,Train,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+LayCurse,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+zhuraulevich,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Surogatov_S,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Surogatov_S,Train,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,"dp,games,greedy"
+shady_mokhtar,Room Leader,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+lttaltta,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lttaltta,Train,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+grey_wind,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+grey_wind,Chessboard Billiard,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+igsilya,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+igsilya,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+igsilya,Chessboard Billiard,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Pratham,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pratham,Train,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+TRUONG,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+MIM,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MIM,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+xptree,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xptree,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+xptree,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+navid.azami,Room Leader,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+navid.azami,Train,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+SkorKNURE,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SkorKNURE,Train,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+SkorKNURE,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Berestinsky,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Berestinsky,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Berestinsky,Chessboard Billiard,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+erepb1991,Room Leader,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+erepb1991,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+erepb1991,Chessboard Billiard,1,C,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+ghostplant,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ghostplant,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ghostplant,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Rustem,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ACKOKO,Room Leader,1,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ACKOKO,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+mmur,Room Leader,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mmur,Chessboard Billiard,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Hedayet,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hedayet,Train,1,B,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+pablo.aguilar,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pablo.aguilar,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Atiq,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sune2,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sune2,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+sune2,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+MOZGOLOM,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+MOZGOLOM,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,games,greedy"
+ahmedsaad,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahmedsaad,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Alisafe,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alisafe,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+lgq1205,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chette,Room Leader,0,A,0,0,0,2,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+zlly,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zlly,Train,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+andresilva91,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+andresilva91,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+chenchen1024,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tkach1024,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tkach1024,Chessboard Billiard,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Tkach1024,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+kyo_key,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyo_key,Chessboard Billiard,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+317165621,Room Leader,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+poao899,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+poao899,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+poao899,Hanger,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Aizava,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aizava,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+MrPapaya,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MrPapaya,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Scipt,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Scipt,Hanger,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,data structures
+MidNight,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MidNight,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+VArt,Room Leader,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+VArt,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+VArt,Chessboard Billiard,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+ibra,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ibra,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+hnu0314,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hnu0314,Train,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+hnu0314,Chessboard Billiard,0,C,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+manjunath426jc,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+jhtan,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+MaximPr,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+MaximPr,Train,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+yzq110abc,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yzq110abc,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+suhang1994,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+suhang1994,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+suhang1994,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+jemiam,Room Leader,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+jemiam,Train,1,B,0,0,0,1,2,8,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+-.-,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+-.-,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+-.-,Chessboard Billiard,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+svrsvr,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+svrsvr,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+buko,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+buko,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+buko,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+msh_shiplu,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+msh_shiplu,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+b.moogii09,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+b.moogii09,Train,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+shakil,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+self_healing,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+self_healing,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+self_healing,Chessboard Billiard,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+buzden,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+buzden,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+acechou,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+acechou,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Andrey_Kalikin,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Andrey_Kalikin,Train,1,B,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+hacker007,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+unprost,Room Leader,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+unprost,Train,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+MakTraDe,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MakTraDe,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Xerxes,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Xerxes,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+rajatag12,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rajatag12,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+rajatag12,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Diabolic,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hello,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hello,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+funky,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+hbuoc,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahmed.farag1111,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahmed.farag1111,Train,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+bondoc73,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+bondoc73,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+NGNCMH,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NGNCMH,Train,1,B,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+NGNCMH,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+gravity,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+natsuki_i,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+877024329,Room Leader,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+877024329,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+EvAn,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+EvAn,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+espy,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+espy,Train,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ilovechina,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ilovechina,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ilovechina,Shift It!,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+htrinh,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+htrinh,Chessboard Billiard,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+elrodeo,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+elrodeo,Train,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+xor1005,Room Leader,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gaewah,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gaewah,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+hector.almo,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruban,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruban,Train,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+qjklw,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+qjklw,Train,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+qjklw,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+ChamChi,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ChamChi,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+rogu3,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yuta1024,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yuta1024,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+yuta1024,Chessboard Billiard,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+ramil,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NotImplemented,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NotImplemented,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Rheni,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rheni,Train,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+akakiy,Room Leader,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+akakiy,Train,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+aakash01,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+aakash01,Train,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+gurpreet_09,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gurpreet_09,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+gurpreet_09,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Och-Iv2000,Room Leader,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Och-Iv2000,Train,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Haleh,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Haleh,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+wzh22014,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wzh22014,Train,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+gonecrazy,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Georgievbg,Room Leader,1,A,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,implementation
+Georgievbg,Train,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+MaGNetLei,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MaGNetLei,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+chenpengyu,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chenpengyu,Train,1,B,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ardiankp,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ardiankp,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ardiankp,Chessboard Billiard,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+magrady,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yuanhang,Room Leader,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yuanhang,Train,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+DreamFox,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DreamFox,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+DreamFox,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+dadongking,Room Leader,1,A,1,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eilen,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+svilen,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+svilen,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+KoreAn_Max,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KoreAn_Max,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+KoreAn_Max,Train,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+snorcht,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+snorcht,Train,1,B,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+dragon007,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dragon007,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+qiuweiwen,Room Leader,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vish,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vish,Train,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+xmas169,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BrightDays,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BrightDays,Train,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+piyush.neo,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+piyush.neo,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+BIV,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+S030902228,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+antonio081014,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+beyondxgb,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+beyondxgb,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+beyondxgb,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+AcceptedLC,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+AcceptedLC,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+noip2007,Room Leader,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+null_pointer,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+null_pointer,Train,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+null_pointer,Chessboard Billiard,0,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+l-.-l,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+l-.-l,Train,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+l-.-l,Chessboard Billiard,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+conghavefun,Room Leader,1,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Paramaribo,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Paramaribo,Hanger,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+Paramaribo,Train,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+neeraj541,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sixteentons,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sixteentons,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Eugen,Train,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Eugen,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eugen,Chessboard Billiard,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Codemacher,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zahra,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahyangyi,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahyangyi,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ahyangyi,Chessboard Billiard,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Miron95,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Miron95,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+NastyaPNTU,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NastyaPNTU,Train,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+T-30,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+T-30,Train,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+sst,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BudAlNik,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+BudAlNik,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+tstusreg,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alkaid,Chessboard Billiard,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+alkaid,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alkaid,Train,1,B,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+sholeg,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sholeg,Train,1,B,0,0,0,0,1,10,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+fahimpatel,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fahimpatel,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+srivatsan_vn,Room Leader,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+srivatsan_vn,Train,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+yarrr,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yarrr,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Arks,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chandniverma,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+camper,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+camper,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+talha629,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+greengrass,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+greengrass,Train,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Petruchcho,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lpeter,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+icek,Room Leader,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+icek,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+icek,Chessboard Billiard,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+DarthRevan,Room Leader,0,A,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+DarthRevan,Train,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Fett,Room Leader,1,A,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fett,Train,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+accoder,Room Leader,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+nufst,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Anton_Rodick,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Anton_Rodick,Train,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ray040123,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+acm,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+acm,Train,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+abdukodir,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+done,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+codingbunny,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+powerslav3,Room Leader,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+winterwolf94,Room Leader,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+winterwolf94,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ferraritnl,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ferraritnl,Train,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+FreeAquar,Room Leader,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Morozko,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ankit_shukla,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ankit_shukla,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+hakomo,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hakomo,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+JavaLinkers,Room Leader,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xscape,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xscape,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+xscape,Chessboard Billiard,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+konstantin.lex,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+konstantin.lex,Train,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ameydhar,Room Leader,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+ameydhar,Chessboard Billiard,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+AnyHandle,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AnyHandle,Train,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+pushkin,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pushkin,Train,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+tstanislav88,Room Leader,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+BlackEagle,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hhddff,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+devilofaboy,Room Leader,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+devilofaboy,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+zzsy_fox,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zzsy_fox,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+hkobayash,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hkobayash,Train,1,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+TRR,Room Leader,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+raha,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+jalpa,Room Leader,0,A,0,0,0,0,3,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+Najmuzzaman,Room Leader,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Najmuzzaman,Chessboard Billiard,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+ankitaga,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Catchy,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Catchy,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Nakib,Room Leader,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nakib,Train,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Nakib,Chessboard Billiard,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+lvdo92,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vinayjulme,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lokeshgovindu,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rng_58,Chessboard Billiard,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+rng_58,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+rng_58,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+rng_58,Hanger,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Sxxxoxxxe,Room Leader,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+shenshuyang,Room Leader,1,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+tclh123,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tclh123,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Lay_ec,Room Leader,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+victro_hugo,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PAG,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PAG,Train,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+most_wanted,Room Leader,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+EG0R,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Raggi,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Raggi,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+nikunj165,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nikunj165,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+zhkxdl,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhkxdl,Hanger,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+akazz,Room Leader,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+akazz,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+pl8787,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pl8787,Train,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+pl8787,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+lantimilan,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lantimilan,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+naagi,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+edulira,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kolia,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kolia,Train,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Ahmedov,Room Leader,1,A,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+f1aSk0.kz,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eternity,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AND1989,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AND1989,Train,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+rrevenantt,Room Leader,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+rrevenantt,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ayushi_singh,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+krhgg,Train,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+krhgg,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Logout,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+iksuy,Room Leader,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+shtorm941,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shtorm941,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ishikado,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ishikado,Train,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+alina,Room Leader,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+maddoctor,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vlade087,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Keerill,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Keerill,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+xiyouice,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+nisha2009331024,Room Leader,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ben.hwang,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ben.hwang,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+EzhikOo,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NightWoLf,Room Leader,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Toj_yuan1028,Room Leader,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,implementation
+FPC,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vietlong2110,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+narik,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yinuh,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+leolin,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jacinta,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Empty,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Empty,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Tariqul,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tariqul,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+carolyn920626,Room Leader,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+william,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wawa,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wawa,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+antry,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+antry,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+zimbabwe,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zimbabwe,Train,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+CherryTree,Hanger,0,D,0,0,0,0,1,2,0,0,0,0,0,0,0,0,1,0,0,data structures
+CherryTree,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CherryTree,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+CherryTree,Chessboard Billiard,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+ptrrsn_1,Train,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+ptrrsn_1,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Wentol-ng,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Wentol-ng,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+JmJ,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+jimmycool,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+EGYPT,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mohannad,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TarifEzaz,Room Leader,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+TarifEzaz,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+santosh_saha,Room Leader,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+denny,Room Leader,1,A,1,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MikeNirzayanov,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MikeNirzayanov,Chessboard Billiard,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+zunzun,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+piyopiyohogeo,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Inf_Zero,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+thefourtheye,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+thefourtheye,Train,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+mirsaid_mir,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mirsaid_mir,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+nhrahi_iut,Room Leader,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+luoluoluo,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+luoluoluo,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+helloji,Room Leader,1,A,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,implementation
+laiguokun,Train,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+laiguokun,Chessboard Billiard,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+Khaled91,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Khaled91,Train,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+rudolf,Room Leader,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+rudolf,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+einstein010,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+willy,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+willy,Train,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+Amrodis,Room Leader,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+luyanan,Room Leader,1,A,1,0,0,0,4,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+barevhayerable,Room Leader,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+khanhptnk,Chessboard Billiard,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,dsu,graphs,number theory"
+dark.wizard,Room Leader,0,A,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+zyx3d,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zyx3d,Train,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+lonelyprog,Room Leader,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+heenaldoshi,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ZiyaoWei,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+173force,Room Leader,1,A,1,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+StarMine,Room Leader,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+StarMine,Train,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+hooligan,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aleksandr_gusarov,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pishu,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+feather_dai,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BAIZOR,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BAIZOR,Train,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+vc.kosyak,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hellboy2014,Room Leader,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Monyura,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Monyura,Train,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+suoloveyou,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+smallest,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Andfive,Room Leader,1,A,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Andfive,Train,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+digo,Room Leader,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Anastasko,Room Leader,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Anastasko,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+nusurge,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Narutokun,Room Leader,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+whu_zhang,Room Leader,1,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+biscuit,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vroon,Room Leader,1,A,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+akashs.cse,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+havi,Room Leader,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BaturaDima,Hanger,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+BaturaDima,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+casstle,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gumpg,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shukla,Room Leader,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+elite,Room Leader,1,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+djfahad,Room Leader,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+maniac,Train,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games,greedy"
+maniac,Room Leader,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tulip,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KaskaRUS,Room Leader,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hommiak,Room Leader,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation

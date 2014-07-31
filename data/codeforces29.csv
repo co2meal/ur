@@ -1,0 +1,918 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+Avalanche,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Avalanche,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Avalanche,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Avalanche,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+KLaus,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+KLaus,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+KLaus,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+KLaus,Ant on the Tree,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+osipov.ivan,Spit Problem,0,A,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+osipov.ivan,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+osipov.ivan,Mail Stamps,1,C,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Unicorn,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Unicorn,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Unicorn,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Unicorn,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+sdryapko,Spit Problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+sdryapko,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sdryapko,Ant on the Tree,0,D,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+larry,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+larry,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+larry,Mail Stamps,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+larry,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+larry,Quarrel,1,E,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+Mr_Sergey,Spit Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Mr_Sergey,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mr_Sergey,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Mr_Sergey,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+Mr_Sergey,Quarrel,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"graphs,shortest paths"
+Abra,Spit Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Abra,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Abra,Mail Stamps,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Abra,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+walsub,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+walsub,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+walsub,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+walsub,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+walsub,Quarrel,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+cfc,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+cfc,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cfc,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+cfc,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+MuRongYunHai,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+MuRongYunHai,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MuRongYunHai,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+MuRongYunHai,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+MuRongYunHai,Quarrel,1,E,0,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,"graphs,shortest paths"
+ballon,Spit Problem,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ballon,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ballon,Mail Stamps,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+ballon,Ant on the Tree,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+StoneCold,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+StoneCold,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+StoneCold,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+StoneCold,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+StoneCold,Quarrel,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+Konstantin,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Konstantin,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Konstantin,Mail Stamps,1,C,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+dj3500,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dj3500,Traffic Lights,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dj3500,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+dj3500,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+dj3500,Quarrel,1,E,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+a4461494,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+a4461494,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+a4461494,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+a4461494,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+Crabman,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Crabman,Traffic Lights,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+Crabman,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Crabman,Ant on the Tree,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+Crabman,Quarrel,1,E,0,0,0,1,4,0,0,1,8,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+MogoA,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+MogoA,Traffic Lights,1,B,0,0,0,1,0,3,1,0,0,0,0,0,0,0,0,0,0,implementation
+You_cant_guess_who_am_I,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+You_cant_guess_who_am_I,Quarrel,0,E,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+You_cant_guess_who_am_I,Traffic Lights,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,implementation
+You_cant_guess_who_am_I,Mail Stamps,0,C,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+You_cant_guess_who_am_I,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+anonymous-msu,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+anonymous-msu,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+anonymous-msu,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+anonymous-msu,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+cyx5320856,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+cyx5320856,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+aepi,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+aepi,Traffic Lights,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+aepi,Mail Stamps,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+aepi,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+aepi,Quarrel,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+andrey-tsb,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+andrey-tsb,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+andrey-tsb,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+andrey-tsb,Ant on the Tree,1,D,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+idy,Spit Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+idy,Traffic Lights,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+idy,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+idy,Ant on the Tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+Cat_2010,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Cat_2010,Traffic Lights,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Cat_2010,Mail Stamps,0,C,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Fereshte,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Fereshte,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fereshte,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Fereshte,Ant on the Tree,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+JackSparrow,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+JackSparrow,Traffic Lights,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+fartash.faghri,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+fartash.faghri,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fartash.faghri,Mail Stamps,0,C,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+fartash.faghri,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+Renderhp,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Renderhp,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+FedyuninV,Spit Problem,0,A,1,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,brute force
+FedyuninV,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+FedyuninV,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+FORHAD-SUST-BD,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+FORHAD-SUST-BD,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+FORHAD-SUST-BD,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+x3mka,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+x3mka,Traffic Lights,0,B,0,0,0,2,0,0,7,0,0,0,0,0,0,0,0,0,0,implementation
+x3mka,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+x3mka,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+misaka.mikoto,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+misaka.mikoto,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+misaka.mikoto,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+misaka.mikoto,Ant on the Tree,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+misaka.mikoto,Quarrel,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+ankulgarg,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ankulgarg,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ankulgarg,Mail Stamps,0,C,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+ankulgarg,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+Toj_yuan1028,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Toj_yuan1028,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Toj_yuan1028,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+espr1t,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+espr1t,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+espr1t,Mail Stamps,0,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+espr1t,Ant on the Tree,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+espr1t,Quarrel,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+knock-knock,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+knock-knock,Traffic Lights,1,B,1,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+1ijunle,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+1ijunle,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+1ijunle,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+UESTC_Defense,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+UESTC_Defense,Traffic Lights,0,B,0,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,implementation
+UESTC_Defense,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+UESTC_Defense,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+Choby,Spit Problem,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Choby,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+masha,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+masha,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+masha,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+masha,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+palikrushev,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+palikrushev,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+palikrushev,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+lyrics,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+lyrics,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lyrics,Mail Stamps,0,C,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+lyrics,Ant on the Tree,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+livingroom,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+livingroom,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+livingroom,Mail Stamps,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+livingroom,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+Mex-Mans,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Mex-Mans,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mex-Mans,Mail Stamps,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+nitin.gangahar,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+nitin.gangahar,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nitin.gangahar,Mail Stamps,0,C,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+HwangScornedAsianTeams,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+HwangScornedAsianTeams,Mail Stamps,1,C,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+gaoyuan,Spit Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+gaoyuan,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gaoyuan,Mail Stamps,1,C,0,0,0,1,0,0,5,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+romanov.andrey,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+romanov.andrey,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahm.kam_92,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ahm.kam_92,Traffic Lights,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahm.kam_92,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Noxt,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Noxt,Traffic Lights,1,B,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Noxt,Mail Stamps,0,C,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+yiming94,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+yiming94,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+yiming94,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yiming94,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+alexander86,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+alexander86,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexander86,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+alexander86,Quarrel,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+alexander86,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+KOKS,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+KOKS,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sjbr,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sjbr,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sjbr,Mail Stamps,1,C,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+fujiyama,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+fujiyama,Traffic Lights,0,B,0,0,0,0,0,8,9,0,0,0,0,0,0,0,0,0,0,implementation
+fujiyama,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+fujiyama,Ant on the Tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+scottaix,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+scottaix,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+scottaix,Mail Stamps,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+scottaix,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+scottaix,Quarrel,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+lgarcia,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+lgarcia,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+lgarcia,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+primorial,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+primorial,Traffic Lights,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+primorial,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+primorial,Ant on the Tree,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+Suvorov,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Suvorov,Traffic Lights,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+babak,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+babak,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+babak,Mail Stamps,1,C,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+cswudi0,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+cswudi0,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cswudi0,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+cswudi0,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+avpostnikov,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+avpostnikov,Traffic Lights,0,B,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+avpostnikov,Mail Stamps,0,C,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+avpostnikov,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+avpostnikov,Quarrel,1,E,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+codetest,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+codetest,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+codetest,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+codetest,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+McLaren,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+McLaren,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+McLaren,Mail Stamps,1,C,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Jens,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Jens,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jens,Mail Stamps,1,C,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+chenchen1024,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+chenchen1024,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chenchen1024,Mail Stamps,1,C,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+xDEMONx,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+xDEMONx,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xDEMONx,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+vahan,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+vahan,Traffic Lights,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+vahan,Mail Stamps,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+rookie,Spit Problem,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+zhk,Spit Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+zhk,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhk,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+zhk,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+TarifEzaz,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+TarifEzaz,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+asif_iut,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+asif_iut,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fe1,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+fe1,Traffic Lights,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+fe1,Quarrel,1,E,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+fe1,Mail Stamps,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+ruslan.sennov,Spit Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+ruslan.sennov,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruslan.sennov,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+ruslan.sennov,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+Hero,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Hero,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hero,Mail Stamps,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Homyachok,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Homyachok,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Homyachok,Mail Stamps,0,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Homyachok,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+Haleh,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Haleh,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Haleh,Mail Stamps,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+HourGlass,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+HourGlass,Mail Stamps,1,C,0,0,0,1,2,0,2,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+acwang,Spit Problem,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+acwang,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+acwang,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+act2cool,Spit Problem,1,A,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,brute force
+act2cool,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+act2cool,Mail Stamps,0,C,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+HomoInformaticus,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+HomoInformaticus,Traffic Lights,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+HomoInformaticus,Mail Stamps,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+HomoInformaticus,Ant on the Tree,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+Alex-Gran,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Alex-Gran,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jaamaa,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+jaamaa,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jaamaa,Mail Stamps,1,C,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+bigeye,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+bigeye,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bigeye,Mail Stamps,1,C,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+orangenius,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+orangenius,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+orangenius,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+orangenius,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+ChenWu,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ChenWu,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+ChenWu,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,dfs and similar,graphs,implementation"
+ttsuki,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ttsuki,Traffic Lights,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ttsuki,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+ttsuki,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+zermx_011,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+zermx_011,Traffic Lights,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+zermx_011,Mail Stamps,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+simp1eton,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+simp1eton,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+simp1eton,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+simp1eton,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+adel_gilmullin,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+adel_gilmullin,Traffic Lights,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+os_b,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+os_b,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+os_b,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+0_0,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+0_0,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shidfar,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Shidfar,Traffic Lights,1,B,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Shidfar,Mail Stamps,0,C,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Clone,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Clone,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Clone,Mail Stamps,0,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Clone,Ant on the Tree,1,D,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+sidi,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sidi,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sidi,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Brambar,Spit Problem,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Brambar,Mail Stamps,1,C,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+sara,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sara,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lex_1403,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+lex_1403,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lex_1403,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+sepehrmousavi,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sepehrmousavi,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+Iren,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Iren,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hogeover30,Spit Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+hogeover30,Traffic Lights,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hogeover30,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+zaq1xsw2tktk,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+zaq1xsw2tktk,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zaq1xsw2tktk,Mail Stamps,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+magzhan,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+magzhan,Traffic Lights,1,B,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+rushego,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Xerxes,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Xerxes,Traffic Lights,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Xerxes,Mail Stamps,1,C,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+dcp,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dcp,Traffic Lights,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+dcp,Mail Stamps,1,C,1,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+random_1,Spit Problem,1,A,1,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+random_1,Traffic Lights,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+random_1,Mail Stamps,0,C,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+ahimsa,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ahimsa,Traffic Lights,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+kirakira,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+kirakira,Quarrel,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"graphs,shortest paths"
+kirakira,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+onlyone,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+onlyone,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+onlyone,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+onlyone,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+PML,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+PML,Traffic Lights,1,B,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,implementation
+PML,Mail Stamps,0,C,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+mythosil,Spit Problem,1,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mythosil,Traffic Lights,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+mythosil,Mail Stamps,0,C,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Ugzuzg,Spit Problem,0,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Ugzuzg,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ugzuzg,Mail Stamps,1,C,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+karpinski,Spit Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+karpinski,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+karpinski,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+karpinski,Ant on the Tree,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dfs and similar,trees"
+yantar92,Spit Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+noname379,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+noname379,Traffic Lights,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+putin,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+putin,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+putin,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+putin,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+wand125,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+wand125,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wand125,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+ndlong,Spit Problem,1,A,1,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ndlong,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ndlong,Mail Stamps,0,C,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+muntasir,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+muntasir,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+muntasir,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+muntasir,Ant on the Tree,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+muntasir,Quarrel,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+tohuuquan,Spit Problem,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+tohuuquan,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tohuuquan,Mail Stamps,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+mail2bidhan,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+metar,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+metar,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+metar,Mail Stamps,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+metar,Ant on the Tree,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+scistu,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+scistu,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+scistu,Mail Stamps,1,C,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+dlut_ql,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dlut_ql,Traffic Lights,0,B,0,0,0,1,0,1,2,0,0,0,0,0,0,0,0,0,0,implementation
+dlut_ql,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+rinigan,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+rinigan,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rinigan,Mail Stamps,1,C,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+msagimbekov,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+msagimbekov,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+msagimbekov,Mail Stamps,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+nise_nabe,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+nise_nabe,Traffic Lights,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+nise_nabe,Mail Stamps,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+nise_nabe,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+__tabara,Spit Problem,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+__tabara,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+__tabara,Mail Stamps,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+rajnesh,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+tmiyamon,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+tmiyamon,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tmiyamon,Mail Stamps,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+tmiyamon,Ant on the Tree,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+ddd,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ddd,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ddd,Mail Stamps,1,C,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+diepluu0307,Spit Problem,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+diepluu0307,Traffic Lights,1,B,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+Austeritas,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Austeritas,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Austeritas,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Austeritas,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+f.nasim,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+f.nasim,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ulysses_mn,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ulysses_mn,Traffic Lights,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+ulysses_mn,Mail Stamps,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Pekaz,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Pekaz,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pekaz,Mail Stamps,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Pekaz,Ant on the Tree,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+Pekaz,Quarrel,0,E,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+Spoorock,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Spoorock,Traffic Lights,1,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+pfctgeorge,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+pfctgeorge,Traffic Lights,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Beast,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+Beast,Traffic Lights,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+fukirk,Spit Problem,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+akshayk0406,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+akshayk0406,Traffic Lights,1,B,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,implementation
+Zhandos,Spit Problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Zhandos,Traffic Lights,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+andreyv,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+andreyv,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+andreyv,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+andreyv,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+gourav.bit,Spit Problem,0,A,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+gourav.bit,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gourav.bit,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+a286729485,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+a286729485,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Quazar,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Quazar,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+Respect2D,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Respect2D,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Respect2D,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Respect2D,Ant on the Tree,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+Nursoltan,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Nursoltan,Traffic Lights,0,B,0,0,0,0,0,14,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nursoltan,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+ichyo,Spit Problem,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ichyo,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ichyo,Mail Stamps,1,C,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+ViktorM,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ViktorM,Traffic Lights,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,implementation
+ViktorM,Mail Stamps,0,C,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+hunyadym,Spit Problem,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+hunyadym,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hunyadym,Mail Stamps,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+CodeZealot,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+CodeZealot,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+qq20091200,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+qq20091200,Traffic Lights,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+astrovsky,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+astrovsky,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shuaib,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Shuaib,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shuaib,Mail Stamps,0,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+aram,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+aram,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aram,Mail Stamps,1,C,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+sunzuhan,Spit Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+sunzuhan,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rupxup,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+rupxup,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shahriaroo,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+shahriaroo,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shahriaroo,Mail Stamps,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+EzhikOo,Spit Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+siteshshrivastava,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+siteshshrivastava,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vipul_iiita,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+vipul_iiita,Traffic Lights,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+istiak_iut,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ZorN,Spit Problem,1,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ZorN,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ZorN,Mail Stamps,0,C,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+devils13,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+20092100003,Spit Problem,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+20092100003,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+20092100003,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+20092100003,Ant on the Tree,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+ItsLastDay,Spit Problem,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ItsLastDay,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ralekseenkov,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+ralekseenkov,Ant on the Tree,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+ralekseenkov,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ralekseenkov,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ralekseenkov,Quarrel,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+strelok1918,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+strelok1918,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+15211243642,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+15211243642,Traffic Lights,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+ukokke,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ukokke,Traffic Lights,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ukokke,Mail Stamps,1,C,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+krad.4sh1sh,Spit Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+nextgen,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+nextgen,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+M.M.Z,Spit Problem,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+M.M.Z,Traffic Lights,1,B,0,0,0,1,0,4,0,0,0,1,0,0,0,0,0,0,0,implementation
+M.M.Z,Mail Stamps,0,C,0,0,0,1,0,0,2,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+kowalski,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+kowalski,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kowalski,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+kowalski,Ant on the Tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+dx007,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dx007,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+philip01169,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+philip01169,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+philip01169,Mail Stamps,1,C,1,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+geekru2,Spit Problem,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+komron_hkl,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+komron_hkl,Traffic Lights,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+vinicius,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+vinicius,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+anoop.nitdgp,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+anoop.nitdgp,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Shaitan,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Shaitan,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shaitan,Mail Stamps,0,C,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+minhtien_142,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+paranoid,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+paranoid,Traffic Lights,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+paranoid,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+qjklw,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+qjklw,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+qjklw,Mail Stamps,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+jurong,Spit Problem,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+jurong,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+jurong,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+harrymwz,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+harrymwz,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+harrymwz,Mail Stamps,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+htrinh,Spit Problem,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+htrinh,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ershad,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+zzz,Spit Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+zzz,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zzz,Mail Stamps,1,C,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+1guangnian,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+1guangnian,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+1guangnian,Mail Stamps,1,C,0,0,0,1,1,0,0,0,2,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+kiyoshi,Spit Problem,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+kiyoshi,Traffic Lights,0,B,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,implementation
+kiyoshi,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+logicmachine,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+logicmachine,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+logicmachine,Ant on the Tree,1,D,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+ljl,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ljl,Traffic Lights,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Evilanarhist,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Evilanarhist,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nuhbye,Spit Problem,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+nuhbye,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nuhbye,Mail Stamps,0,C,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+dima11221122,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Scalar,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Scalar,Traffic Lights,0,B,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,implementation
+Scalar,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+ishandutta2007,Spit Problem,0,A,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+xhas,Spit Problem,0,A,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+tranquangtrung1989,Spit Problem,0,A,0,0,0,3,0,1,1,0,0,0,0,0,0,0,1,0,0,brute force
+tranquangtrung1989,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+windwardor,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+windwardor,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+windwardor,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+windwardor,Ant on the Tree,1,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+Anurag,Spit Problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+unki,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+unki,Traffic Lights,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+unki,Mail Stamps,0,C,0,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Opu,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,brute force
+lqhuy93,Spit Problem,1,A,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+lqhuy93,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Farhad,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+Farhad,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Farhad,Mail Stamps,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+yasulib,Spit Problem,0,A,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,brute force
+yasulib,Traffic Lights,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+yasulib,Mail Stamps,0,C,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+newboy_ils,Spit Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+newboy_ils,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,implementation
+Azadeh,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Azadeh,Traffic Lights,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kashyap_kumar,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+kashyap_kumar,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eather,Spit Problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Eather,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Elenka,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Elenka,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+phyllo,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+phyllo,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+phyllo,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+oskirych,Spit Problem,0,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+oskirych,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+oskirych,Mail Stamps,1,C,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+SupeR-MaN,Spit Problem,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+topman3758,Spit Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,brute force
+mahfuz,Spit Problem,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mahfuz,Traffic Lights,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dronte,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Dronte,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dronte,Mail Stamps,0,C,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+victoryland,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+victoryland,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+victoryland,Mail Stamps,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+paulocezar,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+paulocezar,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+paulocezar,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+paulocezar,Ant on the Tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+4a1ka,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+rybak,Spit Problem,1,A,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,brute force
+rybak,Traffic Lights,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+rybak,Mail Stamps,0,C,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+akimonoiryou,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+akimonoiryou,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+akimonoiryou,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+mousavi.uk,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mousavi.uk,Mail Stamps,1,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+PAG,Spit Problem,1,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,brute force
+PAG,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kool.coder,Spit Problem,0,A,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+kool.coder,Traffic Lights,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+saket-j,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+saket-j,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+saket-j,Mail Stamps,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Sane,Spit Problem,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Sane,Traffic Lights,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+zafar_sust_bd,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+zafar_sust_bd,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+girishkadlinitk,Spit Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+logN,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+logN,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+logN,Mail Stamps,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+jun0cho,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+jun0cho,Traffic Lights,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jjchat,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+jjchat,Traffic Lights,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+falcon,Spit Problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+falcon,Traffic Lights,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Empty,Spit Problem,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+Empty,Traffic Lights,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+vlady,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+vlady,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vlady,Spit Problem,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+vlady,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+tsyrya,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+tsyrya,Mail Stamps,1,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+arduous,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+arduous,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Cheburashka,Spit Problem,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+Cheburashka,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lucky_geck,Spit Problem,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+lucky_geck,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lucky_geck,Mail Stamps,0,C,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+xiongli,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+xiongli,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+verma.pratyush,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+verma.pratyush,Mail Stamps,1,C,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+verma.pratyush,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+joaovrmaia,Spit Problem,0,A,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+gmunkhbaatarmn,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+gmunkhbaatarmn,Traffic Lights,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+gmunkhbaatarmn,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Mohannad,Spit Problem,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Mohannad,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mohannad,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Te4NIK,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Te4NIK,Traffic Lights,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Artanis,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Artanis,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+UESTC_tornado,Spit Problem,0,A,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+UESTC_tornado,Traffic Lights,0,B,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+qwertyiop3344,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+qwertyiop3344,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yohta,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+yohta,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yohta,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+yohta,Ant on the Tree,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+Wen_Cz,Spit Problem,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Wen_Cz,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hnu0314,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+hnu0314,Traffic Lights,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hnu0314,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+200830740509,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+200830740509,Traffic Lights,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+SavchukAM,Spit Problem,0,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,brute force
+SavchukAM,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+SavchukAM,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+SavchukAM,Ant on the Tree,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+SavchukAM,Quarrel,1,E,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+Sleipnir,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+123pro,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+123pro,Traffic Lights,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+almaz_kh,Spit Problem,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+almaz_kh,Traffic Lights,1,B,0,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+nayimsust,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+nayimsust,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+luky.kashyap,Traffic Lights,0,B,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,implementation
+luky.kashyap,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+luky.kashyap,Mail Stamps,1,C,0,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+mfkhr,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mfkhr,Traffic Lights,1,B,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,implementation
+mfkhr,Mail Stamps,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+dronoff,Spit Problem,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dronoff,Mail Stamps,1,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+SyFy,Spit Problem,0,A,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,brute force
+SyFy,Traffic Lights,0,B,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+SyFy,Mail Stamps,0,C,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+SyFy,Ant on the Tree,0,D,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+SyFy,Quarrel,0,E,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+leshik,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+leshik,Traffic Lights,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+-3A-,Spit Problem,1,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,brute force
+dark.coder,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+shou,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+shou,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shou,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Dias,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+camoroh13,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+camoroh13,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+camoroh13,Mail Stamps,0,C,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+lonelyprog,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+lonelyprog,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Umedjon,Traffic Lights,0,B,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Umedjon,Spit Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+190510,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+190510,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+190510,Mail Stamps,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Oryshych,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Oryshych,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Oryshych,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+magdi,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+magdi,Traffic Lights,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+krizalidw,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+krizalidw,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+curious.dev.ua,Ant on the Tree,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,trees"
+curious.dev.ua,Mail Stamps,0,C,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+curious.dev.ua,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+curious.dev.ua,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Saif,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Saif,Traffic Lights,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+glukin,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+glukin,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+m.elahi,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+m.elahi,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+m.elahi,Mail Stamps,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+hiiit,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+hiiit,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+fookwood,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+fookwood,Mail Stamps,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+zhangyuqing123,Spit Problem,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+zhangyuqing123,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vishnutej,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+vishnutej,Traffic Lights,1,B,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+Rupak,Spit Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Rupak,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rupak,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+taruta,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+taruta,Traffic Lights,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+taruta,Mail Stamps,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+sujz,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sujz,Traffic Lights,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+ilsaf13,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ilsaf13,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aadarsh1093,Spit Problem,0,A,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,brute force
+NovaBlast,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+NovaBlast,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Minato,Spit Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Minato,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mars314,Spit Problem,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+Mars314,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+n_bool,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mahamudsust,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mahamudsust,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Debanjan,Spit Problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Debanjan,Traffic Lights,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,implementation
+mostafa_elabady,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mostafa_elabady,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shashwat.gupta,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+shashwat.gupta,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+maxvasil,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+maxvasil,Traffic Lights,1,B,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+Tachyon,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Tachyon,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tachyon,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+zxy_snow,Spit Problem,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+bgabbasov,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+bgabbasov,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bgabbasov,Mail Stamps,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Tribal,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Tribal,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bhava_CFB,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+b.moogii09,Spit Problem,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+b.moogii09,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wats,Spit Problem,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+wats,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+bhardwajjayesh7,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+bhardwajjayesh7,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+atvnri,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+atvnri,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ErzhanDS,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+master_j,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+master_j,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+EugeneBolotin,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+EugeneBolotin,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+EugeneBolotin,Mail Stamps,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+marser,Spit Problem,0,A,1,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+marser,Quarrel,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+marser,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nkjing91,Spit Problem,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+nkjing91,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mhm.asghari,Spit Problem,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mhm.asghari,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zjy3186511,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+kyuridenamida,Mail Stamps,0,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+kyuridenamida,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+kyuridenamida,Traffic Lights,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Creed,Spit Problem,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Creed,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+Ryo,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+parklinkivic,Spit Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+gestapolur,Spit Problem,1,A,1,0,0,1,1,4,0,0,1,0,0,0,0,0,0,0,0,brute force
+regmar,Spit Problem,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+david.a.peter,Spit Problem,1,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+david.a.peter,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+2nikita_b,Spit Problem,0,A,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,brute force
+2nikita_b,Traffic Lights,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xlfd,Spit Problem,0,A,0,0,0,0,10,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+Mary,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Brisingr,Quarrel,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,shortest paths"
+Brisingr,Mail Stamps,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Brisingr,Traffic Lights,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Brisingr,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+chetan1507,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+chetan1507,Mail Stamps,1,C,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+iman_MC,Spit Problem,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+iman_MC,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+khaniki.e,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+khaniki.e,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+zakir.exe,Spit Problem,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+zakir.exe,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xuanquy0102,Spit Problem,1,A,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,brute force
+xuanquy0102,Traffic Lights,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+ER.abd_off,Spit Problem,1,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+mirdamad,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mirdamad,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mehrankhodabandeh,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mehrankhodabandeh,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gaston770,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+gaston770,Traffic Lights,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gaston770,Mail Stamps,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+rothchild,Spit Problem,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+robb_billy,Spit Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+robb_billy,Traffic Lights,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+SHAMOOS,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Silv.B,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Gelka,Spit Problem,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Gelka,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+me_vikash7,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+amin4,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+San,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+undefined_thimpu,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+__Joker,Spit Problem,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+__Joker,Traffic Lights,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DenisPodlesnykh,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Light_Yagami,Spit Problem,1,A,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Light_Yagami,Traffic Lights,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Light_Yagami,Mail Stamps,0,C,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+praba4640,Mail Stamps,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,graphs,implementation"
+Woodpecker,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+jitendrapal,Traffic Lights,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+A_wu,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+samshu,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ZobninVladislav_It-Team,Spit Problem,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Manish-Kumar,Spit Problem,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+t.gogniashvili,Traffic Lights,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation

@@ -1,0 +1,1277 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+SergeiFedorov,Perfect Pair,0,A,1,0,0,0,0,3,0,3,0,0,0,0,0,1,0,0,0,brute force
+SergeiFedorov,Balance,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+SergeiFedorov,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+SergeiFedorov,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,games"
+SergeiFedorov,Princess and Her Shadow,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,shortest paths"
+fmm,Perfect Pair,1,A,1,0,0,1,0,2,0,3,0,0,0,0,0,1,0,0,0,brute force
+fmm,Ants,1,B,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+fmm,Game with Powers,0,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+UESTC_Nocturne,Perfect Pair,0,A,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+UESTC_Nocturne,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+UESTC_Nocturne,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+UESTC_Nocturne,Balance,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+fetetriste,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+fetetriste,Ants,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+fhlasek,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+fhlasek,Game with Powers,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,games"
+fhlasek,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+MMJ,Perfect Pair,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,brute force
+watashi,Perfect Pair,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+watashi,Ants,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+watashi,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+SkyFire,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,brute force
+SkyFire,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+SkyFire,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+chnlich,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+chnlich,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+chnlich,Game with Powers,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+chnlich,Balance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+MrDindows,Perfect Pair,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+MrDindows,Ants,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+MrDindows,Game with Powers,0,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+ryry56,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+ryry56,Ants,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ryry56,Game with Powers,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+FattyPenguin,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+FattyPenguin,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+FattyPenguin,Balance,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+FattyPenguin,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+cxlove,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,brute force
+cxlove,Ants,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+cxlove,Game with Powers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+dolphinigle,Perfect Pair,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+dolphinigle,Ants,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dolphinigle,Balance,0,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+dolphinigle,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,games"
+Komaki,Perfect Pair,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,brute force
+Komaki,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Komaki,Balance,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+Komaki,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Komaki,Princess and Her Shadow,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,shortest paths"
+Nikitosh,Perfect Pair,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,brute force
+Nikitosh,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Gatina,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Gatina,Game with Powers,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Gatina,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+squarefk,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+squarefk,Ants,0,B,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+squarefk,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+izban,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+izban,Ants,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+daidailanlan,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+daidailanlan,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+daidailanlan,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+LGM,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+LGM,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Witalia,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Witalia,Ants,1,B,0,0,0,0,0,5,0,2,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+NALP,Perfect Pair,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,brute force
+NALP,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+NALP,Game with Powers,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+alex20030190,Perfect Pair,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+alex20030190,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+azlhust,Perfect Pair,0,A,1,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,brute force
+azlhust,Ants,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+miaout17,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+miaout17,Game with Powers,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Egor,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Egor,Ants,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Egor,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+sandytea,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sandytea,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sandytea,Game with Powers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+sandytea,Balance,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+iroro,Perfect Pair,0,A,0,0,0,0,0,1,0,2,1,0,0,0,0,1,0,0,0,brute force
+iroro,Ants,0,B,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Romka,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Romka,Ants,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Romka,Balance,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+Romka,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+TMandzu,Perfect Pair,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+TMandzu,Ants,1,B,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+TMandzu,Game with Powers,0,D,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+dreamoon,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dreamoon,Balance,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+dreamoon,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+VictorJavAdore,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+R_R_,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,brute force
+R_R_,Game with Powers,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+R_R_,Ants,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+meret,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+meret,Game with Powers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+meret,Balance,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+meret,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Vaness,Perfect Pair,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Vaness,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,games"
+hriss95,Perfect Pair,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Alex_2oo8,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Alex_2oo8,Ants,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Rasmus,Perfect Pair,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+Rasmus,Ants,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Rasmus,Game with Powers,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+rasinhas,Perfect Pair,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+stubbscroll,Perfect Pair,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,brute force
+stubbscroll,Ants,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+stubbscroll,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+NIGHTFIT,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+NIGHTFIT,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+slon,Perfect Pair,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+slon,Game with Powers,1,D,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"dp,games"
+kevinsogo,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+kevinsogo,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+kmjp,Perfect Pair,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+kmjp,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+kmjp,Game with Powers,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+ZloyNegr,Perfect Pair,0,A,0,0,0,1,0,4,0,0,0,0,0,0,0,2,0,0,0,brute force
+ZloyNegr,Ants,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+kissbuaa,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+kissbuaa,Game with Powers,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,games"
+kissbuaa,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+zhonghaoxi,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+zhonghaoxi,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+zhonghaoxi,Game with Powers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+ivan.metelsky,Perfect Pair,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,brute force
+ivan.metelsky,Ants,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ivan.metelsky,Game with Powers,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+ivan.metelsky,Balance,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+Yermak0v,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Yermak0v,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Yermak0v,Game with Powers,1,D,0,0,0,2,0,6,0,0,1,0,0,0,0,0,0,0,0,"dp,games"
+lxyxynt,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Omelyanenko,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Omelyanenko,Ants,1,B,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,"brute force,implementation"
+Omelyanenko,Game with Powers,1,D,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+enot.1.10,Perfect Pair,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+enot.1.10,Ants,0,B,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+enot.1.10,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+For_the_Love,Perfect Pair,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+For_the_Love,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+For_the_Love,Game with Powers,1,D,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+135678942570,Perfect Pair,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+135678942570,Game with Powers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,games"
+jonathanpaulson,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+jonathanpaulson,Ants,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+jonathanpaulson,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+0O0o00OO0Oo0o0Oo,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+0O0o00OO0Oo0o0Oo,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+0O0o00OO0Oo0o0Oo,Game with Powers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+0O0o00OO0Oo0o0Oo,Balance,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+Comrad,Perfect Pair,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,brute force
+Comrad,Ants,0,B,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+SergeyRogulenko,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+SergeyRogulenko,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+SergeyRogulenko,Game with Powers,0,D,1,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,"dp,games"
+SergeyRogulenko,Balance,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+sevenkplus,Perfect Pair,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+sevenkplus,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+sevenkplus,Balance,1,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+ahmed_aly,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+ahmed_aly,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+NVAL,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+NVAL,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dojiboy9,Perfect Pair,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Zlobober,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Zlobober,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Zlobober,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+stevenkplus,Perfect Pair,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+stevenkplus,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+stevenkplus,Balance,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+bohuss,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+bohuss,Ants,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mR.ilchi,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mR.ilchi,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+mR.ilchi,Ants,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+yukim,Perfect Pair,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+yukim,Ants,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Sisu,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Sisu,Game with Powers,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Sisu,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Sisu,Balance,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+Krig,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Krig,Ants,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Krig,Balance,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+Fefer_Ivan,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Fefer_Ivan,Ants,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Fefer_Ivan,Balance,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+a142857a,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+a142857a,Game with Powers,0,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+a142857a,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+a142857a,Balance,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+savinov,Perfect Pair,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+savinov,Ants,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+savinov,Game with Powers,1,D,0,0,0,1,0,3,0,0,1,0,0,0,0,0,0,0,0,"dp,games"
+sd0061,Perfect Pair,0,A,1,0,0,0,0,7,0,1,0,0,0,0,0,1,0,0,0,brute force
+sd0061,Ants,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sd0061,Game with Powers,1,D,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+t0nyukuk,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+t0nyukuk,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+RomaWhite,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+RomaWhite,Game with Powers,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Avitella,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Avitella,Ants,1,B,1,0,0,0,0,1,0,2,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+PinkieDashForever,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+PinkieDashForever,Balance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+qiu_francis,Perfect Pair,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+qiu_francis,Ants,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+nwin,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,brute force
+nwin,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+hiphip,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+tuananh93,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+tuananh93,Game with Powers,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+tuananh93,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+James,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+James,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+James,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+alpc104,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+alpc104,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+alpc104,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+y346491470,Perfect Pair,0,A,1,0,0,1,0,2,0,1,0,0,0,0,0,1,0,0,0,brute force
+y346491470,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,games"
+clouilt,Perfect Pair,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,brute force
+clouilt,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+miketcyue,Perfect Pair,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,2,0,0,0,brute force
+miketcyue,Ants,0,B,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+miketcyue,Game with Powers,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+OoO000oOOOoOooOo,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+OoO000oOOOoOooOo,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+OoO000oOOOoOooOo,Game with Powers,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"dp,games"
+OoO000oOOOoOooOo,Balance,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+gdisastery,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+kyuridenamida,Perfect Pair,0,A,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+kyuridenamida,Ants,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Pattara.S,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Pattara.S,Game with Powers,0,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Pattara.S,Ants,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+flowlight,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+flowlight,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+flowlight,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,games"
+Dwell_at_Penn,Perfect Pair,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+SkylyXD,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,brute force
+SkylyXD,Ants,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+SkylyXD,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+aa2985759,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+aa2985759,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+subscriber,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+subscriber,Balance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+subscriber,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+subscriber,Ants,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+akashdeep,Perfect Pair,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,brute force
+akashdeep,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+BSBandme,Perfect Pair,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+BSBandme,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+HAPKOMAH,Perfect Pair,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,brute force
+aropan,Perfect Pair,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,brute force
+aropan,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+aropan,Balance,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+aropan,Game with Powers,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+alpc164,Perfect Pair,0,A,1,0,0,0,1,1,0,2,0,0,0,0,0,1,0,0,0,brute force
+alpc164,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+alpc164,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+bajaga2,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+bajaga2,Balance,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+gxnncrx1993,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+fushar,Perfect Pair,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+fushar,Game with Powers,0,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Goofy57,Perfect Pair,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Goofy57,Ants,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Goofy57,Game with Powers,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Arterm,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Arterm,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Arterm,Balance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+pavellevap,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+pavellevap,Game with Powers,1,D,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+takapt,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,brute force
+betalife37,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+betalife37,Ants,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+betalife37,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+betalife37,Balance,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+LeBron,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+LeBron,Ants,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ArmanK,Perfect Pair,1,A,1,0,0,1,0,0,0,1,0,0,0,0,0,2,0,0,0,brute force
+ArmanK,Ants,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+tomas.svab,Perfect Pair,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+tomas.svab,Ants,0,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+asi1024,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+asi1024,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+hockey_for_NOI,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+hockey_for_NOI,Game with Powers,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+qw4990,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+qw4990,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+cerealguy,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+cerealguy,Ants,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+cerealguy,Game with Powers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+cerealguy,Balance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+ziki,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+ziki,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ziki,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+rjmantilla,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+rjmantilla,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+KADR,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+KADR,Ants,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+KADR,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+KADR,Balance,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+dianbei,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+dianbei,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,games"
+espr1t,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+espr1t,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+espr1t,Game with Powers,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+marcina007,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+marcina007,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+marcina007,Game with Powers,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dp,games"
+marcina007,Balance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+mochavic,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mochavic,Ants,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mochavic,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+SuprDewd,Perfect Pair,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+SuprDewd,Ants,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+SuprDewd,Game with Powers,0,D,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"dp,games"
+Frommi,Perfect Pair,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Frommi,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Shapo,Perfect Pair,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+Shapo,Game with Powers,0,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Shapo,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+tehnar,Perfect Pair,1,A,1,0,0,1,0,1,0,1,0,0,0,0,0,2,0,0,0,brute force
+tehnar,Ants,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ntit_co1,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+ntit_co1,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Vergissmeinnicht,Perfect Pair,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+Vergissmeinnicht,Ants,0,B,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,"brute force,implementation"
+Vergissmeinnicht,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+alexey.enkov,Perfect Pair,0,A,1,0,0,0,0,2,0,2,0,0,0,0,0,1,0,0,0,brute force
+alexey.enkov,Ants,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+boleyn.su,Perfect Pair,0,A,0,0,0,0,4,4,0,0,0,0,0,0,0,2,0,0,0,brute force
+boleyn.su,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+tanzaku,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+tanzaku,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Shik,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Shik,Ants,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Shik,Game with Powers,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+NurlashKO,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+NurlashKO,Ants,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,"brute force,implementation"
+jehad131,Perfect Pair,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+jehad131,Game with Powers,1,D,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"dp,games"
+satja,Perfect Pair,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,brute force
+Scorpy,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Scorpy,Ants,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+theycallhimtom,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+theycallhimtom,Ants,1,B,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+theycallhimtom,Balance,1,C,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+ASPIRINKA,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+pragrame,Perfect Pair,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+pragrame,Balance,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+Enchom,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Enchom,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Chen_ChaoRui,Perfect Pair,0,A,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,brute force
+Chen_ChaoRui,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Chen_ChaoRui,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+_meshanya_,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+_meshanya_,Ants,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+_meshanya_,Game with Powers,1,D,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"dp,games"
+Jokser,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Jokser,Ants,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Jokser,Balance,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+Eureka,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Eureka,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Eureka,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+wolf1000,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+wolf1000,Ants,1,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Dembel,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Dembel,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Dembel,Balance,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+Um_nik,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Um_nik,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,games"
+eduardische,Perfect Pair,0,A,1,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,brute force
+eduardische,Game with Powers,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+eduardische,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+urahara,Perfect Pair,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Rubanenko,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Rubanenko,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+geniucos,Perfect Pair,1,A,1,0,0,0,0,3,0,1,0,0,0,0,0,1,0,0,0,brute force
+logicmachine,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+logicmachine,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+hiepsieunhan,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+hiepsieunhan,Game with Powers,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+hiepsieunhan,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Hamition,Perfect Pair,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,brute force
+msg555,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+msg555,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+msg555,Balance,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+ifsmirnov,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ifsmirnov,Game with Powers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+ifsmirnov,Balance,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+ifsmirnov,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+lyoz,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+lyoz,Ants,1,B,0,0,0,1,0,0,0,2,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+lyoz,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+gilesg,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+gilesg,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+gilesg,Ants,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+yygy,Perfect Pair,0,A,0,0,0,0,2,5,0,0,0,0,0,0,0,1,0,0,0,brute force
+yygy,Game with Powers,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+bor.is,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+azizkhan,Perfect Pair,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,brute force
+azizkhan,Balance,0,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+azizkhan,Game with Powers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+azizkhan,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+r13,Perfect Pair,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+r13,Ants,1,B,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"brute force,implementation"
+veluca93,Perfect Pair,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+veluca93,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+veluca93,Game with Powers,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"dp,games"
+KrK,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+KrK,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+KrK,Game with Powers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+liympanda,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+liympanda,Ants,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+liympanda,Balance,0,C,1,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+liympanda,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,games"
+GagGuy,Perfect Pair,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+GagGuy,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+GagGuy,Balance,1,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+kuangbin,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+kuangbin,Ants,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+shilov,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Serzhan,Perfect Pair,1,A,1,0,0,0,1,1,0,2,0,0,0,0,0,1,0,0,0,brute force
+vlad107,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+vlad107,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+vlad107,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,games"
+thinfaifai,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+thinfaifai,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+thinfaifai,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+striver,Perfect Pair,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,brute force
+striver,Game with Powers,0,D,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+striver,Ants,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+blabla404,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+blabla404,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+lisang,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+lisang,Ants,1,B,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+lisang,Game with Powers,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+ridowan007,Perfect Pair,0,A,0,0,0,1,0,3,0,1,0,0,0,0,0,2,0,0,0,brute force
+ridowan007,Game with Powers,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+ig_dug,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+ig_dug,Ants,0,B,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ig_dug,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Salamander,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Begga_2,Perfect Pair,0,A,1,0,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Begga_2,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+gs12117,Perfect Pair,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+gs12117,Ants,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+gs12117,Game with Powers,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Maigo,Perfect Pair,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+Maigo,Ants,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Maigo,Balance,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+KirillB,Perfect Pair,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+KirillB,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+astro75,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+astro75,Ants,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+LiGhTeNinG,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+LiGhTeNinG,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+LiGhTeNinG,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+isti757,Perfect Pair,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+huangshenno1,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+huangshenno1,Ants,1,B,1,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+shef_2318,Perfect Pair,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,brute force
+shef_2318,Ants,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+vitipunto,Perfect Pair,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,brute force
+jfuentes,Perfect Pair,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+wtcts,Perfect Pair,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+__math,Perfect Pair,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+Ilya_MSU,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Ilya_MSU,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Taube,Perfect Pair,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+Taube,Game with Powers,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+ACMood,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+KungA,Perfect Pair,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+KungA,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+evima,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+evima,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+evima,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Kaga2,Perfect Pair,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,brute force
+Kaga2,Ants,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+kuailezhish,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+kuailezhish,Game with Powers,0,D,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"dp,games"
+nhap96,Perfect Pair,1,A,1,0,0,1,0,5,0,0,0,0,0,0,0,1,0,0,0,brute force
+nhap96,Ants,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ysyshtc,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Amtrix,Perfect Pair,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Wild_Hamster,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Wild_Hamster,Ants,1,B,0,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+takaramono,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+takaramono,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+takaramono,Game with Powers,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dp,games"
+Gassa,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Gassa,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Gassa,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+teleport,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+maksay,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+maksay,Game with Powers,1,D,1,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+MehrdadM,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Azat_Yusupov,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+barty,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+barty,Ants,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+barty,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+nemomojie,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+nemomojie,Ants,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+snuke,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+snuke,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+SergeyLazarev,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+afaf,Perfect Pair,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,brute force
+afaf,Ants,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+fedimser,Perfect Pair,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+fedimser,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+fedimser,Balance,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+laoriu,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+gongbaoa,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+gongbaoa,Ants,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+fuch,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+fuch,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+fuch,Game with Powers,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+chlxyd,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+chlxyd,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+chlxyd,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+this_isssssyy,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+xing89qs,Perfect Pair,0,A,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,brute force
+xing89qs,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+xing89qs,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+ilona_kpr,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+stan,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+stan,Ants,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+stan,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+alpc115,Perfect Pair,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+alpc115,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+alpc115,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Eledven,Perfect Pair,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Eledven,Game with Powers,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+makrusak,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+makrusak,Ants,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+toppykung,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+toppykung,Ants,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sokian,Perfect Pair,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+sokian,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sokian,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+sune2,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sune2,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sune2,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+TankDestroyer,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+TankDestroyer,Game with Powers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+TankDestroyer,Ants,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+__tutankhamun__,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+__tutankhamun__,Ants,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+__tutankhamun__,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+FelixMirave,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+FelixMirave,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+FelixMirave,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+sn23581,Perfect Pair,1,A,1,0,0,0,0,9,0,0,0,0,0,0,0,1,0,0,0,brute force
+kraskevich,Perfect Pair,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+kraskevich,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+kraskevich,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+levlam,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+levlam,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+levlam,Game with Powers,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,games"
+nfssdq,Perfect Pair,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+nfssdq,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Kokos,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Schullz,Perfect Pair,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+forget,Perfect Pair,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,brute force
+forget,Ants,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mzry1992,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mzry1992,Game with Powers,1,D,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+sggutier,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Ixanezis,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Ixanezis,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Ixanezis,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+sillyboy,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sillyboy,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+Reza_H,Perfect Pair,1,A,1,0,0,0,0,2,0,0,1,0,0,0,0,1,0,0,0,brute force
+Reza_H,Ants,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+con_nha_ngheo,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+con_nha_ngheo,Ants,0,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+con_nha_ngheo,Game with Powers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+technolt,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+technolt,Ants,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+AlexDmitriev,Perfect Pair,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+AlexDmitriev,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+AlexDmitriev,Game with Powers,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+rinigan,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+rinigan,Game with Powers,1,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+anudeep2011,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+anudeep2011,Ants,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+kawatea,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+kawatea,Ants,1,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+kawatea,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+frog1902,Perfect Pair,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,brute force
+frog1902,Ants,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ztxz16,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+ztxz16,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+ztxz16,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,games"
+homo_sapiens,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+homo_sapiens,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+homo_sapiens,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+scli,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,brute force
+scli,Ants,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+scli,Balance,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+scli,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+ADJA,Perfect Pair,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,brute force
+ADJA,Ants,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+toothless,Perfect Pair,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Fata1ist,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Fata1ist,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Fata1ist,Ants,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+eduard.piliposyan,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+eduard.piliposyan,Ants,1,B,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+eduard.piliposyan,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Akhtyamov_Pavel,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+keivan,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+keivan,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+zemen,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+zemen,Balance,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+sharph,Perfect Pair,1,A,1,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,brute force
+sharph,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Cromel,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Cromel,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Cromel,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+fura,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+fura,Game with Powers,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+-XraY-,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+-XraY-,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+nrg3,Perfect Pair,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+nrg3,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+Igor_Kudryashov,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Igor_Kudryashov,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Igor_Kudryashov,Game with Powers,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,"dp,games"
+VladGavrila,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+VladGavrila,Ants,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+VladGavrila,Balance,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+VladGavrila,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Slamur,Perfect Pair,1,A,1,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,brute force
+tracyzhu,Perfect Pair,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+tracyzhu,Ants,1,B,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+tracyzhu,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+HGMinh95,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Satoshi_Pikachu,Perfect Pair,1,A,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+Satoshi_Pikachu,Ants,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+atnurgaliev,Perfect Pair,0,A,1,0,0,1,1,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+atnurgaliev,Ants,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+FunkyCat,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+FunkyCat,Ants,1,B,0,0,0,4,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+FunkyCat,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+miguelmaurizio,Perfect Pair,1,A,1,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+marspeople,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+marspeople,Game with Powers,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Erfan_Mot,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Erfan_Mot,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+sankear,Perfect Pair,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,brute force
+sankear,Game with Powers,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dp,games"
+sankear,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dani1373,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dani1373,Game with Powers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+dani1373,Ants,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+PavelSavchenkov,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+dj3500,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dj3500,Balance,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+zhanyl,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+zhanyl,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+zhanyl,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+a_h1926,Perfect Pair,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+a_h1926,Balance,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+fatest,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+fatest,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sdshxs,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+sdshxs,Ants,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sdshxs,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+White_Bear,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+White_Bear,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+White_Bear,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Simplex,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Simplex,Game with Powers,1,D,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+mugurelionut,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mugurelionut,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mugurelionut,Balance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+mugurelionut,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+alpc105,Perfect Pair,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+alpc105,Ants,1,B,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+alpc105,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+cgy4ever,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+cgy4ever,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+cgy4ever,Game with Powers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+cgy4ever,Balance,1,C,1,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+WildUtah,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,brute force
+WildUtah,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+snake13,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+snake13,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+hanfei19910905,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ivancastel,Perfect Pair,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,2,0,0,0,brute force
+guliashvili,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+guliashvili,Game with Powers,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+guliashvili,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+xscape,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+xscape,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+xscape,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Hujiwara,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Hujiwara,Game with Powers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Hujiwara,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Shtrix,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Shtrix,Ants,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+Shtrix,Game with Powers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Fride,Perfect Pair,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Fride,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Shef,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Shef,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Shef,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Shef,Balance,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+johnasselta,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+johnasselta,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+johnasselta,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+azaky,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+azaky,Ants,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+y3eadgbe,Perfect Pair,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,brute force
+y3eadgbe,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+y3eadgbe,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+neko13,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+neko13,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+neko13,Ants,1,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+white_cobra1,Perfect Pair,0,A,0,0,0,0,0,4,0,1,0,0,0,0,0,1,0,0,0,brute force
+white_cobra1,Ants,0,B,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,"brute force,implementation"
+sweetsc,Perfect Pair,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+sweetsc,Ants,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Fcdkbear,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Fcdkbear,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Fcdkbear,Game with Powers,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+catupper,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+catupper,Ants,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+catupper,Game with Powers,0,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+kelvin,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+kelvin,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+kelvin,Balance,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+kelvin,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+916852,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+916852,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+916852,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+CA72,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+CA72,Ants,1,B,1,0,0,1,0,5,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+CA72,Balance,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+GeKa,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+GeKa,Ants,1,B,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+yimmon,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,brute force
+yimmon,Ants,1,B,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"brute force,implementation"
+suhendry,Perfect Pair,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+suhendry,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+suhendry,Game with Powers,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Stebaev,Perfect Pair,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,brute force
+Stebaev,Ants,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+i1s9m9s5,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+i1s9m9s5,Game with Powers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+i1s9m9s5,Ants,1,B,1,0,0,0,1,1,0,1,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+infrmtcs,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+infrmtcs,Ants,1,B,1,0,0,0,1,1,0,1,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+infrmtcs,Game with Powers,1,D,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Hedayet,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+valih10,Perfect Pair,0,A,1,0,0,1,0,4,0,1,0,0,0,0,0,1,0,0,0,brute force
+valih10,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+valih10,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+xeronix,Perfect Pair,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+MeinKraft,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Ra16bit,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Ra16bit,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dreamyyou,Perfect Pair,1,A,1,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,brute force
+dreamyyou,Ants,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+aman181993,Perfect Pair,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+rng_58,Game with Powers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+rng_58,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+rng_58,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+rng_58,Balance,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+YX201314,Perfect Pair,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+YX201314,Ants,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+lost3030,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+moshiur,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+moshiur,Game with Powers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+maciejk,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Gyosh,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Gyosh,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Krasnokutskiy,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Krasnokutskiy,Ants,1,B,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+naagi,Perfect Pair,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+naagi,Ants,0,B,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ahmed.abdrabo,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+seanwu,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+seanwu,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+seanwu,Balance,1,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+Templar,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+yc5-yc,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+yc5-yc,Ants,1,B,2,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+gogokefakefa,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+gogokefakefa,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+climpet,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+climpet,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+climpet,Game with Powers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+ConanKudo,Perfect Pair,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,brute force
+ConanKudo,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+ConanKudo,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+HIR180,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+HIR180,Game with Powers,0,D,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"dp,games"
+jskhirtladze,Perfect Pair,1,A,1,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,brute force
+jskhirtladze,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+SebP,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+SebP,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Slayer_,Perfect Pair,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+Slayer_,Ants,1,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"brute force,implementation"
+Algiz,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+Algiz,Ants,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+AlexAlvarez,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+AlexAlvarez,Ants,1,B,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+matrix,Perfect Pair,1,A,1,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,brute force
+matrix,Ants,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+doxuanviet1996,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+doxuanviet1996,Ants,1,B,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,"brute force,implementation"
+chavit,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+chavit,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+chavit,Ants,1,B,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,"brute force,implementation"
+zeulb,Perfect Pair,0,A,1,0,0,0,0,4,0,3,0,0,0,0,0,1,0,0,0,brute force
+zeulb,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+GlebsHP,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+GlebsHP,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+GlebsHP,Game with Powers,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+GlebsHP,Balance,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+uwi,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+uwi,Game with Powers,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+uwi,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+uwi,Balance,1,C,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+riad,Perfect Pair,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,brute force
+riad,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+shioshiota,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+shioshiota,Ants,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Heart_Blue,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Heart_Blue,Ants,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Heart_Blue,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Jonasz,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Jonasz,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Jonasz,Ants,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Jonasz,Balance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+alex_or,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,brute force
+OmniLRenegadE,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+OmniLRenegadE,Ants,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Solej,Perfect Pair,0,A,1,0,0,0,0,1,0,2,0,0,0,0,0,1,0,0,0,brute force
+Solej,Balance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+Solej,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Trytrytry,Perfect Pair,0,A,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,brute force
+wrong,Perfect Pair,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+wrong,Ants,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+wrong,Balance,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+wrong,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+FoodIsGood,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+FoodIsGood,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+FoodIsGood,Balance,1,C,1,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+Raoul,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Raoul,Ants,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+ben.hwang,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+profit,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+klamathix,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+klamathix,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ydc,Perfect Pair,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+ydc,Ants,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+lxc,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+lxc,Ants,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+lxc,Game with Powers,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Piter,Perfect Pair,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,1,0,0,0,brute force
+Piter,Game with Powers,1,D,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,"dp,games"
+dragoon,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dragoon,Game with Powers,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+nims11,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+nims11,Ants,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ishikado,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+leandro92,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+leandro92,Ants,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+RAINBOW123,Perfect Pair,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+RAINBOW123,Ants,1,B,0,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+HwangScornedAsianTeams,Perfect Pair,0,A,0,0,0,0,0,8,0,2,0,0,0,0,0,1,0,0,0,brute force
+HwangScornedAsianTeams,Game with Powers,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+adelnobel,Perfect Pair,0,A,0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,0,0,brute force
+MarioYC,Perfect Pair,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+ItsLastDay,Perfect Pair,1,A,1,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,brute force
+CaliburianC.C.,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+CaliburianC.C.,Ants,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+al13n,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+al13n,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+al13n,Game with Powers,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+al13n,Balance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+cjtoribio,Perfect Pair,0,A,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,brute force
+cjtoribio,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+cjtoribio,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+witua,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+witua,Game with Powers,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+i_love_daniel,Perfect Pair,0,A,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+i_love_daniel,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+potaty,Perfect Pair,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,brute force
+potaty,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+seryp,Perfect Pair,1,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ahm.kam_92,Perfect Pair,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,2,0,0,0,brute force
+ahm.kam_92,Ants,0,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Avalanche,Perfect Pair,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Avalanche,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Avalanche,Game with Powers,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+egor-belikov,Perfect Pair,1,A,1,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+egor-belikov,Ants,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Neil,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Neil,Ants,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+_sunny,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Umqra,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Umqra,Game with Powers,1,D,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+flashmt,Perfect Pair,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+flashmt,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+flashmt,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+NSV,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+NSV,Ants,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Misha100896,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Misha100896,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+mfv,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mfv,Ants,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+gvalentiny,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+gvalentiny,Ants,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+delta_4d,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+delta_4d,Ants,1,B,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ccdd4211,Perfect Pair,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+ccdd4211,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ccdd4211,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+sweiss,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sweiss,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sweiss,Game with Powers,1,D,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"dp,games"
+primenumber,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+primenumber,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+pedrovictor,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+pedrovictor,Ants,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+fitter,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+fitter,Ants,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ayakut,Perfect Pair,0,A,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+malcolm,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+malcolm,Game with Powers,0,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+malcolm,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+NotImplemented,Perfect Pair,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,brute force
+NotImplemented,Ants,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Jami_CSEDU,Perfect Pair,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+s0en1it,Perfect Pair,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+s0en1it,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+s0en1it,Ants,0,B,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,"brute force,implementation"
+Mars314,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,brute force
+Mars314,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Mars314,Game with Powers,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Jonis,Perfect Pair,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,brute force
+Jonis,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+parina1,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+parina1,Ants,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+boat31972,Perfect Pair,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+fcjy,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+fcjy,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+A.Elahi,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+chaos0000,Perfect Pair,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+it4.kp,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+it4.kp,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+it4.kp,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+wRabbits_AlMag,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+wRabbits_AlMag,Ants,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dovegx,Perfect Pair,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dovegx,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dovegx,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+alex700,Perfect Pair,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+xhsong,Perfect Pair,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+ron.ryv,Perfect Pair,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+ynq1242,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Depool,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Depool,Ants,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+Alpc_Necs,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Alpc_Necs,Ants,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+egor50216,Game with Powers,1,D,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,"dp,games"
+egor50216,Perfect Pair,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+syimyuzya,Perfect Pair,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+syimyuzya,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+experience257,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+experience257,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+cmd,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+cmd,Balance,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+cmd,Ants,1,B,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+buda,Perfect Pair,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+filix,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+filix,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+temich,Perfect Pair,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+phtniit,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+phtniit,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+1106100116,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+1106100116,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Temirulan,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Temirulan,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+mstczuo,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+SeyedParsa,Perfect Pair,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+SeyedParsa,Ants,0,B,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ssly,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+abhiranjan,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+abhiranjan,Ants,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+natsugiri,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+natsugiri,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+natsugiri,Game with Powers,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+natsugiri,Balance,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+NikitaD,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+NikitaD,Ants,1,B,1,0,0,2,0,4,0,4,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Aman,Perfect Pair,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,brute force
+Aman,Ants,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Aman,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+igorwr,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+gskhirtladze,Perfect Pair,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,brute force
+el_primo,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+el_primo,Ants,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+YerzhanU,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+YerzhanU,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+YerzhanU,Game with Powers,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+qph-Jeremy,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+qph-Jeremy,Ants,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+xie,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+xie,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+API,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+API,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+wafrelka,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,brute force
+OVR,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+OVR,Ants,1,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+NateRiverxkh,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+NateRiverxkh,Game with Powers,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+9mmlitswe,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+mirsaid_mir,Perfect Pair,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+mirsaid_mir,Ants,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mirsaid_mir,Game with Powers,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+vodanhna,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+vodanhna,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+vodanhna,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+yejinru,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+yejinru,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+yejinru,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Gabaum,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Gabaum,Game with Powers,0,D,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,games"
+Gabaum,Ants,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+DmitriyH,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+DmitriyH,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Divanshu,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+niklasb,Perfect Pair,0,A,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+niklasb,Ants,1,B,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"brute force,implementation"
+Olga24912,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Olga24912,Ants,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+nhirokinet,Perfect Pair,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+nhirokinet,Ants,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+BIT_silence,Perfect Pair,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+mrtempo,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mrtempo,Ants,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+tonynater,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+tonynater,Ants,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ika,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ika,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Lisz_11,Perfect Pair,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+rulez123,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+rulez123,Game with Powers,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+jasison,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+jasison,Ants,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+tunyash,Perfect Pair,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+tunyash,Game with Powers,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+dinarisio,Perfect Pair,0,A,0,0,0,1,0,11,0,0,0,0,0,0,0,1,0,0,0,brute force
+shindo,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Slovinsky,Perfect Pair,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Slovinsky,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Slovinsky,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+pkqs90,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+pkqs90,Ants,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+pkqs90,Balance,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+Nobik_Glem,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Nobik_Glem,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Nobik_Glem,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+gridnevvvit,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sleepycoder,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sleepycoder,Game with Powers,1,D,0,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,"dp,games"
+momo_vn,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+momo_vn,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+yubowenok,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+yubowenok,Ants,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Free777Man,Perfect Pair,0,A,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,0,brute force
+Free777Man,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+a58,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+a58,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+a58,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Nikelandjelo,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Nikelandjelo,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+tourist,Game with Powers,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+tourist,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+tourist,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+tourist,Balance,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+meteorcloudy,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+meteorcloudy,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+timics23,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+k21,Perfect Pair,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+k21,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+stas99,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+XiaoDan,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+LinKin,Perfect Pair,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+LinKin,Game with Powers,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+tavyrikov,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+tavyrikov,Ants,0,B,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+xiaodao,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+xiaodao,Game with Powers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+xiaodao,Princess and Her Shadow,0,E,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,"constructive algorithms,shortest paths"
+xiaodao,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Navigabimus,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Navigabimus,Ants,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+VUAcoder,Perfect Pair,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+VUAcoder,Ants,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+mustafij,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+mustafij,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+nurs,Perfect Pair,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,brute force
+Banya,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+reiracofage,Perfect Pair,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+reiracofage,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+iceman91,Perfect Pair,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,brute force
+SebiSebi,Perfect Pair,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,brute force
+studytolive,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+studytolive,Ants,1,B,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+charlie,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+nishant4,Perfect Pair,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+hcretescu,Perfect Pair,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+hcretescu,Ants,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sokokaleb,Perfect Pair,0,A,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,brute force
+sokokaleb,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+sokokaleb,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Timur_Keks,Ants,0,B,0,0,0,0,1,4,0,3,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Timur_Keks,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Kharybin,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Kharybin,Game with Powers,1,D,0,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,"dp,games"
+archie004,Perfect Pair,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,brute force
+Nerevar,Ants,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Nerevar,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Nerevar,Balance,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+kb.,Perfect Pair,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+kb.,Game with Powers,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+icyrhyme,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+carber,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+carber,Game with Powers,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+deep,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+deep,Ants,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dancho,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dancho,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+dancho,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Timer,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Timer,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Timer,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+cjrzh,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+cjrzh,Ants,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+hoco,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+jingo_gogogo,Perfect Pair,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+jingo_gogogo,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+crazy_apple,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+crazy_apple,Ants,1,B,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+yokozuna57,Perfect Pair,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+yokozuna57,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+ipip2005,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ipip2005,Ants,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+ipip2005,Game with Powers,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+mihaipopa12,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mihaipopa12,Ants,1,B,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+wanbo,Perfect Pair,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+wanbo,Ants,1,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+wanbo,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+dr.ikros,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dr.ikros,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+Hachiikung,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sameer47,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sameer47,Game with Powers,1,D,1,0,0,0,10,1,0,0,0,0,0,0,0,1,0,0,0,"dp,games"
+abhimanyu,Perfect Pair,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+abhimanyu,Ants,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+ali_fiujnomali,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ali_fiujnomali,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+zamzam,Perfect Pair,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,brute force
+zamzam,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+indy256,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+indy256,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+enzam,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ycid,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Ramsey,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Aleksander94,Perfect Pair,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Aleksander94,Ants,1,B,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+svanidz1,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+svanidz1,Ants,1,B,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+max777alex,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+max777alex,Game with Powers,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+romanandreev,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+romanandreev,Ants,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+romanandreev,Balance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+romanandreev,Game with Powers,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+PERNEKHAN,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+PERNEKHAN,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,games"
+ping128,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+ping128,Game with Powers,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+ping128,Ants,0,B,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+shibly,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+shibly,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+map,Game with Powers,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+map,Perfect Pair,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,brute force
+map,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation"
+darkshadows,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+qwerty787788,Ants,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+qwerty787788,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+qwerty787788,Game with Powers,1,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+tomoki,Perfect Pair,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+S.Yesipenko,Perfect Pair,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+S.Yesipenko,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+S.Yesipenko,Game with Powers,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+mlc,Perfect Pair,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+tncks0121,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+tncks0121,Ants,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation"
+tncks0121,Game with Powers,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,games"
+tncks0121,Balance,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+daniel_de_darik,Perfect Pair,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+tenstep,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+tenstep,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+shamir14,Perfect Pair,0,A,0,0,0,0,0,11,0,0,0,0,0,0,0,1,0,0,0,brute force
+MeHdi.KaZemI8,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+MeHdi.KaZemI8,Game with Powers,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+MeHdi.KaZemI8,Ants,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+kuno4n,Perfect Pair,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+kuno4n,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+tzupengwang,Ants,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+tzupengwang,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+nebulae,Perfect Pair,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Fbulatov,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Fbulatov,Ants,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+NEIL74,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+NP-hard,Game with Powers,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+liouzhou_101,Game with Powers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+liouzhou_101,Perfect Pair,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+liouzhou_101,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+liouzhou_101,Balance,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+wolf_sothe,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+wolf_sothe,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+wolf_sothe,Ants,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+nokia,Perfect Pair,1,A,1,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,brute force
+mohammadhasan,Perfect Pair,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+zlbing,Perfect Pair,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+coderbd,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Boxer,Perfect Pair,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+cp12321,Balance,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+cp12321,Game with Powers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+cp12321,Perfect Pair,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+cp12321,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+zhyang,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Monmoy,Game with Powers,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Monmoy,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Kepnu4,Game with Powers,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Kepnu4,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Kepnu4,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Kepnu4,Balance,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dfs and similar,graphs,trees"
+adytp,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+m.radwan,Game with Powers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+m.radwan,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+m.radwan,Ants,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Shahriar_sust,Game with Powers,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+Shahriar_sust,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Shahriar_sust,Ants,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Konstantin,Ants,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+Konstantin,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Konstantin,Game with Powers,1,D,0,0,0,0,0,7,0,2,0,0,0,0,0,0,0,0,0,"dp,games"
+kAc,Game with Powers,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,games"
+kAc,Perfect Pair,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+kAc,Ants,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation"
+saeedn,Perfect Pair,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+yangyongsen,Perfect Pair,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+yangyongsen,Game with Powers,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,games"

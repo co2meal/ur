@@ -1,0 +1,613 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+ballon,Cutting Figure,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+ballon,Xor,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+ballon,Hamming Distance,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+KADR,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+KADR,Xor,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+KADR,Hamming Distance,0,C,0,0,0,0,1,4,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+maksay,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+maksay,Xor,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+maksay,Hamming Distance,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+niyaznigmatul,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+niyaznigmatul,Xor,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+niyaznigmatul,Hamming Distance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+AlexDmitriev,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+AlexDmitriev,Two Segments,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+AlexDmitriev,Xor,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+yeputons,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+yeputons,Xor,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+yeputons,Hamming Distance,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+yeputons,Two Segments,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+qwerty787788,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+qwerty787788,Hamming Distance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+Petr,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Petr,Hamming Distance,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+Petr,Xor,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Petr,Fibonacci Number,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+Petr,Two Segments,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Pattara.S,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"2-sat,chinese remainder theorem,trees"
+Pattara.S,Xor,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+Pattara.S,Hamming Distance,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+aropan,Cutting Figure,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+aropan,Xor,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+aropan,Hamming Distance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+tourist,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+tourist,Xor,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+tourist,Hamming Distance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+RAD,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+RAD,Xor,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+RAD,Hamming Distance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+sdya,Cutting Figure,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+sdya,Xor,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sdya,Hamming Distance,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+sdya,Fibonacci Number,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+Jokser,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Jokser,Hamming Distance,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+logicmachine,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Gassa,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Gassa,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+shilov,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+shilov,Xor,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+qwaker.00,Cutting Figure,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+qwaker.00,Xor,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+PavelKunyavskiy,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+PavelKunyavskiy,Xor,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+PavelKunyavskiy,Hamming Distance,1,C,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+subscriber,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+subscriber,Xor,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+seen,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"2-sat,chinese remainder theorem,trees"
+izban,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+izban,Xor,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,brute force
+izban,Hamming Distance,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+xlk,Cutting Figure,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+xlk,Xor,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,2,0,0,0,brute force
+xlk,Hamming Distance,1,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+wcwswswws,Cutting Figure,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+wcwswswws,Xor,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+RomaWhite,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+RomaWhite,Xor,1,B,1,0,0,1,2,2,0,2,0,0,0,0,0,1,0,0,0,brute force
+Shik,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Shik,Xor,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Shik,Hamming Distance,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+Aksenov239,Cutting Figure,0,A,0,0,0,0,0,8,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Aksenov239,Xor,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+AekdyCoin,Cutting Figure,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+AekdyCoin,Xor,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+SkyHawk,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+SkyHawk,Xor,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,brute force
+sdryapko,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+sdryapko,Xor,0,B,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,brute force
+hydrastuff,Cutting Figure,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+0O0o00OO0Oo0o0Oo,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+0O0o00OO0Oo0o0Oo,Xor,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+0O0o00OO0Oo0o0Oo,Hamming Distance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+0O0o00OO0Oo0o0Oo,Fibonacci Number,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+Malinovsky239,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+OoO000oOOOoOooOo,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+OoO000oOOOoOooOo,Xor,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+OoO000oOOOoOooOo,Hamming Distance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+Erop,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Erop,Hamming Distance,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,greedy,math,matrices"
+Erop,Xor,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Erop,Fibonacci Number,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+pele,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"2-sat,chinese remainder theorem,trees"
+yarrr,Cutting Figure,0,A,0,0,0,0,0,2,0,2,0,0,0,0,0,2,0,0,0,"2-sat,chinese remainder theorem,trees"
+yarrr,Xor,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+wRabbits_AlMag,Cutting Figure,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+wRabbits_AlMag,Xor,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,brute force
+GagGuy,Cutting Figure,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+GagGuy,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+GagGuy,Hamming Distance,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+havaliza,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"2-sat,chinese remainder theorem,trees"
+havaliza,Hamming Distance,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+havaliza,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Egor,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Egor,Xor,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Egor,Hamming Distance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+jiangzhijie,Cutting Figure,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+jiangzhijie,Xor,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+jiangzhijie,Hamming Distance,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+LeBron,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+kawatea,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+kawatea,Xor,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+iensen,Cutting Figure,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Dmitry_Egorov,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Dmitry_Egorov,Xor,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Dmitry_Egorov,Hamming Distance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+Leoyu,Cutting Figure,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+LGM,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+LGM,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+al13n,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+al13n,Xor,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+al13n,Hamming Distance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+sggutier,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+helThazar,Cutting Figure,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,"2-sat,chinese remainder theorem,trees"
+helThazar,Hamming Distance,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+oimaster,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+oimaster,Xor,0,B,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,brute force
+oimaster,Hamming Distance,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+leandro92,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+leandro92,Xor,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,brute force
+R_R_,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+R_R_,Xor,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+mR.ilchi,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+mR.ilchi,Xor,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+-DMYTRO-,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+-DMYTRO-,Xor,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+-DMYTRO-,Hamming Distance,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+Andrew_Makar,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Andrew_Makar,Xor,1,B,1,0,0,0,0,1,0,3,1,0,0,0,0,0,0,0,0,brute force
+good_mood,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+good_mood,Xor,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+good_mood,Hamming Distance,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+riad,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"2-sat,chinese remainder theorem,trees"
+uwi,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+uwi,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+uwi,Fibonacci Number,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+chaemon,Cutting Figure,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+chaemon,Xor,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+chaemon,Hamming Distance,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+iroro,Cutting Figure,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+rng_58,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+rng_58,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+rng_58,Two Segments,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+rng_58,Hamming Distance,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+rng_58,Fibonacci Number,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+WXYZ,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+WXYZ,Xor,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+WXYZ,Hamming Distance,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+akashin,Cutting Figure,0,A,0,0,0,0,0,2,0,4,1,0,0,0,0,2,0,0,0,"2-sat,chinese remainder theorem,trees"
+akashin,Xor,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+metar,Cutting Figure,1,A,1,0,0,0,0,6,0,0,0,0,0,0,0,2,0,0,0,"2-sat,chinese remainder theorem,trees"
+metar,Xor,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+Shef,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Shef,Xor,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Shef,Hamming Distance,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+espr1t,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+espr1t,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+fatest,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+fatest,Xor,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+hex539,Cutting Figure,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,0,"2-sat,chinese remainder theorem,trees"
+hex539,Xor,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+navi,Cutting Figure,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+navi,Hamming Distance,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+AguL,Cutting Figure,1,A,1,0,0,4,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+kuzmichev_dima,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+kuzmichev_dima,Hamming Distance,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+tloinuy,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"2-sat,chinese remainder theorem,trees"
+tloinuy,Xor,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+tloinuy,Hamming Distance,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+smilitude,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+cp12321,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+cp12321,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+it4.kp,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+it4.kp,Xor,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+it4.kp,Hamming Distance,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+Zlobober,Cutting Figure,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Zlobober,Hamming Distance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+Zlobober,Xor,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+fhlasek,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+fhlasek,Xor,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+pperm,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+pperm,Xor,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+pperm,Hamming Distance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+FattyPenguin,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+FattyPenguin,Xor,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+lgarcia,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"2-sat,chinese remainder theorem,trees"
+bcurcio,Cutting Figure,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+bcurcio,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+fura,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+fura,Xor,0,B,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,brute force
+lyoz,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+lyoz,Xor,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+forest,Cutting Figure,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+forest,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+buko,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+buko,Xor,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+vlad107,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+vlad107,Xor,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,brute force
+NikitaD,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+NikitaD,Xor,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+moshiur,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"2-sat,chinese remainder theorem,trees"
+moshiur,Xor,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,brute force
+dancho,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+dancho,Xor,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+dancho,Hamming Distance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+ArtemKadeev,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+ArtemKadeev,Xor,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+aram90,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+aram90,Xor,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+aram90,Hamming Distance,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+Sereja,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Sereja,Xor,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+huyuanming11,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+huyuanming11,Xor,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+knightL,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+knightL,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+asembl,Cutting Figure,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+asembl,Hamming Distance,1,C,1,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+Depool,Cutting Figure,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Depool,Xor,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,brute force
+_meshanya_,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+_meshanya_,Xor,1,B,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,brute force
+komiya,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"2-sat,chinese remainder theorem,trees"
+komiya,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+komiya,Hamming Distance,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+Cepera,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Cepera,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dj3500,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+dj3500,Hamming Distance,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+dj3500,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+homo_sapiens,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+homo_sapiens,Xor,0,B,0,0,0,0,0,7,0,1,0,0,0,0,0,1,0,0,0,brute force
+Simplex,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Simplex,Fibonacci Number,1,E,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+iloahz,Cutting Figure,1,A,1,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+ydnl,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+ydnl,Xor,0,B,0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,0,0,brute force
+hadi,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+hadi,Xor,1,B,0,0,0,1,0,5,0,1,0,0,0,0,0,2,0,0,0,brute force
+kyuridenamida,Cutting Figure,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"2-sat,chinese remainder theorem,trees"
+kyuridenamida,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+enot.1.10,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+enot.1.10,Xor,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+Sergey.Bankevich,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Sergey.Bankevich,Xor,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Endagorion,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+UESTC_Defense,Cutting Figure,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+UESTC_Defense,Xor,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+piotr.kukla,Cutting Figure,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+piotr.kukla,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+a_h1926,Cutting Figure,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+enzam,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+buithilien,Cutting Figure,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+buithilien,Xor,1,B,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,brute force
+cebrusfs,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+cebrusfs,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+HolkinPV,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+HolkinPV,Xor,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Riatre,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Riatre,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Riatre,Hamming Distance,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+kamranm,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+kamranm,Xor,1,B,1,0,0,0,0,1,0,2,0,0,0,0,0,1,0,0,0,brute force
+al_maz,Cutting Figure,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+al_maz,Xor,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+maximkoval,Cutting Figure,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+maximkoval,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+flydutchman,Cutting Figure,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"2-sat,chinese remainder theorem,trees"
+flydutchman,Xor,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,brute force
+Haibara502,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Haibara502,Xor,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+hogloid,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+hogloid,Xor,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+ishikado,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"2-sat,chinese remainder theorem,trees"
+Kepnu4,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Kepnu4,Xor,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+Kepnu4,Fibonacci Number,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+Kostroma,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Kostroma,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Kostroma,Hamming Distance,1,C,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+nab,Xor,0,B,1,0,0,0,0,2,0,2,0,0,0,0,0,1,0,0,0,brute force
+nab,Cutting Figure,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+NALP,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+NALP,Xor,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+NALP,Hamming Distance,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+ghnjk,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+ghnjk,Xor,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+ilyakor,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+ilyakor,Xor,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,brute force
+ilyakor,Hamming Distance,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+gasya,Cutting Figure,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+flashmt,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+flashmt,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+flashmt,Hamming Distance,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+nanikaka,Cutting Figure,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+GlebsHP,Cutting Figure,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+GlebsHP,Xor,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+GlebsHP,Hamming Distance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+GlebsHP,Fibonacci Number,1,E,0,0,0,1,0,3,0,1,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+sillyboy,Cutting Figure,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Igel_SK,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Igel_SK,Xor,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Igel_SK,Hamming Distance,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+SergeyLazarev,Cutting Figure,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+zetsubou,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+zetsubou,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Night_Fury,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"2-sat,chinese remainder theorem,trees"
+naagi,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+naagi,Xor,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+Slamur,Cutting Figure,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Slamur,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+sune2,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+sune2,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+HTML_Sanek,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+HTML_Sanek,Hamming Distance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+seanwu,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+seanwu,Xor,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+evima,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+evima,Xor,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,brute force
+Taygrim,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Taygrim,Xor,1,B,1,0,0,0,0,3,0,1,1,0,0,0,0,0,0,0,0,brute force
+Merlininice,Cutting Figure,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Merlininice,Xor,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+watashi,Xor,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+watashi,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+watashi,Hamming Distance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+watashi,Fibonacci Number,1,E,0,0,0,0,0,5,0,5,2,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+-XraY-,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+-XraY-,Xor,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+-XraY-,Hamming Distance,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+vagnard,Cutting Figure,0,A,0,0,0,0,1,7,0,1,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+vagnard,Xor,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Cyin,Cutting Figure,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+mmaxio,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+mmaxio,Hamming Distance,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+mmaxio,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+thanabhat,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"2-sat,chinese remainder theorem,trees"
+thanabhat,Xor,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+lydrainbowcat,Cutting Figure,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+lydrainbowcat,Xor,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+lydrainbowcat,Hamming Distance,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+Kornacker,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Kornacker,Xor,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Copymaster,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Copymaster,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Copymaster,Hamming Distance,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+Fata1ist,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Fata1ist,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+alexej,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,"2-sat,chinese remainder theorem,trees"
+White_Bear,Xor,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+White_Bear,Hamming Distance,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+White_Bear,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+phinfinity,Cutting Figure,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Rubanenko,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Rubanenko,Xor,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+StefanoT,Cutting Figure,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+StefanoT,Xor,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+witua,Cutting Figure,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+witua,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+L7we,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+L7we,Xor,1,B,0,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,brute force
+DAle,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+DAle,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+hhoomn,Cutting Figure,1,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+emo,Cutting Figure,1,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+emo,Xor,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,brute force
+yukim,Cutting Figure,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+yukim,Xor,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,brute force
+SourSpinach,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+jimon,Cutting Figure,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+jimon,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+chhung6,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+chhung6,Xor,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+pfctgeorge,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Hohol,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Hohol,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+nakari1124,Cutting Figure,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+nakari1124,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+tkcn,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+tkcn,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+tkcn,Fibonacci Number,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+Fcdkbear,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Fcdkbear,Xor,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Matjaz,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Matjaz,Xor,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+Bugman,Xor,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Bugman,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+yoh149,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+yoh149,Xor,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+KAN,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+KAN,Hamming Distance,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+KAN,Xor,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+calculus.saransh,Cutting Figure,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Creed,Cutting Figure,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+LinKin,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+LinKin,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Martin,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Martin,Xor,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Martin,Hamming Distance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+Proscriptus,Cutting Figure,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Proscriptus,Xor,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+tmbao,Cutting Figure,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+ksjuchi,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Shapo,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Shapo,Xor,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,brute force
+Shapo,Hamming Distance,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+shef_2318,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+shef_2318,Xor,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+ant.ermilov,Cutting Figure,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+ant.ermilov,Xor,0,B,0,0,0,0,2,1,0,2,2,0,0,0,0,0,0,0,0,brute force
+peterae86,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"2-sat,chinese remainder theorem,trees"
+peterae86,Hamming Distance,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+Logic_IU,Xor,0,B,1,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,brute force
+Logic_IU,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+pdwd,Cutting Figure,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+pdwd,Xor,1,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,brute force
+rembocoder,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+DPR-pavlin,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+danbanica,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+danbanica,Hamming Distance,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+Deamon,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Deamon,Xor,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+pershik,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+pershik,Xor,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,brute force
+shevchen,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+shevchen,Hamming Distance,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,greedy,math,matrices"
+kaushik.mv3,Cutting Figure,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+UESTC_Nocturne,Xor,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+UESTC_Nocturne,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+lzqxh,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+lzqxh,Hamming Distance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+lzqxh,Xor,1,B,0,0,0,0,0,1,0,0,1,0,0,0,0,2,0,0,0,brute force
+CleRIC,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+CleRIC,Xor,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+xay,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+salex,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+salex,Xor,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+salex,Hamming Distance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+fenzhang,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+fenzhang,Xor,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+EbTech,Cutting Figure,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,0,"2-sat,chinese remainder theorem,trees"
+hung06061995,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+jonathanpaulson,Cutting Figure,0,A,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+jonathanpaulson,Xor,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+tereshinvs,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+tereshinvs,Xor,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Hero,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+fura2,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+fura2,Xor,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+OutSide,Cutting Figure,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+brunoja,Cutting Figure,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+brunoja,Xor,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+__tutankhamun__,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+hmich,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+hmich,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+SkorKNURE,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+SkorKNURE,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+roypalacios,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+roypalacios,Xor,1,B,1,0,0,0,0,4,0,1,0,0,0,0,0,1,0,0,0,brute force
+mylyanyk.ivan,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+mylyanyk.ivan,Xor,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+hos.lyric,Hamming Distance,0,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+hos.lyric,Xor,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+hos.lyric,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+ibra,Cutting Figure,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+ibra,Xor,1,B,1,0,0,0,2,4,0,0,3,0,0,0,0,1,0,0,0,brute force
+BIT_silence,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+muliguishou,Cutting Figure,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+muliguishou,Xor,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,brute force
+muliguishou,Hamming Distance,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+I-juice,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+I-juice,Xor,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+I-juice,Hamming Distance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+1guangnian,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Seals,Cutting Figure,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+lne,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+lne,Xor,0,B,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,brute force
+IlyaCk,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+IlyaCk,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+kAc,Cutting Figure,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+kAc,Xor,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+ft.azadi,Cutting Figure,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"2-sat,chinese remainder theorem,trees"
+ft.azadi,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Vaness,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Vaness,Xor,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+m1ha1f,Xor,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+m1ha1f,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Enterpaise,Cutting Figure,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+malcolm,Cutting Figure,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+malcolm,Xor,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,brute force
+ilya.korovin,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+cyk2011,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+cyk2011,Xor,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Escapist,Cutting Figure,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,0,"2-sat,chinese remainder theorem,trees"
+Escapist,Xor,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Timur_Keks,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+lavin,Xor,0,B,0,0,0,0,1,4,0,0,0,0,0,0,0,1,0,0,0,brute force
+lavin,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+yiyiyi4321,Cutting Figure,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+KarlisS,Cutting Figure,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+yenthanh.t7,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+yenthanh.t7,Xor,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+hytirt,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+hytirt,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+jonathanirvings,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+jonathanirvings,Xor,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+Belonogov,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Belonogov,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+GeKa,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+GeKa,Xor,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+cleaner_leon,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+alexander.musman,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+nomearod,Cutting Figure,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+nomearod,Xor,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+xkszltl,Cutting Figure,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+xkszltl,Hamming Distance,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,greedy,math,matrices"
+xkszltl,Xor,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+Eureka,Cutting Figure,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Eureka,Xor,0,B,0,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,brute force
+Vitonka,Cutting Figure,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Kharybin,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Kharybin,Xor,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+lisang,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Captain_CoCo,Cutting Figure,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Captain_CoCo,Xor,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+data_h,Fibonacci Number,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+marspeople,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+marspeople,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+marspeople,Hamming Distance,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+VNBZTY,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+VNBZTY,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+AlphaStream,Cutting Figure,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+AlphaStream,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,brute force
+AlphaStream,Hamming Distance,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+Ahmed_Salama,Xor,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,brute force
+acherepanov,Xor,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+acherepanov,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+EriKKo,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+EriKKo,Xor,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,brute force
+pablo.aguilar,Xor,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+pablo.aguilar,Cutting Figure,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Snow_storm,Cutting Figure,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Snow_storm,Xor,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+c_loud26,Xor,0,B,0,0,0,0,0,1,0,0,4,0,0,0,0,0,0,0,0,brute force
+c_loud26,Cutting Figure,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,2,0,0,0,"2-sat,chinese remainder theorem,trees"
+makeevvladx,Cutting Figure,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+makeevvladx,Xor,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+juver,Cutting Figure,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+juver,Xor,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+VUAcoder,Cutting Figure,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+VUAcoder,Xor,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+Ch0W,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+aa2985759,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+aa2985759,Xor,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+choice,Xor,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+choice,Cutting Figure,1,A,1,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+tracyzhu,Cutting Figure,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+tracyzhu,Xor,0,B,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,brute force
+Azras,Cutting Figure,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,1,0,0,"2-sat,chinese remainder theorem,trees"
+Azras,Xor,1,B,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,brute force
+pratikmoona,Cutting Figure,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+pratikmoona,Xor,1,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Oryshych,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+Oryshych,Xor,1,B,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,brute force
+Hinidu,Xor,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+fushar,Xor,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+fushar,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+sniper0221,Cutting Figure,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+forifchen,Xor,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+forifchen,Hamming Distance,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+paulocezar,Cutting Figure,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Liu_Ts,Fibonacci Number,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+Kostyazz,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+eik0u,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+eik0u,Xor,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+hanfei19910905,Cutting Figure,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+pedrovictor,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+pedrovictor,Xor,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+dergach,Cutting Figure,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"2-sat,chinese remainder theorem,trees"
+landscape95,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"2-sat,chinese remainder theorem,trees"
+kostya_by,Xor,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+kostya_by,Cutting Figure,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+goryinyich,Hamming Distance,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+goryinyich,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+goryinyich,Xor,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Bidhan,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+Tinkturianec,Hamming Distance,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+ralekseenkov,Cutting Figure,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+ralekseenkov,Xor,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+dreamoon,Fibonacci Number,0,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+dreamoon,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+dreamoon,Xor,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+hirosegolf,Fibonacci Number,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+Goofy57,Xor,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Goofy57,Cutting Figure,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+beginner1010,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+seanwentzel42,Hamming Distance,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+seanwentzel42,Cutting Figure,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+doraemon,Xor,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+doraemon,Cutting Figure,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"2-sat,chinese remainder theorem,trees"
+MarioYC,Hamming Distance,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"
+Michael,Fibonacci Number,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+evader,Hamming Distance,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,greedy,math,matrices"

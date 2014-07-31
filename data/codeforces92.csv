@@ -1,0 +1,2113 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+valikluks1995,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+valikluks1995,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+valikluks1995,Newspaper Headline,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+valikluks1995,Queue,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+ant.ermilov,Chips,0,A,1,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+ant.ermilov,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ant.ermilov,Queue,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+random.johnnyh,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+random.johnnyh,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+random.johnnyh,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+random.johnnyh,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+dcp,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+dcp,Binary Number,1,B,0,0,0,0,0,3,0,6,0,0,0,0,0,0,0,0,0,greedy
+VChikh,Chips,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+VChikh,Binary Number,1,B,0,0,0,0,3,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+VChikh,Queue,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,"binary search,data structures"
+npinsker,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+npinsker,Binary Number,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+npinsker,Queue,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+npinsker,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+npinsker,Ski Base,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs"
+_jte_,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+_jte_,Binary Number,0,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+_jte_,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+I_L_P,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+I_L_P,Binary Number,0,B,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,greedy
+I_L_P,Newspaper Headline,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+I_L_P,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Hypuk,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Hypuk,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hypuk,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Hypuk,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+karpinski,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+karpinski,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+karpinski,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+karpinski,Queue,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+ping128,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ping128,Binary Number,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+ping128,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ping128,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+sicasli,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sicasli,Binary Number,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+sicasli,Newspaper Headline,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+sicasli,Queue,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Nox,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Nox,Binary Number,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+Nox,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Nox,Queue,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Tsumiman,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Tsumiman,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+Tsumiman,Newspaper Headline,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+red.color,Chips,1,A,1,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+red.color,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+red.color,Newspaper Headline,0,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ryry56,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ryry56,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ryry56,Newspaper Headline,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+ryry56,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+ondrah,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ondrah,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ondrah,Newspaper Headline,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+ondrah,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+malcolm,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+malcolm,Binary Number,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,greedy
+malcolm,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+malcolm,Newspaper Headline,1,C,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+sas4eka,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sas4eka,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sas4eka,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+sas4eka,Queue,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+hendri,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+hendri,Binary Number,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+hendri,Newspaper Headline,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+hendri,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+sdryapko,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sdryapko,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sdryapko,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+qu1ck,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+qu1ck,Binary Number,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+qu1ck,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+qu1ck,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+rinigan,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rinigan,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+rinigan,Newspaper Headline,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+rinigan,Queue,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Anastasko,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Anastasko,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Anastasko,Newspaper Headline,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+luckyi,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+luckyi,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+luckyi,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+luckyi,Queue,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+_Vadim_,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+_Vadim_,Binary Number,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,1,0,0,greedy
+_Vadim_,Newspaper Headline,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ronaflx,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ronaflx,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ronaflx,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ronaflx,Queue,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+ltaravilse,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ltaravilse,Binary Number,0,B,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,greedy
+ltaravilse,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ltaravilse,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Homich,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Homich,Binary Number,1,B,0,0,0,0,2,0,0,2,0,0,0,0,0,1,0,0,0,greedy
+Homich,Newspaper Headline,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+fendy_k1,Chips,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+fendy_k1,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fendy_k1,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+peety12,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+peety12,Binary Number,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+meow,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+meow,Binary Number,0,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+meow,Newspaper Headline,1,C,1,0,0,0,1,7,0,0,0,0,0,0,0,1,1,0,0,"binary search,data structures,dp,greedy"
+t.gogniashvili,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+t.gogniashvili,Binary Number,1,B,1,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,greedy
+Gyosh,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Gyosh,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gyosh,Newspaper Headline,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Gyosh,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+diarnwan,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+diarnwan,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+diarnwan,Newspaper Headline,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+diarnwan,Queue,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Navigabimus,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Navigabimus,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Navigabimus,Newspaper Headline,0,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Navigabimus,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Myungwoo,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Myungwoo,Binary Number,0,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Myungwoo,Newspaper Headline,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Myungwoo,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+niquefa_diego,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+niquefa_diego,Binary Number,0,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+niquefa_diego,Newspaper Headline,0,C,1,0,0,0,8,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+niquefa_diego,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+rj7.1990,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rj7.1990,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+rj7.1990,Newspaper Headline,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+giba,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+giba,Binary Number,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+giba,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+MSPA,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+MSPA,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MSPA,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+MSPA,Queue,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+eka,Chips,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+MitRo,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+MitRo,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+patsp,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+patsp,Binary Number,0,B,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+patsp,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+ikk,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ikk,Binary Number,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+ikk,Newspaper Headline,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ikk,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+ikk,Ski Base,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs"
+budabudimir,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+budabudimir,Binary Number,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+budabudimir,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+budabudimir,Newspaper Headline,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+KAN,Chips,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+KAN,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KAN,Newspaper Headline,0,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+KAN,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+CleRIC,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+CleRIC,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+CleRIC,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+CleRIC,Queue,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+Rosetta,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Rosetta,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+asif_iut,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+asif_iut,Newspaper Headline,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+akshayk0406,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+akshayk0406,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+akshayk0406,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+pshtanko,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pshtanko,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+pshtanko,Newspaper Headline,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+pshtanko,Queue,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+CAD415,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+CAD415,Binary Number,0,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+CAD415,Queue,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+CAD415,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+CAD415,Ski Base,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs"
+fanatid,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+fanatid,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+suminos,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+suminos,Binary Number,0,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+suminos,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+rexim,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rexim,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rexim,Newspaper Headline,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+GlebZhiglov.ru,Chips,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+GlebZhiglov.ru,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+GlebZhiglov.ru,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+GlebZhiglov.ru,Queue,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+ComradePetr,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ComradePetr,Binary Number,0,B,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,greedy
+ComradePetr,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ComradePetr,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+psilviu94,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+psilviu94,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+psilviu94,Newspaper Headline,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+psilviu94,Queue,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+NeverLand.Dai,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+NeverLand.Dai,Binary Number,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+NeverLand.Dai,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ErzhanDS,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ErzhanDS,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ErzhanDS,Queue,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+ErzhanDS,Newspaper Headline,1,C,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Rubanenko,Chips,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Rubanenko,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Rubanenko,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Rubanenko,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+KirillB,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+KirillB,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KirillB,Newspaper Headline,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+KirillB,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+kashyap_kumar,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kashyap_kumar,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kashyap_kumar,Newspaper Headline,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+kashyap_kumar,Queue,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+Warrior,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Warrior,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Warrior,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Warrior,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Matjaz,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Matjaz,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Matjaz,Newspaper Headline,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Matjaz,Queue,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+ababah,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ababah,Binary Number,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+ababah,Newspaper Headline,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+ababah,Queue,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+rajatag12,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rajatag12,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rajatag12,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+diogen,Chips,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+diogen,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+diogen,Queue,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+Tatyana_Petrashko,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Tatyana_Petrashko,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Tatyana_Petrashko,Queue,1,D,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Tatyana_Petrashko,Newspaper Headline,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+Khaled91,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Khaled91,Binary Number,1,B,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,greedy
+Khaled91,Newspaper Headline,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+VinyleEm,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+VinyleEm,Binary Number,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+klamathix,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+klamathix,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Yousef_Salama,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Yousef_Salama,Binary Number,1,B,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,greedy
+amirrr,Chips,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+amirrr,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+amirrr,Newspaper Headline,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+amirrr,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+makanbeling,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+makanbeling,Binary Number,0,B,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+makanbeling,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+makanbeling,Queue,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Perlik,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Perlik,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Perlik,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+asdqwe,Chips,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yasu0207,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yasu0207,Binary Number,1,B,0,0,0,0,1,1,0,3,0,0,0,0,0,0,0,0,0,greedy
+rayevg,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rayevg,Binary Number,1,B,0,0,0,1,0,1,0,2,0,0,0,0,0,0,0,0,0,greedy
+rayevg,Newspaper Headline,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+Quazar,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Quazar,Queue,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+mdonaj,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mdonaj,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+mdonaj,Newspaper Headline,1,C,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+Sasha,Chips,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Sasha,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sasha,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Sasha,Queue,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+bloops,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+bloops,Newspaper Headline,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+bloops,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+bloops,Queue,1,D,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Dgleich,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Dgleich,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dgleich,Newspaper Headline,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Dgleich,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Respect2D,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Respect2D,Binary Number,0,B,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+Respect2D,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Xhark,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Xhark,Ski Base,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"data structures,dsu,graphs"
+Xhark,Queue,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Xhark,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Xhark,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pratikmoona,Chips,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pratikmoona,Newspaper Headline,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+pratikmoona,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kawatea,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kawatea,Binary Number,1,B,1,0,0,0,1,1,0,5,0,0,0,0,0,0,0,0,0,greedy
+kawatea,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+kawatea,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Scorpy,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Scorpy,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Scorpy,Newspaper Headline,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Scorpy,Queue,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+stratocoder,Chips,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+stratocoder,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+stratocoder,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+stratocoder,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+PeaceDeath,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+PeaceDeath,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+PeaceDeath,Queue,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+lechjeda,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+lechjeda,Binary Number,0,B,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+lechjeda,Queue,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+lechjeda,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+nextgen,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+nextgen,Binary Number,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nextgen,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Seikang,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Seikang,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Seikang,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+SkyHawk,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+SkyHawk,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SkyHawk,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+SkyHawk,Queue,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Fedepousa,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Fedepousa,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+Fedepousa,Newspaper Headline,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Fedepousa,Queue,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Isa_rentacs,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Isa_rentacs,Binary Number,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Isa_rentacs,Queue,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+Isa_rentacs,Newspaper Headline,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+hogeover30,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+hogeover30,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+hogeover30,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Debugcool,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Debugcool,Binary Number,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+Debugcool,Newspaper Headline,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+Debugcool,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Darko,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Darko,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Darko,Newspaper Headline,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Darko,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+shadeel,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shadeel,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shadeel,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+BugKay,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+BugKay,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+BugKay,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+linuxoid,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+linuxoid,Binary Number,1,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+linuxoid,Newspaper Headline,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+linuxoid,Queue,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+Tigran92,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+QProgS,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+QProgS,Newspaper Headline,0,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+QProgS,Queue,0,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+QProgS,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+devilofaboy,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+devilofaboy,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+devilofaboy,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Tadrion,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Tadrion,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Tadrion,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+tatsuhiro.t,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tatsuhiro.t,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tatsuhiro.t,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+askthedancinggrass,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+askthedancinggrass,Binary Number,1,B,1,0,0,1,0,1,0,1,0,0,0,0,0,0,1,0,0,greedy
+askthedancinggrass,Newspaper Headline,1,C,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+a180285,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+a180285,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+a180285,Newspaper Headline,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+a180285,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+baukaman,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+baukaman,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+baukaman,Newspaper Headline,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+QZAR,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+QZAR,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+QZAR,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+QZAR,Newspaper Headline,1,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+grey_wind,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+grey_wind,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+grey_wind,Newspaper Headline,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+grey_wind,Queue,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+iostream,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+iostream,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+iostream,Newspaper Headline,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+AcFast,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+AcFast,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AcFast,Queue,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+AcFast,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ciprianfarcasanu,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ciprianfarcasanu,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ciprianfarcasanu,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ciprianfarcasanu,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+ZhouYuChen,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ZhouYuChen,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ZhouYuChen,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ZhouYuChen,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+qq20091200,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+qq20091200,Binary Number,0,B,1,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+qq20091200,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+qq20091200,Queue,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+ylllxw08,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ylllxw08,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ylllxw08,Newspaper Headline,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ylllxw08,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+nitin.gangahar,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+nitin.gangahar,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nitin.gangahar,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+nitin.gangahar,Queue,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+carber,Chips,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+carber,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+carber,Newspaper Headline,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+carber,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Meerstein,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Meerstein,Queue,0,D,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+Meerstein,Newspaper Headline,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Meerstein,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jayi,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+jayi,Binary Number,0,B,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+jayi,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+jayi,Queue,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+paulocezar,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+paulocezar,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+paulocezar,Newspaper Headline,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+jyliu27,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+jyliu27,Binary Number,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jyliu27,Queue,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+jyliu27,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+dharusimu,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+dharusimu,Binary Number,0,B,1,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,greedy
+dharusimu,Newspaper Headline,1,C,1,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+vanchope,Chips,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+vanchope,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+vanchope,Newspaper Headline,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+lintao,Chips,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+lintao,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lintao,Newspaper Headline,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+lintao,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Andrew146,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Andrew146,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Andrew146,Newspaper Headline,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Andrew146,Queue,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+FiftyNine,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+FiftyNine,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+FiftyNine,Newspaper Headline,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+San_Sany4,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+San_Sany4,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vruoso,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+vruoso,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vruoso,Newspaper Headline,1,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp,greedy"
+Slamur,Chips,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Slamur,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Slamur,Newspaper Headline,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Slamur,Queue,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+edwinlunando,Chips,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+edwinlunando,Binary Number,1,B,0,0,0,0,5,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+edwinlunando,Queue,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+wtf,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+wtf,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+wtf,Newspaper Headline,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp,greedy"
+wtf,Queue,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Creed,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Creed,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Creed,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Creed,Queue,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+iscsi,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+iscsi,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+iscsi,Queue,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+unprost,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+unprost,Binary Number,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+unprost,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+unprost,Queue,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+conzha,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+conzha,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+conzha,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+emppu,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+emppu,Binary Number,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+emppu,Newspaper Headline,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+emppu,Queue,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+emppu,Ski Base,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs"
+MarwanPP,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+MarwanPP,Binary Number,0,B,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,greedy
+MarwanPP,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+mustafij,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mustafij,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+mustafij,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mustafij,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+nickbuelich,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+nickbuelich,Binary Number,1,B,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,greedy
+ftfish,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ftfish,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ftfish,Newspaper Headline,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ftfish,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+logic_max,Chips,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+logic_max,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+logic_max,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+love_ly,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+love_ly,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+love_ly,Newspaper Headline,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+love_ly,Queue,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+todo,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+todo,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+todo,Newspaper Headline,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+todo,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+darksta5,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+darksta5,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+darksta5,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+darksta5,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Trytrytry,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Trytrytry,Binary Number,1,B,0,0,0,0,1,0,0,2,0,0,0,0,0,0,1,0,0,greedy
+Trytrytry,Newspaper Headline,0,C,0,0,0,0,0,12,0,1,1,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+moonlight131,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+moonlight131,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+moonlight131,Newspaper Headline,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+moonlight131,Queue,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+iauglov,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+iauglov,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+iauglov,Queue,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+kb.,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kb.,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kb.,Newspaper Headline,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+kb.,Queue,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+leonardo,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+leonardo,Binary Number,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+prpr,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+prpr,Binary Number,0,B,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,greedy
+prpr,Queue,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+prpr,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+sakyalol,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sakyalol,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sakyalol,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+sakyalol,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+tatuyan_edson,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tatuyan_edson,Binary Number,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,greedy
+tatuyan_edson,Newspaper Headline,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+MrPapaya,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+MrPapaya,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tunyash,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tunyash,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+tunyash,Newspaper Headline,1,C,0,0,0,0,0,6,0,5,2,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+bor.is,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+bor.is,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+bor.is,Queue,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+megachuhancer,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+megachuhancer,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+megachuhancer,Newspaper Headline,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+megachuhancer,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+tsyrya,Chips,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tsyrya,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+tsyrya,Binary Number,0,B,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+DimaPhil,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+DimaPhil,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DimaPhil,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+DenStep,Chips,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+DenStep,Binary Number,1,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+DenStep,Newspaper Headline,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+rtoni,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rtoni,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rtoni,Newspaper Headline,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+rtoni,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Diabolic,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Diabolic,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Diabolic,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+pfctgeorge,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pfctgeorge,Binary Number,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+pfctgeorge,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+pfctgeorge,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+rghosh92,Chips,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rghosh92,Binary Number,1,B,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+YuliaChe,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+YuliaChe,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+YuliaChe,Newspaper Headline,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+YuliaChe,Queue,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+insane,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+insane,Binary Number,0,B,1,0,0,0,1,1,0,4,0,0,0,0,0,0,0,0,0,greedy
+insane,Newspaper Headline,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+insane,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+delta_4d,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+delta_4d,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+delta_4d,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+tiirz,Chips,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tiirz,Binary Number,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+guestonearth,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+guestonearth,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+muntasir,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+muntasir,Binary Number,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+muntasir,Newspaper Headline,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+filipbitola,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+filipbitola,Binary Number,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+filipbitola,Newspaper Headline,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+rogerfgm,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rogerfgm,Binary Number,1,B,0,0,0,0,1,10,0,1,0,0,0,0,0,0,0,0,0,greedy
+rogerfgm,Newspaper Headline,0,C,0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+strelok1918,Chips,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+strelok1918,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+strelok1918,Newspaper Headline,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+multisystem,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+multisystem,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+multisystem,Newspaper Headline,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+multisystem,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+mystery_boy,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mystery_boy,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+mystery_boy,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+piotr.mikulski,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+piotr.mikulski,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+piotr.mikulski,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+piotr.mikulski,Queue,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+piotr.mikulski,Ski Base,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs"
+alf,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+alf,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alf,Queue,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+alf,Newspaper Headline,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Dima_qwer,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Dima_qwer,Newspaper Headline,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+Dima_qwer,Binary Number,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+Dima_qwer,Queue,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+chensqi,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+chensqi,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+chensqi,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+chensqi,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+hjr265,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+hjr265,Newspaper Headline,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+hjr265,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+evima,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+evima,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+goldwin,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+goldwin,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+goldwin,Newspaper Headline,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+goldwin,Queue,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+sola_93,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sola_93,Binary Number,1,B,1,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,greedy
+sola_93,Queue,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+CepGamer,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+CepGamer,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+CepGamer,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,"binary search,data structures"
+CepGamer,Newspaper Headline,0,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+litstrong,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+litstrong,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+naagi,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+naagi,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+naagi,Queue,1,D,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+vagnard,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+vagnard,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vagnard,Newspaper Headline,1,C,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+arshuaz,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+arshuaz,Binary Number,0,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,greedy
+arshuaz,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Tausiq,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Tausiq,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+iksuy,Chips,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+iksuy,Binary Number,1,B,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,greedy
+xiaoyoulei,Binary Number,0,B,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,greedy
+xiaoyoulei,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+xiaoyoulei,Newspaper Headline,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+xiaoyoulei,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+maggot092,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+maggot092,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+maggot092,Newspaper Headline,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp,greedy"
+maggot092,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Aries512,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Aries512,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Aries512,Newspaper Headline,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+nipolo,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+nipolo,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nipolo,Newspaper Headline,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+foxermen,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yarrow,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yarrow,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yarrow,Newspaper Headline,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+icek,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+icek,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+icek,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp,greedy"
+icek,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Shafaet,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Shafaet,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shafaet,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+HourGlass,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+HourGlass,Binary Number,1,B,0,0,0,0,1,2,0,1,0,0,0,0,0,1,0,0,0,greedy
+HourGlass,Newspaper Headline,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Ahmed_Salama,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Ahmed_Salama,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ahmed_Salama,Newspaper Headline,1,C,1,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Escapist,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Escapist,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Escapist,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Escapist,Queue,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Escapist,Ski Base,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs"
+Mirovan,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Mirovan,Binary Number,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+Mirovan,Newspaper Headline,0,C,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+1guangnian,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+1guangnian,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+1guangnian,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+1guangnian,Newspaper Headline,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+eolini,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+eolini,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+eolini,Newspaper Headline,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+eolini,Queue,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+K0stIa,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+K0stIa,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+K0stIa,Newspaper Headline,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+eha,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+eha,Binary Number,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+eha,Newspaper Headline,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+NSV,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+NSV,Binary Number,1,B,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+NSV,Queue,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+cupo_O,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cupo_O,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+a100,Chips,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+a100,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+a100,Newspaper Headline,1,C,0,0,0,0,2,6,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+shakil,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shakil,Binary Number,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+shakil,Newspaper Headline,0,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+htrinh,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+htrinh,Binary Number,1,B,1,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+htrinh,Newspaper Headline,1,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+jimon,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+jimon,Binary Number,0,B,1,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,greedy
+jimon,Newspaper Headline,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+jayesh02,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+jayesh02,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+jayesh02,Newspaper Headline,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+jayesh02,Queue,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+wz12,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+wz12,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+wz12,Newspaper Headline,1,C,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+wz12,Queue,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Georgievbg,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Georgievbg,Binary Number,0,B,0,0,0,0,1,3,0,1,0,0,0,0,0,0,0,0,0,greedy
+Georgievbg,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Georgievbg,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+calculus.saransh,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+calculus.saransh,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+calculus.saransh,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+yuta1024,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yuta1024,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+yuta1024,Newspaper Headline,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp,greedy"
+StRanger,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+StRanger,Queue,1,D,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+StRanger,Newspaper Headline,0,C,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Shark1919,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Shark1919,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shark1919,Queue,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Shark1919,Newspaper Headline,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+Atmo,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Atmo,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Suvorov,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Suvorov,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Suvorov,Queue,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+kontr,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kontr,Binary Number,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+kontr,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+kontr,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Blink,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Blink,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Blink,Newspaper Headline,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Inf_Zero,Chips,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Inf_Zero,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vector9x,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+vector9x,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+vector9x,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+vector9x,Queue,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+ziliang,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ziliang,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ziliang,Newspaper Headline,0,C,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ziliang,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+eudanip,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+eudanip,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+eudanip,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+eudanip,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+kohei0418,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kohei0418,Binary Number,1,B,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,greedy
+kohei0418,Newspaper Headline,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+kohei0418,Queue,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Depool,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Depool,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Depool,Newspaper Headline,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Marvel,Chips,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Marvel,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Marvel,Newspaper Headline,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Marvel,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+TwCode,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+TwCode,Binary Number,1,B,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,greedy
+TwCode,Newspaper Headline,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+TwCode,Queue,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Wahba,Binary Number,0,B,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,greedy
+Wahba,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Wahba,Newspaper Headline,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+beyondxgb,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+beyondxgb,Binary Number,1,B,1,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+beyondxgb,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+makeevvladx,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+makeevvladx,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+makeevvladx,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+makeevvladx,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+gmunkhbaatarmn,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+gmunkhbaatarmn,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+gmunkhbaatarmn,Newspaper Headline,1,C,1,0,0,0,0,3,0,3,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp,greedy"
+hanfei19910905,Chips,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+hanfei19910905,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+hanfei19910905,Newspaper Headline,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+hanfei19910905,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+zimbabwe,Chips,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+zimbabwe,Binary Number,1,B,1,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,greedy
+Berlin,Chips,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Berlin,Queue,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+Berlin,Newspaper Headline,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+alex_wang,Chips,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+alex_wang,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alex_wang,Newspaper Headline,1,C,0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+cirulapiph,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cirulapiph,Binary Number,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+cirulapiph,Newspaper Headline,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+mylyanyk.ivan,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mylyanyk.ivan,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mylyanyk.ivan,Newspaper Headline,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Tariqul,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Tariqul,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Tariqul,Newspaper Headline,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Yuliy,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Yuliy,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Yuliy,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+Yuliy,Queue,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+Cyin,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Cyin,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Cyin,Newspaper Headline,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Cyin,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+AleksBannikov,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+AleksBannikov,Binary Number,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+AleksBannikov,Newspaper Headline,0,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+AleksBannikov,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+zafar_sust_bd,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+zafar_sust_bd,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zafar_sust_bd,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+phyllipecesar,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+phyllipecesar,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+phyllipecesar,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+phyllipecesar,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Mrdotmoon,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Mrdotmoon,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mrdotmoon,Queue,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+sgaflv,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sgaflv,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sgaflv,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Dullittle,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Dullittle,Queue,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Dullittle,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dullittle,Newspaper Headline,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+AC9,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+AC9,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+AC9,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AC9,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+ferraritnl,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ferraritnl,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ferraritnl,Queue,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Decoder,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Decoder,Binary Number,1,B,1,0,0,2,0,2,0,0,0,0,0,0,0,0,1,0,0,greedy
+yongwhan,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yongwhan,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+yongwhan,Newspaper Headline,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+NonZero,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+NonZero,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+NonZero,Newspaper Headline,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+IwfWcf,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+IwfWcf,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+IwfWcf,Newspaper Headline,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp,greedy"
+sanchit_h,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sanchit_h,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sanchit_h,Newspaper Headline,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+nagochan,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+nagochan,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nagochan,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+nagochan,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+yuri.pechatnov,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yuri.pechatnov,Binary Number,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+yuri.pechatnov,Newspaper Headline,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+yuri.pechatnov,Queue,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+uisurumadushanka89,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+uisurumadushanka89,Binary Number,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,greedy
+uisurumadushanka89,Newspaper Headline,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+uisurumadushanka89,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Psilocybe,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Psilocybe,Binary Number,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Psilocybe,Newspaper Headline,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Psilocybe,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Padme,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Padme,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Padme,Newspaper Headline,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Jacinta,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Jacinta,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+egorow29,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+egorow29,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+egorow29,Queue,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+sergio10barca,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sergio10barca,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+sergio10barca,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+CostumeParty,Chips,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+CostumeParty,Binary Number,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+CostumeParty,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+natsugiri,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+natsugiri,Binary Number,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+natsugiri,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+xynx,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+xynx,Binary Number,0,B,1,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+xynx,Newspaper Headline,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+xynx,Queue,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Denor,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Denor,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Denor,Newspaper Headline,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+Thomas_Ahle,Chips,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Thomas_Ahle,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Thomas_Ahle,Newspaper Headline,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+15211243642,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+15211243642,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SphinX1990,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+SphinX1990,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SphinX1990,Newspaper Headline,0,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+SphinX1990,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Darsein,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Darsein,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Darsein,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+Darsein,Queue,1,D,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+ishikado,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ishikado,Binary Number,0,B,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+ishikado,Newspaper Headline,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+miaowu,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+miaowu,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+miaowu,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+miaowu,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+anuragsingh,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+anuragsingh,Binary Number,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+anuragsingh,Newspaper Headline,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+KuchumovIlya,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+KuchumovIlya,Binary Number,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+KuchumovIlya,Newspaper Headline,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+coder_1340,Chips,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+coder_1340,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,greedy
+coder_1340,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+EvgeniusASPX,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+EvgeniusASPX,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+EvgeniusASPX,Queue,0,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+EvgeniusASPX,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+TangJie,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+TangJie,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+TangJie,Newspaper Headline,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+TangJie,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+BIT,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+BIT,Binary Number,1,B,1,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,greedy
+flash36,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+flash36,Binary Number,1,B,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+flash36,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Ralf,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Ralf,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ralf,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+lynx.cpp,Chips,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+lynx.cpp,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lynx.cpp,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+lynx.cpp,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+pulkitg10,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pulkitg10,Binary Number,0,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+pulkitg10,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+pulkitg10,Queue,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+liugang123,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+liugang123,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+iTed,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+iTed,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+iTed,Newspaper Headline,1,C,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+m_a_s_91,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+m_a_s_91,Binary Number,1,B,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,greedy
+Tatyana,Chips,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Tatyana,Queue,1,D,0,0,0,0,0,4,0,1,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+Tatyana,Binary Number,0,B,0,0,0,1,0,2,0,3,2,0,0,0,0,0,0,0,0,greedy
+Nadezhda,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Nadezhda,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nadezhda,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+lonelyprog,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+lonelyprog,Binary Number,1,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lonelyprog,Newspaper Headline,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+spyric,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+spyric,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xeronix,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+xeronix,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+294067081,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+294067081,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+294067081,Newspaper Headline,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Hugo,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Hugo,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hugo,Newspaper Headline,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Hugo,Queue,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+InvincibleUZ,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+InvincibleUZ,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+InvincibleUZ,Newspaper Headline,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+InvincibleUZ,Queue,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+trunghieu11,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+trunghieu11,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+trunghieu11,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+sash6589,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sash6589,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+sash6589,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"binary search,data structures,dp,greedy"
+sash6589,Queue,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+devishot,Chips,0,A,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"implementation,math"
+devishot,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+devishot,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+oxymaccy,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+oxymaccy,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+oxymaccy,Newspaper Headline,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+oxymaccy,Queue,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+jfr,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+IlyaCk,Chips,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+IlyaCk,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+IlyaCk,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+mha_bd,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mha_bd,Binary Number,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+mha_bd,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+antonio081014,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+antonio081014,Binary Number,1,B,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,greedy
+d1xlord,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+d1xlord,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+d1xlord,Newspaper Headline,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+snowingsea129,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+snowingsea129,Binary Number,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+snowingsea129,Newspaper Headline,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+BandBandRock,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+BandBandRock,Binary Number,1,B,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+BandBandRock,Newspaper Headline,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+masibonge,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+masibonge,Binary Number,1,B,1,0,0,0,1,2,0,2,0,0,0,0,0,0,0,0,0,greedy
+masibonge,Newspaper Headline,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+tetsuma,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tetsuma,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+tetsuma,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+PashaAC,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+PashaAC,Binary Number,1,B,1,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+PashaAC,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+PashaAC,Newspaper Headline,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+LuoYunan,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rifqifatih,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rifqifatih,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+Mushroom,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Mushroom,Binary Number,1,B,0,0,0,1,0,2,0,3,0,0,0,0,0,0,0,0,0,greedy
+igor.silin,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+igor.silin,Binary Number,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+igor.silin,Queue,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+farhan_iut,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+farhan_iut,Binary Number,1,B,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+piyush006,Chips,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+piyush006,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+__ivan__,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+__ivan__,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+gokilkodok,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+gokilkodok,Binary Number,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ministr,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Ministr,Queue,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Ministr,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+Ministr,Newspaper Headline,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+BridgeBurner,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+BridgeBurner,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lyoz,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+lyoz,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+lyoz,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+lyoz,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Jens,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Jens,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Jens,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+manishmap2,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+manishmap2,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lady_inceptum,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+4a1ka,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+4a1ka,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+4a1ka,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+4a1ka,Queue,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+BlackBerry,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+BlackBerry,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Aizava,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Aizava,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Aizava,Newspaper Headline,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+Fox235,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Fox235,Binary Number,1,B,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,greedy
+251083874,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+251083874,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+251083874,Newspaper Headline,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+KoreanBoy,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+KoreanBoy,Binary Number,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+ydnl,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ydnl,Binary Number,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ydnl,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Mazeev,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Mazeev,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mazeev,Queue,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Mazeev,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+jhtan,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+jhtan,Binary Number,1,B,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,greedy
+dieend,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shuklaravi,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shuklaravi,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shuklaravi,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+shuklaravi,Newspaper Headline,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Ziklon,Chips,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Ziklon,Binary Number,1,B,1,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,greedy
+Ziklon,Newspaper Headline,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+boniyustin,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+boniyustin,Binary Number,1,B,0,0,0,1,0,6,0,2,0,0,0,0,0,0,0,0,0,greedy
+foldel,Chips,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+foldel,Binary Number,0,B,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,greedy
+kabir.sohel,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kabir.sohel,Binary Number,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kabir.sohel,Newspaper Headline,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+BIT_silence,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+BIT_silence,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+BIT_silence,Newspaper Headline,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+BIT_silence,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+begoon,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+begoon,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+begoon,Newspaper Headline,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+begoon,Queue,0,D,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+fatest,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+fatest,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fatest,Newspaper Headline,0,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+fatest,Queue,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+kemo,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kemo,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kemo,Newspaper Headline,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+farislab,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+farislab,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Petrushenko,Chips,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Petrushenko,Binary Number,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Petrushenko,Newspaper Headline,1,C,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Blockadenick,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Blockadenick,Binary Number,1,B,0,0,0,1,3,8,0,1,0,0,0,0,0,0,0,0,0,greedy
+bogdan.sumy.ua,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+bogdan.sumy.ua,Binary Number,1,B,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+bogdan.sumy.ua,Newspaper Headline,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+demoslam,Chips,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+demoslam,Binary Number,1,B,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+KaiZeR,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+KaiZeR,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KaiZeR,Queue,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+hacker007,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+hacker007,Newspaper Headline,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+janux,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+janux,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+janux,Newspaper Headline,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+nakt,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+nakt,Binary Number,1,B,1,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,0,greedy
+nakt,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+MIM,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tom.hsu1990,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tom.hsu1990,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+tom.hsu1990,Newspaper Headline,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+lightning,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+lightning,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+lightning,Newspaper Headline,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+chengsir,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+chengsir,Binary Number,0,B,1,0,0,0,1,0,0,1,0,0,0,0,0,0,2,0,0,greedy
+chengsir,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+nota,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+nota,Binary Number,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+grey,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+grey,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+grey,Newspaper Headline,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+grey,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+Snow_storm,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Snow_storm,Binary Number,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,greedy
+Snow_storm,Newspaper Headline,1,C,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+cyon,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cyon,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Monmoy,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Monmoy,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dani93.f,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+dani93.f,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dani93.f,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Michy,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Michy,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Michy,Newspaper Headline,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Michy,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Morozko,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+svm11,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+svm11,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+svm11,Queue,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+svm11,Newspaper Headline,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+Zhas,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Zhas,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Zhas,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures"
+Zhas,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+vietlong2110,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+vietlong2110,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+vietlong2110,Newspaper Headline,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Jorge_Tele,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Jorge_Tele,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Jorge_Tele,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ardiyu07,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ardiyu07,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ardiyu07,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ASh_Tyrant,Chips,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ASh_Tyrant,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ASh_Tyrant,Newspaper Headline,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+funky,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+funky,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+funky,Newspaper Headline,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+funky,Queue,0,D,0,0,0,1,0,1,0,1,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+HeVy,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+HeVy,Newspaper Headline,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"binary search,data structures,dp,greedy"
+HeVy,Queue,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+jma127,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+jma127,Binary Number,0,B,1,0,0,1,2,1,0,4,0,0,0,0,0,0,0,0,0,greedy
+jma127,Newspaper Headline,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ashi009,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ashi009,Binary Number,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+ashi009,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+bruce3557,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+bruce3557,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+bruce3557,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+bruce3557,Queue,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+shubhanshu,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shubhanshu,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shubhanshu,Queue,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+shubhanshu,Newspaper Headline,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Jorni,Chips,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+blue_jam,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+blue_jam,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+blue_jam,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Jicote,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Jicote,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Jicote,Newspaper Headline,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+mrunique.01,Chips,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mrunique.01,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mrunique.01,Newspaper Headline,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+Volk,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Volk,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Volk,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Bagira,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Bagira,Binary Number,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+muriloufg,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+muriloufg,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+muriloufg,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Verdona0,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Verdona0,Binary Number,0,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+Verdona0,Newspaper Headline,1,C,1,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+winardi,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+winardi,Binary Number,0,B,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,greedy
+winardi,Newspaper Headline,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+winardi,Queue,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+sankalp91,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sankalp91,Binary Number,1,B,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+sankalp91,Newspaper Headline,0,C,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+xwings,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+xwings,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xwings,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+Eric_Valdivia,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Eric_Valdivia,Binary Number,1,B,0,0,0,0,1,0,0,4,0,0,0,0,0,0,0,0,0,greedy
+Eric_Valdivia,Queue,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+victor.juquila,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+victor.juquila,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+victor.juquila,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+victor.juquila,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+uditiiita,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+uditiiita,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+uditiiita,Newspaper Headline,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+uditiiita,Queue,0,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+delta,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+delta,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+delta,Newspaper Headline,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+nikunj165,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+nikunj165,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+nikunj165,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+nikunj165,Queue,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+Petan,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Petan,Binary Number,1,B,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+Wackloner,Chips,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Wackloner,Binary Number,0,B,0,0,0,0,0,6,0,4,0,0,0,0,0,0,0,0,0,greedy
+Wackloner,Newspaper Headline,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+kphmd,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kphmd,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kphmd,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+powail,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+powail,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+powail,Newspaper Headline,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+grandmaster,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+grandmaster,Queue,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Bujo0,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Bujo0,Binary Number,1,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Bujo0,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+neigerhidebu,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+neigerhidebu,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+neigerhidebu,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+neigerhidebu,Queue,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+Qili,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Qili,Binary Number,0,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+Qili,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+triceps,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+triceps,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+triceps,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+triceps,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+alpc92,Newspaper Headline,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp,greedy"
+alpc92,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+alpc92,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+alpc92,Queue,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Caesar11,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Caesar11,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Caesar11,Newspaper Headline,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+Caesar11,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+akimonoiryou,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+akimonoiryou,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+akimonoiryou,Queue,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+by028,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+by028,Binary Number,1,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+by028,Newspaper Headline,1,C,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+vijay_kansal,Chips,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+vijay_kansal,Binary Number,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+vijay_kansal,Newspaper Headline,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+shantanu18,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shantanu18,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shantanu18,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Hangibhom,Binary Number,0,B,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hangibhom,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Adrian2010,Chips,0,A,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"implementation,math"
+Adrian2010,Binary Number,1,B,1,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,greedy
+Dr.McKay,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Dr.McKay,Binary Number,1,B,1,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,greedy
+AcceptedLC,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+AcceptedLC,Binary Number,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+AcceptedLC,Newspaper Headline,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ishandutta2007,Chips,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ishandutta2007,Binary Number,1,B,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+ishandutta2007,Queue,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+abhi91_sa,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+abhi91_sa,Binary Number,1,B,1,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+implusdream,Chips,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+implusdream,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+esam091,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+esam091,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+maruf.csdu,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shurick,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shurick,Binary Number,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+masrapid,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+masrapid,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+masrapid,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+maXim_mn,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+maXim_mn,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+maXim_mn,Newspaper Headline,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+maXim_mn,Queue,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+goodhope,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+goodhope,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+goodhope,Newspaper Headline,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+goodhope,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+mng,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mng,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dmitry.s,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+dmitry.s,Binary Number,1,B,0,0,0,0,0,4,0,3,0,0,0,0,0,0,0,0,0,greedy
+dmitry.s,Newspaper Headline,0,C,0,0,0,0,0,2,0,5,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+casillas,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+casillas,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Tintin,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+Tintin,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+mfkhr,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mfkhr,Binary Number,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+mfkhr,Newspaper Headline,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+mfkhr,Queue,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+Yasseryahia,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Yasseryahia,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Yasseryahia,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Yasseryahia,Queue,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+shababhsiddique,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shababhsiddique,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+huangdongfa123,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+huangdongfa123,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ZLATKO,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ZLATKO,Binary Number,1,B,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,greedy
+ZLATKO,Newspaper Headline,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+ZLATKO,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+ACKOKO,Chips,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ACKOKO,Binary Number,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+ACKOKO,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+Manish-Kumar,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Manish-Kumar,Binary Number,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+zhuraulevich,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+m.haghpanah,Chips,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+m.haghpanah,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hnu0314,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+hnu0314,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+hnu0314,Newspaper Headline,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+lastkill,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+lastkill,Binary Number,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+lastkill,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+xeyyam_quliyev,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+xeyyam_quliyev,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+xeyyam_quliyev,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+xeyyam_quliyev,Newspaper Headline,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+arb,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+arb,Binary Number,1,B,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+arb,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+arb,Newspaper Headline,0,C,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+QAFQAZsehriyar,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+QAFQAZsehriyar,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+QAFQAZsehriyar,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+ezhik_v_tumane,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ezhik_v_tumane,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+web_officer,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+web_officer,Binary Number,1,B,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+web_officer,Newspaper Headline,1,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+akashs.cse,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+akashs.cse,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+camapaojiekca,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+camapaojiekca,Newspaper Headline,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+camapaojiekca,Binary Number,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+camapaojiekca,Queue,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+ICOA,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ICOA,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ICOA,Newspaper Headline,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ICOA,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+najogie,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+najogie,Binary Number,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+l0nwlf,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+l0nwlf,Binary Number,1,B,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,greedy
+l0nwlf,Newspaper Headline,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+harrymwz,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+harrymwz,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+vkrest,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+vkrest,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vkrest,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+.PEIN.,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+.PEIN.,Binary Number,1,B,0,0,0,0,1,1,0,2,0,0,0,0,0,0,0,0,0,greedy
+DULGUUNBATMUNKH,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+DULGUUNBATMUNKH,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DULGUUNBATMUNKH,Newspaper Headline,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+DULGUUNBATMUNKH,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+wizard0509,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+wizard0509,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+wizard0509,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+median0816,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+median0816,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+median0816,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+Altynai,Chips,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Altynai,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Altynai,Queue,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+fayaz_iut,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+fayaz_iut,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,3,0,0,"binary search,data structures"
+aika_djmax,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+aika_djmax,Binary Number,1,B,0,0,0,0,0,7,0,3,0,0,0,0,0,0,0,0,0,greedy
+Amadei,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Amadei,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+Amadei,Newspaper Headline,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+h.hesham,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+h.hesham,Binary Number,1,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,greedy
+empe,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+empe,Binary Number,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+empe,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+empe,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+BAIZOR,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+BAIZOR,Binary Number,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+wxcc,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+wxcc,Binary Number,1,B,1,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,greedy
+wxcc,Newspaper Headline,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+valery.stromov,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+valery.stromov,Binary Number,1,B,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+valery.stromov,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+slonsoid,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+slonsoid,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+sujz,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sujz,Binary Number,1,B,1,0,0,0,0,4,0,3,0,0,0,0,0,0,0,0,0,greedy
+sujz,Newspaper Headline,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+atopoxo,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+atopoxo,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+kirill,Chips,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kirill,Newspaper Headline,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+kirill,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kirill,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+adry,Chips,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+adry,Newspaper Headline,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+teoy,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+teoy,Binary Number,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Eugen,Binary Number,0,B,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+Eugen,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Eugen,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ruban,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ruban,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ruban,Newspaper Headline,1,C,0,0,0,2,3,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Storm,Chips,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Storm,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Storm,Newspaper Headline,1,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+EriKKo,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+EriKKo,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+EriKKo,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+EriKKo,Newspaper Headline,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+qwerty19,Chips,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Eugene_nik,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Eugene_nik,Binary Number,1,B,0,0,0,0,2,0,0,1,0,0,0,0,0,1,0,0,0,greedy
+Eugene_nik,Queue,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+gn13,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+gn13,Binary Number,1,B,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,greedy
+isti757,Chips,0,A,1,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+isti757,Binary Number,1,B,1,0,0,0,0,7,0,1,0,0,0,0,0,0,0,0,0,greedy
+Hamzawy,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Hamzawy,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hamzawy,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Hamzawy,Queue,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+conghavefun,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+conghavefun,Binary Number,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+premprakash,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+premprakash,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+serik,Binary Number,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+neeraj541,Chips,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+neeraj541,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+gauravs,Chips,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+gauravs,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+anteater,Chips,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+anteater,Binary Number,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+anteater,Queue,0,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+whu_zhang,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+whu_zhang,Binary Number,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+killerdjo,Chips,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+killerdjo,Binary Number,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+killerdjo,Queue,0,D,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+huyue,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+huyue,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+huyue,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+huyue,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+mantas_urnieza,Chips,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mantas_urnieza,Queue,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+mantas_urnieza,Newspaper Headline,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp,greedy"
+mantas_urnieza,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+zlly,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+zlly,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zlly,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+zlly,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+pixel,Chips,1,A,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pixel,Queue,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+tasneema,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tasneema,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Alexander,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Alexander,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Alexander,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Alexander,Queue,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+akm14889,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+akm14889,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+TRR,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+TRR,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zroom,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+zroom,Binary Number,1,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,greedy
+zroom,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+xth1,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+xth1,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+xth1,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp,greedy"
+xth1,Queue,1,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+stoyanovd,Chips,0,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,math"
+stoyanovd,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+stoyanovd,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+stoyanovd,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+luyanan,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+luyanan,Binary Number,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+yinuh,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yinuh,Binary Number,1,B,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,greedy
+FlaminRage,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+FlaminRage,Binary Number,1,B,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+FlaminRage,Queue,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+sxnb,Chips,1,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sxnb,Binary Number,1,B,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,0,greedy
+sxnb,Newspaper Headline,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+shovonshovo,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shovonshovo,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shovonshovo,Newspaper Headline,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Rex,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Rex,Binary Number,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Rex,Newspaper Headline,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+FelixP,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+FelixP,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+FelixP,Newspaper Headline,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+Fessmax,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Fessmax,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Fessmax,Newspaper Headline,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+Fessmax,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+lzsb,Newspaper Headline,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+lzsb,Queue,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+lzsb,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lzsb,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+00000,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+00000,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+00000,Newspaper Headline,1,C,0,0,0,0,0,4,0,0,2,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+pashteiner,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pashteiner,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pashteiner,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+pashteiner,Queue,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Kar,Chips,1,A,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,"implementation,math"
+Kar,Binary Number,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+vinayjulme,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+vinayjulme,Binary Number,1,B,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+REnd,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+REnd,Binary Number,1,B,0,0,0,1,0,2,0,3,0,0,0,0,0,0,0,0,0,greedy
+REnd,Newspaper Headline,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+omse1998,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+omse1998,Binary Number,1,B,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+omse1998,Queue,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+xxx_stu,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+xxx_stu,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+oskirych,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+oskirych,Binary Number,1,B,1,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Xerxes,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Xerxes,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Xerxes,Newspaper Headline,1,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+sanjaysaha,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sanjaysaha,Binary Number,1,B,1,0,0,0,0,1,0,2,0,0,0,0,0,0,1,0,0,greedy
+apzarabi,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+apzarabi,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+apzarabi,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+apzarabi,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+doradoradora,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+doradoradora,Binary Number,1,B,0,0,0,2,0,3,0,2,0,0,0,0,0,0,0,0,0,greedy
+doradoradora,Newspaper Headline,0,C,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+yimao,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yimao,Binary Number,0,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+yimao,Newspaper Headline,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+prateep,Chips,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+prateep,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+prateep,Newspaper Headline,0,C,0,0,0,0,0,8,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+zhangguotony,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+zhangguotony,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zhangguotony,Newspaper Headline,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+konstantin.lex,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+konstantin.lex,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+marque,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+marque,Binary Number,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+marque,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+deepangupta91,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+deepangupta91,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+deepangupta91,Newspaper Headline,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+deepangupta91,Queue,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+ben.hwang,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ben.hwang,Binary Number,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+ben.hwang,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Prestige,Chips,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Prestige,Binary Number,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+Prestige,Newspaper Headline,0,C,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Tahlil,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Tahlil,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+RDR,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Koblyk,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Koblyk,Binary Number,1,B,0,0,0,0,3,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+M03G11,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+M03G11,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+M03G11,Newspaper Headline,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+M03G11,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+hakomo,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+hakomo,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+hakomo,Newspaper Headline,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+SEgor,Chips,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+SEgor,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+SEgor,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+rogu3,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rogu3,Binary Number,1,B,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,greedy
+upoma,Chips,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+upoma,Binary Number,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+thphong,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+thphong,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+thphong,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+thphong,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+peria,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+peria,Binary Number,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+Inspired,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Inspired,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pishu,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pishu,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+Zhandos,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Zhandos,Binary Number,0,B,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+Zhandos,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Zhandos,Queue,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+powqer,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+powqer,Binary Number,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+powqer,Newspaper Headline,0,C,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+ameydhar,Chips,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ameydhar,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+ameydhar,Binary Number,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+EvAn,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+EvAn,Binary Number,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+EvAn,Newspaper Headline,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+EvAn,Queue,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+altais,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+altais,Binary Number,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+altais,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+HImIK,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+HImIK,Binary Number,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+CHarm,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+CHarm,Binary Number,1,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+CHarm,Queue,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+alpc86,Chips,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+alpc86,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alpc86,Newspaper Headline,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"binary search,data structures,dp,greedy"
+alpc86,Queue,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+china.zhangchenzi,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+china.zhangchenzi,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+china.zhangchenzi,Newspaper Headline,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+china.zhangchenzi,Queue,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+qjklw,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+qjklw,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+qjklw,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+BloodyMary,Chips,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+BloodyMary,Newspaper Headline,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+saravanageneral,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+saravanageneral,Binary Number,1,B,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,greedy
+saravanageneral,Newspaper Headline,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,2,0,0,"binary search,data structures,dp,greedy"
+quocquan,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+quocquan,Binary Number,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+yudetamago,Chips,1,A,1,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yudetamago,Binary Number,1,B,0,0,0,0,4,3,0,2,0,0,0,0,0,0,0,0,0,greedy
+smart_coder,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+smart_coder,Binary Number,1,B,0,0,0,0,3,0,0,4,0,0,0,0,0,0,0,0,0,greedy
+smart_coder,Newspaper Headline,0,C,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+leito,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+leito,Binary Number,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+kon_an,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kon_an,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kon_an,Newspaper Headline,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+grisaf,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+grisaf,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+BlackAlgo,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+BlackAlgo,Binary Number,1,B,0,0,0,0,3,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+master_mind,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+master_mind,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+master_mind,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+hkf,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+hkf,Binary Number,1,B,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+dumbhead,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+dumbhead,Binary Number,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tonycuba,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tonycuba,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tonycuba,Newspaper Headline,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+cmz93,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cmz93,Newspaper Headline,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+cmz93,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+cmz93,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+4nddr3,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+4nddr3,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+4nddr3,Newspaper Headline,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+4nddr3,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+miraina,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+miraina,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+imtiaz_cuet,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Jeflie,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Jeflie,Binary Number,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Jeflie,Newspaper Headline,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Jeflie,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+eipie,Chips,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+eipie,Binary Number,0,B,0,0,0,1,2,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+eipie,Newspaper Headline,0,C,0,0,0,0,0,5,0,4,1,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+cyberguru007,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shiryu,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shiryu,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shiryu,Newspaper Headline,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+AliDiep,Chips,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+AliDiep,Binary Number,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Jamik,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Jamik,Binary Number,1,B,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,greedy
+Jamik,Queue,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+ty70,Chips,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ty70,Binary Number,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+Max_Smolyakov,Chips,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Max_Smolyakov,Binary Number,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Max_Smolyakov,Newspaper Headline,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+jony,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+jony,Binary Number,1,B,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,greedy
+jony,Newspaper Headline,1,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+mostafa_elabady,Chips,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+chenpengyu,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+chenpengyu,Binary Number,0,B,1,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,greedy
+chenpengyu,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+shukla,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shukla,Binary Number,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+shukla,Newspaper Headline,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Songuku95,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Songuku95,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+iman_MC,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+iman_MC,Binary Number,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+esrever,Newspaper Headline,0,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+esrever,Queue,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+esrever,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+esrever,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+harrycodec,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+harrycodec,Binary Number,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+harrycodec,Queue,0,D,0,0,0,0,3,0,0,2,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+Cardi,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Cardi,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Cardi,Queue,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+xuanflyer,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+xuanflyer,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+semicolon29,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+semicolon29,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+maniac,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+maniac,Binary Number,1,B,1,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+Venom,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Mars314,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Mars314,Binary Number,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mars314,Queue,1,D,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+cHaoTiC,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cHaoTiC,Binary Number,1,B,0,0,0,0,0,5,0,3,0,0,0,0,0,0,0,0,0,greedy
+shankysodhi,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shankysodhi,Binary Number,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+shankysodhi,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+peeyush.lnmit,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+peeyush.lnmit,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+peeyush.lnmit,Newspaper Headline,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+Moon,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Ocksumoron,Chips,1,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Ocksumoron,Binary Number,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+m3m,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+m3m,Binary Number,1,B,0,0,0,0,7,1,0,2,0,0,0,0,0,0,0,0,0,greedy
+nomadxxx,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+nomadxxx,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+nomadxxx,Queue,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+cavalier,Chips,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cavalier,Binary Number,1,B,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,greedy
+cavalier,Newspaper Headline,1,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+cavalier,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+mousavi.uk,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mousavi.uk,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mousavi.uk,Queue,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+codegamblers,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+BatusaiX,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+BatusaiX,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+izhari,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+izhari,Binary Number,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dragonfire,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+dragonfire,Queue,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Atiq,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Atiq,Binary Number,1,B,0,0,0,0,3,6,0,1,0,0,0,0,0,0,0,0,0,greedy
+aleksei,Chips,1,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+aleksei,Binary Number,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+hydralisk,Queue,0,D,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,"binary search,data structures"
+andresilva91,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+andresilva91,Binary Number,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+andresilva91,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+alisia.owl,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+alisia.owl,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+alisia.owl,Newspaper Headline,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+alisia.owl,Queue,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+srivatsan_vn,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+srivatsan_vn,Binary Number,1,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+Logvinov_Leon,Chips,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Logvinov_Leon,Newspaper Headline,1,C,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+master3758,Binary Number,0,B,1,0,0,1,0,2,0,3,0,0,0,0,0,0,0,0,0,greedy
+master3758,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mrkz1991,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+mrkz1991,Binary Number,1,B,0,0,0,0,1,1,0,3,0,0,0,0,0,0,0,0,0,greedy
+bilbo1,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+bilbo1,Binary Number,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+sazid_1989,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sazid_1989,Binary Number,1,B,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,greedy
+Dr.Code,Chips,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Dr.Code,Binary Number,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+kolbasunnet,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+erudite,Chips,1,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+erudite,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+erudite,Newspaper Headline,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ksb,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ksb,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nitroleg,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+nitroleg,Binary Number,1,B,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+Alexos,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Alexos,Binary Number,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+Alexos,Newspaper Headline,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+DnS,Chips,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Botan,Chips,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Datsik_Anton,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Datsik_Anton,Binary Number,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+EGYPT,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+EGYPT,Binary Number,1,B,0,0,0,0,0,1,0,7,0,0,0,0,0,1,0,0,0,greedy
+Sudakov_Ilya,Chips,0,A,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+starwars,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+truckhuyen,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+truckhuyen,Binary Number,1,B,1,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+truckhuyen,Newspaper Headline,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+berden,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+berden,Queue,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Leroux,Chips,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Leroux,Binary Number,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Leroux,Queue,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Shahriar_sust,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shahriar_sust,Chips,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Shahriar_sust,Newspaper Headline,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+havi,Binary Number,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+trickShuffle,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+trickShuffle,Binary Number,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+jsy4754,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+jsy4754,Binary Number,1,B,1,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+xor1005,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+heenaldoshi,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shakandrew,Chips,1,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shakandrew,Queue,1,D,0,0,0,1,2,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+kit1980,Binary Number,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+kit1980,Newspaper Headline,0,C,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+kit1980,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+saybek,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+manoharprabhu,Chips,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sotonamitol,Chips,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Mrs.Jehad,Chips,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Yousuf,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Yousuf,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Susan,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Susan,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Susan,Queue,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+vietnam,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+vietnam,Binary Number,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+vietnam,Newspaper Headline,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ravi_villuri,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ravi_villuri,Binary Number,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ravi_villuri,Newspaper Headline,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+shourav9884,Binary Number,0,B,0,0,0,1,0,1,0,4,0,0,0,0,0,0,0,0,0,greedy
+shourav9884,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shourav9884,Queue,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+lado,Binary Number,0,B,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lado,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+lado,Queue,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+chlupnoha,Chips,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+RaceBug,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+RaceBug,Newspaper Headline,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+RaceBug,Queue,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+RaceBug,Chips,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Gatta1,Chips,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+diavel46,Chips,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+PAG,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+PAG,Newspaper Headline,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+DennZo1993,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+DennZo1993,Binary Number,1,B,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+DennZo1993,Queue,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+xiaolele,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+xiaolele,Binary Number,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+shalinisah,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shalinisah,Newspaper Headline,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Garfeild,Chips,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Garfeild,Binary Number,1,B,0,0,0,5,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+carabet.cosmin,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+carabet.cosmin,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+carabet.cosmin,Newspaper Headline,0,C,0,0,0,1,1,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+carabet.cosmin,Queue,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+SprNntndo,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+SprNntndo,Queue,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+SprNntndo,Binary Number,0,B,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kidlet,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kidlet,Binary Number,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+kidlet,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+RudySnow,Chips,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+RudySnow,Binary Number,1,B,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Koala,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Koala,Binary Number,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+samir,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+samir,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pratyai,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pratyai,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pratyai,Newspaper Headline,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+cjfhz,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cjfhz,Binary Number,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+cjfhz,Newspaper Headline,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+Larx,Chips,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Larx,Binary Number,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+aiub_titans,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+aiub_titans,Binary Number,1,B,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,greedy
+billionerdv,Newspaper Headline,0,C,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+khanaleemullah,Chips,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+RodionGork,Binary Number,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+RodionGork,Newspaper Headline,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+RodionGork,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rookie,Chips,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sazzad,Binary Number,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sazzad,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+wiseberg,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+wiseberg,Binary Number,1,B,0,0,0,2,0,0,0,4,0,0,0,0,0,0,0,0,0,greedy
+wiseberg,Newspaper Headline,0,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+scorpion,Chips,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+scorpion,Binary Number,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+scorpion,Newspaper Headline,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+scorpion,Queue,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+hereglegchneg,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+hereglegchneg,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hereglegchneg,Newspaper Headline,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+hereglegchneg,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Iain,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Iain,Binary Number,1,B,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+khanhptnk,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+khanhptnk,Queue,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+khanhptnk,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MaiorPe,Chips,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+MaiorPe,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+MaiorPe,Binary Number,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Eilen,Binary Number,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Eilen,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Andrey92treyder,Chips,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+fujiyama,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+fujiyama,Newspaper Headline,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+fujiyama,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MaiorPa,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+MaiorPa,Queue,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"binary search,data structures"
+MaiorPa,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shopnil,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shopnil,Binary Number,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+ronnie1845,Chips,1,A,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ronnie1845,Binary Number,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+kid177,Chips,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Mary,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Mary,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mary,Queue,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,data structures"
+xana,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+xana,Binary Number,1,B,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+shmel,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shmel,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shmel,Newspaper Headline,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+shmel,Queue,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+-oo-,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+-oo-,Binary Number,0,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+-oo-,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+-oo-,Queue,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+alexlinzhai,Queue,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+alexlinzhai,Ski Base,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dsu,graphs"
+sagarchoudhury,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sagarchoudhury,Binary Number,1,B,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,greedy
+odorf,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+odorf,Newspaper Headline,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+odorf,Binary Number,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+odorf,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rashed_safa,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rashed_safa,Binary Number,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+kirakira,Newspaper Headline,0,C,1,0,0,0,0,2,0,1,1,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+kirakira,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+parusa,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+JohnKEA,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+JohnKEA,Binary Number,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+5megabytes,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+brain_stormer,Chips,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+brain_stormer,Binary Number,0,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+brain_stormer,Queue,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+LesyaPhoenix,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+marcus,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+KFile,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+KFile,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+KFile,Newspaper Headline,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+g.klensky,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Innovator_C,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+golyj_na_stole,Binary Number,0,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+golyj_na_stole,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yuscvscv,Newspaper Headline,0,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+yuscvscv,Queue,0,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+yuscvscv,Binary Number,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yuscvscv,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+abdukodir,Chips,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Lord_0f_D_C0des,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Lord_0f_D_C0des,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Lord_0f_D_C0des,Newspaper Headline,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+hallodogy,Chips,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+hallodogy,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+TEN2NAUGHT,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+wenming17,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+wenming17,Binary Number,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ahmedsaad,Queue,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+ahmedsaad,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+ahmedsaad,Binary Number,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+ahmedsaad,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+exion,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+exion,Binary Number,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+varanasi.soumya1991,Chips,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+praveen97uma,Chips,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ushi,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cheeto,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cheeto,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+root5,Chips,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+root5,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+raul.lp,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+experience257,Binary Number,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+experience257,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+experience257,Newspaper Headline,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+greedee,Newspaper Headline,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+greedee,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+greedee,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jaimin,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+jaimin,Binary Number,1,B,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gentleman,Chips,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+divyamokkapati,Chips,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+divyamokkapati,Queue,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+plexus,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+plexus,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+pnsrp,Chips,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rishabhm,Newspaper Headline,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+rishabhm,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rishabhm,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+einstein010,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+einstein010,Binary Number,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+arabuli91,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+skypy,Chips,0,A,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+skypy,Newspaper Headline,0,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp,greedy"
+skypy,Binary Number,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+jossespejo,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+phuchaontu,Binary Number,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,greedy
+phuchaontu,Chips,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ZHBIT_JI_LWT,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Allin,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rabidbear,Chips,0,A,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+dhushor,Binary Number,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+saurabhmodi102000,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+abz,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ankulgarg,Newspaper Headline,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp,greedy"
+ankulgarg,Chips,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ankulgarg,Binary Number,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+nise_nabe,Chips,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+nise_nabe,Binary Number,1,B,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+_minato,Chips,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pro100hackeR,Chips,0,A,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"

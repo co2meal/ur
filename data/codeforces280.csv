@@ -1,0 +1,838 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+sune2,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+sune2,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+havaliza,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+havaliza,Rectangle Puzzle,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+havaliza,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+havaliza,k-Maximum Subsequence Sum,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,flows"
+carber,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+carber,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+carber,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+hex539,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+hex539,Rectangle Puzzle,1,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+valih10,Maximum Xor Secondary,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+valih10,Game on Tree,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+SergeiFedorov,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+SergeiFedorov,k-Maximum Subsequence Sum,1,D,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"data structures,flows"
+al13n,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+al13n,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+al13n,k-Maximum Subsequence Sum,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,flows"
+al13n,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+daizhenyang,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+daizhenyang,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+daizhenyang,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+K_operafan,Rectangle Puzzle,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+K_operafan,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"data structures,implementation,two pointers"
+dancho,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+homo_sapiens,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+homo_sapiens,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+homo_sapiens,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+RAD,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+RAD,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+RAD,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+RAD,k-Maximum Subsequence Sum,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,flows"
+S.Yesipenko,Rectangle Puzzle,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+S.Yesipenko,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+anta,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+boleyn.su,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+boleyn.su,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+boleyn.su,Game on Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Petr,Game on Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Petr,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Petr,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+NALP,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+NALP,Maximum Xor Secondary,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+tourist,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+tourist,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+tourist,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+mR.ilchi,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+mR.ilchi,Game on Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+mR.ilchi,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,geometry
+catupper,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,geometry
+catupper,Maximum Xor Secondary,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+catupper,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+pperm,Maximum Xor Secondary,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+pperm,Rectangle Puzzle,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+pperm,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+ichyo,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+ichyo,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Romka,Maximum Xor Secondary,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Romka,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,geometry
+vepifanov,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+vepifanov,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+vepifanov,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+mugurelionut,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+mugurelionut,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+azizkhan,Game on Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+azizkhan,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+azizkhan,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+robert_rosolek,Rectangle Puzzle,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+robert_rosolek,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+robert_rosolek,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+aropan,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+aropan,Rectangle Puzzle,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+mfv,Maximum Xor Secondary,0,B,0,0,0,0,1,4,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+mfv,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+ballon,Maximum Xor Secondary,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+ballon,Game on Tree,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+scott_wu,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+scott_wu,Rectangle Puzzle,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+scott_wu,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Egor,Rectangle Puzzle,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,geometry
+Egor,Game on Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Egor,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+dreamoon,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+dreamoon,Game on Tree,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+dreamoon,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Ra16bit,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Ra16bit,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+rankalee,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+rankalee,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+916852,Rectangle Puzzle,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,geometry
+916852,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Shik,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Shik,Game on Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Shik,Rectangle Puzzle,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+d891320478,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+d891320478,Maximum Xor Secondary,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+ilyakor,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+ilyakor,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+ilyakor,Game on Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Breakun,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Breakun,Game on Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Breakun,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Di735,Maximum Xor Secondary,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+alpc115,Rectangle Puzzle,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+alpc115,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+uwi,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+uwi,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+uwi,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+azlhust,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,geometry
+azlhust,Game on Tree,0,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+GagGuy,Rectangle Puzzle,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,geometry
+GagGuy,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+GagGuy,Game on Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+cxlove,Rectangle Puzzle,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+cxlove,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+FattyPenguin,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+FattyPenguin,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+FattyPenguin,Game on Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+FattyPenguin,k-Maximum Subsequence Sum,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,flows"
+pooya_,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+pooya_,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+AstroConjecture,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+AstroConjecture,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+AstroConjecture,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+khanhptnk,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+khanhptnk,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+logicmachine,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+logicmachine,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+0O0o00OO0Oo0o0Oo,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+0O0o00OO0Oo0o0Oo,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+0O0o00OO0Oo0o0Oo,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+yaro,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+yaro,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+yaro,Rectangle Puzzle,1,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+UESTC_Nocturne,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+UESTC_Nocturne,Game on Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+UESTC_Nocturne,k-Maximum Subsequence Sum,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,flows"
+UESTC_Nocturne,Rectangle Puzzle,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,geometry
+-XraY-,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+-XraY-,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+-XraY-,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+KADR,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,implementation,two pointers"
+KADR,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+witua,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+witua,k-Maximum Subsequence Sum,1,D,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,flows"
+takaramono,Rectangle Puzzle,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+takaramono,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+takaramono,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+takaramono,k-Maximum Subsequence Sum,1,D,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"data structures,flows"
+flashmt,Maximum Xor Secondary,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+mmaxio,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+mmaxio,Game on Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+mmaxio,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+lzsb,Maximum Xor Secondary,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,implementation,two pointers"
+lzsb,Game on Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+YX201314,Rectangle Puzzle,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+YX201314,Maximum Xor Secondary,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+HELEN_KK,Game on Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+HELEN_KK,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+espr1t,Rectangle Puzzle,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+espr1t,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+sillyboy,Maximum Xor Secondary,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+sillyboy,Rectangle Puzzle,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,geometry
+LeBron,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+LeBron,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+qwerty787788,Game on Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+qwerty787788,Rectangle Puzzle,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+qwerty787788,Maximum Xor Secondary,1,B,0,0,0,0,1,2,0,2,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+vivalafun,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+vivalafun,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+vivalafun,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+PavelKunyavskiy,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+PavelKunyavskiy,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+PavelKunyavskiy,k-Maximum Subsequence Sum,1,D,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,"data structures,flows"
+PeHash,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Milanin,Rectangle Puzzle,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Milanin,Maximum Xor Secondary,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Milanin,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+mr146,Rectangle Puzzle,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+mr146,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+phyxnj,Rectangle Puzzle,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,geometry
+phyxnj,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+antonkov,Game on Tree,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+antonkov,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Dmitry_Egorov,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Dmitry_Egorov,Game on Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+hs484,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+hs484,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+DEGwer,Game on Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+DEGwer,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+DEGwer,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+ryz,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ryz,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+ryz,Game on Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Kharybin,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+conan_96,Maximum Xor Secondary,0,B,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+jaro3000,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+jaro3000,Rectangle Puzzle,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,geometry
+makrusak,Rectangle Puzzle,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+makrusak,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+squarefk,Maximum Xor Secondary,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+squarefk,Rectangle Puzzle,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,geometry
+squarefk,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Dimke,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+zeliboba,Game on Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+zeliboba,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+zeliboba,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+darknp,Rectangle Puzzle,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+darknp,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+darknp,Game on Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+abacadaea,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+abacadaea,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+abacadaea,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+dj3500,Game on Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+dj3500,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+dj3500,Rectangle Puzzle,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Erop,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Erop,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+lcch,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+lcch,Rectangle Puzzle,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+kawatea,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+voover,Game on Tree,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+voover,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+gogokefakefa,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+gogokefakefa,Game on Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+gogokefakefa,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Kokos,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+sths,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+sths,Rectangle Puzzle,1,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,geometry
+sameer47,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+sameer47,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+technolt,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+technolt,Rectangle Puzzle,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Zlobober,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Zlobober,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+kennethsnow,Rectangle Puzzle,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+kennethsnow,Maximum Xor Secondary,1,B,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+yangminjia,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+yangminjia,Maximum Xor Secondary,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+cyk2011,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+cyk2011,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+cyk2011,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Xnewfolder,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Xnewfolder,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+ai00,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+ai00,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+ai00,Game on Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+MBabin,Game on Tree,0,C,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+MBabin,Maximum Xor Secondary,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+subscriber,Maximum Xor Secondary,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+subscriber,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+subscriber,Rectangle Puzzle,1,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,geometry
+tclsm2012,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+tclsm2012,k-Maximum Subsequence Sum,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,flows"
+cmd,Maximum Xor Secondary,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+cmd,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+cmd,Game on Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+malcolm,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+seanwu,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+seanwu,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+seanwu,Game on Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+mnbvmar,Maximum Xor Secondary,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Gassa,Game on Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Gassa,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+permin,Rectangle Puzzle,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+permin,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+permin,Game on Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+bolek,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+jonathanpaulson,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+jonathanpaulson,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+jonathanpaulson,Rectangle Puzzle,1,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+Fefer_Ivan,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Fefer_Ivan,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+hogloid,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+hogloid,Rectangle Puzzle,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+hogloid,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+__math,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+__math,Maximum Xor Secondary,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+vlyubin,Rectangle Puzzle,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+vlyubin,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+azaky,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+azaky,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+azaky,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+MeHdi.KaZemI8,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+MeHdi.KaZemI8,Maximum Xor Secondary,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+dovegx,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+dovegx,Rectangle Puzzle,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+WCG,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+WCG,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+AlexanderBolshakov,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+AlexanderBolshakov,Rectangle Puzzle,1,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+Gatina,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Gatina,Maximum Xor Secondary,1,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+yvasyliv,Maximum Xor Secondary,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+yvasyliv,Rectangle Puzzle,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,geometry
+Seemann,Rectangle Puzzle,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Seemann,Maximum Xor Secondary,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+White_Bear,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+White_Bear,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Jokser,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Jokser,Rectangle Puzzle,1,A,1,0,0,0,1,5,0,1,0,0,0,0,0,0,0,0,0,geometry
+Jokser,Game on Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Swistakk,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Swistakk,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+cont,Maximum Xor Secondary,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+PetarV,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+flydutchman,Maximum Xor Secondary,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+flydutchman,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+flydutchman,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+AleX,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+AleX,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+AleX,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Shapo,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Shapo,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+yenthanh.t7,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,geometry
+yenthanh.t7,Maximum Xor Secondary,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Ming.Shen,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Ming.Shen,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+riad,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+lucien,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+lucien,Rectangle Puzzle,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+scottai1,Game on Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+scottai1,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+scottai1,Rectangle Puzzle,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+mzry1992,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+mzry1992,Game on Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+hiepsieunhan,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+hiepsieunhan,Rectangle Puzzle,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Monyura,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Monyura,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+alpc104,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+alpc104,Maximum Xor Secondary,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Corei13,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+EternalName,Rectangle Puzzle,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+ruptins13,Rectangle Puzzle,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+ruptins13,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+mareksom,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+mareksom,k-Maximum Subsequence Sum,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,flows"
+StefanoT,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Mex-Mans,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Mex-Mans,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Mex-Mans,Game on Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Vaness,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Vaness,Rectangle Puzzle,1,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+ToBeTheChampion,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+LucasJA,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,geometry
+prowindy,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+prowindy,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+prowindy,Game on Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+nickbuelich,Maximum Xor Secondary,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+serbanstan,Maximum Xor Secondary,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,implementation,two pointers"
+serbanstan,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+R_R_,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+R_R_,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+R_R_,Rectangle Puzzle,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ayakut,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+kelvin,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+kelvin,Game on Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+kelvin,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+liouzhou_101,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+liouzhou_101,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+liouzhou_101,Game on Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+liouzhou_101,k-Maximum Subsequence Sum,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,flows"
+m.raszyk,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+m.raszyk,Rectangle Puzzle,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+reiracofage,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+reiracofage,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+reiracofage,Game on Tree,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Koblyk,Maximum Xor Secondary,0,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+ali_fiujnomali,Rectangle Puzzle,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+ali_fiujnomali,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+ali_fiujnomali,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+amirrr,Rectangle Puzzle,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+amirrr,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+poopi,Rectangle Puzzle,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+poopi,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Shaykhutdinov-T-I,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+lavin,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+lavin,Game on Tree,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math,probabilities,trees"
+lavin,Rectangle Puzzle,0,A,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+ItsLastDay,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+ItsLastDay,Game on Tree,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+sggutier,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+sggutier,Game on Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Eyelids,Rectangle Puzzle,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+Eyelids,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+a58,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+a58,Rectangle Puzzle,1,A,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+i_love_daniel,Maximum Xor Secondary,0,B,0,0,0,0,1,2,0,2,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+watashi,Rectangle Puzzle,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+watashi,Maximum Xor Secondary,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+watashi,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Austeritas,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Austeritas,Maximum Xor Secondary,1,B,1,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Austeritas,Game on Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Landertxu,Rectangle Puzzle,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Landertxu,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Landertxu,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+stevenkplus,Rectangle Puzzle,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+stevenkplus,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+stevenkplus,Game on Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+con_nha_ngheo,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+con_nha_ngheo,Rectangle Puzzle,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,geometry
+Rubanenko,Rectangle Puzzle,0,A,0,0,0,1,0,5,0,0,0,0,0,0,0,1,0,0,0,geometry
+Rubanenko,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+kamranm,Maximum Xor Secondary,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,implementation,two pointers"
+kamranm,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+I-juice,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+nhandi,Rectangle Puzzle,0,A,0,0,0,0,1,3,0,0,0,0,0,0,0,0,1,0,0,geometry
+nhandi,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+studytolive,Rectangle Puzzle,0,A,0,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+studytolive,Maximum Xor Secondary,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+wuzhengkai,Rectangle Puzzle,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,geometry
+wuzhengkai,Maximum Xor Secondary,0,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+wuzhengkai,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Merkurev,Maximum Xor Secondary,0,B,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Merkurev,Game on Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+__tutankhamun__,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+__tutankhamun__,Maximum Xor Secondary,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+EbTech,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+EbTech,Game on Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+EbTech,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,implementation,two pointers"
+niyaznigmatul,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+niyaznigmatul,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+qph-Jeremy,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+electrofive42,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+phoenixcw,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+phoenixcw,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+MehrdadM,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+MehrdadM,Rectangle Puzzle,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+lyy,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+lyy,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+ksun48,Rectangle Puzzle,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+ksun48,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+pedrovictor,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+piotr.kukla,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+piotr.kukla,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+bahakz,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+ybh,Maximum Xor Secondary,0,B,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+mirob,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+hanfei19910905,Rectangle Puzzle,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+hanfei19910905,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Zebra_Finch,Rectangle Puzzle,1,A,1,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,geometry
+TheWishmaster,Rectangle Puzzle,0,A,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+TheWishmaster,Maximum Xor Secondary,0,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Serenade,Maximum Xor Secondary,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+zeulb,Rectangle Puzzle,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+thamyin1,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+thamyin1,Maximum Xor Secondary,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+DPR-pavlin,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,geometry
+DPR-pavlin,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+phtniit,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+phtniit,Game on Tree,0,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+phtniit,Rectangle Puzzle,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+a142857a,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+a142857a,Game on Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+a142857a,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+a142857a,k-Maximum Subsequence Sum,1,D,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"data structures,flows"
+Kissshot,Rectangle Puzzle,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Kissshot,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Kissshot,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+cjtoribio,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+cjtoribio,Rectangle Puzzle,1,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+3111006139,Rectangle Puzzle,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,geometry
+like,Maximum Xor Secondary,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+PavelSavchenkov,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+zplinti1,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+wnlolnw,Rectangle Puzzle,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,geometry
+wnlolnw,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+shubh09,Rectangle Puzzle,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+mostafa_fahim,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+mostafa_fahim,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,geometry
+GaoYusong,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Shahriar_sust,Game on Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Shahriar_sust,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+GlebsHP,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+GlebsHP,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+GlebsHP,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+arti1990,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math,probabilities,trees"
+arti1990,Rectangle Puzzle,1,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+__floyd__,Rectangle Puzzle,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,geometry
+__floyd__,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+chEEtah,Maximum Xor Secondary,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+chEEtah,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Al3kSaNdaR,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,geometry
+Al3kSaNdaR,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+kormyshov,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+kormyshov,Maximum Xor Secondary,0,B,0,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Taube,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+shytangyuan,Maximum Xor Secondary,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+shytangyuan,Game on Tree,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Shef,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Shef,Maximum Xor Secondary,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Shef,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Reshetnikov_Ivan,Rectangle Puzzle,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Reshetnikov_Ivan,Maximum Xor Secondary,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+emonzhong,Game on Tree,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+emonzhong,Maximum Xor Secondary,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"data structures,implementation,two pointers"
+chaos_king,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"data structures,implementation,two pointers"
+chaos_king,Game on Tree,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Shtrix,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Shtrix,Rectangle Puzzle,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Lebesgue,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Lebesgue,Rectangle Puzzle,1,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,geometry
+Yousef_Salama,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+fenzhang,Maximum Xor Secondary,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,implementation,two pointers"
+asaskevich,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+asaskevich,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+whimsycwd,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+whimsycwd,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+AlirezaN,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+AlirezaN,Rectangle Puzzle,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+Sfairat,Maximum Xor Secondary,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+chavit,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+chavit,Game on Tree,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+kmjp,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+kmjp,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+toothless,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,geometry
+toothless,Maximum Xor Secondary,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+toothless,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Jacob,Sequence Transformation,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,implementation,math"
+Jacob,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Jacob,Game on Tree,0,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Jacob,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+piloop,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+piloop,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+piloop,Game on Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+RiKang,Rectangle Puzzle,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+dudkamaster,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+dudkamaster,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+becauseofyou,Rectangle Puzzle,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+becauseofyou,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+aa2985759,Rectangle Puzzle,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+aa2985759,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+aa2985759,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+ytqiaqia,Rectangle Puzzle,0,A,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,geometry
+ytqiaqia,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+ZEROm,Maximum Xor Secondary,0,B,0,0,0,1,0,6,0,3,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+ZEROm,Game on Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+t0nyukuk,Rectangle Puzzle,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,geometry
+ramtin95,Maximum Xor Secondary,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+tokoharu,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+tokoharu,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+akalm,Maximum Xor Secondary,1,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+dianbei,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+dianbei,Game on Tree,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"implementation,math,probabilities,trees"
+evader,Game on Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+evader,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+lyc,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+lyc,Maximum Xor Secondary,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+cgangee,Rectangle Puzzle,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+bakabakashyoshyo,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+bakabakashyoshyo,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+wtiger9999,Maximum Xor Secondary,0,B,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+AguL,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Toshik,Maximum Xor Secondary,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Toshik,Rectangle Puzzle,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+fedimser,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+fedimser,Maximum Xor Secondary,1,B,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+fedimser,Game on Tree,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Um_nik,Rectangle Puzzle,0,A,0,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Um_nik,Maximum Xor Secondary,0,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+sazzad,Maximum Xor Secondary,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+iamquang1995,Maximum Xor Secondary,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+iamquang1995,Rectangle Puzzle,1,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,geometry
+liadoon,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Giada,Maximum Xor Secondary,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Aharon,Maximum Xor Secondary,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+darius,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+yukim,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,implementation,two pointers"
+yukim,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,geometry
+yukim,Game on Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+SandorGarcia,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Neil,Rectangle Puzzle,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Neil,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+VArtem,Rectangle Puzzle,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,geometry
+Nipuna_Samarasekara,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Nipuna_Samarasekara,Rectangle Puzzle,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+abcdabcd987,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+abcdabcd987,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+abcdabcd987,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Ryannnnnnn,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Ryannnnnnn,Maximum Xor Secondary,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+jskhirtladze,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+jskhirtladze,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+i1s9m9s5,Rectangle Puzzle,0,A,1,0,0,0,2,3,0,0,0,0,0,0,0,0,1,0,0,geometry
+i1s9m9s5,Maximum Xor Secondary,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+XiaoDan,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+XiaoDan,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+htc550605125,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+htc550605125,Rectangle Puzzle,1,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,geometry
+wolf5x,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+wolf5x,Rectangle Puzzle,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+llaki,Rectangle Puzzle,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+llaki,Maximum Xor Secondary,0,B,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+MarioYC,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"data structures,implementation,two pointers"
+MarioYC,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+beginner1010,Maximum Xor Secondary,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+hamlet_fiis,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,implementation,two pointers"
+zzy,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+vagnard,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+AnnKats93,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+AnnKats93,Maximum Xor Secondary,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"data structures,implementation,two pointers"
+NextOptimus,Rectangle Puzzle,0,A,0,0,0,1,2,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+NextOptimus,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+fiver,Maximum Xor Secondary,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+fiver,Rectangle Puzzle,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+hlwt,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+hlwt,Rectangle Puzzle,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+fingon,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+bkSaturn,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+For_the_Love,Rectangle Puzzle,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+For_the_Love,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+vanchope,Rectangle Puzzle,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,geometry
+vanchope,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+kt-9,Rectangle Puzzle,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+MMJ,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+zzxchavo,Rectangle Puzzle,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+zzxchavo,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+H3X,Rectangle Puzzle,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,geometry
+H3X,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+DebutantGY,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+BryantMark,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,geometry
+BryantMark,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+cxjyxx_me,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+cxjyxx_me,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+cxjyxx_me,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+biboyouyun,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+NegaTeeF,Rectangle Puzzle,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+lpp_,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,geometry
+lpp_,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+astro75,Rectangle Puzzle,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,geometry
+astro75,Maximum Xor Secondary,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+_TMB_,Maximum Xor Secondary,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+ksjuchi,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+ryunosuke.iwai,Rectangle Puzzle,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+oGhost,Rectangle Puzzle,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,geometry
+oGhost,Maximum Xor Secondary,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"data structures,implementation,two pointers"
+bitlove,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+bitlove,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+takapt,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+pencil_man,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+natsugiri,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+natsugiri,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+wengsht,Rectangle Puzzle,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+wengsht,Maximum Xor Secondary,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+urahara,Rectangle Puzzle,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+ranjith1610,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+dai1741,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+dai1741,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+ig_dug,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+ig_dug,Rectangle Puzzle,1,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+Hedayet,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+S.HASHEMI,Maximum Xor Secondary,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Azat_Yusupov,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Azat_Yusupov,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+magila,Game on Tree,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+magila,Maximum Xor Secondary,0,B,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+infrmtcs,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+135678942570,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+lonelyboy,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+wistful,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+bao_lap_trinh,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+architkarandikar,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Smit,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Smit,Rectangle Puzzle,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+suxing11,Rectangle Puzzle,1,A,1,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,geometry
+suxing11,Maximum Xor Secondary,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+pareshverma91,Maximum Xor Secondary,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+naagi,Maximum Xor Secondary,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,"data structures,implementation,two pointers"
+Hououin_Kyouma,Maximum Xor Secondary,0,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Hohol,Rectangle Puzzle,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Hohol,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+AminoAcid,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+AminoAcid,Maximum Xor Secondary,1,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,2,0,0,"data structures,implementation,two pointers"
+IgorL,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+y.kemaev,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,geometry
+y.kemaev,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+tncks0121,Maximum Xor Secondary,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+spalac24,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+spalac24,Game on Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+ffao,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+ffao,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+ffao,Game on Tree,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+zlc,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+AlexJH,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+AlexJH,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Abra,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+kzr.buet08,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+BOBAS,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+BOBAS,Rectangle Puzzle,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,geometry
+Crysis,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+dojiboy9,Game on Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+dalex,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+alpc72,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Astekinane,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+alex20030190,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+alex20030190,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+abdukodir,Maximum Xor Secondary,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+adytp,Maximum Xor Secondary,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"data structures,implementation,two pointers"
+Mes,Rectangle Puzzle,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+nfssdq,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+nfssdq,Rectangle Puzzle,1,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+tuananh93,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+tuananh93,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+tuananh93,Game on Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+fushar,Game on Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Andrekk,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+KrK,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+vfleaking,Rectangle Puzzle,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+topro,Rectangle Puzzle,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,geometry
+topro,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+LongTimeNoThin,Maximum Xor Secondary,0,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+LongTimeNoThin,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Deamon,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Deamon,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Ilya_MSU,Game on Tree,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Ilya_MSU,Rectangle Puzzle,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Akhtyamov_Pavel,Rectangle Puzzle,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,geometry
+ts10,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+ts10,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Cromel,Maximum Xor Secondary,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,"data structures,implementation,two pointers"
+akdal,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+akdal,Game on Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+suiyuan2009,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Kaga2,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"data structures,implementation,two pointers"
+marschenly,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+pumpkinsm,Rectangle Puzzle,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+Mopriestt,Maximum Xor Secondary,0,B,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Bistrigova_Anastasiya,Rectangle Puzzle,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,geometry
+xiaoke,Maximum Xor Secondary,0,B,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Dakurels,Rectangle Puzzle,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Dakurels,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Goshish,Rectangle Puzzle,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+Bugman,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+zyz913614263,Maximum Xor Secondary,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Xellos,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+al13pn,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Kipok,Rectangle Puzzle,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,geometry
+Kipok,Maximum Xor Secondary,0,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+erikgrabljevec5,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+nwin,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+nwin,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ixxa,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"data structures,implementation,two pointers"
+Allen.fly,Rectangle Puzzle,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Allen.fly,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"data structures,implementation,two pointers"
+ocelopilli,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+barty,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+ipip2005,Rectangle Puzzle,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,geometry
+ipip2005,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"data structures,implementation,two pointers"
+Sklyack,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+ahmed_aly,Game on Tree,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+ahmed_aly,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+cjoa,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+MSPA,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+MSPA,Rectangle Puzzle,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Ramzes2,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,geometry
+kuailezhish,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+kuailezhish,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+muyunhai,Maximum Xor Secondary,0,B,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+muyunhai,Game on Tree,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+youyl,Rectangle Puzzle,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+OutSide,Maximum Xor Secondary,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+TMandzu,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+TMandzu,Game on Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Enchom,Rectangle Puzzle,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,geometry
+wyhwyh123,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+wyhwyh123,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Trytrytry,Rectangle Puzzle,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,geometry
+Trytrytry,Maximum Xor Secondary,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+conioh,Rectangle Puzzle,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,geometry
+enhydra,Rectangle Puzzle,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+enhydra,Game on Tree,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+yangyongsen,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+yangyongsen,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+sut,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Alpc_Necs,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Woodpecker,Game on Tree,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Woodpecker,Maximum Xor Secondary,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+avelino_2013,Rectangle Puzzle,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,geometry
+fura,Maximum Xor Secondary,1,B,1,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+fura,Game on Tree,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+AlexanderL,Rectangle Puzzle,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ivan100sic,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+ivan100sic,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+11223d,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"data structures,implementation,two pointers"
+Troy1118,Rectangle Puzzle,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Troy1118,Maximum Xor Secondary,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+_sunny,Maximum Xor Secondary,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+_sunny,Rectangle Puzzle,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+bool_kzf,Rectangle Puzzle,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,geometry
+JustN,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+walk_upon,Rectangle Puzzle,0,A,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+BSBandme,Maximum Xor Secondary,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Welran,Rectangle Puzzle,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,geometry
+Alex.lap,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Alex.lap,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+i_love_dima,Rectangle Puzzle,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+alex_tolstov,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+RAINBOW123,Rectangle Puzzle,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+RAINBOW123,Maximum Xor Secondary,0,B,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+BogolyubskiyAlexey,Maximum Xor Secondary,0,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+zhanyl,Maximum Xor Secondary,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+zhanyl,Game on Tree,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+Troy_Cornelius,Maximum Xor Secondary,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+SeyedParsa,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+HwangScornedAsianTeams,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,implementation,two pointers"
+azneyes,Rectangle Puzzle,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+pdwd,Game on Tree,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+sleepsort,Rectangle Puzzle,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+dusty.and.rusty,Rectangle Puzzle,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+dusty.and.rusty,Maximum Xor Secondary,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+stoundmire,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+lemonwu,Rectangle Puzzle,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+ivanovak,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+gleiz,Maximum Xor Secondary,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+wgh,Rectangle Puzzle,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Omelyanenko,Rectangle Puzzle,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,geometry
+R_Silva,Rectangle Puzzle,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+guille,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+guille,Rectangle Puzzle,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+ximo,Rectangle Puzzle,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+albert96,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+hydroxygen,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+hydroxygen,Rectangle Puzzle,1,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,geometry
+xie,Game on Tree,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math,probabilities,trees"
+zengarden,Maximum Xor Secondary,0,B,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+emo,Rectangle Puzzle,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+BandBandRock,Rectangle Puzzle,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,geometry
+iensen,Rectangle Puzzle,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+ivanromanov,Maximum Xor Secondary,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+Jarekczek,Maximum Xor Secondary,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+matrix,Maximum Xor Secondary,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,two pointers"
+jill-jenn,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+saurai3h,Rectangle Puzzle,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+galileo,Rectangle Puzzle,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+ArseniySavin,Rectangle Puzzle,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry

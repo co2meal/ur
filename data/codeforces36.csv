@@ -1,0 +1,916 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+RAVEman,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+RAVEman,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+RAVEman,New Game with a Chess Piece,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+RAVEman,Bowls,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+RAVEman,Two Paths,1,E,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dsu,graphs,implementation"
+slycelote,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+slycelote,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+slycelote,Bowls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+slycelote,New Game with a Chess Piece,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Fdg,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fdg,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fdg,Bowls,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"geometry,implementation"
+Fdg,New Game with a Chess Piece,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Snusmumriken,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Snusmumriken,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Snusmumriken,Bowls,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"geometry,implementation"
+Snusmumriken,New Game with a Chess Piece,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+maksay,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+maksay,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+maksay,Bowls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+maksay,New Game with a Chess Piece,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+maksay,Two Paths,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dsu,graphs,implementation"
+udalov,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+udalov,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+udalov,Bowls,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+udalov,New Game with a Chess Piece,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+toni2007,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+toni2007,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+toni2007,Two Paths,1,E,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dsu,graphs,implementation"
+Efgen,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Efgen,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Efgen,New Game with a Chess Piece,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+ltaravilse,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ltaravilse,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sereja,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sereja,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+Sereja,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+stgatilov,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+stgatilov,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+stgatilov,Bowls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+stgatilov,New Game with a Chess Piece,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+CherryTree,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CherryTree,Fractal,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+niyaznigmatul,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+niyaznigmatul,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+niyaznigmatul,New Game with a Chess Piece,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,games
+niyaznigmatul,Bowls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+subscriber,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+subscriber,Bowls,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+subscriber,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+subscriber,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+murphy,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+murphy,Bowls,0,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+murphy,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+murphy,New Game with a Chess Piece,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+---Grigor---,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+---Grigor---,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+---Grigor---,Bowls,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+taras.klaskovsky,Extra-terrestrial Intelligence,0,A,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+taras.klaskovsky,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cfc,Extra-terrestrial Intelligence,0,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cfc,Fractal,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hayk.saribekyan,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hayk.saribekyan,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hayk.saribekyan,Bowls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+Yuliy,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AVoz,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KhaustovPavel,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KhaustovPavel,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KhaustovPavel,Bowls,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+KhaustovPavel,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Jokser,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jokser,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+indy256,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+indy256,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+indy256,Bowls,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+indy256,New Game with a Chess Piece,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,games
+ilyakor,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+ilyakor,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ilyakor,Bowls,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"geometry,implementation"
+ilyakor,New Game with a Chess Piece,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+navi,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,implementation
+navi,Bowls,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"geometry,implementation"
+navi,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+navi,New Game with a Chess Piece,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+ahmed_aly,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+ahmed_aly,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahmed_aly,Bowls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+ChuYuxun,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ChuYuxun,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ChuYuxun,Bowls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+ChuYuxun,New Game with a Chess Piece,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,games
+zibada,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zibada,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zibada,Bowls,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+zibada,New Game with a Chess Piece,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+sdryapko,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sdryapko,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kenny_HORROR,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kenny_HORROR,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kenny_HORROR,Bowls,0,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+Kenny_HORROR,New Game with a Chess Piece,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+lucasmelo,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+lucasmelo,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lucasmelo,New Game with a Chess Piece,1,D,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,games
+idivyanshu,Extra-terrestrial Intelligence,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+idivyanshu,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Thekid,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Thekid,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Thekid,Bowls,1,C,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,"geometry,implementation"
+frost_nova,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+frost_nova,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+frost_nova,New Game with a Chess Piece,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+LayCurse,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+LayCurse,Bowls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+LayCurse,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LayCurse,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+AleX,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AleX,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AleX,New Game with a Chess Piece,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+AleX,Bowls,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+evernight,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+evernight,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+evernight,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+ArtDitel,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ArtDitel,Fractal,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ArtDitel,Bowls,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+ArtDitel,New Game with a Chess Piece,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,games
+NovaBlast,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NovaBlast,Fractal,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pt1989,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pt1989,Fractal,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+pt1989,Bowls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"geometry,implementation"
+darohh91,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+darohh91,Fractal,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+jaaro,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+jaaro,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jaaro,Bowls,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+jaaro,New Game with a Chess Piece,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+CVK,Extra-terrestrial Intelligence,0,A,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+CVK,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dyussenaliyev,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dyussenaliyev,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dyussenaliyev,New Game with a Chess Piece,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,games
+mrc88,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mrc88,Bowls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+mrc88,Fractal,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mrc88,Two Paths,1,E,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dsu,graphs,implementation"
+bazub,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+liympanda,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+liympanda,Bowls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+liympanda,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+liympanda,New Game with a Chess Piece,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+Rubanenko,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rubanenko,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+uwi,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+uwi,Bowls,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+uwi,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+uwi,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,games
+Mex-Mans,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mex-Mans,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mex-Mans,Bowls,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+pperm,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pperm,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pperm,Bowls,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+pperm,New Game with a Chess Piece,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+pperm,Two Paths,0,E,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dsu,graphs,implementation"
+ruslan.sennov,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruslan.sennov,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruslan.sennov,New Game with a Chess Piece,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+LeBron,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LeBron,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LeBron,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+espr1t,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+espr1t,Fractal,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+espr1t,Bowls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+espr1t,New Game with a Chess Piece,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+syco,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+syco,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+syco,New Game with a Chess Piece,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+victorionescu46,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+victorionescu46,Bowls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"geometry,implementation"
+victorionescu46,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nokia,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nokia,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xhae,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xhae,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xhae,New Game with a Chess Piece,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+xhae,Bowls,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+moshiur,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+moshiur,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Knight,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Knight,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Knight,Bowls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+ZumZoom,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ZumZoom,Fractal,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ZumZoom,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Shiho,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shiho,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Timus,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Timus,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lima.natan,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lima.natan,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dragoon,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dragoon,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+dragoon,Bowls,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+Sarkin,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,implementation
+Sarkin,Fractal,1,B,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+Sarkin,Bowls,1,C,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,"geometry,implementation"
+Mark_tven,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mark_tven,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mark_tven,Bowls,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+IgorYevchynets,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+IgorYevchynets,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+IgorYevchynets,Bowls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"geometry,implementation"
+IgorYevchynets,New Game with a Chess Piece,1,D,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,games
+Victor,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Victor,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Victor,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,games
+hs484,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hs484,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hs484,Bowls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+akshayk0406,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alireza,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alireza,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alireza,New Game with a Chess Piece,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,games
+Daiver19,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Daiver19,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Daiver19,New Game with a Chess Piece,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,games
+hos.lyric,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hos.lyric,New Game with a Chess Piece,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,games
+hos.lyric,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hos.lyric,Bowls,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"geometry,implementation"
+Baz93,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Baz93,Fractal,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Baz93,Bowls,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+Baz93,New Game with a Chess Piece,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+VladGavrila,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+VladGavrila,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+VladGavrila,Bowls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+VladGavrila,New Game with a Chess Piece,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+hpfdf,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hpfdf,Bowls,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+hpfdf,Fractal,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hpfdf,New Game with a Chess Piece,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+kormak,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kormak,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kormak,Bowls,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"geometry,implementation"
+kormak,New Game with a Chess Piece,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+ShadowDancer,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+ShadowDancer,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ShadowDancer,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,games
+ShadowDancer,Bowls,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,"geometry,implementation"
+SergeyLazarev,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SergeyLazarev,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SergeyLazarev,Bowls,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+Hadi_Asiaie,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hadi_Asiaie,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+amir_sh,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+amir_sh,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chronotable,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+chronotable,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chronotable,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+OoO000oOOOoOooOo,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+OoO000oOOOoOooOo,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+OoO000oOOOoOooOo,Bowls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+OoO000oOOOoOooOo,New Game with a Chess Piece,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+Quazar,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Quazar,Fractal,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+CezarMocan,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+CezarMocan,Fractal,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xDDD,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xDDD,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+philolo1,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+philolo1,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+philolo1,Bowls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+juggler,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+juggler,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+juggler,New Game with a Chess Piece,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,games
+marxi,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+marxi,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+marxi,New Game with a Chess Piece,1,D,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,games
+Ra16bit,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+Ra16bit,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ra16bit,New Game with a Chess Piece,1,D,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,games
+Ra16bit,Two Paths,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,dsu,graphs,implementation"
+Ra16bit,Bowls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+up9,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+up9,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+up9,Bowls,1,C,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,"geometry,implementation"
+Shik,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+Shik,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shik,Bowls,0,C,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,"geometry,implementation"
+Shik,New Game with a Chess Piece,1,D,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,games
+xiaodao,Extra-terrestrial Intelligence,0,A,1,0,0,1,0,0,2,0,0,4,0,0,0,0,0,0,0,implementation
+xiaodao,Fractal,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xiaodao,New Game with a Chess Piece,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+xiaodao,Two Paths,1,E,0,0,0,1,0,3,3,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dsu,graphs,implementation"
+slalex,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+slalex,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+slalex,New Game with a Chess Piece,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+witua,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+witua,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+witua,Bowls,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+paulocezar,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+paulocezar,Fractal,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+paulocezar,Bowls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+AliD,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+AliD,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AliD,New Game with a Chess Piece,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Connector,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Connector,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Connector,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+kyo_key,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyo_key,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyo_key,Bowls,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"geometry,implementation"
+kyo_key,New Game with a Chess Piece,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+stostap,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+stostap,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sergey.Akimov,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sergey.Akimov,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sergey.Akimov,Bowls,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+freak93,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+freak93,Bowls,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+freak93,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+freak93,New Game with a Chess Piece,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+PanZverski,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PanZverski,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PanZverski,Bowls,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+Coder,Fractal,0,B,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+Coder,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Coder,New Game with a Chess Piece,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+Coder,Bowls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+Coder,Two Paths,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dsu,graphs,implementation"
+dimoc,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dimoc,Fractal,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Georgy,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Georgy,Fractal,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+anhdt,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+anhdt,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fedya,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+AndreyP,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AndreyP,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+primorial,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+primorial,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Enigma,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Enigma,Fractal,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+DDDDDDDDDDDDDDDDDDDDDDDD,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+DDDDDDDDDDDDDDDDDDDDDDDD,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DDDDDDDDDDDDDDDDDDDDDDDD,Bowls,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+DDDDDDDDDDDDDDDDDDDDDDDD,New Game with a Chess Piece,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+cjc,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cjc,Fractal,1,B,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,implementation
+hired777,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hired777,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hired777,New Game with a Chess Piece,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+wywcgs,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wywcgs,Bowls,0,C,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"geometry,implementation"
+wywcgs,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wywcgs,New Game with a Chess Piece,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+wywcgs,Two Paths,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dsu,graphs,implementation"
+Aquila,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aquila,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aquila,Two Paths,1,E,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dsu,graphs,implementation"
+Aquila,Bowls,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+andrey-tsb,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+andrey-tsb,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+andrey-tsb,Two Paths,1,E,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dsu,graphs,implementation"
+TarifEzaz,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+sazzad,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sazzad,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wangjunyong,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wangjunyong,New Game with a Chess Piece,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,games
+wangjunyong,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wangjunyong,Two Paths,1,E,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"constructive algorithms,dsu,graphs,implementation"
+S.Yesipenko,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+S.Yesipenko,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+S.Yesipenko,Bowls,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"geometry,implementation"
+ysyshtc,Extra-terrestrial Intelligence,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ysyshtc,Fractal,0,B,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+ysyshtc,New Game with a Chess Piece,1,D,1,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,0,games
+yuzeming,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yuzeming,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yuzeming,Bowls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+yuzeming,New Game with a Chess Piece,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,games
+akimonoiryou,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+akimonoiryou,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Waiter,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+Waiter,Bowls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+wiw,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wiw,Fractal,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sabbathist,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,implementation
+sabbathist,New Game with a Chess Piece,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,games
+_---Egor---_,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+msagimbekov,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gassa,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gassa,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gassa,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Gassa,Two Paths,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dsu,graphs,implementation"
+Gassa,Bowls,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+qq20091200,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+qq20091200,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dr.madis,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dr.madis,Fractal,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+dr.madis,New Game with a Chess Piece,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+shilov,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+shilov,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Icemore,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Icemore,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ivan.popelyshev,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ivan.popelyshev,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ivan.popelyshev,Bowls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"geometry,implementation"
+ivan.popelyshev,New Game with a Chess Piece,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+ivan.popelyshev,Two Paths,1,E,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,dsu,graphs,implementation"
+henshiru,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+henshiru,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+henshiru,New Game with a Chess Piece,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+henshiru,Bowls,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+azonium,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+azonium,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+harrymwz,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+harrymwz,Fractal,1,B,0,0,0,2,0,1,0,0,3,0,0,0,0,0,0,0,0,implementation
+harrymwz,New Game with a Chess Piece,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+RoyalSFlush,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+RoyalSFlush,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vladimir_nedev,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vladimir_nedev,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vladimir_nedev,Bowls,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+zhaozhouyang,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,implementation
+zhaozhouyang,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhaozhouyang,Bowls,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"geometry,implementation"
+MAK,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+MAK,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MAK,Bowls,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+gystt2010,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gystt2010,Fractal,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+krijgertje,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+krijgertje,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+krijgertje,Two Paths,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dsu,graphs,implementation"
+krijgertje,New Game with a Chess Piece,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+SecrofedoC,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SecrofedoC,Fractal,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mohamed.gaber,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+_sunny,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+_sunny,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+_sunny,Bowls,1,C,0,0,0,0,0,0,0,0,0,2,0,0,0,1,0,0,0,"geometry,implementation"
+pes,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pes,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pes,Bowls,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+pes,New Game with a Chess Piece,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+tuananh93,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tuananh93,Fractal,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tuananh93,Bowls,1,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+tuananh93,New Game with a Chess Piece,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+dark.coder,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mahdi,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mahdi,Fractal,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mahdi,Bowls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+Jsky,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,0,2,0,0,3,0,0,0,1,0,0,0,implementation
+alger95,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alger95,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alger95,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+a286729485,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+a286729485,Fractal,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+BrightDays,Extra-terrestrial Intelligence,1,A,1,0,0,0,2,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+xiaoyoulei,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xiaoyoulei,New Game with a Chess Piece,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,games
+miaout17,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+miaout17,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+lsubra,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lsubra,Fractal,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lsubra,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+lsubra,Bowls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+sky58,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sky58,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sky58,Bowls,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"geometry,implementation"
+sky58,New Game with a Chess Piece,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,games
+peria,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+peria,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+peria,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+lyrics,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lyrics,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xptree,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xptree,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xptree,Bowls,1,C,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,"geometry,implementation"
+cyx5320856,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Konovalov_Nik,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tribal,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tribal,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+rankalee,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+rankalee,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rankalee,Bowls,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+icyrhyme,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+icyrhyme,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tayama,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,1,0,0,1,0,0,0,0,0,0,0,implementation
+Tayama,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tayama,Bowls,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+Tayama,New Game with a Chess Piece,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Ralf,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ignat,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ignat,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ignat,New Game with a Chess Piece,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+zaq1xsw2tktk,Extra-terrestrial Intelligence,0,A,1,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,implementation
+zaq1xsw2tktk,Fractal,1,B,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,implementation
+zaq1xsw2tktk,Bowls,1,C,0,0,0,1,0,2,0,0,0,1,0,0,0,0,0,0,0,"geometry,implementation"
+zaq1xsw2tktk,New Game with a Chess Piece,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+Soultaker,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Soultaker,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Soultaker,Bowls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+BademiChetan,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BademiChetan,Fractal,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+BademiChetan,Bowls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+Padme,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Padme,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+birbbit,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+birbbit,Fractal,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+birbbit,New Game with a Chess Piece,1,D,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,games
+Pekaz,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pekaz,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pekaz,New Game with a Chess Piece,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+codeworrior,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+hogeover30,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hogeover30,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hogeover30,Bowls,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+zjf.sjtu,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zjf.sjtu,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zjf.sjtu,Bowls,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+zjf.sjtu,New Game with a Chess Piece,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+mahamudsust,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+soundsdx,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+soundsdx,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+soundsdx,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+soundsdx,Bowls,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+Copymaster,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Copymaster,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Copymaster,Bowls,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+ir5,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ir5,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ir5,Bowls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"geometry,implementation"
+luizribeiro,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+luizribeiro,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+luizribeiro,Bowls,1,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+victoryland,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nel215,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nel215,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nel215,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+scaulyd,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+scaulyd,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+RedAnt,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+RedAnt,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+RedAnt,New Game with a Chess Piece,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,games
+KiRiN,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KiRiN,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KiRiN,Bowls,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+pyshnograev,Extra-terrestrial Intelligence,0,A,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pyshnograev,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hd_james,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hd_james,Fractal,1,B,1,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,implementation
+IwfWcf,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+IwfWcf,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ksjuchi,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ksjuchi,Fractal,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+aatemplar,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,implementation
+aatemplar,Fractal,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+aatemplar,Bowls,0,C,0,0,0,0,0,5,0,0,0,1,0,0,0,0,0,0,0,"geometry,implementation"
+rofi,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rofi,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Oryshych,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Oryshych,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+valdeming,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+valdeming,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dias,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dias,New Game with a Chess Piece,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,games
+dimuthu,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dimuthu,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hirosegolf,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hirosegolf,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hirosegolf,New Game with a Chess Piece,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+M0sTik,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+M0sTik,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ravi_villuri,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ravi_villuri,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tomerun,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,implementation
+tomerun,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tomerun,Bowls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+tomerun,New Game with a Chess Piece,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,games
+NSL,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NSL,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+icek,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+icek,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dj3500,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dj3500,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lamphanviet,Extra-terrestrial Intelligence,0,A,0,0,0,6,1,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+crbtmac,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+crbtmac,Fractal,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+muntasir,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+muntasir,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lne,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lne,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Bearjie,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Bearjie,Bowls,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+falcon,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+sprea,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+sprea,Fractal,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sefidr,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sefidr,Fractal,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+123pro,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+atol,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+atol,Fractal,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+atol,New Game with a Chess Piece,1,D,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,games
+ichyo,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+Spoorock,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Spoorock,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+1guangnian,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+introduction,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,implementation
+introduction,Fractal,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+piro1996,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yowa,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yowa,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yowa,Bowls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+yowa,New Game with a Chess Piece,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Mincl,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Mincl,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Serg,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Serg,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tahlil,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yasulib,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+yasulib,Fractal,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nenash,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nenash,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nenash,Bowls,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"geometry,implementation"
+Nenash,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+zlly,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zlly,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zlly,Bowls,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"geometry,implementation"
+obi1kenobi,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+obi1kenobi,Fractal,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mfkhr,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mfkhr,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Salat,Extra-terrestrial Intelligence,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ZobninVladislav_It-Team,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fookwood,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zeliboba,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zeliboba,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zeliboba,Bowls,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+zeliboba,New Game with a Chess Piece,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+redox,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+redox,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mahfuz,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+naagi,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+naagi,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexander.musman,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexander.musman,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alexander.musman,New Game with a Chess Piece,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+shibly,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,implementation
+shibly,Fractal,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aule,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aule,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+FedyuninV,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+FedyuninV,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+FedyuninV,Bowls,1,C,0,0,0,0,0,0,0,0,0,1,0,0,0,2,0,0,0,"geometry,implementation"
+kenny59,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zxy_snow,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Xerxes,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+zafar_sust_bd,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hhgff,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hhgff,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nata_S,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nata_S,Fractal,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ghostof2007,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+moonlight131,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,implementation
+moonlight131,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+moonlight131,Bowls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+ZaviOr,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ZaviOr,Fractal,1,B,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+heike567,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+heike567,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nise_nabe,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+nise_nabe,Fractal,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Al3kSaNdaR,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+etendren,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+etendren,Fractal,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+amit.codename13,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+amit.codename13,Fractal,1,B,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,implementation
+Scientist1642,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Scientist1642,Fractal,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+qlyzpqz,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+qlyzpqz,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shettynamit,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MrS,Extra-terrestrial Intelligence,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MrS,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SupeR-MaN,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SupeR-MaN,Fractal,1,B,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hzshuai,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+hzshuai,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Towhid,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Towhid,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shahriaroo,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shahriaroo,Fractal,1,B,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,implementation
+belltail,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,implementation
+belltail,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kdalex,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kdalex,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kdalex,New Game with a Chess Piece,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,games
+Codemacher,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Codemacher,Fractal,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xelez,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xelez,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xelez,Two Paths,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dsu,graphs,implementation"
+fura2,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+fura2,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fura2,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+SWUN_YB,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+SWUN_YB,Fractal,0,B,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,implementation
+SWUN_YB,New Game with a Chess Piece,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+cyber.njust,Extra-terrestrial Intelligence,1,A,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+cyber.njust,Fractal,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ViktorM,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ViktorM,New Game with a Chess Piece,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+wand125,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wand125,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wand125,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+asollo,Extra-terrestrial Intelligence,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+asollo,Fractal,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+beni.oncea,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+SWUN_Azuki,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+SWUN_Azuki,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+K_operafan,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+K_operafan,Fractal,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+K_operafan,Bowls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"geometry,implementation"
+Saif,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nagochan,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+nagochan,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+steiner,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+steiner,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+steiner,New Game with a Chess Piece,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,games
+xiaochuan,Extra-terrestrial Intelligence,0,A,0,0,0,2,0,0,0,0,0,3,0,0,0,1,0,0,0,implementation
+navinag,Extra-terrestrial Intelligence,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mide.smile,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+20092100003,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+20092100003,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Liaksiejka,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,implementation
+Liaksiejka,Fractal,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+madkite,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+madkite,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+madkite,Bowls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+olimpus,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+olimpus,Fractal,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+olimpus,New Game with a Chess Piece,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+satoshii,Extra-terrestrial Intelligence,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+vlade87,Extra-terrestrial Intelligence,0,A,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,implementation
+vishwakarma,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vishwakarma,New Game with a Chess Piece,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,games
+zhaohad,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+zhaohad,Fractal,1,B,0,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,implementation
+anohovsky,Extra-terrestrial Intelligence,1,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+anohovsky,Fractal,1,B,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,implementation
+oldmonk,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+edem.kwadzo,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sajjad_gh,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Roland,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Light_Yagami,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AHdoc,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AHdoc,New Game with a Chess Piece,0,D,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+AHdoc,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+liuyang_elvis,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+liuyang_elvis,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+liuyang_elvis,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+PML,Fractal,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+route150,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+route150,Fractal,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+filipp,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+swun_railgun,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dkorduban,Bowls,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"geometry,implementation"
+dkorduban,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dkorduban,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dkorduban,New Game with a Chess Piece,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+intijk,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+intijk,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ebrahimi,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+egor.pugin,Extra-terrestrial Intelligence,0,A,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+liugang123,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+codecrux,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+codecrux,Bowls,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+kyriapelagia,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyriapelagia,Fractal,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyriapelagia,New Game with a Chess Piece,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,games
+DMKaplony,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+DMKaplony,Fractal,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ryo,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,1,0,0,0,0,1,0,0,implementation
+shioshiota,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shioshiota,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nayimsust,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lucky_geck,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lucky_geck,Fractal,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+coproizvedenie,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+coproizvedenie,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+akatsuki4321,Extra-terrestrial Intelligence,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+akatsuki4321,Fractal,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+mrButt,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mrButt,New Game with a Chess Piece,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+mrButt,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gauravmunjal,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+romanov.andrey,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+romanov.andrey,Fractal,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+urutom,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+urutom,Fractal,1,B,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+lijunle,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lijunle,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bsshanghai,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+darrren,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,implementation
+semens,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+semens,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TRR,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TRR,Fractal,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruban,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruban,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+matrix_sust,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fahad.sust,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TALGAT,Extra-terrestrial Intelligence,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kris13,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+kris13,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+iamD,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhandos,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+U_E_D,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+U_E_D,Fractal,1,B,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+U_E_D,Bowls,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+Atiq,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nox,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+AndreiD,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+fz1989,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fz1989,Fractal,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+toriaezu,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,implementation
+toriaezu,New Game with a Chess Piece,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,games
+girishkadlinitk,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,implementation
+girishkadlinitk,Fractal,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+cosmin,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,implementation
+cosmin,Fractal,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kiyoshi,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kiyoshi,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kiyoshi,Bowls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+khanhptnk,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+khanhptnk,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+khanhptnk,Bowls,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"geometry,implementation"
+4a1ka,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sunzuhan,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lkssharma,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+screwy.devil,Extra-terrestrial Intelligence,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+screwy.devil,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+screwy.devil,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+tsvetujochka,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+f.nasim,Extra-terrestrial Intelligence,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+f.nasim,Fractal,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tanzaku,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tanzaku,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Di735,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+Di735,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+iman_MC,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+undefined_thimpu,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,implementation
+Maksat,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+china-sos,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nivikz,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+berden,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+berden,Bowls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+hemant_baid,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ch0W,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ch0W,New Game with a Chess Piece,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,games
+Jacob,New Game with a Chess Piece,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,games
+Jacob,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jacob,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ansaryfantastic,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+eagleflying,Extra-terrestrial Intelligence,0,A,0,0,0,1,0,0,1,0,0,8,0,0,0,0,0,0,0,implementation
+Pashcal,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sidi,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,implementation
+sidi,Fractal,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+apdemin,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+grigory51,Extra-terrestrial Intelligence,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ucq,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,4,1,0,0,0,0,0,0,0,0,0,0,implementation
+Beast,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+srivatsan_vn,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+srivatsan_vn,Fractal,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+eldar,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zzz,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,1,0,0,2,0,0,0,0,0,0,0,implementation
+aidar,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aidar,Fractal,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sapphire,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+thorikawa,Extra-terrestrial Intelligence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+thorikawa,Fractal,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Swun_sun,Extra-terrestrial Intelligence,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Petr,Two Paths,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,dsu,graphs,implementation"
+Petr,New Game with a Chess Piece,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+Petr,Bowls,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+Petr,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Petr,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ER.abd_off,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zjy3186511,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+zermx_011,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,implementation
+PAG,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+PAG,New Game with a Chess Piece,1,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,games
+zyx3d,Bowls,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+zyx3d,Fractal,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zyx3d,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Manish-Kumar,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+galiver,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Algorithm,Bowls,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"geometry,implementation"
+demalah,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+SerCe,Extra-terrestrial Intelligence,1,A,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,implementation
+shilcare,Extra-terrestrial Intelligence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ilsaf13,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,implementation
+Alexander-1709,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+beybit,New Game with a Chess Piece,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,games
+toxahak,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,implementation
+dima11221122,Extra-terrestrial Intelligence,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+tty512,Extra-terrestrial Intelligence,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+nikhil.bhojania,Extra-terrestrial Intelligence,0,A,0,0,0,1,0,0,0,0,0,3,0,0,0,0,0,0,0,implementation

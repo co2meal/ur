@@ -1,0 +1,719 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+Egor,Robbery,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Egor,Chip Play,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Egor,Space mines,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Egor,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Egor,Fire and Ice,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+dolphinigle,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dolphinigle,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+dolphinigle,Widget Library,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+dolphinigle,Chip Play,0,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+RAVEman,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+RAVEman,Chip Play,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+RAVEman,Widget Library,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,expression parsing,graphs,implementation"
+RAVEman,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Dmitry_Egorov,Robbery,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dmitry_Egorov,Chip Play,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Komaki,Robbery,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,greedy
+-dp-,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+-dp-,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+0O0o00OO0Oo0o0Oo,Robbery,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+0O0o00OO0Oo0o0Oo,Widget Library,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+0O0o00OO0Oo0o0Oo,Chip Play,0,C,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+0O0o00OO0Oo0o0Oo,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Gassa,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gassa,Widget Library,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+ACRush,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ACRush,Chip Play,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+ACRush,Widget Library,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+ACRush,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+ACRush,Fire and Ice,1,E,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,greedy
+al13n,Robbery,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+al13n,Chip Play,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+DryukAlex,Robbery,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,1,0,0,greedy
+DryukAlex,Chip Play,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+venkateshb,Robbery,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+venkateshb,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+venkateshb,Widget Library,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+alexey.enkov,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alexey.enkov,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Zlobober,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Zlobober,Chip Play,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"brute force,data structures,implementation"
+Zlobober,Widget Library,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+JOZHEG,Robbery,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+JOZHEG,Widget Library,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+volkhin,Robbery,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+volkhin,Widget Library,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+volkhin,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+logicmachine,Robbery,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+logicmachine,Widget Library,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+ilyakor,Robbery,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,greedy
+ilyakor,Chip Play,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+ilyakor,Widget Library,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+ilyakor,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+rudradevbasak,Robbery,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+rudradevbasak,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+rudradevbasak,Chip Play,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Shik,Robbery,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,greedy
+Shik,Chip Play,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Shik,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Jacob,Robbery,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+Jacob,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Jacob,Fire and Ice,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Jacob,Widget Library,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+murphy,Robbery,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+murphy,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+murphy,Widget Library,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+murphy,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+msg555,Robbery,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+msg555,Chip Play,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+msg555,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+havaliza,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+havaliza,Widget Library,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+havaliza,Chip Play,0,C,0,0,0,0,0,1,0,0,2,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+UESTC_Nocturne,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+UESTC_Nocturne,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+SkidanovAlex,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+SkidanovAlex,Chip Play,0,C,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+SkidanovAlex,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+tourist,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tourist,Chip Play,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+tourist,Space mines,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+tourist,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,expression parsing,graphs,implementation"
+tourist,Fire and Ice,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ltaravilse,Robbery,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,greedy
+ltaravilse,Widget Library,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+marek.cygan,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+marek.cygan,Space mines,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+marek.cygan,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+AlanC,Robbery,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+AlanC,Widget Library,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+OgieKako,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+OgieKako,Chip Play,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+OgieKako,Fire and Ice,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+fushar,Robbery,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+fushar,Widget Library,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+dreamoon,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+cgy4ever,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+cgy4ever,Chip Play,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+cgy4ever,Space mines,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+kelvin,Robbery,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kelvin,Chip Play,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+kelvin,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+kelvin,Fire and Ice,1,E,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NALP,Robbery,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+NALP,Widget Library,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+NALP,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+zibada,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zibada,Chip Play,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+zibada,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Fdg,Robbery,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+Fdg,Widget Library,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Fdg,Chip Play,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+LayCurse,Robbery,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+LayCurse,Widget Library,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+LayCurse,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+shevchen,Robbery,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+shevchen,Chip Play,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+FedyuninV,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+forifchen,Robbery,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,greedy
+forifchen,Chip Play,0,C,0,0,0,0,1,0,0,2,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+Dembel,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dembel,Widget Library,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+Dembel,Space mines,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+AlexFetisov,Robbery,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,greedy
+AlexFetisov,Chip Play,0,C,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+AlexFetisov,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+xhae,Robbery,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+xhae,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+xhae,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+xhae,Widget Library,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+hos.lyric,Chip Play,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+hos.lyric,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hos.lyric,Widget Library,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,expression parsing,graphs,implementation"
+hos.lyric,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+FatSheep,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,greedy
+FatSheep,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+wRabbits_AlMag,Robbery,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+wRabbits_AlMag,Chip Play,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+dkirienko,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dkirienko,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+I_love_ilona,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+I_love_ilona,Chip Play,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+GagGuy,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+GagGuy,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+GagGuy,Space mines,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+matushkin,Robbery,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,greedy
+neal,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+neal,Chip Play,1,C,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+Archon.JK,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Archon.JK,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Archon.JK,Widget Library,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Kostroma,Robbery,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kostroma,Chip Play,1,C,0,0,0,1,0,1,0,1,1,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+wrong,Robbery,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+wrong,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,data structures,implementation"
+balroginfire,Robbery,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,greedy
+balroginfire,Chip Play,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+balroginfire,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+anhdt,Robbery,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+anhdt,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+VArtem,Robbery,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+VArtem,Chip Play,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+Commandos,Robbery,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Commandos,Widget Library,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+portal,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,greedy
+portal,Widget Library,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+portal,Chip Play,1,C,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+flashmt,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+flashmt,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+flashmt,Widget Library,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+Olja,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Olja,Widget Library,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Olja,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+atetubou,Robbery,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+atetubou,Chip Play,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+mukas,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mukas,Chip Play,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Igel_SK,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+Igel_SK,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+natalia,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+natalia,Widget Library,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,"dp,expression parsing,graphs,implementation"
+Rei,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+Rei,Chip Play,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+vsb,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vsb,Chip Play,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,"brute force,data structures,implementation"
+vsb,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+evader,Robbery,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+evader,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+evader,Widget Library,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+aurinegro,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+aurinegro,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,data structures,implementation"
+voover,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+liympanda,Robbery,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+liympanda,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+liympanda,Widget Library,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+a180285,Robbery,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+Orfest,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Orfest,Widget Library,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Orfest,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+Orfest,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+zetsubou,Robbery,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+zetsubou,Chip Play,0,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+zetsubou,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+zetsubou,Widget Library,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+Malinovsky239,Robbery,1,A,1,0,0,0,0,4,0,2,0,0,0,0,0,1,0,0,0,greedy
+liangjiaxing57,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,greedy
+liangjiaxing57,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+liangjiaxing57,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Seyaua,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Seyaua,Chip Play,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Seyaua,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Matjaz,Robbery,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,greedy
+navi,Robbery,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+navi,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+m.sabouri,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+yuscvscv,Robbery,0,A,0,0,0,1,2,4,0,0,0,0,0,0,0,1,0,0,0,greedy
+Austeritas,Robbery,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,greedy
+dasko1,Robbery,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+dasko1,Chip Play,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+birbbit,Robbery,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ra16bit,Robbery,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ra16bit,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Ra16bit,Widget Library,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+alexander86,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alexander86,Widget Library,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+alexander86,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Shapo,Robbery,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+Shapo,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+Shapo,Widget Library,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+iensen,Robbery,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,greedy
+iensen,Widget Library,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+mastersobg,Robbery,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+nevidomy,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+nevidomy,Widget Library,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+nevidomy,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+LGM,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+LGM,Widget Library,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+ardiankp,Robbery,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ardiankp,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+ardiankp,Widget Library,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Artishok,Robbery,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,greedy
+Artishok,Chip Play,1,C,0,0,0,0,1,0,0,0,2,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+evg-zhabotinsky,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+evg-zhabotinsky,Widget Library,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+uwi,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+uwi,Widget Library,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+uwi,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+phinfinity,Robbery,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+phinfinity,Chip Play,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+akashin,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+akashin,Chip Play,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+R_R_,Chip Play,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+R_R_,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+R_R_,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+MAK,Robbery,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+MAK,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+xscape,Robbery,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+xscape,Widget Library,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+xscape,Chip Play,0,C,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+goryinyich,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+goryinyich,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+goryinyich,Chip Play,1,C,0,0,0,1,1,1,0,0,1,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+yuzeming,Robbery,1,A,1,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,greedy
+yuzeming,Chip Play,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+JalbaRu,Robbery,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,greedy
+JalbaRu,Widget Library,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+kormyshov,Robbery,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,greedy
+scott_wu,Robbery,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+Vedensky,Chip Play,1,C,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Vedensky,Widget Library,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+MBabin,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+SergeyLazarev,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+SergeyLazarev,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+SergeyLazarev,Chip Play,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+johar,Robbery,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+johar,Chip Play,1,C,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+package.zaic,Robbery,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+package.zaic,Widget Library,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+package.zaic,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+shilov,Robbery,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,greedy
+shilov,Widget Library,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+yvasyliv,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+yvasyliv,Chip Play,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+hydrastuff,Robbery,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+hydrastuff,Chip Play,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Skird,Robbery,1,A,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+Skird,Widget Library,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+darkbtf,Robbery,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+darkbtf,Widget Library,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Tinkturianec,Robbery,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+Tinkturianec,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+suhendry,Robbery,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,greedy
+suhendry,Chip Play,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+kilotaras,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kilotaras,Widget Library,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+kilotaras,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Chubcheg,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Chubcheg,Widget Library,1,B,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+sune2,Robbery,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+sune2,Chip Play,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+sbzlyessit,Robbery,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,greedy
+Berestinsky,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+Berestinsky,Chip Play,1,C,0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+Balajiganapathi,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+Balajiganapathi,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+self_healing,Robbery,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+self_healing,Chip Play,1,C,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+tavo92,Robbery,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+tavo92,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+pt1989,Robbery,0,A,0,0,0,1,0,6,0,0,0,0,0,0,0,1,0,0,0,greedy
+pt1989,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Milanin,Robbery,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Milanin,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Milanin,Chip Play,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+dancho,Robbery,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+dancho,Chip Play,1,C,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+dancho,Widget Library,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Kenny_HORROR,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+Kenny_HORROR,Chip Play,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Kenny_HORROR,Widget Library,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+PavelKunyavskiy,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+PavelKunyavskiy,Chip Play,0,C,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+PavelKunyavskiy,Widget Library,1,B,1,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+mingrimingyue,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+mingrimingyue,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+69-64-79,Robbery,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+Xazker,Chip Play,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Xazker,Widget Library,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Xazker,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+olimpo,Robbery,0,A,0,0,0,1,1,8,0,2,0,0,0,0,0,0,0,0,0,greedy
+Hitrez,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+subscriber,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+subscriber,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,data structures,implementation"
+yuxingdubai,Robbery,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,0,greedy
+Alireza,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Alireza,Chip Play,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+ir5,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ir5,Chip Play,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+ir5,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Copymaster,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+Copymaster,Chip Play,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+Copymaster,Widget Library,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+S.Yesipenko,Robbery,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+S.Yesipenko,Widget Library,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Thost,Robbery,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+homo_sapiens,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+homo_sapiens,Widget Library,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+homo_sapiens,Chip Play,0,C,0,0,0,0,0,3,0,3,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+simp1eton,Robbery,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,2,0,0,0,greedy
+simp1eton,Widget Library,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+---Grigor---,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+---Grigor---,Chip Play,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+---Grigor---,Widget Library,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+ahmed_aly,Robbery,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+ahmed_aly,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+GeLo,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+GeLo,Chip Play,1,C,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+permin,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+permin,Widget Library,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+adaabao,Robbery,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,greedy
+ksjuchi,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Icemore,Robbery,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Icemore,Widget Library,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+fmm,Robbery,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+Andrew_Makar,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Andrew_Makar,Widget Library,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+rajatag12,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+rajatag12,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+timgaripov,Robbery,0,A,0,0,0,0,1,6,0,0,0,0,0,0,0,2,0,0,0,greedy
+timgaripov,Widget Library,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+anders.westling,Robbery,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+anders.westling,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+Slevin,Robbery,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+Slevin,Chip Play,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+flowlight,Robbery,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,greedy
+_sunny,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+_sunny,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+tkcn,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,greedy
+tkcn,Widget Library,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+tkcn,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+Fcdkbear,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Fcdkbear,Chip Play,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+Fcdkbear,Widget Library,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Monyura,Robbery,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+Monyura,Widget Library,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+KhaustovPavel,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KhaustovPavel,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+KhaustovPavel,Chip Play,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"brute force,data structures,implementation"
+xujie,Robbery,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+xujie,Chip Play,0,C,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+AlexDmitriev,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AlexDmitriev,Widget Library,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+CherryTree,Robbery,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,greedy
+CherryTree,Widget Library,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+CherryTree,Chip Play,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+Jami_CSEDU,Robbery,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+watashi,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+watashi,Chip Play,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+watashi,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,expression parsing,graphs,implementation"
+mmaxio,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+pyshnograev,Robbery,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+pyshnograev,Widget Library,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+shindo,Robbery,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+espr1t,Robbery,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+espr1t,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+CleRIC,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,greedy
+CleRIC,Chip Play,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+ifsmirnov,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+ifsmirnov,Widget Library,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+ifsmirnov,Chip Play,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+sdya,Chip Play,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+sdya,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sdya,Widget Library,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+sdya,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Omar.Darwish,Robbery,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,greedy
+Omar.Darwish,Chip Play,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+yaro,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yaro,Space mines,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+zhouxingxing,Chip Play,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+zhouxingxing,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+zhouxingxing,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+UESTC_Defense,Robbery,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+UESTC_Defense,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+UESTC_Defense,Widget Library,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+siuvit,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+siuvit,Chip Play,1,C,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+dzhulgakov,Chip Play,0,C,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+dzhulgakov,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+dzhulgakov,Widget Library,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+dzhulgakov,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Bugman,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+Bugman,Widget Library,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+yak_ex,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yak_ex,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Connector,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+zjut_DD,Robbery,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sereja,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sereja,Chip Play,1,C,1,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+OutSide,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,greedy
+fhlasek,Robbery,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+fhlasek,Chip Play,1,C,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+fhlasek,Widget Library,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Deamon,Robbery,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Deamon,Widget Library,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Deamon,Chip Play,0,C,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+ysyshtc,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,greedy
+ysyshtc,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Vintik,Widget Library,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Vintik,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Vintik,Space mines,1,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+spartac,Robbery,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,2,0,0,0,greedy
+spartac,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+tigvarts,Robbery,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+frankyym,Robbery,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+frankyym,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+godofthunder,Robbery,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+godofthunder,Chip Play,1,C,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+Romka,Robbery,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Romka,Chip Play,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Romka,Space mines,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Romka,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+poopi,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+poopi,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+qu317058542,Robbery,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,greedy
+lordklotski,Robbery,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,greedy
+sulume,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+sulume,Widget Library,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+yiuyuho,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yiuyuho,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+yiuyuho,Chip Play,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+kolesov93,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+kolesov93,Chip Play,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+kolesov93,Widget Library,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+msh_shiplu,Robbery,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+msh_shiplu,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+tanzaku,Robbery,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,greedy
+tanzaku,Widget Library,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+edward_mj,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+edward_mj,Chip Play,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+blazerer,Robbery,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,2,0,0,0,greedy
+blazerer,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+nk.karpov,Robbery,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+nk.karpov,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Sphinx,Robbery,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,greedy
+Sphinx,Chip Play,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+AndreySiunov,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+lmhung2007,Robbery,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,greedy
+BademiChetan,Robbery,0,A,0,0,0,0,1,9,0,0,0,0,0,0,0,2,0,0,0,greedy
+prunthaban,Robbery,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,greedy
+those,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+those,Widget Library,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+those,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+LinesPrower,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+LinesPrower,Widget Library,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+LinesPrower,Chip Play,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+NikitaD,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NikitaD,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+haker4o,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+haker4o,Chip Play,1,C,0,0,0,1,0,0,0,2,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+AntonDubovik,Robbery,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+AntonDubovik,Widget Library,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+kamranm,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kamranm,Chip Play,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,"brute force,data structures,implementation"
+ACube,Robbery,0,A,1,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,greedy
+ACube,Chip Play,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+ACube,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+mgqa34,Robbery,1,A,1,0,0,0,1,14,0,0,0,0,0,0,0,3,0,0,0,greedy
+mgqa34,Chip Play,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+manandsea,Robbery,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+dalex,Robbery,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+dalex,Chip Play,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+durt,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+durt,Chip Play,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+chhung6,Robbery,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+chhung6,Chip Play,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+chhung6,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,geometry
+yeputons,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yeputons,Chip Play,0,C,1,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+yeputons,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+vout,Robbery,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+vout,Chip Play,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+poao899,Robbery,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+poao899,Chip Play,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+poao899,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+baihacker,Robbery,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+baihacker,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+huyuealex,Robbery,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+pius_88,Robbery,0,A,0,0,0,1,0,5,0,0,0,0,0,0,0,2,0,0,0,greedy
+Fata1ist,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,greedy
+balakrishnan,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+y3eadgbe,Robbery,0,A,0,0,0,1,0,7,0,0,0,0,0,0,0,1,0,0,0,greedy
+alger95,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,greedy
+alger95,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+Gerald,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gerald,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+pablo.aguilar,Robbery,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+HolkinPV,Robbery,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,greedy
+Sergey.Bankevich,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sergey.Bankevich,Chip Play,0,C,0,0,0,0,1,0,0,2,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+Sergey.Bankevich,Widget Library,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Sergey.Bankevich,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+MarioYC,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+MarioYC,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+udayrocks2k8,Robbery,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+Ministr,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+Ministr,Robbery,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+sexyprincess91,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sexyprincess91,Widget Library,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+sexyprincess91,Space mines,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Oleg805,Robbery,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Oleg805,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+witua,Robbery,1,A,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+USA,Robbery,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+USA,Widget Library,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Kharybin,Robbery,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+Kharybin,Widget Library,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Oryshych,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+Oryshych,Widget Library,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+lightning_31,Robbery,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+lightning_31,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+good_mood,Robbery,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+good_mood,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+stostap,Robbery,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+ft.azadi,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+ft.azadi,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+zgmf_x42s,Robbery,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,1,0,0,0,greedy
+islam-al-aarag,Robbery,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,greedy
+islam-al-aarag,Chip Play,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+riversouther,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+cpphamza,Robbery,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+cpphamza,Chip Play,0,C,0,0,0,1,0,0,0,2,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+fengzlzl,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+fengzlzl,Chip Play,1,C,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+mR.ilchi,Robbery,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+mR.ilchi,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+ChaRiL,Robbery,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,greedy
+Jokser,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Jokser,Widget Library,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+VUAcoder,Robbery,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+JKeeJ1e30,Robbery,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+daftcoder,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+ThaonTonCien,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ThaonTonCien,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+-XraY-,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+-XraY-,Widget Library,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+bigeye,Robbery,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+pragrame,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,greedy
+xptree,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xptree,Widget Library,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,expression parsing,graphs,implementation"
+scenetree,Robbery,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+scenetree,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Matt,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+Matt,Chip Play,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+atol,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+atol,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+AHdoc,Robbery,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,greedy
+AHdoc,Chip Play,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Martin,Robbery,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Martin,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Martin,Space mines,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Burunduk1,Chip Play,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Burunduk1,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Burunduk1,Widget Library,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Burunduk1,Space mines,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+SkorKNURE,Robbery,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KrK,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KrK,Chip Play,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+KrK,Widget Library,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+GaoYusong,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+GaoYusong,Widget Library,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+NuM,Robbery,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ch0W,Chip Play,0,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Ch0W,Robbery,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,greedy
+fatboy_cw,Robbery,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+fryday,Robbery,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+winterwolf94,Robbery,1,A,1,0,0,0,0,8,0,0,0,0,0,0,0,2,0,0,0,greedy
+Amtrix,Robbery,0,A,0,0,0,0,0,4,0,3,0,0,0,0,0,0,0,0,0,greedy
+Amtrix,Chip Play,0,C,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+zgw,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+riad,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+riad,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+u1ik,Widget Library,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+u1ik,Robbery,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,greedy
+dipto,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+Nikolai,Chip Play,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+wiw,Widget Library,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+wiw,Robbery,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+amrSamir,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+amrSamir,Widget Library,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Aleksander,Robbery,0,A,0,0,0,0,0,8,0,0,0,0,0,0,0,1,0,0,0,greedy
+Jughead,Robbery,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+Jughead,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+RaceBug,Robbery,0,A,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+handojo1,Robbery,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+handojo1,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+ksameluk,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ksameluk,Chip Play,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+SobolS,Robbery,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+SobolS,Widget Library,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+juarez.paulino,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+juarez.paulino,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+yimao,Robbery,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,2,0,0,0,greedy
+Snusmumriken,Widget Library,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+Snusmumriken,Robbery,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+bjin,Chip Play,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+bjin,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+zzldjk,Chip Play,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+zzldjk,Robbery,1,A,1,0,0,0,0,8,0,0,0,0,0,0,0,2,0,0,0,greedy
+coders1122,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+coders1122,Robbery,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+dened,Chip Play,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+dened,Widget Library,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+dened,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lijunle,Robbery,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,greedy
+miaout17,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+miaout17,Widget Library,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+miaout17,Robbery,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Rubanenko,Robbery,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,greedy
+mukel,Chip Play,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+mukel,Widget Library,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+fura2,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+fura2,Chip Play,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+serbanstan,Robbery,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+stafp,Robbery,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+Steps09,Widget Library,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Steps09,Chip Play,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+Steps09,Robbery,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Bo_Odya,Chip Play,0,C,0,0,0,0,0,0,0,2,3,1,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+piva,Robbery,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+piva,Widget Library,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+alexej,Robbery,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+ahmedsaad,Widget Library,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+ahmedsaad,Robbery,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+manukranthk,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+manukranthk,Chip Play,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+Narg,Widget Library,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+Narg,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+polmauri,Widget Library,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+polmauri,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+masha_and_beer,Widget Library,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+masha_and_beer,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+masha_and_beer,Chip Play,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+tehqin,Robbery,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+tehqin,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+juver,Widget Library,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+juver,Chip Play,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+DDDDDDDDDDDDDDDDDDDDDDDD,Chip Play,0,C,0,0,0,0,0,0,0,3,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+kontr,Robbery,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+piotr.kukla,Robbery,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+mcsharma1990,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+giantarum,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+litwin,Widget Library,0,B,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+litwin,Chip Play,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+jackiesteed,Widget Library,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+jackiesteed,Chip Play,1,C,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+rofi,Robbery,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+rofi,Chip Play,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+eik0u,Chip Play,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+eik0u,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+I-juice,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+I-juice,Robbery,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kuzmichev_dima,Chip Play,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+kuzmichev_dima,Robbery,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+waterhao,Widget Library,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+paulocezar,Widget Library,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"dp,expression parsing,graphs,implementation"
+paulocezar,Robbery,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+kyuridenamida,Chip Play,0,C,0,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,"brute force,data structures,implementation"
+acherepanov,Widget Library,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+acherepanov,Robbery,1,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DPR-pavlin,Robbery,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+avriskin,Chip Play,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,data structures,implementation"
+avriskin,Robbery,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+rizar,Space mines,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Barsuk_Alexey,Robbery,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+shibly,Robbery,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+ballon,Widget Library,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+ballon,Robbery,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Moskupols,Widget Library,1,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,expression parsing,graphs,implementation"
+KirillB,Robbery,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy

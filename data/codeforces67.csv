@@ -1,0 +1,1264 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+maksay,Partial Teacher,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+maksay,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+maksay,Optical Experiment,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+maksay,Sequence of Balls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+Arios,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Arios,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+KADR,Partial Teacher,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,1,0,0,"dp,graphs,greedy,implementation"
+KADR,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KADR,Sequence of Balls,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,dp
+KADR,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Eledven,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+Eledven,Sequence of Balls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+sdryapko,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+keivan,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+volkhin,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Ra16bit,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Ra16bit,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ra16bit,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Ra16bit,Sequence of Balls,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Ra16bit,Save the City!,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Ignat,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+Ignat,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ignat,Sequence of Balls,0,C,0,0,0,0,0,3,0,1,0,0,0,0,0,1,0,0,0,dp
+Ignat,Optical Experiment,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Ignat,Save the City!,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,geometry
+thinfaifai,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+thinfaifai,Sequence of Balls,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+thinfaifai,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dj3500,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+dj3500,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dj3500,Sequence of Balls,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,dp
+dj3500,Optical Experiment,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+A.K.Goharshady,Partial Teacher,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+A.K.Goharshady,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+A.K.Goharshady,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fushar,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+fushar,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fushar,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+fushar,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+yaro,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+yaro,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yaro,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+wRabbits_AlMag,Partial Teacher,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+wRabbits_AlMag,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+wRabbits_AlMag,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+wRabbits_AlMag,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+ania,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+ania,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ania,Optical Experiment,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ania,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+ania,Save the City!,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ballon,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+ballon,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ballon,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+morze,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+morze,Sequence of Balls,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+buko,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+buko,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+buko,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+buko,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+buko,Save the City!,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Fedya,Partial Teacher,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+2222,Partial Teacher,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+2222,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+2222,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+2222,Sequence of Balls,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+2222,Save the City!,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Daiki_Ando,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Daiki_Ando,Sequence of Balls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+AntonDubovik,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+AntonDubovik,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AntonDubovik,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+AntonDubovik,Sequence of Balls,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,dp
+shilov,Partial Teacher,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+shilov,Restoration of the Permutation,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+---Grigor---,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+---Grigor---,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+---Grigor---,Optical Experiment,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Rosetta,Partial Teacher,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Rosetta,Optical Experiment,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+yarrr,Partial Teacher,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+yarrr,Sequence of Balls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+yarrr,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yarrr,Optical Experiment,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+portal,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+portal,Optical Experiment,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+portal,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+portal,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,dp
+SergeiFedorov,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+SergeiFedorov,Optical Experiment,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+SergeiFedorov,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SergeiFedorov,Sequence of Balls,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+it4.kp,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+it4.kp,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+it4.kp,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+it4.kp,Sequence of Balls,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dp
+timgaripov,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+timgaripov,Optical Experiment,0,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Sereja,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Sereja,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+Sereja,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Sereja,Sequence of Balls,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+witua,Partial Teacher,0,A,1,0,0,0,0,8,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+witua,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+witua,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+LayCurse,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+LayCurse,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+LayCurse,Sequence of Balls,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+LayCurse,Save the City!,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+LayCurse,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+gheorghemihai,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+gheorghemihai,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+gheorghemihai,Restoration of the Permutation,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+FedyuninV,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+MAK,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,graphs,greedy,implementation"
+MAK,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MAK,Optical Experiment,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+MAK,Sequence of Balls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Zlobober,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Zlobober,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Zlobober,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Zlobober,Sequence of Balls,1,C,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,dp
+Zlobober,Save the City!,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+ZumZoom,Partial Teacher,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+ZumZoom,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp"
+ZumZoom,Sequence of Balls,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dp
+ZumZoom,Restoration of the Permutation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Alias,Partial Teacher,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,graphs,greedy,implementation"
+Alias,Optical Experiment,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Alias,Sequence of Balls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+0rbit,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+0rbit,Sequence of Balls,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+0rbit,Optical Experiment,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Zhuravlyov.A,Partial Teacher,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Zhuravlyov.A,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+winger,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+winger,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+winger,Sequence of Balls,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+winger,Optical Experiment,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+winger,Save the City!,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Borisp,Partial Teacher,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Borisp,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Borisp,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Borisp,Save the City!,1,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,geometry
+Sisu,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,graphs,greedy,implementation"
+Sisu,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sisu,Optical Experiment,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Sisu,Save the City!,0,E,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,geometry
+Sisu,Sequence of Balls,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+vsb_ua_in,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+vsb_ua_in,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+xhae,Partial Teacher,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+xhae,Optical Experiment,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+xhae,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+allocator,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+allocator,Restoration of the Permutation,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+allocator,Optical Experiment,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp"
+Spacejoker,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+Spacejoker,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Spacejoker,Optical Experiment,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+Kostroma,Partial Teacher,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+Kostroma,Optical Experiment,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+BrightDays,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+tigvarts,Partial Teacher,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+tigvarts,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tigvarts,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+tigvarts,Sequence of Balls,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+userresu,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+userresu,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+userresu,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+userresu,Sequence of Balls,1,C,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,dp
+delta,Partial Teacher,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+delta,Restoration of the Permutation,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Narg,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Narg,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Narg,Optical Experiment,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Narg,Sequence of Balls,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dp
+Narg,Save the City!,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+dancho,Partial Teacher,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+dancho,Optical Experiment,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+dancho,Restoration of the Permutation,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Aleksander,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+Aleksander,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Aleksander,Optical Experiment,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kormyshov,Partial Teacher,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+kormyshov,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+sementry,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+sementry,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Warxezz,Partial Teacher,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Dumpty,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Dumpty,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dumpty,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Dumpty,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+S.Yesipenko,Partial Teacher,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+S.Yesipenko,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+S.Yesipenko,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+S.Yesipenko,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+S.Yesipenko,Save the City!,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,geometry
+Pole4,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Pole4,Sequence of Balls,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+flashmt,Partial Teacher,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+flashmt,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+flashmt,Optical Experiment,1,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+flashmt,Sequence of Balls,1,C,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+cerealguy,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+cerealguy,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+cerealguy,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cerealguy,Sequence of Balls,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Petruchcho,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Petruchcho,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+CroDoc,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+CroDoc,Optical Experiment,0,D,0,0,0,1,1,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+LeBron,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+LeBron,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lijunle,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+lijunle,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lijunle,Optical Experiment,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+akashin,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+akashin,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+akashin,Sequence of Balls,1,C,0,0,0,0,0,10,0,0,0,0,0,0,0,1,0,0,0,dp
+akashin,Optical Experiment,0,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+zibada,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,graphs,greedy,implementation"
+zibada,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zibada,Sequence of Balls,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,dp
+zibada,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Shafaet,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,1,0,0,"dp,graphs,greedy,implementation"
+aan93,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+aan93,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+aan93,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+JKeeJ1e30,Partial Teacher,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+JKeeJ1e30,Optical Experiment,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+JKeeJ1e30,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+VladBelous,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+VladBelous,Restoration of the Permutation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+VladBelous,Sequence of Balls,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+evader,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+alger95,Partial Teacher,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+alger95,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alger95,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+alger95,Save the City!,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+ne.rwa.lz,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+ne.rwa.lz,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ne.rwa.lz,Optical Experiment,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ne.rwa.lz,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+DraG,Partial Teacher,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Gassa,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Gassa,Save the City!,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Gassa,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Gassa,Sequence of Balls,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+Gassa,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Genyaz,Partial Teacher,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Genyaz,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+dronoff,Partial Teacher,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+dronoff,Optical Experiment,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Andrew_Makar,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Andrew_Makar,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tourist,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+tourist,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+tourist,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tourist,Save the City!,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,geometry
+tourist,Sequence of Balls,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+Abra,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Abra,Optical Experiment,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+Abra,Sequence of Balls,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+yvasyliv,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+yvasyliv,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yvasyliv,Sequence of Balls,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,dp
+yvasyliv,Optical Experiment,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kamranm,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+kamranm,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kamranm,Sequence of Balls,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+shadeel,Partial Teacher,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+shadeel,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+y3eadgbe,Partial Teacher,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+y3eadgbe,Restoration of the Permutation,1,B,1,0,0,1,2,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+MciprianM,Partial Teacher,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+MciprianM,Restoration of the Permutation,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+GoomboCode,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+GoomboCode,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+PavelKunyavskiy,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+PavelKunyavskiy,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+PavelKunyavskiy,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+PavelKunyavskiy,Sequence of Balls,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dp
+PavelKunyavskiy,Save the City!,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+4a1ka,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+BearPlu,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+GeLo,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+GeLo,Optical Experiment,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp"
+Skiminok,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Skiminok,Sequence of Balls,0,C,1,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,dp
+Skiminok,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Skiminok,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fura2,Partial Teacher,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+fura2,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+fura2,Sequence of Balls,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+ditzone,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+ditzone,Optical Experiment,1,D,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ditzone,Sequence of Balls,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,dp
+dimatomp,Partial Teacher,1,A,1,0,0,0,1,6,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Electronick,Partial Teacher,1,A,1,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+AniZerg,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+AniZerg,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AniZerg,Optical Experiment,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+AniZerg,Sequence of Balls,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+AniZerg,Save the City!,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+strelok1918,Partial Teacher,0,A,0,0,0,1,1,9,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Shef,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Shef,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shef,Optical Experiment,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Shef,Sequence of Balls,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+Shef,Save the City!,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+freopen,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+freopen,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+freopen,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+freopen,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,dp
+freopen,Save the City!,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Amtrix,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Amtrix,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+Amtrix,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Amtrix,Sequence of Balls,1,C,0,0,0,0,0,5,0,0,1,0,0,0,0,1,0,0,0,dp
+fayyaz,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+fayyaz,Sequence of Balls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+fayyaz,Save the City!,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+dalex,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+dalex,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dalex,Optical Experiment,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+iensen,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+iensen,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+iensen,Optical Experiment,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+atol,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+atol,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+atol,Optical Experiment,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+atol,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+atol,Save the City!,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,2,0,0,geometry
+ufo008ahw,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+mcsharma1990,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+rembocoder,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+rembocoder,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Oi.,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+PanZverski,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+PanZverski,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+PanZverski,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+MBabin,Partial Teacher,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+MBabin,Optical Experiment,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+MBabin,Save the City!,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+MBabin,Restoration of the Permutation,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+litstrong,Partial Teacher,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+litstrong,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+litstrong,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+none,Partial Teacher,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+ankit1990,Partial Teacher,0,A,0,0,0,0,0,5,0,3,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+ankit1990,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+gmunkhbaatarmn,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+johar,Partial Teacher,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+ahmed_aly,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+ahmed_aly,Restoration of the Permutation,0,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+ahmed_aly,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+timmy,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+timmy,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+trukanduk,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+trukanduk,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+o948,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+vudduu,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+vudduu,Sequence of Balls,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+ChaRiL,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+ChaRiL,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ChaRiL,Optical Experiment,1,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ChaRiL,Sequence of Balls,1,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+zhk,Partial Teacher,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+zhk,Restoration of the Permutation,1,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Egor,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Egor,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Egor,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Egor,Save the City!,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Egor,Sequence of Balls,0,C,0,0,0,0,0,4,0,1,0,0,0,0,0,1,0,0,0,dp
+Ksunya,Partial Teacher,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Scientist1642,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+riad,Partial Teacher,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+riad,Restoration of the Permutation,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+riad,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+riad,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+zhukov,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Rubanenko,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Rubanenko,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+watashi,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,graphs,greedy,implementation"
+watashi,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+watashi,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+watashi,Save the City!,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+watashi,Sequence of Balls,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,dp
+idivyanshu,Partial Teacher,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+AndreySiunov,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+AndreySiunov,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AndreySiunov,Optical Experiment,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+AndreySiunov,Save the City!,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+tehqin,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+pt1989,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+pt1989,Optical Experiment,0,D,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+pt1989,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pt1989,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,dp
+Seemann,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Seemann,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Seemann,Optical Experiment,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Seemann,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+chhung6,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+chhung6,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+chhung6,Save the City!,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,geometry
+myltik,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Atef,Partial Teacher,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+cjoa,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,"dp,graphs,greedy,implementation"
+cjoa,Sequence of Balls,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+paranoid,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+ivan.popelyshev,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+ivan.popelyshev,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ivan.popelyshev,Sequence of Balls,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+ivan.popelyshev,Save the City!,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+ivan.popelyshev,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+litwin,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+litwin,Optical Experiment,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+litwin,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+almazkh,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Medium,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Medium,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Medium,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Jughead,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+Jughead,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Jughead,Sequence of Balls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Jughead,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Jughead,Save the City!,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+Fhtagn,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+Fhtagn,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Fhtagn,Optical Experiment,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+Shiho,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Shiho,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shiho,Optical Experiment,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp"
+ksh78,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+ksh78,Sequence of Balls,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+EdgeLuxe,Partial Teacher,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+EdgeLuxe,Optical Experiment,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+poopi,Partial Teacher,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+poopi,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+poopi,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+poopi,Sequence of Balls,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+leefour,Partial Teacher,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+ilya.korovin,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+ilya.korovin,Optical Experiment,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ilyakor,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+ilyakor,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ilyakor,Sequence of Balls,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,dp
+ilyakor,Optical Experiment,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ilyakor,Save the City!,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+naagi,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+naagi,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+naagi,Save the City!,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,geometry
+yayamao,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+yayamao,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yayamao,Sequence of Balls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+yayamao,Optical Experiment,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+-dp-,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+-dp-,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+-dp-,Optical Experiment,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+-dp-,Sequence of Balls,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+-dp-,Save the City!,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+ashmelev,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+ashmelev,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ashmelev,Sequence of Balls,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,dp
+ashmelev,Optical Experiment,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ashmelev,Save the City!,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Connector,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Connector,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Connector,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Connector,Sequence of Balls,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+Igorsheiko,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+sicasli,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+natalia,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+natalia,Optical Experiment,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+natalia,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+natalia,Save the City!,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+natalia,Sequence of Balls,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,dp
+kitayuta,Partial Teacher,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+Ripatti,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Ripatti,Optical Experiment,0,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Ripatti,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ripatti,Save the City!,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,geometry
+sas4eka,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+sas4eka,Restoration of the Permutation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Demjan,Partial Teacher,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Demjan,Optical Experiment,0,D,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Demjan,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+maxpoops,Partial Teacher,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+prpr,Partial Teacher,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+prpr,Optical Experiment,1,D,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+k06a,Partial Teacher,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Ahmed_Salama,Partial Teacher,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+Ahmed_Salama,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ahmed_Salama,Optical Experiment,1,D,1,0,0,0,0,1,0,2,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+Ahmed_Salama,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+lightning_31,Partial Teacher,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+lightning_31,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lightning_31,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+lightning_31,Sequence of Balls,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+quangpham,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+quangpham,Sequence of Balls,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+LongCtrl,Partial Teacher,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+antonkov,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+grey_wind,Partial Teacher,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,1,0,0,"dp,graphs,greedy,implementation"
+Fcdkbear,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Fcdkbear,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Fcdkbear,Optical Experiment,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+Dmitry.Gerasimov,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Dmitry.Gerasimov,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gantz,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+shevchen,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+shevchen,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shevchen,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+shevchen,Sequence of Balls,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+ekrilov92,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+palcuiealex,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+del,Partial Teacher,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+islam-al-aarag,Partial Teacher,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+islam-al-aarag,Optical Experiment,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+islam-al-aarag,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+max777alex,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Rei,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Rei,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+omir,Partial Teacher,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+omir,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+omir,Optical Experiment,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+dolphinigle.manthan,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+dolphinigle.manthan,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+dolphinigle.manthan,Sequence of Balls,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+fendy_k1,Partial Teacher,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+yuta1024,Partial Teacher,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+xiaoyoulei,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+xiaoyoulei,Save the City!,0,E,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+xiaoyoulei,Restoration of the Permutation,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+xiaoyoulei,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp"
+eik0u,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+eik0u,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yantar92,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Le-Nika,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Le-Nika,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+a20012251,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+a20012251,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+a20012251,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+a20012251,Save the City!,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,geometry
+a20012251,Sequence of Balls,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dp
+Timus,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Timus,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Creed,Partial Teacher,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Avalanche,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Avalanche,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dyussenaliyev,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+dyussenaliyev,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dyussenaliyev,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+dyussenaliyev,Sequence of Balls,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+I-juice,Partial Teacher,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+I-juice,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+I-juice,Save the City!,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+I-juice,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+freak93,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+freak93,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+freak93,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+freak93,Sequence of Balls,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+freak93,Save the City!,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,geometry
+mystery_boy,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+72VanVector_SevNTU,Partial Teacher,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+tracyhenry,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+tracyhenry,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tracyhenry,Optical Experiment,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+tracyhenry,Sequence of Balls,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dp
+diogen,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+diogen,Sequence of Balls,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,dp
+diogen,Optical Experiment,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+mR.ilchi,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+mR.ilchi,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mR.ilchi,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Ixanezis,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+Ixanezis,Optical Experiment,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Ixanezis,Restoration of the Permutation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ixanezis,Save the City!,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,geometry
+NALP,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+NALP,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NALP,Optical Experiment,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+NALP,Sequence of Balls,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,2,0,0,0,dp
+NALP,Save the City!,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,geometry
+Vasya.V,Partial Teacher,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+truongl,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+truongl,Optical Experiment,0,D,0,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+chen881129,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+jmendoza,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+AlexDmitriev,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+AlexDmitriev,Optical Experiment,1,D,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+_sunny,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+_sunny,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+_sunny,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+_sunny,Sequence of Balls,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+mukas,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+mukas,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kasyankrak,Partial Teacher,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+kasyankrak,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kasyankrak,Sequence of Balls,1,C,0,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,dp
+VladGavrila,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+VladGavrila,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+VladGavrila,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+VladGavrila,Sequence of Balls,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,2,0,0,0,dp
+VladGavrila,Save the City!,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+callow_crew,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+cauchyk,Partial Teacher,0,A,0,0,0,0,0,5,0,1,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+brainail,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+bitekas,Partial Teacher,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+bitekas,Save the City!,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+alexsashka137,Partial Teacher,0,A,0,0,0,0,2,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+z-ghost,Partial Teacher,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+z-ghost,Sequence of Balls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+snuke,Partial Teacher,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+KhaustovPavel,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+KhaustovPavel,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KhaustovPavel,Optical Experiment,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+KhaustovPavel,Sequence of Balls,1,C,0,0,0,0,1,5,0,0,0,0,0,0,0,1,0,0,0,dp
+goooooooopan,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+BlackBerry,Partial Teacher,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+LinesPrower,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+LinesPrower,Sequence of Balls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+LinesPrower,Optical Experiment,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+LinesPrower,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+LinesPrower,Save the City!,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+liympanda,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+liympanda,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+liympanda,Sequence of Balls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,dp
+liympanda,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+liympanda,Save the City!,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+funny-shmunny,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+shadow_codeforces,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+cgy4ever,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+cgy4ever,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cgy4ever,Optical Experiment,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+cgy4ever,Save the City!,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+cgy4ever,Sequence of Balls,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+AleksBannikov,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"dp,graphs,greedy,implementation"
+AleksBannikov,Restoration of the Permutation,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+navi,Partial Teacher,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+navi,Optical Experiment,0,D,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+navi,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+njust_water,Partial Teacher,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+AleX,Partial Teacher,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+AleX,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+AleX,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AleX,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+Melamori,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+Melamori,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Aeon_Industries,Partial Teacher,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Gravekper,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+OgieKako,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+OgieKako,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+OgieKako,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+RedAnt,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,graphs,greedy,implementation"
+RedAnt,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+RedAnt,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mislav,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+mislav,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+mislav,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mislav,Save the City!,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+mislav,Sequence of Balls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+metar,Partial Teacher,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+metar,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ishandutta2007,Partial Teacher,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Shark1919,Partial Teacher,0,A,0,0,0,0,0,6,0,2,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+good_mood,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+good_mood,Restoration of the Permutation,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+good_mood,Sequence of Balls,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+good_mood,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+msagimbekov,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Konovalov_Nik,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+VArtem,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+VArtem,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+VArtem,Optical Experiment,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+VArtem,Save the City!,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+VArtem,Sequence of Balls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+fhlasek,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+fhlasek,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fhlasek,Optical Experiment,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+fhlasek,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+M0sTik,Partial Teacher,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+M0sTik,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+atishayjain25,Partial Teacher,1,A,1,0,0,0,1,3,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+atishayjain25,Optical Experiment,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+hogeover30,Partial Teacher,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+simp1eton,Optical Experiment,0,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+simp1eton,Partial Teacher,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+simp1eton,Sequence of Balls,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,2,0,0,0,dp
+simp1eton,Restoration of the Permutation,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+STAJIKER,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+adavydow,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+adavydow,Restoration of the Permutation,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+adavydow,Optical Experiment,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+adavydow,Save the City!,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+kunaljain,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+kunaljain,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Oleg,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Oleg,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Oleg,Sequence of Balls,0,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,dp
+Oleg,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+takacsg84,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+takacsg84,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Luzan,Partial Teacher,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,1,2,0,0,"dp,graphs,greedy,implementation"
+Luzan,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hpinto,Partial Teacher,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+hpinto,Restoration of the Permutation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+_nevidomy,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+_nevidomy,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+_nevidomy,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+_nevidomy,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,dp
+_nevidomy,Save the City!,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+cmd,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+cmd,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+cmd,Sequence of Balls,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,dp
+cmd,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cmd,Save the City!,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,geometry
+Hinidu,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+Hinidu,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Tanaeem,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+kovi,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+kovi,Sequence of Balls,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+ryuzmukhametov,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+ryuzmukhametov,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ryuzmukhametov,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+kilotaras,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+kilotaras,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kilotaras,Optical Experiment,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+Jacob_codefest,Sequence of Balls,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+Jacob_codefest,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Jacob_codefest,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Jacob_codefest,Save the City!,0,E,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,geometry
+Jacob_codefest,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+peryaudo,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+qwaker.00,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+qwaker.00,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+qwaker.00,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+qwaker.00,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,dp
+taras.klaskovsky,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+taras.klaskovsky,Sequence of Balls,0,C,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+taras.klaskovsky,Optical Experiment,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+taras.klaskovsky,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ankit_shukla,Partial Teacher,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+ondrah,Partial Teacher,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+at1,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+at1,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+at1,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+at1,Save the City!,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+bohuss,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+rajatag12,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+al13n,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+al13n,Sequence of Balls,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dp
+al13n,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+al13n,Save the City!,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,geometry
+al13n,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hari6988,Partial Teacher,0,A,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+hari6988,Sequence of Balls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+ZiyaoWei,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+t.gogniashvili,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Gerald,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Gerald,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gerald,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Gerald,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+Effect,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Effect,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Effect,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Effect,Save the City!,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Aksenov239,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Aksenov239,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Aksenov239,Optical Experiment,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Duc,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Duc,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Duc,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Duc,Sequence of Balls,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dp
+pius_88,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+CherryTree,Partial Teacher,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+CherryTree,Restoration of the Permutation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+CherryTree,Sequence of Balls,0,C,0,0,0,0,0,12,0,0,0,0,0,0,0,1,0,0,0,dp
+CherryTree,Optical Experiment,1,D,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+stostap,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+stostap,Optical Experiment,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+stostap,Sequence of Balls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+stostap,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+piyush.neo,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Copymaster,Partial Teacher,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Copymaster,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Copymaster,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+teams2ua,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+teams2ua,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Anton_Lunyov,Sequence of Balls,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+Anton_Lunyov,Optical Experiment,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Anton_Lunyov,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Anton_Lunyov,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Anton_Lunyov,Save the City!,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+tgoulart,Partial Teacher,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+tgoulart,Optical Experiment,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Yuliy,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+koder_dima,Partial Teacher,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+druidnik,Partial Teacher,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+K_operafan,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+foxerman,Partial Teacher,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Mohamed.Ramzy,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+anoopchaurasiya1,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+anoopchaurasiya1,Sequence of Balls,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+anhdt,Partial Teacher,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+anhdt,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+anhdt,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Chmel_Tolstiy,Partial Teacher,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Chmel_Tolstiy,Optical Experiment,0,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Chmel_Tolstiy,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Chmel_Tolstiy,Sequence of Balls,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Chmel_Tolstiy,Save the City!,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+UMysin,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+shantanu18,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+shankyboy,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+VUAcoder,Partial Teacher,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+VUAcoder,Sequence of Balls,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+edem.kwadzo,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+deximat,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+HolkinPV,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+HolkinPV,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+HolkinPV,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+voover,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+voover,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+voover,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+voover,Save the City!,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,geometry
+voover,Sequence of Balls,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+mandyiitian,Partial Teacher,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+borisgrubic,Partial Teacher,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+borisgrubic,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+borisgrubic,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+borisgrubic,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+borisgrubic,Save the City!,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,geometry
+Ferlon,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Ferlon,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ferlon,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Ferlon,Save the City!,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+BlackEagle,Partial Teacher,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,3,0,0,0,"dp,graphs,greedy,implementation"
+Alex-Gran,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Alex-Gran,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+code6,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+code6,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+code6,Optical Experiment,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+code6,Sequence of Balls,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+package.zaic,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+package.zaic,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+package.zaic,Sequence of Balls,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,dp
+Mata,Partial Teacher,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Mata,Sequence of Balls,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+Mata,Restoration of the Permutation,0,B,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hadi_Asiaie,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Hadi_Asiaie,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hadi_Asiaie,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Hadi_Asiaie,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Muvuris,Partial Teacher,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+piotr.kukla,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+piotr.kukla,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+syntax_error,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+nagochan,Partial Teacher,0,A,0,0,0,1,0,8,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+Filins,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+ahm.kam_92,Partial Teacher,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+zetilovn,Partial Teacher,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+vlad107,Partial Teacher,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+vlad107,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+vlad107,Restoration of the Permutation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+vlad107,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+shibly,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+shibly,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Jokser,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Jokser,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Jokser,Optical Experiment,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+pperm,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+pperm,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pperm,Optical Experiment,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+pperm,Sequence of Balls,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+pperm,Save the City!,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Witalia,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+Witalia,Optical Experiment,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+Witalia,Sequence of Balls,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+Witalia,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+BogolyubskiyAlexey,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+t.i.i.r.z.,Partial Teacher,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,graphs,greedy,implementation"
+Scalar,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+C.sis,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+C.sis,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+C.sis,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+eisenheim,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+alexej,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+alexej,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+alexej,Save the City!,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+atetubou,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+atetubou,Optical Experiment,0,D,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kpurvesh,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+Proscriptus,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Proscriptus,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+paulocezar,Partial Teacher,0,A,0,0,0,0,0,9,0,1,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+paulocezar,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+paulocezar,Sequence of Balls,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+ulugbek89s,Partial Teacher,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+afaji321,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+afaji321,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+afaji321,Sequence of Balls,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+afaji321,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tanzaku,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+tanzaku,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tanzaku,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+tanzaku,Save the City!,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Stirpar,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Stirpar,Restoration of the Permutation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Stirpar,Optical Experiment,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+George,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+codecrux,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+SkorKNURE,Partial Teacher,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+SkorKNURE,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pyshnograev,Partial Teacher,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+pyshnograev,Restoration of the Permutation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+soul_departed,Partial Teacher,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+soul_departed,Sequence of Balls,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+kwetril,Partial Teacher,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+enot.1.10,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+enot.1.10,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+enot.1.10,Optical Experiment,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+enot.1.10,Save the City!,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+DamianS,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+DamianS,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DamianS,Optical Experiment,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+DamianS,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+PeterGriffin,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+shalinisah,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+radireza,Partial Teacher,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+ItsLastDay,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+ACube,Partial Teacher,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"dp,graphs,greedy,implementation"
+ACube,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ACube,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vmgurov,Partial Teacher,0,A,0,0,0,0,1,3,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+ASoboll,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+ASoboll,Restoration of the Permutation,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+ASoboll,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Yan_Kurganov_Kovrov_STA,Partial Teacher,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+mamhh,Partial Teacher,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+KrK,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+KrK,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KrK,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+KrK,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+holzer,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+holzer,Optical Experiment,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+apoorva,Partial Teacher,0,A,0,0,0,2,0,4,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+apoorva,Restoration of the Permutation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Winis,Partial Teacher,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Bidhan,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+uwi,Sequence of Balls,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,dp
+uwi,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+uwi,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+uwi,Save the City!,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+uwi,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tpkwok,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Lepetrandr,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Lepetrandr,Optical Experiment,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Lepetrandr,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Lepetrandr,Save the City!,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+pdwd,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+pdwd,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pdwd,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+.C0D3R,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+.C0D3R,Optical Experiment,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+al_maz,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+al_maz,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+al_maz,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+al_maz,Save the City!,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+Mex-Mans,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Mex-Mans,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Mex-Mans,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mex-Mans,Save the City!,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+Mex-Mans,Sequence of Balls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+root5,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+root5,Optical Experiment,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kaareln,Partial Teacher,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+Fdg,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Fdg,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Fdg,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Fdg,Sequence of Balls,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,dp
+Commandos,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Commandos,Restoration of the Permutation,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Commandos,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp"
+Eugene_nik,Partial Teacher,0,A,0,0,0,0,0,3,0,2,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+shirshbansal,Partial Teacher,0,A,0,0,0,2,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+RosyIsh,Partial Teacher,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+RosyIsh,Optical Experiment,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Kriii,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kriii,Optical Experiment,0,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+Kriii,Partial Teacher,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+fixme,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+fixme,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fixme,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+fixme,Save the City!,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+fixme,Sequence of Balls,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Brambar,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Brambar,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Manish-Kumar,Partial Teacher,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Manish-Kumar,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+bondoc73,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+yogesh_sharma,Partial Teacher,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+Petrushenko,Partial Teacher,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+kyuridenamida,Partial Teacher,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+kyuridenamida,Restoration of the Permutation,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+dipto,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+alpc92,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+z7oka,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Sauradyuti,Partial Teacher,0,A,0,0,0,0,1,5,0,1,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+nextgen,Partial Teacher,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+nextgen,Restoration of the Permutation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+tk_,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Shtrix,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Shtrix,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shtrix,Optical Experiment,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Shtrix,Sequence of Balls,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dp
+Steps09,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Steps09,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Steps09,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Steps09,Sequence of Balls,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+Steps09,Save the City!,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+wrong,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+wrong,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+wrong,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+wrong,Save the City!,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,geometry
+vetribalaji,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+ygbgames,Partial Teacher,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+ymondelo20,Partial Teacher,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+ymondelo20,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ymondelo20,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ymondelo20,Save the City!,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,geometry
+ymondelo20,Sequence of Balls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+ErzhanDS,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+UC2,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+UC2,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+RaidBoss,Partial Teacher,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+kolesov93,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+kolesov93,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+kolesov93,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jayesh02,Partial Teacher,1,A,1,0,0,0,0,1,0,2,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+juver,Partial Teacher,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+DimaPhil,Partial Teacher,0,A,0,0,0,0,0,9,0,2,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+Kenny_HORROR,Restoration of the Permutation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kenny_HORROR,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Kenny_HORROR,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Kenny_HORROR,Sequence of Balls,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dp
+fsb4000,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+logic_max,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+marque,Partial Teacher,1,A,1,0,0,0,1,3,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+marque,Save the City!,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+win32warrior,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+IvayloS,Partial Teacher,0,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+IvayloS,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+IvayloS,Optical Experiment,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Slavik,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Slavik,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Slavik,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Slavik,Sequence of Balls,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+dumbCoder,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+gthakur927,Partial Teacher,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+algoritmus,Partial Teacher,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+DPR-pavlin,Partial Teacher,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+DPR-pavlin,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+DPR-pavlin,Save the City!,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+rafaelbrandao,Partial Teacher,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+rafaelbrandao,Optical Experiment,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+GeKaZasoba,Partial Teacher,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+GeKaZasoba,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+GeKaZasoba,Optical Experiment,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Yera,Partial Teacher,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Slamur,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Slamur,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yuvansh,Partial Teacher,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+zingoba,Partial Teacher,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+zingoba,Restoration of the Permutation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sup3rcod3r,Partial Teacher,0,A,0,0,0,4,10,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Baha_ktl,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+partizan22,Partial Teacher,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+partizan22,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+partizan22,Sequence of Balls,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,dp
+partizan22,Save the City!,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,geometry
+FoodIsGood,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+FoodIsGood,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+FoodIsGood,Sequence of Balls,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+FoodIsGood,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+LordArtur,Partial Teacher,0,A,0,0,0,0,0,15,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+LordArtur,Sequence of Balls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+LordArtur,Restoration of the Permutation,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+LordArtur,Optical Experiment,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+LordArtur,Save the City!,0,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+rayevg,Partial Teacher,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+rayevg,Optical Experiment,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+yuuki3655,Partial Teacher,0,A,1,0,0,0,0,3,0,1,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+yuuki3655,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+b_idler,Partial Teacher,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,graphs,greedy,implementation"
+b_idler,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+titasde08,Partial Teacher,0,A,0,0,0,1,2,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+MOZGOLOM,Partial Teacher,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+labi,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+v1v3kn,Partial Teacher,0,A,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+v1v3kn,Sequence of Balls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Nicolai_Kovrov,Partial Teacher,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Nicolai_Kovrov,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+evg-zhabotinsky,Partial Teacher,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+evg-zhabotinsky,Restoration of the Permutation,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+evg-zhabotinsky,Save the City!,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,geometry
+evg-zhabotinsky,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ashu0803,Partial Teacher,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+jfr,Partial Teacher,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+maxwell44,Partial Teacher,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+maxwell44,Restoration of the Permutation,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Blue_Ant,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Blue_Ant,Sequence of Balls,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Mi_Sawa,Partial Teacher,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+GaoYusong,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+GaoYusong,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ViktorM,Partial Teacher,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+PER,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+PER,Restoration of the Permutation,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nenash,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Nenash,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Nenash,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+RAF,Partial Teacher,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+marser,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+szkszk,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Kuldeep,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Kuldeep,Optical Experiment,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"binary search,data structures,dp"
+Shady,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Shady,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+xpert,Partial Teacher,0,A,0,0,0,3,4,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+compc_ankit,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+fmm,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+fmm,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fmm,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+fmm,Sequence of Balls,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+hydrastuff,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp"
+hydrastuff,Sequence of Balls,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+hydrastuff,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+pishu,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+vcgupta,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+toshima,Save the City!,0,E,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,geometry
+toshima,Partial Teacher,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+toshima,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+toshima,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+shantonu_m,Partial Teacher,0,A,0,0,0,0,0,2,0,3,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+imrankane2005,Restoration of the Permutation,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+imrankane2005,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,dp"
+imrankane2005,Partial Teacher,1,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Shalabh,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+am-real,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+betterbearat,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+bhuvnesh357,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+selfcheck,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+MIM,Partial Teacher,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+ankitladdha,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+JIOPD_XCII,Partial Teacher,0,A,0,0,0,0,2,4,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+hs1990,Partial Teacher,0,A,0,0,0,0,2,7,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+jyoteshrc,Partial Teacher,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+jyoteshrc,Sequence of Balls,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+rahesh_989,Partial Teacher,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+nishant1000,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+vamseeinala,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+BITFIELD,Partial Teacher,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+bipincsa,Partial Teacher,0,A,0,0,0,0,5,3,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+bipincsa,Restoration of the Permutation,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+newx,Partial Teacher,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+nicogu,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+nicogu,Optical Experiment,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+ajain514,Partial Teacher,0,A,0,0,0,2,0,0,0,0,0,5,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+ajain514,Restoration of the Permutation,0,B,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,greedy
+jareen,Partial Teacher,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+iamjamwal,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,1,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+pershik,Partial Teacher,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+naren65,Partial Teacher,1,A,1,0,0,6,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+hinitin5,Partial Teacher,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+kapil1619,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+dobrenko92,Partial Teacher,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+ahmad_mamdouh,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+sash6589,Partial Teacher,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+anuragkataria.nitt,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+prophesy,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+mylyanyk.ivan,Partial Teacher,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+OutSide,Partial Teacher,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+OutSide,Sequence of Balls,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,dp
+Omar.Darwish,Partial Teacher,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Omar.Darwish,Restoration of the Permutation,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Prakhs,Partial Teacher,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+NikitaPogodin,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+crypticoders,Partial Teacher,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+della,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+della,Optical Experiment,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+muriloufg,Sequence of Balls,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+ksdeol,Partial Teacher,0,A,0,0,0,6,4,0,0,0,0,1,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+syst3mw0rm,Partial Teacher,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+macs,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+macs,Restoration of the Permutation,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+macs,Sequence of Balls,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+macs,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Gabriel_Irfon,Partial Teacher,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+BIT,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+BIT,Save the City!,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+gourav.bit,Partial Teacher,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+gourav.bit,Restoration of the Permutation,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Perlik,Sequence of Balls,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+null_pointer,Partial Teacher,0,A,0,0,0,4,3,0,0,0,0,1,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Fynn,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Fynn,Optical Experiment,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+bumbu,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+bumbu,Optical Experiment,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Hangibhom,Partial Teacher,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+husseincoder,Partial Teacher,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+anshulguleria,Partial Teacher,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+abhijeet_sinha,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+Nezquick,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Nezquick,Optical Experiment,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+Nezquick,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+chirag.agrawal19,Partial Teacher,0,A,0,0,0,0,1,7,0,1,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+sudhanshucode,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+nicks707,Partial Teacher,0,A,0,0,0,0,6,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+luckysudeep,Partial Teacher,0,A,0,0,0,2,0,5,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+cantdance,Partial Teacher,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+cantdance,Optical Experiment,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"
+cantdance,Restoration of the Permutation,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+unknown_coder52,Sequence of Balls,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+unknown_coder52,Partial Teacher,0,A,0,0,0,2,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+BHai,Partial Teacher,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+egor.pugin,Partial Teacher,1,A,1,0,0,0,0,0,0,4,0,0,0,0,0,0,1,0,0,"dp,graphs,greedy,implementation"
+streetfi8er,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+streetfi8er,Sequence of Balls,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+eswaramaharaja,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+pavankrish1,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+johnce,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+saradha,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+ritwik_sami1990,Partial Teacher,0,A,0,0,0,2,0,5,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+08100en045,Partial Teacher,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+incognitos,Save the City!,0,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,geometry
+incognitos,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+harshit_sharan,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+neothecodeguru,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+tygrysek,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+panacea,Partial Teacher,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+joe_godcares,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+praveengelra5,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+piyush006,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+satish2230,Save the City!,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,geometry
+satish2230,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"dp,graphs,greedy,implementation"
+sumantroy04,Partial Teacher,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+prerakagrawal,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+progaddict,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+stoyanovd,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+nshah1012,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+galymzhan,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+nishant_pathak,Partial Teacher,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+rats,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Najmuzzaman,Partial Teacher,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+Oily,Partial Teacher,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dp,graphs,greedy,implementation"
+sancharsharma,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+hkhetawat,Partial Teacher,0,A,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+gbhararindam,Partial Teacher,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+sonul16,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+ankit2311,Partial Teacher,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,graphs,greedy,implementation"
+Etcho,Optical Experiment,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,dp"

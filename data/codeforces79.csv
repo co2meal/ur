@@ -1,0 +1,2149 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+Romka,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Romka,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Romka,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+yeputons,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yeputons,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+yeputons,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+yeputons,Password,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+RAVEman,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+RAVEman,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+RAVEman,Beaver,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Mi_Sawa,Bus Game,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mi_Sawa,Colorful Field,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Mi_Sawa,Beaver,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Mi_Sawa,Password,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+AlexDmitriev,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+AlexDmitriev,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+AlexDmitriev,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Eledven,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Eledven,Colorful Field,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Eledven,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+y3eadgbe,Bus Game,0,A,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+y3eadgbe,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+y3eadgbe,Beaver,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+y3eadgbe,Password,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+logicmachine,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+logicmachine,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+logicmachine,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ktuan,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ktuan,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ktuan,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ktuan,Password,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+e-maxx,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+e-maxx,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+e-maxx,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+A.K.Goharshady,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+A.K.Goharshady,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+A.K.Goharshady,Beaver,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+shevchen,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+shevchen,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+shevchen,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+wrong,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+wrong,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+wrong,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Shadz07,Bus Game,0,A,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shadz07,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+liympanda,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+liympanda,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+liympanda,Beaver,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+liympanda,Password,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+gaston770,Bus Game,0,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+gaston770,Colorful Field,0,B,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+gaston770,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ardiankp,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ardiankp,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ardiankp,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+xhae,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xhae,Colorful Field,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+xhae,Beaver,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+kelvin,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kelvin,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+kelvin,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+kelvin,Password,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+mr146,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mr146,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+mr146,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+watashi,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+watashi,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+watashi,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+lordklotski,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lordklotski,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+lordklotski,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ACRush,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ACRush,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ACRush,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ACRush,Password,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+mylyanyk.ivan,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+mylyanyk.ivan,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+mylyanyk.ivan,Beaver,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+niyaznigmatul,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+niyaznigmatul,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+niyaznigmatul,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+cup_of_tea,Bus Game,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+cup_of_tea,Colorful Field,1,B,1,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+cup_of_tea,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+dolphinigle,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dolphinigle,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+dolphinigle,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+2222,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+2222,Beaver,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+2222,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+2222,Password,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+bayleef,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+bayleef,Colorful Field,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,sortings"
+bayleef,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ivan.metelsky,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ivan.metelsky,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ivan.metelsky,Beaver,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ivan.metelsky,Password,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+Malinovsky239,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Malinovsky239,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Malinovsky239,Beaver,1,C,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+KADR,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KADR,Colorful Field,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+KADR,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+KADR,Password,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+ilyakor,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ilyakor,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ilyakor,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+m.sabouri,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+m.sabouri,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+m.sabouri,Beaver,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Connector,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Connector,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Connector,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Milanin,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Milanin,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Milanin,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Dener,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dener,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Dener,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+maksay,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+maksay,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+maksay,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+maksay,Password,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+Narg,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Narg,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Narg,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Alex-Gran,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Alex-Gran,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Alex-Gran,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+islam-al-aarag,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+islam-al-aarag,Colorful Field,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+islam-al-aarag,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Fcdkbear,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Fcdkbear,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Fcdkbear,Beaver,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+SergeyLazarev,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+SergeyLazarev,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+SergeyLazarev,Beaver,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ballon,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ballon,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ballon,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+sexyprincess91,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sexyprincess91,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+sexyprincess91,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+package.zaic,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+package.zaic,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+package.zaic,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Shik,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shik,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Shik,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+suminos,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+suminos,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+suminos,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ifsmirnov,Bus Game,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+ifsmirnov,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ifsmirnov,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+fura2,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+fura2,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+fura2,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Fdg,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Fdg,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Fdg,Beaver,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+mislav,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mislav,Colorful Field,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+mislav,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+yak_ex,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+yak_ex,Colorful Field,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+yak_ex,Beaver,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Snipx,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Snipx,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Snipx,Beaver,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+bubnov,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+bubnov,Colorful Field,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+bubnov,Beaver,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+hasi,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hasi,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+hasi,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+birbbit,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+birbbit,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+birbbit,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+poopi,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+poopi,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+poopi,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+daftcoder,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+daftcoder,Colorful Field,0,B,1,0,0,0,1,1,0,0,3,0,0,0,0,0,0,0,0,"implementation,sortings"
+daftcoder,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Spumote,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Spumote,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Spumote,Beaver,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+AlexFetisov,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AlexFetisov,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+AlexFetisov,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+MAK,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MAK,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,sortings"
+MAK,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ahmed_aly,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ahmed_aly,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ahmed_aly,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+delta,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+delta,Colorful Field,1,B,0,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+natalia,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+natalia,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+natalia,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+natalia,Security System,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,math
+al13n,Bus Game,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+al13n,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+al13n,Beaver,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+al13n,Password,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+pt1989,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pt1989,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+pt1989,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+imslavko,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+imslavko,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+imslavko,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+evader,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+evader,Beaver,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+evader,Colorful Field,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+suneast,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+suneast,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+suneast,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Chubcheg,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Chubcheg,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Chubcheg,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+witua,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+witua,Colorful Field,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+witua,Beaver,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+witua,Password,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+havaliza,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+havaliza,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+havaliza,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+pperm,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pperm,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+pperm,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+pasin30055,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+pasin30055,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+pasin30055,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+pasin30055,Password,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+riad,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+riad,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+riad,Beaver,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+kawatea,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kawatea,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+kawatea,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+NALP,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NALP,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+NALP,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ahmedsaad,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ahmedsaad,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ahmedsaad,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+opensource,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+opensource,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+opensource,Beaver,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+NeverQuarrel,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NeverQuarrel,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+NeverQuarrel,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Steps09,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Steps09,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Steps09,Beaver,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+phinfinity,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+phinfinity,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+phinfinity,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+flashmt,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+flashmt,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+flashmt,Beaver,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Konstantin,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,greedy
+Konstantin,Colorful Field,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,sortings"
+Konstantin,Beaver,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+WXYZ,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+WXYZ,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+WXYZ,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+WXYZ,Password,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+SkyFire,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SkyFire,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+SkyFire,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+JKeeJ1e30,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+JKeeJ1e30,Colorful Field,1,B,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+JKeeJ1e30,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+kormak,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kormak,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+kormak,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+piloop,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+piloop,Colorful Field,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+piloop,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+bobogei81123,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+bobogei81123,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+bobogei81123,Beaver,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+piva,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,greedy
+piva,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+piva,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+balakrishnan,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+balakrishnan,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+balakrishnan,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+LayCurse,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+LayCurse,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+LayCurse,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+whhone,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+whhone,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,sortings"
+whhone,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+voover,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+voover,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+voover,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Sarkin,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sarkin,Colorful Field,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Sarkin,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Sanya_M,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sanya_M,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Sanya_M,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+lttaltta,Bus Game,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+lttaltta,Colorful Field,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Arios,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Arios,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Arios,Beaver,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+diogen,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+diogen,Colorful Field,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+diogen,Beaver,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Igor_Kudryashov,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Igor_Kudryashov,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Igor_Kudryashov,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+lyoz,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lyoz,Colorful Field,0,B,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+lyoz,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ACube,Bus Game,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ACube,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ACube,Beaver,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+cpphamza,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cpphamza,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+cpphamza,Beaver,1,C,0,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+klh1994,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+klh1994,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+klh1994,Beaver,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ConanKudo,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ConanKudo,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ConanKudo,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Ch0W,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ch0W,Colorful Field,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Ch0W,Beaver,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Rubanenko,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Rubanenko,Colorful Field,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Rubanenko,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Bugman,Bus Game,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,greedy
+Bugman,Colorful Field,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Bugman,Beaver,1,C,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Ripatti,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ripatti,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Ripatti,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Ferlon,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ferlon,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Ferlon,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+dyussenaliyev,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dyussenaliyev,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+dyussenaliyev,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+R_R_,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+R_R_,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+R_R_,Beaver,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+huyuealex,Bus Game,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+huyuealex,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+huyuealex,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+median0816,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+median0816,Colorful Field,1,B,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+Ra16bit,Bus Game,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+Ra16bit,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Ra16bit,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+VArtem,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+VArtem,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+VArtem,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+simp1eton,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+simp1eton,Colorful Field,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+simp1eton,Beaver,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Petr,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Petr,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Petr,Beaver,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Petr,Security System,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hydrastuff,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+hydrastuff,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+hydrastuff,Beaver,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Progger,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+Progger,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Progger,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ksameluk,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ksameluk,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ksameluk,Beaver,1,C,1,0,0,0,3,2,0,0,0,0,0,0,0,0,1,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Gassa,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gassa,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Gassa,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Gassa,Security System,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+aropan,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+aropan,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+aropan,Beaver,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+sazzad,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sazzad,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+sazzad,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+z-ghost,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+z-ghost,Colorful Field,1,B,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+z-ghost,Beaver,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+timmy,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+timmy,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ErzhanDS,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ErzhanDS,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ErzhanDS,Beaver,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+moreD,Bus Game,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+moreD,Colorful Field,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+moreD,Beaver,0,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+olimpo,Bus Game,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+olimpo,Colorful Field,1,B,1,0,0,3,0,1,0,1,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+olimpo,Beaver,1,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+flowlight,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+flowlight,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+flowlight,Beaver,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+mcsharma1990,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mcsharma1990,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+mcsharma1990,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+zhouxingxing,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zhouxingxing,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+zhouxingxing,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+zhouxingxing,Password,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+_sunny,Bus Game,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,greedy
+_sunny,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+_sunny,Beaver,1,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+carber,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+carber,Colorful Field,1,B,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+carber,Beaver,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+prpr,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+prpr,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+prpr,Beaver,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+tomerun,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tomerun,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+tomerun,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Shinta,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shinta,Colorful Field,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Shinta,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Archon.JK,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Archon.JK,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Archon.JK,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+accepted,Bus Game,1,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+accepted,Colorful Field,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+accepted,Beaver,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+_jte_,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+_jte_,Colorful Field,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+AntonDubovik,Bus Game,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AntonDubovik,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+AntonDubovik,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+kb.,Bus Game,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Slevin,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Slevin,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Slevin,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+lolotp,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lolotp,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+lolotp,Beaver,1,C,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+lala,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lala,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+lala,Beaver,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+pernay,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+pernay,Colorful Field,1,B,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+pernay,Beaver,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+mark.lee.chu.yong,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+mark.lee.chu.yong,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+mark.lee.chu.yong,Beaver,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+AndreySiunov,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AndreySiunov,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+AndreySiunov,Beaver,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+portal,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+portal,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+portal,Beaver,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+tloinuy,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+tloinuy,Colorful Field,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+tloinuy,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+OoO000oOOOoOooOo,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+OoO000oOOOoOooOo,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+OoO000oOOOoOooOo,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+OoO000oOOOoOooOo,Password,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+kinodjnz,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+kinodjnz,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+kinodjnz,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+mystery_boy,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mystery_boy,Colorful Field,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+miaout17,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+miaout17,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+miaout17,Beaver,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+miaout17,Password,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+takacsg84,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+takacsg84,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+takacsg84,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Zool,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Zool,Colorful Field,1,B,1,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,"implementation,sortings"
+Zool,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+homo_sapiens,Bus Game,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+homo_sapiens,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+homo_sapiens,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+kormyshov,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kormyshov,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+kormyshov,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+sevenzero,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sevenzero,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+sevenzero,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+dancho,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+dancho,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+dancho,Beaver,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+dancho,Password,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+seen,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+seen,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+seen,Beaver,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Seikang,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Seikang,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Seikang,Beaver,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+S.Yesipenko,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+S.Yesipenko,Colorful Field,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+S.Yesipenko,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+S.Yesipenko,Security System,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+syntax_error,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+syntax_error,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+syntax_error,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+wiw,Bus Game,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+wiw,Colorful Field,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+wiw,Beaver,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+myar,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+myar,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+myar,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+BAIZOR,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,greedy
+BAIZOR,Colorful Field,1,B,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+indy256,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+indy256,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+indy256,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+UESTC_Defense,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+UESTC_Defense,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Neverauskas,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Neverauskas,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Neverauskas,Beaver,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+KhaustovPavel,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KhaustovPavel,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+KhaustovPavel,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+choice,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+choice,Colorful Field,1,B,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+choice,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+DPR-pavlin,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DPR-pavlin,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+DPR-pavlin,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+naagi,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+naagi,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+naagi,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+fatboy_cw,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fatboy_cw,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+fatboy_cw,Beaver,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Sasa_0824,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sasa_0824,Colorful Field,1,B,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+DDDDDDDDDDDDDDDDDDDDDDDD,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DDDDDDDDDDDDDDDDDDDDDDDD,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+DDDDDDDDDDDDDDDDDDDDDDDD,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+KrK,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KrK,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+KrK,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+kohyatoh,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kohyatoh,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+kohyatoh,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+GagGuy,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+GagGuy,Colorful Field,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+GagGuy,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+zeliboba,Bus Game,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+zeliboba,Colorful Field,1,B,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+zeliboba,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Tayama,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Tayama,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Tayama,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+EbTech,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+EbTech,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+EbTech,Beaver,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+L.I.S.,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+L.I.S.,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Komaki,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Komaki,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Komaki,Beaver,1,C,1,0,0,2,0,6,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Hackson,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hackson,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Hackson,Beaver,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+kozima,Bus Game,0,A,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+kozima,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+kozima,Beaver,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+topskychen,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+topskychen,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+topskychen,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+xavier_lt,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xavier_lt,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+xavier_lt,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Egor,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Egor,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Egor,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Egor,Security System,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ishikado,Bus Game,0,A,1,0,0,3,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+ishikado,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ishikado,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Le-Nika,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Le-Nika,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Le-Nika,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Anton_Lunyov,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Anton_Lunyov,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Anton_Lunyov,Beaver,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Anton_Lunyov,Password,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+Dmitry.Gerasimov,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dmitry.Gerasimov,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Tranvick,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Tranvick,Colorful Field,1,B,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+chronotable,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+chronotable,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+chronotable,Beaver,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+tiirz,Bus Game,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+tiirz,Colorful Field,0,B,0,0,0,0,0,3,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+kuzmichev_dima,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kuzmichev_dima,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+kuzmichev_dima,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+vc.kosyak,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+vc.kosyak,Colorful Field,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+DamianS,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DamianS,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+DamianS,Beaver,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+akimonoiryou,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+akimonoiryou,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+akimonoiryou,Beaver,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+masha_and_beer,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+masha_and_beer,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+masha_and_beer,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+yowa,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yowa,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+yowa,Beaver,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+xiaodao,Bus Game,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+delta_4d,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+delta_4d,Colorful Field,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+delta_4d,Beaver,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Leonid,Bus Game,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Leonid,Colorful Field,0,B,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+Leonid,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+hs484,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hs484,Colorful Field,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+hs484,Beaver,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Tadrion,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Tadrion,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+0806580124,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+0806580124,Colorful Field,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+0806580124,Beaver,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+rajatag12,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+rajatag12,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+rajatag12,Beaver,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+iwiwi,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+iwiwi,Colorful Field,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+iwiwi,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+nagochan,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nagochan,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+nagochan,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+mR.ilchi,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mR.ilchi,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+mR.ilchi,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Ixanezis,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ixanezis,Colorful Field,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Ixanezis,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+gmunkhbaatarmn,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+gmunkhbaatarmn,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+gmunkhbaatarmn,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+lunae,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lunae,Beaver,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+lunae,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Imran_Bin_Azad,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+Imran_Bin_Azad,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Imran_Bin_Azad,Beaver,1,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Mike_K,Bus Game,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mike_K,Colorful Field,0,B,0,1,0,4,2,1,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+darkbtf,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+darkbtf,Colorful Field,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+darkbtf,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+hanshuai,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hanshuai,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+hanshuai,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+hanshuai,Password,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+MatRush,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+MatRush,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+MatRush,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+shindannin,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shindannin,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+shindannin,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+sbzlyessit,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sbzlyessit,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+sbzlyessit,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+al_maz,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+al_maz,Colorful Field,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+al_maz,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+komiya,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+komiya,Colorful Field,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+komiya,Beaver,1,C,1,0,0,0,1,3,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Stansilav,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Stansilav,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,sortings"
+Stansilav,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+SkorKNURE,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SkorKNURE,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+SkorKNURE,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+SkorKNURE,Password,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+yarrr,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yarrr,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+yarrr,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ZzzZ,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+maxwell44,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+maxwell44,Colorful Field,0,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+maxwell44,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+sdryapko,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+sdryapko,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+sdryapko,Beaver,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Thost,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Thost,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Thost,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+tian,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tian,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+tian,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Gerald,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gerald,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Gerald,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+galileo,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+galileo,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+galileo,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+mekagem,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+mekagem,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+mekagem,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+biochem_fan,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+biochem_fan,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Shuaib,Bus Game,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shuaib,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Aleks,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Aleks,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Aleks,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+mingrimingyue,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mingrimingyue,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+timgaripov,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+timgaripov,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+timgaripov,Beaver,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Mohammad_JRS,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mohammad_JRS,Colorful Field,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Mohammad_JRS,Beaver,0,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+UminchuR,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+UminchuR,Colorful Field,1,B,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+UminchuR,Beaver,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+adech,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+adech,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+dejandenib,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dejandenib,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+dejandenib,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Mex-Mans,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mex-Mans,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Mex-Mans,Beaver,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+UMysin,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+UMysin,Colorful Field,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Martin,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Martin,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Martin,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Martin,Password,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+todo,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+todo,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+todo,Beaver,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+tracyhenry,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tracyhenry,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+tracyhenry,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+NomadThanatos,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+NomadThanatos,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+NomadThanatos,Beaver,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+vout,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+vout,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+vout,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+juver,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+juver,Colorful Field,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+juver,Beaver,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+tanzaku,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tanzaku,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+tanzaku,Beaver,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+nel215,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nel215,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+nel215,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+zer0,Bus Game,1,A,1,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,greedy
+zer0,Colorful Field,1,B,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+C.sis,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+C.sis,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+C.sis,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+vudduu,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+vudduu,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+vudduu,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+lcqbest,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lcqbest,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+lcqbest,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+logic_max,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+logic_max,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+amit.codename13,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+amit.codename13,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+amit.codename13,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+z__jj,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+z__jj,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+z__jj,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+icyrhyme,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+icyrhyme,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+icyrhyme,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+eka,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+eka,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+eka,Beaver,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Scalar,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Scalar,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+magrady,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+magrady,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+magrady,Beaver,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+slavaro,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+slavaro,Colorful Field,1,B,1,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+liangjiaxing57,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+liangjiaxing57,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,sortings"
+liangjiaxing57,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+jimon,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jimon,Colorful Field,1,B,0,0,0,0,1,1,0,0,3,0,0,0,0,0,0,0,0,"implementation,sortings"
+tkcn,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+tkcn,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+tkcn,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+daizhenyang,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+daizhenyang,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+daizhenyang,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+jiangzhijie,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jiangzhijie,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+jiangzhijie,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+nhzp339,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nhzp339,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+nhzp339,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+esraiak,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+esraiak,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+StudioseLudi,Bus Game,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+StudioseLudi,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Kenny_HORROR,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kenny_HORROR,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Kenny_HORROR,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+HolkinPV,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+HolkinPV,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+HolkinPV,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Jami_CSEDU,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Jami_CSEDU,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Jami_CSEDU,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+johar,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+johar,Colorful Field,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+iroro,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,greedy
+iroro,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+iroro,Beaver,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+RAF,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+RAF,Colorful Field,1,B,0,0,0,1,1,0,0,0,4,0,0,0,0,0,0,0,0,"implementation,sortings"
+RAF,Beaver,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+iensen,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+iensen,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+iensen,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+helThazar,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+helThazar,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+helThazar,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+kennethsnow,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kennethsnow,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+kennethsnow,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+clx,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+clx,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+clx,Beaver,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+blazerer,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+blazerer,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+blazerer,Beaver,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+permin,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+permin,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+permin,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+sem911,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+sem911,Colorful Field,0,B,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+GeLo,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+GeLo,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+GeLo,Beaver,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+nrg3,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+nrg3,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Mick,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mick,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Mick,Beaver,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+UESTC_Nocturne,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+UESTC_Nocturne,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+UESTC_Nocturne,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+kontr,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kontr,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+MSPA,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MSPA,Colorful Field,1,B,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+MSPA,Beaver,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+danbanica,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+danbanica,Colorful Field,0,B,1,0,0,0,2,2,0,1,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+danbanica,Beaver,1,C,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Icemore,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Icemore,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Icemore,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ahmad_mamdouh,Bus Game,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+ahmad_mamdouh,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ahmad_mamdouh,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+forifchen,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+forifchen,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+forifchen,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+eik0u,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+eik0u,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+eik0u,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+astro75,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+astro75,Colorful Field,1,B,1,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+astro75,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+d1xlord,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+d1xlord,Colorful Field,1,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+kyuridenamida,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kyuridenamida,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+kyuridenamida,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+kyo_key,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kyo_key,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+kyo_key,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+kwetril,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kwetril,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+kwetril,Beaver,1,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+henshiru,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+henshiru,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+henshiru,Beaver,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Zhas,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Zhas,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Zhas,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+yu-huh,Bus Game,0,A,0,0,0,0,0,21,0,0,0,0,0,0,0,0,0,0,0,greedy
+yu-huh,Colorful Field,0,B,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+lne,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lne,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+lne,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Evilin,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Evilin,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Evilin,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+maxteneff,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+maxteneff,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+maxteneff,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+hacker007,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+hacker007,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+cjc,Bus Game,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+cjc,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+cjc,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Melamori,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Melamori,Colorful Field,1,B,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Melamori,Beaver,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+smileking67,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+smileking67,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+smileking67,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+FatSheep,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+FatSheep,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+FatSheep,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+morze,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+morze,Colorful Field,1,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+haker4o,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+haker4o,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+haker4o,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+morningstar,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+morningstar,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+morningstar,Beaver,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+AcFast,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AcFast,Colorful Field,1,B,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+AcFast,Beaver,0,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+tatsuhiro.t,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tatsuhiro.t,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+frp,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+frp,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+frp,Beaver,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+krhgg,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+krhgg,Colorful Field,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+krhgg,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+czm1989,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+czm1989,Beaver,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+czm1989,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Hero,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hero,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Hero,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+alexej,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alexej,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+alexej,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+dudkamaster,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+dudkamaster,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+dudkamaster,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Omar.Darwish,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Omar.Darwish,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Omar.Darwish,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+srivatsan_vn,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+srivatsan_vn,Colorful Field,1,B,0,0,0,1,3,0,0,0,4,0,0,0,0,0,0,0,0,"implementation,sortings"
+srivatsan_vn,Beaver,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Skiminok,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Skiminok,Colorful Field,1,B,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+Skiminok,Beaver,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Elday,Bus Game,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Elday,Colorful Field,1,B,1,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+fengzlzl,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+fengzlzl,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+fengzlzl,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+hust.elt,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hust.elt,Colorful Field,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+hust.elt,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+sgaflv,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sgaflv,Colorful Field,1,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Gravekper,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gravekper,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+tuananh93,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tuananh93,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+tuananh93,Beaver,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+coder_1340,Bus Game,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+coder_1340,Colorful Field,0,B,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+coder_1340,Beaver,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+tia,Bus Game,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,greedy
+tia,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+tia,Beaver,1,C,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Medium,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Medium,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Medium,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+alpc92,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+alpc92,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+JalbaRu,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+JalbaRu,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+JalbaRu,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+lady_inceptum,Bus Game,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+lady_inceptum,Colorful Field,0,B,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+pva701,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pva701,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+pva701,Beaver,1,C,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+hos.lyric,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+hos.lyric,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+hos.lyric,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+K0stIa,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+K0stIa,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+K0stIa,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+idivyanshu,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+idivyanshu,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+niquefa_diego,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+niquefa_diego,Colorful Field,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+konstantin.lex,Bus Game,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+konstantin.lex,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Slamur,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Slamur,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Slamur,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+NGNCMH,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+NGNCMH,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+NGNCMH,Beaver,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Blink,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Blink,Colorful Field,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+lgarcia,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lgarcia,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+lgarcia,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ployee,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ployee,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ployee,Beaver,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+tatuyan_edson,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tatuyan_edson,Colorful Field,1,B,0,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+sune2,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sune2,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+sune2,Beaver,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+M.H.,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+M.H.,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Jughead,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Jughead,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Jughead,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Jughead,Password,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+anon,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+anon,Colorful Field,1,B,0,0,0,0,1,2,0,1,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+darkl0rd,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+darkl0rd,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+FattyPenguin,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+FattyPenguin,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+FattyPenguin,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+esrever,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+esrever,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+esrever,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+piotr.kukla,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+piotr.kukla,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+hogeover30,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hogeover30,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+hogeover30,Beaver,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+snuke,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+snuke,Colorful Field,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+snuke,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+WAVwind,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+WAVwind,Colorful Field,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+WAVwind,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ningbohezhijun,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ningbohezhijun,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ningbohezhijun,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+zendo,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+zendo,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+zendo,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+leefour,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+leefour,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+leefour,Beaver,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+877024329,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+877024329,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+877024329,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Commandos,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Commandos,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Commandos,Beaver,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,1,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ant.ermilov,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ant.ermilov,Colorful Field,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ant.ermilov,Beaver,1,C,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+MarioYC,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+MarioYC,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+MarioYC,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+tanas,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tanas,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+tanas,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Diabolic,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Diabolic,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Di735,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Di735,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Di735,Password,1,D,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+Di735,Beaver,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+FranckRibery,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+FranckRibery,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+FranckRibery,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+spade,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+spade,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+y42sora,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+y42sora,Colorful Field,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+yogesh_sharma,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+yogesh_sharma,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Aule,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Aule,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Aule,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ymondelo20,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ymondelo20,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ymondelo20,Beaver,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+guestonearth,Bus Game,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+Aleksander,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+Aleksander,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Aleksander,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+l.j.q.light,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+l.j.q.light,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+l.j.q.light,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+a180285,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+a180285,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+a180285,Beaver,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Monyura,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Monyura,Colorful Field,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Rosetta,Bus Game,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Rosetta,Colorful Field,1,B,0,0,0,0,1,1,0,0,1,0,0,1,0,0,0,0,0,"implementation,sortings"
+frost_nova,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+frost_nova,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+frost_nova,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Hinidu,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hinidu,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,sortings"
+Hinidu,Beaver,1,C,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+vuryleo,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vuryleo,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+vuryleo,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+dened,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dened,Beaver,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+dened,Colorful Field,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+xokin,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Bo_Odya,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Bo_Odya,Colorful Field,1,B,1,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+Kandyman,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kandyman,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Kandyman,Beaver,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Vaness,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Vaness,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Vaness,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Eugene,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Eugene,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+phyllo,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+phyllo,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+dxp862113169,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,greedy
+dxp862113169,Colorful Field,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+standy,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+standy,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+standy,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Nicolay_R,Bus Game,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nicolay_R,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+kioa,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kioa,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+kioa,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+USB,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+USB,Colorful Field,0,B,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,"implementation,sortings"
+-XraY-,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+-XraY-,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+-XraY-,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+edward_mj,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+edward_mj,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+edward_mj,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+sas4eka,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sas4eka,Colorful Field,1,B,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Parhomets,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Parhomets,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Parhomets,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+yha,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yha,Colorful Field,1,B,1,0,0,0,3,3,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+NickSerg,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NickSerg,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+NickSerg,Beaver,1,C,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+KaiZeR,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+navi,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+navi,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+navi,Beaver,1,C,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Nurlan123,Bus Game,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,greedy
+Nurlan123,Colorful Field,0,B,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Akai32,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+Akai32,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Akai32,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+djfahad,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+primorial,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+primorial,Colorful Field,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+MrPapaya,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fahim_zubayer,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+fahim_zubayer,Colorful Field,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+giba,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+giba,Colorful Field,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+cjoa,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+cjoa,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+cjoa,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Sergey.Bankevich,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sergey.Bankevich,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Sergey.Bankevich,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+mancgupta,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+mancgupta,Colorful Field,0,B,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ahm.kam_92,Bus Game,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ahm.kam_92,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ahm.kam_92,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ACKOKO,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+ACKOKO,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+yuxingdubai,Bus Game,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yuxingdubai,Colorful Field,1,B,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+marque,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Simonov,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Simonov,Colorful Field,1,B,0,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+Pavlo_Lviv_NU,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Pavlo_Lviv_NU,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Pavlo_Lviv_NU,Beaver,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Warrior,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Warrior,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Warrior,Beaver,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+yaoshimax,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+yaoshimax,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+yaoshimax,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+lantimilan,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lantimilan,Colorful Field,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+lantimilan,Beaver,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Malkovsky,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Malkovsky,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Malkovsky,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Andfive,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Andfive,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+userresu,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+userresu,Colorful Field,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"implementation,sortings"
+userresu,Beaver,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+nikollson,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nikollson,Colorful Field,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ishandutta2007,Bus Game,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+ishandutta2007,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+mabodx,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mabodx,Colorful Field,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+mabodx,Beaver,1,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Goldbach,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Goldbach,Colorful Field,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Goldbach,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+fanatid,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+fanatid,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+fanatid,Beaver,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+69-64-79,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+69-64-79,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+69-64-79,Beaver,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+shilov,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+shilov,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+shilov,Beaver,1,C,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Grasswolf,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Grasswolf,Colorful Field,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Grasswolf,Beaver,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+raynerhmc,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+raynerhmc,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+raynerhmc,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+GaoYusong,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+GaoYusong,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+GaoYusong,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+marschenly,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+marschenly,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+marschenly,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+pepodlypnov,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pepodlypnov,Colorful Field,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+xDEMONx,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xDEMONx,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+xDEMONx,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+shankyboy,Bus Game,1,A,1,0,0,0,6,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+shankyboy,Colorful Field,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+4T-Shirt,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+4T-Shirt,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+4T-Shirt,Beaver,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+juarez.paulino,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+juarez.paulino,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+juarez.paulino,Beaver,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Gyuuto,Bus Game,0,A,1,0,0,0,0,7,0,1,0,0,0,0,0,0,0,0,0,greedy
+Gyuuto,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+navinag,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+navinag,Colorful Field,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+lvdo92,Bus Game,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,greedy
+lvdo92,Colorful Field,0,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+rockaustin2k6,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rockaustin2k6,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+rockaustin2k6,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+DreamFox,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DreamFox,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+DreamFox,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+tatsuyafw,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tatsuyafw,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+tatsuyafw,Beaver,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Predimonio,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+Predimonio,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+MaximPr,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MaximPr,Colorful Field,1,B,0,0,0,1,13,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Jens,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Jens,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Jens,Beaver,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+VUAcoder,Bus Game,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+VUAcoder,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+VUAcoder,Beaver,1,C,0,0,0,0,0,5,0,2,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+anders.westling,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+anders.westling,Colorful Field,0,B,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+anders.westling,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+lisang,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lisang,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+pulkitg10,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+pulkitg10,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+pulkitg10,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Saimon_Saret,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Saimon_Saret,Colorful Field,1,B,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+MBabin,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MBabin,Colorful Field,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+MBabin,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+tomoya,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+tomoya,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+tomoya,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Jeflie,Bus Game,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Jeflie,Colorful Field,1,B,1,0,0,0,0,4,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+xth1,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xth1,Colorful Field,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+xth1,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+alex_mat,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alex_mat,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+alex_mat,Beaver,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+litstrong,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+litstrong,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+goooooooopan,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+goooooooopan,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+goooooooopan,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Kolyanich,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kolyanich,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Kolyanich,Beaver,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+pratikmoona,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pratikmoona,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Qili,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Qili,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Qili,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+david.a.peter,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+david.a.peter,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+jayesh02,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+jayesh02,Colorful Field,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+jayesh02,Beaver,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+leaom,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+leaom,Colorful Field,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+lijunle,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lijunle,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+imrankane2005,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+imrankane2005,Colorful Field,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+imrankane2005,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ASoboll,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ASoboll,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ASoboll,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Keerill,Bus Game,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+Keerill,Colorful Field,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+chviktor,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+chviktor,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+chviktor,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+surath,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+surath,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+DULGUUNBATMUNKH,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+teams2ua,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+teams2ua,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+teams2ua,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+kilotaras,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kilotaras,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+kilotaras,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+fixed_sun,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fixed_sun,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+dalex,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dalex,Colorful Field,1,B,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+dalex,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ilya.korovin,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+ilya.korovin,Colorful Field,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ilya.korovin,Beaver,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+vlade087,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+vlade087,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Barsuk_Alexey,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Barsuk_Alexey,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Barsuk_Alexey,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Saif,Bus Game,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+Saif,Colorful Field,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+OgieKako,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+OgieKako,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+OgieKako,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Reshetnikov_Ivan,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Reshetnikov_Ivan,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ATrosinenko,Bus Game,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,greedy
+ATrosinenko,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+mostafa_fahim,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+mostafa_fahim,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+grassiscrap,Bus Game,0,A,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+grassiscrap,Colorful Field,0,B,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,"implementation,sortings"
+pdwd,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pdwd,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+pdwd,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+neduard,Bus Game,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+neduard,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+serik,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+serik,Colorful Field,1,B,1,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+kidlet,Bus Game,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+kidlet,Colorful Field,0,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+helloji,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yuta1024,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yuta1024,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Googly,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Googly,Colorful Field,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Googly,Beaver,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+reiracofage,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+reiracofage,Colorful Field,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+reiracofage,Beaver,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+sagarchoudhury,Bus Game,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Narutokun,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Narutokun,Colorful Field,0,B,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+greengrass,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+greengrass,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Shlakoblock,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shlakoblock,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Shlakoblock,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Rijul_CSEDU,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Rijul_CSEDU,Colorful Field,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+peria,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+peria,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+peria,Beaver,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+atol,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+atol,Colorful Field,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+atol,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+stan,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+stan,Colorful Field,0,B,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+stan,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+serioga,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+serioga,Colorful Field,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+vmgurov,Bus Game,1,A,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+vmgurov,Colorful Field,1,B,0,0,0,0,5,0,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+andrew_iv,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+andrew_iv,Colorful Field,1,B,1,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+aika_djmax,Bus Game,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+aika_djmax,Colorful Field,0,B,0,0,0,1,0,0,0,2,5,0,0,0,0,0,0,0,0,"implementation,sortings"
+uwi,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+uwi,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+uwi,Beaver,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+cs_hamako,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+cs_hamako,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+cs_hamako,Beaver,1,C,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Isa_rentacs,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Isa_rentacs,Colorful Field,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+self_healing,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+self_healing,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+self_healing,Beaver,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Ferrazrenan,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ferrazrenan,Colorful Field,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+fremn,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+fremn,Colorful Field,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Scipt,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Scipt,Colorful Field,1,B,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+Muvuris,Bus Game,1,A,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Muvuris,Colorful Field,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+pshtanko,Bus Game,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+pshtanko,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+pshtanko,Beaver,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+mehas,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mehas,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+mehas,Beaver,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+PanZverski,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+PanZverski,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+PanZverski,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+sema08,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+tabito,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tabito,Colorful Field,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"implementation,sortings"
+tabito,Beaver,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+evg-zhabotinsky,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+evg-zhabotinsky,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+evg-zhabotinsky,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+SobolS,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SobolS,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+SobolS,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+abdo_abdo5,Bus Game,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+abdo_abdo5,Colorful Field,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+yayamao,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+yayamao,Colorful Field,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+yayamao,Beaver,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+discover,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+discover,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Dayvan,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dayvan,Colorful Field,1,B,0,0,0,1,3,5,0,0,4,0,0,0,0,0,0,0,0,"implementation,sortings"
+swda289346,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+swda289346,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+swda289346,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+SphinX1990,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+SphinX1990,Colorful Field,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Annika,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Xerxes,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Xerxes,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+00000,Bus Game,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+00000,Colorful Field,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Padme,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Padme,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Padme,Beaver,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+cauchyk,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+cauchyk,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+cauchyk,Beaver,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+shibly,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shibly,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+shibly,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Fater,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Fater,Colorful Field,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+fookwood,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+fookwood,Colorful Field,1,B,1,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+unprost,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+unprost,Colorful Field,1,B,1,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+rdik,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+rdik,Colorful Field,0,B,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+poles_p,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+poles_p,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+poles_p,Beaver,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+rst76,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rst76,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+zjor,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+zjor,Colorful Field,0,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+DenXX,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+DenXX,Colorful Field,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+DenXX,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+levon,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+levon,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+powail,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+powail,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+powail,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ljz1989,Bus Game,0,A,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+ljz1989,Colorful Field,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+asaveljevs,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+asaveljevs,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+asaveljevs,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+kaifonaft,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kaifonaft,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+chenpengyu,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+chenpengyu,Colorful Field,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+chenpengyu,Beaver,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Borisp,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Borisp,Colorful Field,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Borisp,Beaver,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Borisp,Password,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+M.M.Z,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+wil93,Bus Game,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+wil93,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+noriok,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+noriok,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Mirovan,Bus Game,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mirovan,Colorful Field,0,B,0,0,0,0,0,0,0,1,3,0,0,0,0,0,0,0,0,"implementation,sortings"
+anohovsky,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+anohovsky,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+xkey,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xkey,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+xkey,Beaver,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+t.gogniashvili,Bus Game,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,greedy
+t.gogniashvili,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Windreaver,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Windreaver,Colorful Field,1,B,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+Shtrix,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shtrix,Colorful Field,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Shtrix,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Shtrix,Password,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+nitin.gangahar,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+nitin.gangahar,Colorful Field,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+at1,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+at1,Colorful Field,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+at1,Beaver,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+sock258,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sock258,Colorful Field,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+kcm1700,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kcm1700,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+kcm1700,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+pl8787,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+pl8787,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+pl8787,Beaver,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+tehqin,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+tehqin,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+tehqin,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+emil,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sanchit_h,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+sanchit_h,Colorful Field,0,B,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+agrigoroi,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+moshiur,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+moshiur,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+moshiur,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+chenchen1024,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+radhakrishnancegit,Bus Game,0,A,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+radhakrishnancegit,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+MirOn,Bus Game,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+MirOn,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+mongolrgata,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+mongolrgata,Colorful Field,0,B,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+love_ly,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+love_ly,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+love_ly,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+tlmn95,Bus Game,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+tlmn95,Colorful Field,0,B,0,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+hi4sandy,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hi4sandy,Colorful Field,1,B,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Verdona0,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Verdona0,Colorful Field,1,B,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Petruchcho,Bus Game,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Petruchcho,Colorful Field,1,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+Mushroom,Bus Game,0,A,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mushroom,Colorful Field,1,B,1,0,0,2,0,1,0,0,2,0,0,0,0,0,1,0,0,"implementation,sortings"
+rexim,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+rexim,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+OutSide,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+OutSide,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+OutSide,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Alexander-1709,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+Alexander-1709,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+guinao,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+trrua,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+serghov,Bus Game,0,A,0,0,0,1,0,10,0,0,0,0,0,0,0,0,0,0,0,greedy
+serghov,Colorful Field,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+tclh123,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tclh123,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+zjy3186511,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zjy3186511,Colorful Field,1,B,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+irrelephant,Bus Game,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+irrelephant,Colorful Field,0,B,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+dxp498688071,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dxp498688071,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+arav.psgtech,Bus Game,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,greedy
+NastyaPNTU,Bus Game,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NastyaPNTU,Colorful Field,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Sickle,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sickle,Colorful Field,1,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ridowan007,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ridowan007,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ridowan007,Beaver,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+smilitude,Bus Game,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+smilitude,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+smilitude,Beaver,1,C,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+andryk,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+andryk,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Wackloner,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Wackloner,Colorful Field,1,B,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+hector.almo,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+hector.almo,Colorful Field,1,B,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+jackiesteed,Bus Game,0,A,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,greedy
+jackiesteed,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+jackiesteed,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+mfkhr,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mfkhr,Colorful Field,1,B,0,0,0,1,3,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+RoyLu,Bus Game,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+PashaAC,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+PashaAC,Colorful Field,1,B,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+vietnam,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vietnam,Colorful Field,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+lyrical313,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+lyrical313,Colorful Field,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+rishabhm,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rishabhm,Colorful Field,1,B,1,0,0,0,1,1,0,0,2,0,0,0,0,0,1,0,0,"implementation,sortings"
+rishabhm,Beaver,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+kirakira,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kirakira,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+fsb4000,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fsb4000,Colorful Field,1,B,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,"implementation,sortings"
+rafa.cipri,Bus Game,0,A,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+XadillaX,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+XadillaX,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+XadillaX,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+vladvasylets,Bus Game,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+vladvasylets,Colorful Field,0,B,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Respect2D,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Respect2D,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Respect2D,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ICOA,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ICOA,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+morteza.keshtkaran,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+morteza.keshtkaran,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+darksta5,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+darksta5,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+fobos,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+fobos,Colorful Field,1,B,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+huangc,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+huangc,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+camper,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+camper,Colorful Field,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+STAJIKER,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Inf_Zero,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Inf_Zero,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Inf_Zero,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+dmitry.uvarov,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dmitry.uvarov,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+dmitry.uvarov,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Andronnix,Bus Game,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Andronnix,Colorful Field,0,B,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+mantas_urnieza,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hus,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hus,Colorful Field,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Anastasko,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Anastasko,Colorful Field,1,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+hopetravel,Bus Game,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+thefourtheye,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+kgs,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+kgs,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+949079968,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+949079968,Colorful Field,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Catchy,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Catchy,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Affina,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Affina,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Affina,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+coders1122,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+coders1122,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+coders1122,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+computer6,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+computer6,Colorful Field,1,B,0,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+Shogo24,Bus Game,1,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shogo24,Colorful Field,1,B,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+tmiyamon,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+tmiyamon,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+tmiyamon,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Tariqul,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Tariqul,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+miyabiarts,Bus Game,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+miyabiarts,Colorful Field,0,B,0,0,0,0,0,1,0,2,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+miyabiarts,Beaver,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+miyabiarts,Password,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+HJWAJ,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+HJWAJ,Colorful Field,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+prerak17,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+prerak17,Colorful Field,0,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+bondoc73,Bus Game,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+bondoc73,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+maz,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gantushig,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gantushig,Colorful Field,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Gantushig,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+yuscvscv,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+yuscvscv,Beaver,0,C,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+yuscvscv,Colorful Field,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+xiedong1993,Bus Game,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+xiedong1993,Colorful Field,1,B,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+xiedong1993,Beaver,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+krolbajtocji,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+krolbajtocji,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+krolbajtocji,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+palcuiealex,Bus Game,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+palcuiealex,Colorful Field,0,B,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+kamiltalipov,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kamiltalipov,Colorful Field,1,B,0,0,0,1,2,0,0,0,3,0,0,0,0,1,0,0,0,"implementation,sortings"
+h.hesham,Bus Game,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+h.hesham,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+h.hesham,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+svrsvr,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+svrsvr,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+svrsvr,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+meparter,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+meparter,Colorful Field,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+akaki1996,Bus Game,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+akaki1996,Colorful Field,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Danilopmn,Colorful Field,0,B,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,"implementation,sortings"
+Danilopmn,Bus Game,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+BIT,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+BIT,Colorful Field,1,B,1,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+behdadb,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+behdadb,Colorful Field,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Noah,Bus Game,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Noah,Colorful Field,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+zzsy_fox,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zzsy_fox,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+zzsy_fox,Beaver,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+pichulia,Colorful Field,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+pichulia,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pichulia,Beaver,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+teplenew,Bus Game,0,A,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,greedy
+yadav.vivek001,Bus Game,0,A,0,0,0,0,0,9,0,1,0,0,0,0,0,0,0,0,0,greedy
+yadav.vivek001,Beaver,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+MakTraDe,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MakTraDe,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+sahiltiwari,Bus Game,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+sekiye,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+sekiye,Colorful Field,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+sekiye,Beaver,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Toshik,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Toshik,Colorful Field,1,B,0,0,0,1,3,0,0,2,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+Lancelot,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Lancelot,Colorful Field,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+saita-man,Bus Game,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+saita-man,Colorful Field,0,B,0,0,0,0,6,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+406209073,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+406209073,Colorful Field,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ViktorM,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ViktorM,Colorful Field,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Shafaet,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shafaet,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Shafaet,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+legend_ni,Colorful Field,0,B,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+Mazeev,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mazeev,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Mazeev,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+shady_mokhtar,Bus Game,0,A,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,greedy
+safin_pavel,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+safin_pavel,Colorful Field,0,B,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ylwh,Bus Game,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+EvAn,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tgoulart,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+tgoulart,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+tgoulart,Beaver,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+albashkin,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+albashkin,Colorful Field,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Saken,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+icek,Bus Game,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+icek,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+b.moogii09,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+b.moogii09,Colorful Field,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+konstantin.buravcov,Bus Game,1,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+konstantin.buravcov,Beaver,1,C,0,0,0,3,1,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+yinuh,Bus Game,1,A,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+yinuh,Colorful Field,1,B,0,0,0,0,1,1,0,3,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+LuoYunan,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+LuoYunan,Colorful Field,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+lonelyprog,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lonelyprog,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+sergio10barca,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sergio10barca,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+sergio10barca,Beaver,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+ctrlaltdeletel,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ctrlaltdeletel,Colorful Field,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+control9,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+control9,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+kaze,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+kaze,Colorful Field,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+camapaojiekca,Bus Game,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+camapaojiekca,Colorful Field,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+camapaojiekca,Beaver,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+shankysodhi,Bus Game,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+shankysodhi,Colorful Field,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+darkstar1863,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+darkstar1863,Colorful Field,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Eugen,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Eugen,Colorful Field,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ivancastel,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+ivancastel,Colorful Field,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ivancastel,Beaver,1,C,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+KkJj,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+KkJj,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+tstanislav88,Bus Game,0,A,0,0,0,2,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+TMandzu,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+TMandzu,Colorful Field,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Manish-Kumar,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Manish-Kumar,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Manish-Kumar,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+msk,Bus Game,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,greedy
+msk,Colorful Field,0,B,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,"implementation,sortings"
+Alireza,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Alireza,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Alireza,Beaver,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Brambar,Bus Game,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+winterwolf94,Bus Game,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+winterwolf94,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+winterwolf94,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+manjunath426jc,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+manjunath426jc,Colorful Field,1,B,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+frankxie,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+honch56,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+honch56,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+xingh.dll,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+xingh.dll,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+xingh.dll,Beaver,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+darkavenger,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+darkavenger,Colorful Field,0,B,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+biscuit,Bus Game,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,greedy
+bogdan.sumy.ua,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+bogdan.sumy.ua,Colorful Field,1,B,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,"implementation,sortings"
+cse_acm_chjzh,Bus Game,0,A,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+cse_acm_chjzh,Colorful Field,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+cse_acm_chjzh,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+mary-zr,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mary-zr,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+xiao_wu,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xiao_wu,Colorful Field,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Jiameier,Bus Game,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+paulus,Bus Game,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+totte,Bus Game,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+totte,Colorful Field,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+EGYPT,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+EGYPT,Colorful Field,0,B,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+nenad,Colorful Field,0,B,0,0,0,0,1,0,0,0,6,0,0,0,0,0,0,0,0,"implementation,sortings"
+ybc_c,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+ybc_c,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+mfumi,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+mfumi,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ufoproger,Bus Game,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+ufoproger,Colorful Field,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ahmed.abdrabo,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ahmed.abdrabo,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ahmed.abdrabo,Beaver,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+fierdor,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+fierdor,Colorful Field,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+djjoleM,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+djjoleM,Colorful Field,1,B,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+CSPrajeeth,Colorful Field,0,B,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+victor_kamashev,Beaver,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+victor_kamashev,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+victor_kamashev,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Atmo,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Atmo,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Sultan,Bus Game,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sultan,Colorful Field,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+pius_88,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+pius_88,Colorful Field,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+rrevenantt,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+rrevenantt,Colorful Field,1,B,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+sementry,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+sementry,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sementry,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+rayman,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+rayman,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+nyroro,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+nyroro,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+nyroro,Beaver,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+rizar,Colorful Field,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+rizar,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rizar,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+rizar,Password,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+mybestwishes,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+mybestwishes,Colorful Field,1,B,0,0,0,0,3,0,0,0,3,0,0,0,0,0,0,0,0,"implementation,sortings"
+casillas,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+casillas,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+iman_MC,Bus Game,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+shadow_codeforces,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shadow_codeforces,Colorful Field,1,B,1,0,0,0,3,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+shadow_codeforces,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+toxahak,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+toxahak,Colorful Field,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+toxahak,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Freshines,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Freshines,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Freshines,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+riversouther,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+max777alex,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+max777alex,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+max777alex,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+mouse,Bus Game,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+mouse,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,sortings"
+Monmoy,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Monmoy,Colorful Field,0,B,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+Sigizmynd,Bus Game,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+taruta,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+taruta,Colorful Field,1,B,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,"implementation,sortings"
+ruban,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ruban,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+areialpb,Bus Game,0,A,0,0,0,3,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+skriming,Bus Game,0,A,0,0,0,1,0,5,0,0,0,0,0,0,0,1,0,0,0,greedy
+pnikdel,Bus Game,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+BloodSoul,Colorful Field,0,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+Grover,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ashmantak,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+xowind,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xowind,Colorful Field,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+gravity,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+ray040123,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ray040123,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+bayrhuu,Bus Game,1,A,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,greedy
+bayrhuu,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+bayrhuu,Colorful Field,0,B,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+Merlininice,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dennismv,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+DU_Paladins,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+DU_Paladins,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+STINGER,Bus Game,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+fuzzz3r,Bus Game,1,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+noip2007,Bus Game,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+ruslan.sennov,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ruslan.sennov,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+ruslan.sennov,Beaver,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+kaynat,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kaynat,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+most_wanted,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+most_wanted,Colorful Field,0,B,0,0,0,0,2,1,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+cindy,Password,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+mostafa_angel,Bus Game,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+mostafa_angel,Colorful Field,1,B,1,0,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+soul_departed,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+soul_departed,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,sortings"
+pooya.mosaddegh72,Beaver,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+leolin,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+arrogant,Bus Game,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+arrogant,Colorful Field,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Venom,Bus Game,0,A,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,greedy
+pmonkeychen,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+BrightDays,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+BrightDays,Colorful Field,1,B,1,0,0,0,1,2,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+Tigran92,Bus Game,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+Tigran92,Colorful Field,0,B,0,0,0,0,0,5,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+hoopoe,Bus Game,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+nidha,Bus Game,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+nidha,Colorful Field,0,B,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,"implementation,sortings"
+OmarSaber,Colorful Field,0,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+casstle,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+casstle,Colorful Field,1,B,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+makarovdd,Bus Game,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+makarovdd,Colorful Field,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+RomanAkberov,Colorful Field,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+RomanAkberov,Bus Game,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+ZiyaoWei,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ZiyaoWei,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+nobody,Bus Game,0,A,0,0,0,0,2,15,0,1,0,0,0,0,0,0,0,0,0,greedy
+osst,Colorful Field,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+qiuweiwen,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ACdragon,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Petrushenko,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Petrushenko,Colorful Field,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Petrushenko,Beaver,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+CrazyForAC,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+CrazyForAC,Colorful Field,1,B,0,0,0,3,1,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Tsumiman,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+route150,Bus Game,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,greedy
+route150,Colorful Field,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+cos,Colorful Field,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+cos,Beaver,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+cos,Bus Game,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+jujojujo_2003,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jujojujo_2003,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+jujojujo_2003,Beaver,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Hira,Bus Game,0,A,0,0,0,0,0,9,0,1,0,0,0,0,0,0,0,0,0,greedy
+rhythmic,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rhythmic,Colorful Field,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+20092100003,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+20092100003,Beaver,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+20092100003,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+MohamedElshenawy,Bus Game,0,A,0,0,0,0,1,7,0,3,0,0,0,0,0,0,0,0,0,greedy
+zafar_sust_bd,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zafar_sust_bd,Colorful Field,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+jaey,Bus Game,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+muntasir,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+muntasir,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Gabriel_Irfon,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gabriel_Irfon,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+219453333,Bus Game,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+ZHBIT_JI_LWT,Bus Game,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,greedy
+flash36,Bus Game,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+flash36,Colorful Field,1,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+smart_coder,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+smart_coder,Colorful Field,0,B,0,0,0,0,2,2,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+hkobayash,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+hkobayash,Colorful Field,1,B,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+VorobeY1326,Colorful Field,0,B,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+VorobeY1326,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+2901304002,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+2901304002,Colorful Field,1,B,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+vijay_kansal,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+vijay_kansal,Colorful Field,1,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Hedayet,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Sheloth,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+albertg,Colorful Field,0,B,0,0,0,0,0,1,0,0,3,0,0,0,0,0,0,0,0,"implementation,sortings"
+albertg,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+asad_sust,Colorful Field,0,B,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,"implementation,sortings"
+fengxiaoxiao,Colorful Field,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+fengxiaoxiao,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Troy1118,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Troy1118,Colorful Field,0,B,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Vavo,Bus Game,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+PAG,Colorful Field,0,B,0,0,0,3,1,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+PAG,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+nnhamane,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nnhamane,Colorful Field,1,B,0,0,0,0,3,3,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+BatusaiX,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+BatusaiX,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+liangyongrui,Bus Game,0,A,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,greedy
+mahamudsust,Bus Game,0,A,0,0,0,0,0,7,0,1,0,0,0,0,0,0,0,0,0,greedy
+flp,Bus Game,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+flp,Colorful Field,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+zhkxdl,Colorful Field,0,B,0,0,0,0,8,0,0,0,4,0,0,0,0,0,0,0,0,"implementation,sortings"
+zhkxdl,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+nisha2009331024,Bus Game,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+nisha2009331024,Colorful Field,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+.PEIN.,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Songuku95,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Songuku95,Colorful Field,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Songuku95,Beaver,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+Lay_ec,Bus Game,0,A,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+pnsrp,Bus Game,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,greedy
+Bearer,Bus Game,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Bearer,Colorful Field,1,B,0,0,0,0,2,1,0,1,3,0,0,0,0,0,0,0,0,"implementation,sortings"
+chun10161991,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tam_71,Bus Game,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,greedy
+rogu3,Colorful Field,0,B,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+xscape,Bus Game,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xscape,Colorful Field,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+xscape,Beaver,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+wangshaobiao,Beaver,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+khiyeuchuot1,Bus Game,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+tasyrkin,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+tasyrkin,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zyx3d,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+zyx3d,Colorful Field,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+zyx3d,Beaver,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+blackperl,Colorful Field,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+blackperl,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+blackperl,Beaver,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,greedy,hashing,strings,two pointers"
+whu_zhang,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+BlackEagle,Bus Game,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+VChikh,Bus Game,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+VChikh,Colorful Field,0,B,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+0Silencer,Bus Game,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+nise_nabe,Bus Game,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+nise_nabe,Colorful Field,1,B,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,"implementation,sortings"
+luoluoluo,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+luoluoluo,Colorful Field,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+omargr,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NGiUp,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+NGiUp,Bus Game,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kqstar,Bus Game,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+xxx_stu,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xxx_stu,Colorful Field,1,B,0,0,0,1,0,1,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+misshanli,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+misshanli,Colorful Field,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+AND1989,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Vasya,Bus Game,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+HoBBiT,Bus Game,0,A,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,greedy
+HoBBiT,Colorful Field,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Tahmid,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ORO_8,Bus Game,0,A,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,greedy
+ivstivs,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ARUS,Bus Game,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+Moon,Colorful Field,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Botan,Colorful Field,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Botan,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+_X_y_z_,Bus Game,0,A,0,0,0,1,0,10,0,1,0,0,0,0,0,0,0,0,0,greedy
+yjx,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+__Joker,Colorful Field,0,B,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+egorow29,Colorful Field,0,B,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+eaglex,Bus Game,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,greedy
+codegamblers,Bus Game,0,A,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,greedy
+xuweirong,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+xuweirong,Colorful Field,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+sonych,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Darsein,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Darsein,Colorful Field,1,B,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"implementation,sortings"
+lakha,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+lakha,Colorful Field,0,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+Flynn,Bus Game,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Flynn,Colorful Field,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,sortings"
+BreakDark,Bus Game,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,greedy
+macs,Password,0,D,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,"bitmasks,dp,shortest paths"
+angrybird,Bus Game,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+money,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+dizpers,Bus Game,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+pranavraulkar,Bus Game,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy

@@ -1,0 +1,822 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+y3eadgbe,Plant,1,A,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,math
+bayleef,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+bayleef,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+bayleef,Visit of the Great,1,D,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"math,number theory"
+bayleef,Clever Fat Rat,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+fura,Plant,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+fura,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+VArtem,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+VArtem,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+VArtem,Clever Fat Rat,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+Egor,Plant,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+Egor,Mushroom Scientists,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Egor,Clever Fat Rat,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Egor,Visit of the Great,1,D,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+flashmt,Plant,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+flashmt,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"math,ternary search"
+flashmt,Clever Fat Rat,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,dp
+vepifanov,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vepifanov,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"math,ternary search"
+vepifanov,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+vepifanov,Visit of the Great,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+uwi,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+uwi,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+uwi,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+uwi,Visit of the Great,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+whd,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+whd,Clever Fat Rat,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+whd,Mushroom Scientists,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+whd,Visit of the Great,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+ffao,Plant,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+ffao,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+tourist,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tourist,Mushroom Scientists,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+tourist,Visit of the Great,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+tourist,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+al13n,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+al13n,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+al13n,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+al13n,Soap Time! - 2,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Komaki,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Komaki,Mushroom Scientists,1,B,1,0,0,0,0,9,0,3,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Komaki,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+rng_58,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rng_58,Mushroom Scientists,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+rng_58,Visit of the Great,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+rng_58,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+dolphinigle,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+havaliza,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+havaliza,Clever Fat Rat,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+havaliza,Mushroom Scientists,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+maksay,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+maksay,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+maksay,Clever Fat Rat,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+hasi,Plant,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,math
+hasi,Mushroom Scientists,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+azaky,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+azaky,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+azaky,Visit of the Great,0,D,0,0,0,0,1,3,0,2,0,0,0,0,0,0,0,0,0,"math,number theory"
+yeputons,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yeputons,Mushroom Scientists,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+yeputons,Clever Fat Rat,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+yeputons,Soap Time! - 2,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures"
+tanzaku,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+voover,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+voover,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+voover,Visit of the Great,0,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+sune2,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sune2,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+sune2,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+xukaiwen,Plant,1,A,1,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,math
+xukaiwen,Mushroom Scientists,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Gatina,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Gatina,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+chhung6,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+chhung6,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"math,ternary search"
+chhung6,Clever Fat Rat,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+chhung6,Visit of the Great,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+RAVEman,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+RAVEman,Mushroom Scientists,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+RAVEman,Visit of the Great,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+RAVEman,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+balroginfire,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+balroginfire,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+balroginfire,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+KADR,Plant,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+KADR,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+KADR,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+KADR,Soap Time! - 2,0,E,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Archon.JK,Plant,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+Archon.JK,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Archon.JK,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Archon.JK,Visit of the Great,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"math,number theory"
+hytirt,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+hytirt,Mushroom Scientists,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+hytirt,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+yarrr,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+yarrr,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+yarrr,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+DamianS,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+DamianS,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+pperm,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pperm,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+pperm,Visit of the Great,1,D,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+poopi,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+poopi,Mushroom Scientists,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+poopi,Clever Fat Rat,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+OoO000oOOOoOooOo,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+OoO000oOOOoOooOo,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+OoO000oOOOoOooOo,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,dp
+OoO000oOOOoOooOo,Visit of the Great,0,D,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+xhsong,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xhsong,Clever Fat Rat,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,dp
+nathanajah,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+nathanajah,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+ashmelev,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ashmelev,Mushroom Scientists,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+ashmelev,Clever Fat Rat,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+ashmelev,Visit of the Great,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+meret,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+meret,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"math,ternary search"
+meret,Visit of the Great,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+huyuanming11,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+huyuanming11,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+huyuanming11,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+xlk,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+xlk,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"math,ternary search"
+marspeople,Plant,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+hovinhthinh,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+hovinhthinh,Mushroom Scientists,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+cmd,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+cmd,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Ra16bit,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Ra16bit,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Ra16bit,Clever Fat Rat,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+Krig,Plant,1,A,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,math
+Krig,Mushroom Scientists,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Krig,Clever Fat Rat,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+SergeyLazarev,Plant,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+SergeyLazarev,Mushroom Scientists,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+SergeyLazarev,Visit of the Great,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+dani1373,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+dani1373,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+dani1373,Mushroom Scientists,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+liangjiaxing57,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+liangjiaxing57,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+hex539,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+hex539,Mushroom Scientists,1,B,0,0,0,0,0,14,0,3,0,0,0,0,0,0,0,0,0,"math,ternary search"
+hex539,Clever Fat Rat,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+chnlich,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+chnlich,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+chnlich,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+subscriber,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+subscriber,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+subscriber,Clever Fat Rat,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,dp
+sdryapko,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+sdryapko,Mushroom Scientists,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+sdryapko,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dp
+pratikmoona,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+LGM,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+LGM,Mushroom Scientists,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+LGM,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+oimaster,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+oimaster,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+oimaster,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+shangjingbo,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+shangjingbo,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+shangjingbo,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+shangjingbo,Soap Time! - 2,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+Martial,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Martial,Mushroom Scientists,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Gassa,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Gassa,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Gassa,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Endagorion,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Endagorion,Mushroom Scientists,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Endagorion,Clever Fat Rat,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Endagorion,Visit of the Great,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+UESTC_Nocturne,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+UESTC_Nocturne,Mushroom Scientists,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+UESTC_Nocturne,Clever Fat Rat,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+0O0o00OO0Oo0o0Oo,Mushroom Scientists,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+0O0o00OO0Oo0o0Oo,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+0O0o00OO0Oo0o0Oo,Visit of the Great,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+0O0o00OO0Oo0o0Oo,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Baz93,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Baz93,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Baz93,Visit of the Great,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+jonathanirvings,Plant,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,math
+jonathanirvings,Mushroom Scientists,1,B,0,0,0,0,0,51,0,6,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Al3kSaNdaR,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+sillyboy,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sillyboy,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Dmitry_Egorov,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Dmitry_Egorov,Mushroom Scientists,1,B,1,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Dmitry_Egorov,Visit of the Great,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+ant.ermilov,Plant,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+ant.ermilov,Mushroom Scientists,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+chEEtah,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+chEEtah,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+pele,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pele,Mushroom Scientists,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+piloop,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+piloop,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+piloop,Clever Fat Rat,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Austeritas,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Austeritas,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,dp
+Austeritas,Visit of the Great,0,D,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+Hohol,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Hohol,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Hohol,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Monyura,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Monyura,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Monyura,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+roypalacios,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+roypalacios,Mushroom Scientists,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+NuM,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+NuM,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Shik,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Shik,Mushroom Scientists,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Shik,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,dp
+knightL,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+knightL,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+knightL,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+pva701,Mushroom Scientists,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+pva701,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pva701,Clever Fat Rat,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+xujie,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xujie,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+xujie,Clever Fat Rat,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,dp
+Kornacker,Plant,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+Kornacker,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Kornacker,Clever Fat Rat,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+leandro92,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+chavit,Plant,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+chavit,Mushroom Scientists,1,B,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"math,ternary search"
+pulkitg10,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+pulkitg10,Mushroom Scientists,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+pulkitg10,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+naagi,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+naagi,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Sisu,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+Sisu,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Andrew_Makar,Plant,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Andrew_Makar,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+jskhirtladze,Plant,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+jskhirtladze,Mushroom Scientists,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+zjut_DD,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zjut_DD,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+PavelKunyavskiy,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+PavelKunyavskiy,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+PavelKunyavskiy,Soap Time! - 2,1,E,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+fushar,Plant,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+fushar,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+fushar,Mushroom Scientists,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Bugman,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Bugman,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Bugman,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+drazil,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+drazil,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Rubanenko,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Rubanenko,Mushroom Scientists,1,B,0,0,0,1,1,8,0,2,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Rubanenko,Clever Fat Rat,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+Igor_Kudryashov,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Igor_Kudryashov,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Igor_Kudryashov,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+shevchen,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+shevchen,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"math,ternary search"
+shevchen,Clever Fat Rat,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+cos,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cos,Clever Fat Rat,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+cos,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+gen,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+gen,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+fhlasek,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fhlasek,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+fhlasek,Visit of the Great,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+al_maz,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+al_maz,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+al_maz,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+al_maz,Visit of the Great,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+tomerun,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tomerun,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+tomerun,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+kAc,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+kAc,Mushroom Scientists,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,1,1,0,0,"math,ternary search"
+guille,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+guille,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+navi,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+navi,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+navi,Visit of the Great,1,D,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+Timur_Sitdikov,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Timur_Sitdikov,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Timur_Sitdikov,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+lovro,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lovro,Mushroom Scientists,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+lovro,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+hydrastuff,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hydrastuff,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+m.radwan,Plant,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+m.radwan,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+kmxyvb,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kmxyvb,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+kmxyvb,Clever Fat Rat,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,dp
+yaro,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yaro,Mushroom Scientists,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+yaro,Visit of the Great,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+Milanin,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Milanin,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"math,ternary search"
+Milanin,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+dreamoon,Mushroom Scientists,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+dreamoon,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dreamoon,Visit of the Great,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+StefanoT,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+StefanoT,Mushroom Scientists,1,B,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Fefer_Ivan,Plant,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Fefer_Ivan,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+dalex,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dalex,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+dalex,Clever Fat Rat,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+SamanSami,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+witua,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+witua,Mushroom Scientists,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+witua,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+Kostroma,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Kostroma,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"math,ternary search"
+I-juice,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+I-juice,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+I-juice,Visit of the Great,1,D,0,0,0,0,2,8,0,2,0,0,0,0,0,0,0,0,0,"math,number theory"
+I-juice,Clever Fat Rat,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+daizhenyang,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+daizhenyang,Clever Fat Rat,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+daizhenyang,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+ArtemKadeev,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ArtemKadeev,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+zhymaoiing,Plant,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+zhymaoiing,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+salex,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+salex,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+xpycc,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xpycc,Mushroom Scientists,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+VNBZTY,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+VNBZTY,Mushroom Scientists,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+barty,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+barty,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+barty,Clever Fat Rat,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+alexey.shchepin,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+alexey.shchepin,Mushroom Scientists,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Amtrix,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+forifchen,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+forifchen,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+mgqa34,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mgqa34,Mushroom Scientists,1,B,0,0,0,0,0,8,0,1,0,0,0,0,0,0,0,0,0,"math,ternary search"
+prpr,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+prpr,Mushroom Scientists,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Kamilot,Plant,1,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,math
+M0sTik,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+M0sTik,Mushroom Scientists,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+punchit,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+punchit,Mushroom Scientists,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+sanzunonyasama,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sanzunonyasama,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+sanzunonyasama,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+ptrrsn_1,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ptrrsn_1,Mushroom Scientists,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+ptrrsn_1,Visit of the Great,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+watashi,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+watashi,Mushroom Scientists,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+watashi,Clever Fat Rat,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,dp
+watashi,Visit of the Great,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+Shef,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Shef,Mushroom Scientists,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Shef,Clever Fat Rat,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+Shef,Visit of the Great,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+Cepera,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Cepera,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Cepera,Mushroom Scientists,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+vitar,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vitar,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+vitar,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+rembocoder,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rembocoder,Mushroom Scientists,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+Aleksander,Plant,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+Aleksander,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+whitetooth,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+whitetooth,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+whitetooth,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Sphinx,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Sphinx,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Sphinx,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dp
+fatest,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fatest,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+fatest,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+hhoomn,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+espr1t,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+espr1t,Mushroom Scientists,1,B,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+olpetOdessaONU,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+olpetOdessaONU,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+olpetOdessaONU,Clever Fat Rat,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+Perlik,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Perlik,Mushroom Scientists,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+AlexDmitriev,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AlexDmitriev,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+Ruslan,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Ruslan,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Ruslan,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+ts10,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ts10,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+ts10,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,dp
+Azras,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Azras,Clever Fat Rat,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+EbTech,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+EbTech,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"math,ternary search"
+EbTech,Clever Fat Rat,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,dp
+LeBron,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+LeBron,Mushroom Scientists,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+buko,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cbx,Plant,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+cbx,Mushroom Scientists,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+cbx,Clever Fat Rat,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,dp
+vexorian,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vexorian,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+vexorian,Clever Fat Rat,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,dp
+yury_chameleon,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yury_chameleon,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Riatre,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Riatre,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Vaness,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Vaness,Mushroom Scientists,1,B,0,0,0,0,1,14,0,4,0,0,0,0,0,0,0,0,0,"math,ternary search"
+kohyatoh,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kohyatoh,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+kohyatoh,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+sadkangaroo,Plant,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+sadkangaroo,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+sadkangaroo,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+mR.ilchi,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mR.ilchi,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+mR.ilchi,Visit of the Great,0,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+Shtrix,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Shtrix,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Shtrix,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+ebd,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ebd,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"math,ternary search"
+ebd,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,dp
+carber,Plant,1,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,math
+carber,Mushroom Scientists,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+evgentu,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+evgentu,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+evgentu,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+evgentu,Visit of the Great,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+doraemon,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+doraemon,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+doraemon,Clever Fat Rat,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+tsukuno,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tsukuno,Mushroom Scientists,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"math,ternary search"
+tsukuno,Visit of the Great,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+riad,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+riad,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+flydutchman,Plant,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+flydutchman,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"math,ternary search"
+coders1122,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+coders1122,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+eik0u,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+eik0u,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+eik0u,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Enterpaise,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Enterpaise,Mushroom Scientists,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+xavier_lt,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+xavier_lt,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+yukim,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yukim,Mushroom Scientists,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+yukim,Clever Fat Rat,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+takapt,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+takapt,Mushroom Scientists,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+akashin,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+akashin,Mushroom Scientists,1,B,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,"math,ternary search"
+majia5,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+majia5,Mushroom Scientists,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+majia5,Clever Fat Rat,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+l.j.q.light,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pty,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pty,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+pty,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+pty,Visit of the Great,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+Mick,Plant,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Mick,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Slamur,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Slamur,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+RomaWhite,Plant,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+RomaWhite,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+lijunle,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+lijunle,Mushroom Scientists,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+UESTC_Defense,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+UESTC_Defense,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+UESTC_Defense,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+NikitaD,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+NikitaD,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+shilov,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+shilov,Mushroom Scientists,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+it4.kp,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+it4.kp,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"math,ternary search"
+SkidanovAlex,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+SkidanovAlex,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+SkidanovAlex,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+liympanda,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+liympanda,Mushroom Scientists,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+liympanda,Clever Fat Rat,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+liympanda,Visit of the Great,1,D,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+YerzhanU,Plant,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+YerzhanU,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"math,ternary search"
+RodrigoBurgos,Plant,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+RodrigoBurgos,Mushroom Scientists,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+k21,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+k21,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+alexey.enkov,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+alexey.enkov,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+alexey.enkov,Clever Fat Rat,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+alexey.enkov,Soap Time! - 2,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures"
+natsugiri,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+natsugiri,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Kaylin,Plant,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+wcwswswws,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+wcwswswws,Mushroom Scientists,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+jiangzhijie,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+jiangzhijie,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+jiangzhijie,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Sereja,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Sereja,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Sereja,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,dp
+zgw,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zgw,Mushroom Scientists,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Proscriptus,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Proscriptus,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+SobolS,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+SobolS,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+SobolS,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+evima,Plant,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+evima,Mushroom Scientists,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+m7nika,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+m7nika,Mushroom Scientists,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Timur_Keks,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Timur_Keks,Mushroom Scientists,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Timur_Keks,Clever Fat Rat,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+AlexanderBolshakov,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AlexanderBolshakov,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+yvasyliv,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yvasyliv,Mushroom Scientists,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Dener,Plant,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Dener,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"math,ternary search"
+alger95,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+alger95,Visit of the Great,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+bubnov,Plant,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+bubnov,Mushroom Scientists,1,B,0,0,0,0,0,12,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Qiang_cx,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Qiang_cx,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+xscape,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xscape,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+xscape,Clever Fat Rat,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+infrmtcs,Plant,0,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,math
+infrmtcs,Mushroom Scientists,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,"math,ternary search"
+infrmtcs,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+ilya.korovin,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ilya.korovin,Mushroom Scientists,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"math,ternary search"
+mzry1992,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mzry1992,Mushroom Scientists,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+husheyn,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+husheyn,Mushroom Scientists,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+husheyn,Clever Fat Rat,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Depool,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Depool,Clever Fat Rat,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+Rotsor,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Rotsor,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+domhow,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+domhow,Mushroom Scientists,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+domhow,Clever Fat Rat,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+sexyprincess91,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sexyprincess91,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+sexyprincess91,Clever Fat Rat,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+Oi.,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Oi.,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+piotr.kukla,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+piotr.kukla,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+lcqbest,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lcqbest,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+BIT_silence,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+BIT_silence,Mushroom Scientists,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+rinigan,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rinigan,Mushroom Scientists,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+kennethsnow,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+kennethsnow,Mushroom Scientists,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+kennethsnow,Clever Fat Rat,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+CleRIC,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+CleRIC,Mushroom Scientists,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+nodchip,Plant,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+nodchip,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+ZhouYuChen,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ZhouYuChen,Mushroom Scientists,1,B,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+ZhouYuChen,Visit of the Great,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+tuananh93,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tuananh93,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+tuananh93,Mushroom Scientists,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+qwaker.00,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+qwaker.00,Mushroom Scientists,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+qwaker.00,Clever Fat Rat,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,dp
+aval_vm,Plant,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+GeLo,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+GeLo,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+HolkinPV,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+HolkinPV,Mushroom Scientists,1,B,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Mex-Mans,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Mex-Mans,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+tunyash,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tunyash,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+tunyash,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+elizarov,Plant,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+elizarov,Mushroom Scientists,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+chyx,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+chyx,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+chyx,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,dp
+delsius.sk,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+delsius.sk,Mushroom Scientists,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Shapo,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Shapo,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Shapo,Visit of the Great,1,D,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+Bidhan,Plant,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Bidhan,Mushroom Scientists,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+aa2985759,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Restart,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Restart,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+BenZ,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+BenZ,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+gusmachine,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+gusmachine,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+IlyaLos,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+aram90,Plant,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+aram90,Mushroom Scientists,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+aram90,Clever Fat Rat,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+burunduk3,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+burunduk3,Mushroom Scientists,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+burunduk3,Clever Fat Rat,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+burunduk3,Visit of the Great,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+Jonasz,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+Jonasz,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Jonasz,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+LinKin,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+LinKin,Mushroom Scientists,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+LinKin,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+JKeeJ1e30,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+JKeeJ1e30,Mushroom Scientists,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+self_healing,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+self_healing,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+GeKa,Plant,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+GeKa,Visit of the Great,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+neex.emil,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Nicholas,Plant,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Nicholas,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+2910201028,Plant,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+2910201028,Mushroom Scientists,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,"math,ternary search"
+Commandos,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Commandos,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Commandos,Clever Fat Rat,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,dp
+VUAcoder,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+VUAcoder,Mushroom Scientists,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+SkyHawk,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ryry56,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zhk,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zhk,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+zhk,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Sammarize,Plant,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Sammarize,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+Sammarize,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+makeevvladx,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+makeevvladx,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"math,ternary search"
+paulocezar,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+paulocezar,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+manukranthk,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+StrikeFreedom,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+StrikeFreedom,Mushroom Scientists,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+ADJA,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ADJA,Mushroom Scientists,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+KirillB,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+marcvinyals,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+marcvinyals,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+jasonyik,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+jasonyik,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+wack-a-mole,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+matejbalog,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+matejbalog,Mushroom Scientists,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Thost,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Pattara.S,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Pattara.S,Mushroom Scientists,1,B,0,0,0,0,0,15,0,1,0,0,0,0,0,1,0,0,0,"math,ternary search"
+kelvinlau,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kelvinlau,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+kelvinlau,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+kelvinlau,Visit of the Great,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"math,number theory"
+cyk2011,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cyk2011,Mushroom Scientists,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+ray040123,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ray040123,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Ilya_MSU,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Ilya_MSU,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+Ilya_MSU,Visit of the Great,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+Respect2D,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+qwerty787788,Plant,1,A,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,math
+qwerty787788,Mushroom Scientists,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Darko,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Darko,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Alireza,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Madiyar,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Reshetnikov_Ivan,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Reshetnikov_Ivan,Mushroom Scientists,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+iensen,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+iensen,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+marina_h,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+marina_h,Clever Fat Rat,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+marina_h,Mushroom Scientists,0,B,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+not,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+not,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+AguL,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+KrK,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+KrK,Mushroom Scientists,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Nicolai_Kovrov,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Nicolai_Kovrov,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Nicolai_Kovrov,Clever Fat Rat,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,dp
+heyihong,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+heyihong,Mushroom Scientists,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+heyihong,Clever Fat Rat,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,dp
+homo_sapiens,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+homo_sapiens,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+homo_sapiens,Clever Fat Rat,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+diver_ru,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+diver_ru,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+windy7926778,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+windy7926778,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+windy7926778,Clever Fat Rat,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+reiracofage,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+reiracofage,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"math,ternary search"
+afix,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+afix,Mushroom Scientists,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+maximkoval,Plant,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+maximkoval,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+SmirnovBoris,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+SmirnovBoris,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Liu_Ts,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Liu_Ts,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+tracyzhu,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+tracyzhu,Mushroom Scientists,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+mukel,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mukel,Mushroom Scientists,1,B,1,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Belonogov,Plant,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Belonogov,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+cebrusfs,Plant,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+sskolot,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+sskolot,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+alexej,Plant,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+alexej,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+Malinovsky239,Plant,1,A,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,math
+Malinovsky239,Mushroom Scientists,1,B,0,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+HellKitsune,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+HellKitsune,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Oryshych,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Oryshych,Mushroom Scientists,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+jonathanpaulson,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+jonathanpaulson,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+antonkov,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+antonkov,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+sankear,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sankear,Mushroom Scientists,1,B,1,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,"math,ternary search"
+eterxroc,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+PMichalak,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+PMichalak,Mushroom Scientists,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+nordicdx,Plant,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Deamon,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Deamon,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+kb.,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kb.,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+y346491470,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+y346491470,Mushroom Scientists,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+kmatsunaga,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kmatsunaga,Mushroom Scientists,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+tereshinvs,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tereshinvs,Mushroom Scientists,1,B,0,0,0,1,1,6,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+tereshinvs,Clever Fat Rat,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+esrever,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+esrever,Mushroom Scientists,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+esrever,Clever Fat Rat,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+grey_wind,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+grey_wind,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+KAN,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+KAN,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,"math,ternary search"
+lyoz,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lyoz,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"math,ternary search"
+Stolyarov,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+YakumoYukari,Mushroom Scientists,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+IlyaCk,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+IlyaCk,Mushroom Scientists,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Snow_storm,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Snow_storm,Mushroom Scientists,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+dzhioev,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dzhioev,Mushroom Scientists,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+Troy1118,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kyuridenamida,Plant,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kyuridenamida,Mushroom Scientists,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+ft.azadi,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Di735,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Di735,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+dasko1,Mushroom Scientists,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+dasko1,Visit of the Great,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"math,number theory"
+hanfei19910905,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+olimpo,Plant,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+olimpo,Mushroom Scientists,1,B,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"math,ternary search"
+AnnKats93,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AnnKats93,Mushroom Scientists,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"math,ternary search"
+pavel13,Plant,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+lavin,Clever Fat Rat,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+lavin,Mushroom Scientists,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+lavin,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+amoc,Plant,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+amoc,Mushroom Scientists,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"math,ternary search"
+kucingimbalance,Plant,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tomcat,Clever Fat Rat,0,C,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+tomcat,Plant,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math

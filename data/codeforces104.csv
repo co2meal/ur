@@ -1,0 +1,2499 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+eaglet,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+eaglet,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+eaglet,Cthulhu,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dsu,trees"
+eaglet,Russian Roulette,1,D,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+cvb,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+cvb,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cvb,Russian Roulette,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+cvb,Cthulhu,0,C,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+jonathanirvings,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jonathanirvings,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+jonathanirvings,Cthulhu,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+_jte_,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+_jte_,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+_jte_,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+_jte_,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+bcurcio,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+bcurcio,Testing Pants for Sadness,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,math
+bcurcio,Cthulhu,1,C,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+mmhatred,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mmhatred,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+mmhatred,Cthulhu,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+mmhatred,Time to Raid Cowavans,0,E,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,""
+AleksBannikov,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+AleksBannikov,Testing Pants for Sadness,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+AleksBannikov,Cthulhu,0,C,0,0,0,0,4,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+AleksBannikov,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+svnlog,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+svnlog,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+svnlog,Cthulhu,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+sydr1991,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sydr1991,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+sydr1991,Time to Raid Cowavans,1,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,""
+makeevvladx,Blackjack,0,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+makeevvladx,Cthulhu,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+makeevvladx,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+makeevvladx,Russian Roulette,1,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,math
+valikluks1995,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+valikluks1995,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Pattara.S,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pattara.S,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Pattara.S,Cthulhu,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Pattara.S,Russian Roulette,1,D,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+gamedeveloper,Blackjack,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gamedeveloper,Testing Pants for Sadness,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+gamedeveloper,Time to Raid Cowavans,0,E,0,0,0,1,0,1,0,3,2,0,0,0,0,0,0,0,0,""
+cw.ahbong,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cw.ahbong,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+_Vadim_,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+_Vadim_,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+_Vadim_,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+_Vadim_,Russian Roulette,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Berzhik,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Berzhik,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Spacejoker,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Spacejoker,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Spacejoker,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Spacejoker,Russian Roulette,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+aandrew,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aandrew,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+aandrew,Cthulhu,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dsu,trees"
+aandrew,Russian Roulette,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+lordn3mrod,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lordn3mrod,Testing Pants for Sadness,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+lordn3mrod,Cthulhu,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+lordn3mrod,Russian Roulette,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+pfctgeorge,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pfctgeorge,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pfctgeorge,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+ItsLastDay,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ItsLastDay,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ItsLastDay,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+anders.westling,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+anders.westling,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+anders.westling,Cthulhu,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+anders.westling,Russian Roulette,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+searcher769,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+searcher769,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+searcher769,Cthulhu,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+searcher769,Russian Roulette,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rgt0820,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rgt0820,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rgt0820,Cthulhu,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+rgt0820,Russian Roulette,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+rgt0820,Time to Raid Cowavans,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,""
+y3eadgbe,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+y3eadgbe,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+y3eadgbe,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+y3eadgbe,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+sankalp91,Blackjack,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+sankalp91,Testing Pants for Sadness,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+mihaha,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mihaha,Testing Pants for Sadness,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,math
+mihaha,Cthulhu,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Nox,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nox,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Nox,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dsu,trees"
+Nox,Russian Roulette,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,math
+pershik,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pershik,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pershik,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+pershik,Russian Roulette,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+nickbuelich,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nickbuelich,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+nickbuelich,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+nickbuelich,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,""
+CtrlAlt,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CtrlAlt,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+CtrlAlt,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+CtrlAlt,Cthulhu,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Tokiru,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+Tokiru,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tokiru,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+JKeeJ1e30,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+JKeeJ1e30,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+JKeeJ1e30,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+JKeeJ1e30,Time to Raid Cowavans,1,E,0,0,0,0,0,1,0,0,5,0,0,0,0,0,0,0,0,""
+rembocoder,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rembocoder,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rembocoder,Cthulhu,1,C,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Efgen,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Efgen,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Efgen,Cthulhu,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Efgen,Time to Raid Cowavans,1,E,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,""
+xiaowuc1,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xiaowuc1,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xiaowuc1,Cthulhu,1,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+xiaowuc1,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+xiaowuc1,Time to Raid Cowavans,0,E,0,0,0,0,0,1,0,7,7,0,0,0,0,0,1,0,0,""
+AguL,Blackjack,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AguL,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tirmen,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tirmen,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tirmen,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+tirmen,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+vlyubin,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vlyubin,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vlyubin,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+K0stIa,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+K0stIa,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+K0stIa,Cthulhu,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+K0stIa,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,math
+Fedepousa,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fedepousa,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Fedepousa,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Fedepousa,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+BECEJIb4AK_U,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+BECEJIb4AK_U,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+BECEJIb4AK_U,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+BECEJIb4AK_U,Russian Roulette,1,D,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+abhi91_sa,Blackjack,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+abhi91_sa,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Isa_rentacs,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Isa_rentacs,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Isa_rentacs,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+San_Sany4,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+San_Sany4,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Seikang,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Seikang,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Seikang,Cthulhu,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Seikang,Russian Roulette,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Te4NIK,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Te4NIK,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,math
+Te4NIK,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+morningstar,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+morningstar,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+morningstar,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+morningstar,Russian Roulette,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+morningstar,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+durt,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+durt,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+durt,Cthulhu,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+durt,Russian Roulette,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+durt,Time to Raid Cowavans,1,E,0,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,""
+hiphip,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hiphip,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+hiphip,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+hiphip,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+hiphip,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+IwfWcf,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+IwfWcf,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+IwfWcf,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+IwfWcf,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+IwfWcf,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+logicmachine,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+logicmachine,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+logicmachine,Cthulhu,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+McLaren,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+McLaren,Testing Pants for Sadness,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+McLaren,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Long-shot,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Long-shot,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Long-shot,Cthulhu,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+altais,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+altais,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+altais,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+LvChaoShuai,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LvChaoShuai,Testing Pants for Sadness,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+LvChaoShuai,Cthulhu,1,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+LvChaoShuai,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Shark1919,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shark1919,Testing Pants for Sadness,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+moldot,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+moldot,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+moldot,Cthulhu,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+moldot,Russian Roulette,1,D,1,0,0,0,0,3,0,1,0,0,0,0,0,2,1,0,0,math
+OldY,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+OldY,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+OldY,Russian Roulette,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+OldY,Cthulhu,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Fessmax,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fessmax,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Fessmax,Cthulhu,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+abz,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+abz,Testing Pants for Sadness,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+tunyash,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tunyash,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tunyash,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+tunyash,Russian Roulette,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+tunyash,Time to Raid Cowavans,0,E,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,""
+M03G11,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+M03G11,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sequence,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sequence,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+sequence,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+sequence,Russian Roulette,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+AC9,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+AC9,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+AC9,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+AC9,Russian Roulette,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+ant.ermilov,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ant.ermilov,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+ant.ermilov,Cthulhu,1,C,0,0,0,3,2,13,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+xdefedx,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xdefedx,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ilya.m,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ilya.m,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ilya.m,Cthulhu,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+ilya.m,Russian Roulette,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+M0sTik,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+M0sTik,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+M0sTik,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+naagi,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+naagi,Testing Pants for Sadness,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+naagi,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dsu,trees"
+kirimedia,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kirimedia,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kirimedia,Russian Roulette,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+sazzad,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sazzad,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AliD,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AliD,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AliD,Cthulhu,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+AliD,Russian Roulette,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+suminos,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+suminos,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+suminos,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+suminos,Russian Roulette,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Zhandos,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zhandos,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Zhandos,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+sakib.malek,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sakib.malek,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+sakib.malek,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+KOKS,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KOKS,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+KOKS,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+mob_lived,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mob_lived,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+mob_lived,Cthulhu,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Daniyar_7,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Daniyar_7,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+EriKKo,Blackjack,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+EriKKo,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+EriKKo,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+i_love_daniel,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+i_love_daniel,Testing Pants for Sadness,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,math
+i_love_daniel,Cthulhu,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+killerdjo,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+killerdjo,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+killerdjo,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+tatuyan_edson,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tatuyan_edson,Testing Pants for Sadness,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+tatuyan_edson,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,""
+tatuyan_edson,Russian Roulette,0,D,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+napst101r,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+napst101r,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+YuliaChe,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+YuliaChe,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+YuliaChe,Cthulhu,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+brdassign,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+brdassign,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+brdassign,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Dullittle,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dullittle,Testing Pants for Sadness,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Dullittle,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Dullittle,Russian Roulette,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+amylase,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+amylase,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+amylase,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+amylase,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+fanatid,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fanatid,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fanatid,Russian Roulette,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Hujiwara,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hujiwara,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Hujiwara,Cthulhu,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Hujiwara,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Hujiwara,Time to Raid Cowavans,1,E,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,""
+sunnywkn,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sunnywkn,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sunnywkn,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+sunnywkn,Time to Raid Cowavans,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,""
+Tsumiman,Blackjack,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tsumiman,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Konstantin,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Konstantin,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Konstantin,Cthulhu,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dsu,trees"
+Konstantin,Russian Roulette,0,D,0,0,0,0,2,8,0,0,0,0,0,0,0,0,0,0,0,math
+Diabolic,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Diabolic,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Diabolic,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+leonardo,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+leonardo,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+leonardo,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+valery.stromov,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+valery.stromov,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+valery.stromov,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+afix,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+afix,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+afix,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+afix,Time to Raid Cowavans,0,E,0,0,0,2,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+Ayisyen,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ayisyen,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Ahmed_Salama,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Ahmed_Salama,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Ahmed_Salama,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Ahmed_Salama,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+nealzane,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nealzane,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+nealzane,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+nealzane,Time to Raid Cowavans,0,E,0,0,0,0,0,1,0,3,2,0,0,0,0,0,0,0,0,""
+nealzane,Russian Roulette,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+jmazon,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jmazon,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+jmazon,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+jmazon,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+HDU_LOST,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+HDU_LOST,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+HDU_LOST,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+mrunique.01,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+mrunique.01,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mrunique.01,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+May5,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+May5,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+May5,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dsu,trees"
+May5,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Morandi,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Morandi,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+Morandi,Cthulhu,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dsu,trees"
+shtorm941,Blackjack,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shtorm941,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+shtorm941,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+shtorm941,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+gongbaoa,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gongbaoa,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+gongbaoa,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+gongbaoa,Russian Roulette,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,math
+a70babat,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+a70babat,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+a70babat,Cthulhu,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+a70babat,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+a70babat,Time to Raid Cowavans,1,E,1,0,0,1,1,3,0,0,0,0,0,0,0,0,1,0,0,""
+Saimon_Saret,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Saimon_Saret,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Saimon_Saret,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+mdonaj,Blackjack,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+mdonaj,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mdonaj,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dsu,trees"
+BlinKer,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BlinKer,Testing Pants for Sadness,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+BlinKer,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+BlinKer,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ivanovalexalex,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ivanovalexalex,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ivanovalexalex,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+ivanovalexalex,Russian Roulette,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+nanikaka,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nanikaka,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+nanikaka,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+nanikaka,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,1,6,0,0,0,0,0,0,0,0,""
+asif_iut,Blackjack,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+asif_iut,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+PeaceDeath,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PeaceDeath,Testing Pants for Sadness,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+PeaceDeath,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+2333333333333,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+2333333333333,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+2333333333333,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+2333333333333,Time to Raid Cowavans,1,E,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,""
+wilwell,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wilwell,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+wilwell,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+wilwell,Russian Roulette,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+jovank,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jovank,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+jovank,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+NomadThanatos,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+NomadThanatos,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+NomadThanatos,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+NomadThanatos,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+PashaAC,Blackjack,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PashaAC,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+ishikado,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ishikado,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ishikado,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dsu,trees"
+dimitriyremerov,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dimitriyremerov,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+dimitriyremerov,Time to Raid Cowavans,1,E,0,0,0,0,0,3,0,3,2,0,0,0,0,0,0,0,0,""
+pshtanko,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pshtanko,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pshtanko,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Seagull,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Seagull,Testing Pants for Sadness,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+Seagull,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,""
+vineetonrole,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+vineetonrole,Testing Pants for Sadness,1,B,1,0,0,2,0,4,0,0,0,0,0,0,0,0,1,0,0,math
+Woodpecker,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Woodpecker,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+SkylineGTR,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+SkylineGTR,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+yogesh_sharma,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yogesh_sharma,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+yogesh_sharma,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dsu,trees"
+igor.silin,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+igor.silin,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+igor.silin,Russian Roulette,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+hjr265,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hjr265,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hjr265,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+fura,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fura,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fura,Cthulhu,1,C,0,0,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+semicolon29,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+semicolon29,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+semicolon29,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+sbcd90,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sbcd90,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+bm_anas,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bm_anas,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+bm_anas,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+foxermen,Blackjack,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Padme,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Padme,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Padme,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+tmarice,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tmarice,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+phantom11,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+phantom11,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+phantom11,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+ErzhanDS,Blackjack,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+ErzhanDS,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ErzhanDS,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+ilcapt,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ilcapt,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ilcapt,Cthulhu,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+xwings,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xwings,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xwings,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+xwings,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Respect2D,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Respect2D,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Respect2D,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+ankit_shukla,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ankit_shukla,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ankit_shukla,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+ankit_shukla,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Jing,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jing,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Jing,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Jing,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Jing,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,""
+RAINBOW123,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+RAINBOW123,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+RAINBOW123,Cthulhu,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+tclsm,Blackjack,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,implementation
+tclsm,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tclsm,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+tclsm,Russian Roulette,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+Vladislav-Z,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+Vladislav-Z,Testing Pants for Sadness,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+abacadaea,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+abacadaea,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+abacadaea,Time to Raid Cowavans,1,E,0,0,0,0,0,3,0,0,2,0,0,0,0,0,0,0,0,""
+abacadaea,Russian Roulette,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+sandygupta,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,implementation
+sandygupta,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Yuliy,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Yuliy,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Yuliy,Russian Roulette,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+qjklw,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+qjklw,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+qjklw,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+qjklw,Russian Roulette,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+amirrr,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+amirrr,Testing Pants for Sadness,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+amirrr,Cthulhu,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+amirrr,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,""
+antonkudrin,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+antonkudrin,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+antonkudrin,Russian Roulette,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+antonkudrin,Time to Raid Cowavans,1,E,0,0,0,0,2,0,0,2,0,0,0,0,0,0,0,0,0,""
+m.radwan,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+m.radwan,Testing Pants for Sadness,1,B,0,0,0,0,0,6,0,1,0,0,0,0,0,1,0,0,0,math
+zplinti1,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zplinti1,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zplinti1,Cthulhu,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+zplinti1,Russian Roulette,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+zplinti1,Time to Raid Cowavans,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,""
+eduard.piliposyan,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+eduard.piliposyan,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+eduard.piliposyan,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+eduard.piliposyan,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+OmniLRenegadE,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+OmniLRenegadE,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pius_88,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pius_88,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pius_88,Cthulhu,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+pius_88,Russian Roulette,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+slalex,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+slalex,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+jehad131,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jehad131,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+jehad131,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+jehad131,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,2,4,0,0,0,0,0,0,0,0,""
+mustafij,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mustafij,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mustafij,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+mustafij,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+rolex_links,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+rolex_links,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+golyj_na_stole,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+golyj_na_stole,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+golyj_na_stole,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+golyj_na_stole,Russian Roulette,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Surendra,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Surendra,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Surendra,Cthulhu,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+tsuchida.mika,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tsuchida.mika,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+tsuchida.mika,Cthulhu,1,C,0,0,0,3,0,5,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+KotiyaSanae,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+KotiyaSanae,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+KotiyaSanae,Cthulhu,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+KotiyaSanae,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+KotiyaSanae,Time to Raid Cowavans,0,E,0,0,0,1,0,4,0,5,2,0,0,0,0,0,0,0,0,""
+Perlik,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Perlik,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Perlik,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+vruoso,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vruoso,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+vruoso,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+moonin,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+moonin,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+moonin,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+Altynai,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Altynai,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Altynai,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Altynai,Russian Roulette,1,D,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,math
+rogerfgm,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rogerfgm,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rogerfgm,Cthulhu,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Rosetta,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Rosetta,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+CHarm,Blackjack,0,A,0,0,0,0,2,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+CHarm,Testing Pants for Sadness,0,B,0,0,0,1,3,6,0,1,0,0,0,0,0,0,0,0,0,math
+Koblyk,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Koblyk,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Koblyk,Cthulhu,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+dragonfire,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dragonfire,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dragonfire,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+AlexanderBolshakov,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlexanderBolshakov,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AlexanderBolshakov,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+AlexanderBolshakov,Russian Roulette,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Aeon_Industries,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aeon_Industries,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Aeon_Industries,Cthulhu,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+spongebob,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+spongebob,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+spongebob,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+hnu0314,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+hnu0314,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+hnu0314,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+hnu0314,Russian Roulette,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+RAF,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+RAF,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+introduction,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+introduction,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+introduction,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+shevardnadze,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shevardnadze,Testing Pants for Sadness,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+shevardnadze,Cthulhu,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+KuchumovIlya,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KuchumovIlya,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+KuchumovIlya,Cthulhu,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+isti757,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+isti757,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+Martial,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Martial,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Martial,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Martial,Russian Roulette,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fabik,Blackjack,0,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,implementation
+fabik,Testing Pants for Sadness,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+fabik,Cthulhu,1,C,0,0,0,1,5,16,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+akm14889,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+akm14889,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+vanchope,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vanchope,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vanchope,Cthulhu,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+vanchope,Russian Roulette,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Scientist1642,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Scientist1642,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Scientist1642,Cthulhu,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Scientist1642,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Logvinov_Leon,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Logvinov_Leon,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+Logvinov_Leon,Cthulhu,1,C,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+constkir,Blackjack,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+constkir,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+constkir,Cthulhu,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+constkir,Russian Roulette,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+majiang,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+majiang,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+majiang,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+majiang,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,""
+majiang,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+lnwvr,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lnwvr,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+lnwvr,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kris13,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+kris13,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kris13,Cthulhu,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dsu,trees"
+kris13,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+songlj,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+songlj,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+songlj,Russian Roulette,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+songlj,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+InvincibleUZ,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+InvincibleUZ,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+InvincibleUZ,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+InvincibleUZ,Russian Roulette,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+IvanSol,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+IvanSol,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+IvanSol,Cthulhu,1,C,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+IvanSol,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+smolcoder,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+smolcoder,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+smolcoder,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+smolcoder,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+PML,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PML,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+PML,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+ondrah,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ondrah,Testing Pants for Sadness,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+ondrah,Cthulhu,1,C,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"dsu,trees"
+median0816,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+median0816,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+welly_91,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+welly_91,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+welly_91,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+welly_91,Time to Raid Cowavans,0,E,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+welly_91,Russian Roulette,0,D,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,math
+svm11,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+svm11,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+svm11,Cthulhu,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Shuaib,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shuaib,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Marvel,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Marvel,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Marvel,Russian Roulette,1,D,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+Verdona0,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Verdona0,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+zhukov,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhukov,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+zhukov,Cthulhu,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+babak,Testing Pants for Sadness,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+babak,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+babak,Cthulhu,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+babak,Russian Roulette,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+KIT,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KIT,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+KIT,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Barsuk_Alexey,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Barsuk_Alexey,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Barsuk_Alexey,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+latvian,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+latvian,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+latvian,Time to Raid Cowavans,1,E,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,""
+Arcady27,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Arcady27,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+calculus.saransh,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+calculus.saransh,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+calculus.saransh,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+BogdanBugaev,Blackjack,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+BogdanBugaev,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+BogdanBugaev,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+kirichenkoga,Blackjack,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kirichenkoga,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+kirichenkoga,Time to Raid Cowavans,1,E,0,0,0,0,0,3,0,7,0,0,0,0,0,0,0,0,0,""
+lisang,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lisang,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+lisang,Russian Roulette,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Au-Rikka,Blackjack,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Au-Rikka,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+xenocide,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xenocide,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xenocide,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+xenocide,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+sriksama,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sriksama,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sriksama,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+RodionGork,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+RodionGork,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+RodionGork,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+oxb,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+oxb,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+oxb,Cthulhu,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Chang.Mei,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Chang.Mei,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+scarlet,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+scarlet,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+scarlet,Cthulhu,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dsu,trees"
+_arjun,Blackjack,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+_arjun,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+_arjun,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dsu,trees"
+jinlove,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jinlove,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+jinlove,Russian Roulette,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Shersh,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shersh,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Shersh,Cthulhu,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+ikk,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ikk,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ikk,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+ikk,Russian Roulette,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+suanrong,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+suanrong,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+suanrong,Cthulhu,1,C,1,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+suanrong,Russian Roulette,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+BIT_silence,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BIT_silence,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+BIT_silence,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+BIT_silence,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+CryptoWolf,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CryptoWolf,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+CryptoWolf,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+xeronix,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xeronix,Testing Pants for Sadness,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+xeronix,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+xeronix,Time to Raid Cowavans,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,""
+aquamongoose,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aquamongoose,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+aquamongoose,Cthulhu,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+aquamongoose,Time to Raid Cowavans,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,""
+Eqbal,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eqbal,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Eqbal,Cthulhu,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Eqbal,Russian Roulette,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+farislab,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+farislab,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+winston1907,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+winston1907,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+vamsi_kavala,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vamsi_kavala,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vamsi_kavala,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+sqybi,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sqybi,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sqybi,Cthulhu,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+sqybi,Russian Roulette,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+sqybi,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,""
+Stirpar,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Stirpar,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Stirpar,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Stirpar,Russian Roulette,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+domhow,Blackjack,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+domhow,Testing Pants for Sadness,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+domhow,Russian Roulette,1,D,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+toquangphuc90,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+toquangphuc90,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+toquangphuc90,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+mendax,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mendax,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+mendax,Cthulhu,0,C,0,0,0,0,7,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Taras_Shevchuk,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Taras_Shevchuk,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+albashkin,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+albashkin,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+albashkin,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+hoalongntc,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hoalongntc,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+CostumeParty,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+CostumeParty,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+CostumeParty,Cthulhu,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+wxcc,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wxcc,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+wxcc,Cthulhu,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Daiki_Ando,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Daiki_Ando,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+joey2005,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+joey2005,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+joey2005,Cthulhu,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+joey2005,Time to Raid Cowavans,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,""
+joey2005,Russian Roulette,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,math
+potpath,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+potpath,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+potpath,Russian Roulette,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,math
+dani1373,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dani1373,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dani1373,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+jsego6,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+jsego6,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+jsego6,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+sgaflv,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sgaflv,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sgaflv,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+ziki,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ziki,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ziki,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+562908590,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+562908590,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+562908590,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+562908590,Russian Roulette,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+Jeflie,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jeflie,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+dharusimu,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dharusimu,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dharusimu,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+fldbk,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fldbk,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fldbk,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+natsuki_i,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+natsuki_i,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+arpit_s,Blackjack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+arpit_s,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+0x1337,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+0x1337,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+0x1337,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+phi16,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+phi16,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+phi16,Cthulhu,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+uisurumadushanka89,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+uisurumadushanka89,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+AlphaStream,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlphaStream,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+AlphaStream,Cthulhu,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+AlphaStream,Russian Roulette,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+SphinX1990,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+SphinX1990,Testing Pants for Sadness,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+SphinX1990,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+ko-sova,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ko-sova,Testing Pants for Sadness,1,B,0,0,0,2,1,2,0,0,0,0,0,0,0,1,0,0,0,math
+yuta1024,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yuta1024,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yuta1024,Cthulhu,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Blockadenick,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+Blockadenick,Testing Pants for Sadness,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+AjJi,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AjJi,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+luxury,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+luxury,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+luxury,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+thphong,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+thphong,Cthulhu,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+thphong,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+thphong,Russian Roulette,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Obaida,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Obaida,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+caoyuan9642,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+caoyuan9642,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+caoyuan9642,Cthulhu,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dsu,trees"
+caoyuan9642,Russian Roulette,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+rexim,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rexim,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+rexim,Cthulhu,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dsu,trees"
+all3fox,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+all3fox,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Volha,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Volha,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Volha,Cthulhu,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Georgievbg,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Georgievbg,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Georgievbg,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Fox235,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Fox235,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,math
+v1m,Blackjack,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+v1m,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Eugen,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Eugen,Blackjack,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eugen,Cthulhu,1,C,1,0,0,1,1,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+CepGamer,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CepGamer,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+ChamChi,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ChamChi,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ChamChi,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+ChamChi,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,""
+CoreCoder_JimZ,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CoreCoder_JimZ,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+CoreCoder_JimZ,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dsu,trees"
+CoreCoder_JimZ,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+sut,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sut,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tkwons,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tkwons,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tkwons,Cthulhu,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+tkwons,Russian Roulette,1,D,0,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,math
+jkl51310,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jkl51310,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+jkl51310,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+jkl51310,Time to Raid Cowavans,0,E,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,""
+primorial,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+primorial,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+primorial,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,""
+azaky,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+azaky,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+azaky,Cthulhu,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+azaky,Russian Roulette,1,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+techxacm,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+techxacm,Testing Pants for Sadness,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+techxacm,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+venice.lie,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+venice.lie,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+venice.lie,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+cakcups,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cakcups,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cakcups,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dsu,trees"
+jianglinjie,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jianglinjie,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+jianglinjie,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Nursoltan,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nursoltan,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sina_uice,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sina_uice,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sina_uice,Cthulhu,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dsu,trees"
+makanbeling,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+makanbeling,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+makanbeling,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+nextgen,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nextgen,Testing Pants for Sadness,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+nextgen,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+flash36,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+flash36,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+flash36,Cthulhu,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+roxion1377,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+roxion1377,Testing Pants for Sadness,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+ABD.Luo,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ABD.Luo,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ABD.Luo,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+ABD.Luo,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+etendren,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+etendren,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+etendren,Cthulhu,0,C,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+etendren,Russian Roulette,1,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Shafaet,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shafaet,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Shafaet,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+t0nyukuk,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+t0nyukuk,Testing Pants for Sadness,1,B,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,math
+t0nyukuk,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+t0nyukuk,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+sementry,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sementry,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+enoyhs,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+enoyhs,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+enoyhs,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+gravistar,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gravistar,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+gravistar,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+gravistar,Russian Roulette,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+sanchit_h,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sanchit_h,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sanchit_h,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+wil93,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+wil93,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+insane,Blackjack,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+insane,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+insane,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dsu,trees"
+Neko,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Neko,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Neko,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+baukaman,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+baukaman,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+baukaman,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+grigory.javadyan,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+grigory.javadyan,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+grigory.javadyan,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+294067081,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+294067081,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+294067081,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+cyx5320856,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cyx5320856,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+cyx5320856,Cthulhu,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+cyx5320856,Russian Roulette,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+panjf1987,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+panjf1987,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+panjf1987,Russian Roulette,1,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+anrieff,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+anrieff,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+anrieff,Cthulhu,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+anrieff,Russian Roulette,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+anrieff,Time to Raid Cowavans,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,""
+Nicolai_Kovrov,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nicolai_Kovrov,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Saif,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Saif,Testing Pants for Sadness,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+aryx,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aryx,Testing Pants for Sadness,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+aryx,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+aryx,Russian Roulette,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+gen,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gen,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+gen,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+gen,Russian Roulette,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ylllxw08,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+ylllxw08,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ylllxw08,Cthulhu,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+ylllxw08,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+srivatsan_vn,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+srivatsan_vn,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+srivatsan_vn,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+srivatsan_vn,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Creed,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Creed,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Creed,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Creed,Time to Raid Cowavans,1,E,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,""
+Belonogov,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Belonogov,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Belonogov,Russian Roulette,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ningbohezhijun,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ningbohezhijun,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ningbohezhijun,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dsu,trees"
+DV_AUTHOR,Blackjack,0,A,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DV_AUTHOR,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+go_zyw,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+go_zyw,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+go_zyw,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"dsu,trees"
+go_zyw,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+KarlisS,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+KarlisS,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+KarlisS,Cthulhu,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+KarlisS,Russian Roulette,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ezhik_v_tumane,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ezhik_v_tumane,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+livingroom,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+livingroom,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+livingroom,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+livingroom,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+CathyChen,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CathyChen,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+CathyChen,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+CathyChen,Russian Roulette,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+tyamgin,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tyamgin,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tyamgin,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"dsu,trees"
+tyamgin,Russian Roulette,1,D,0,0,0,0,0,1,0,1,0,0,0,1,0,0,0,0,0,math
+ybc_c,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+ybc_c,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ybc_c,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+kAc,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kAc,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kAc,Cthulhu,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+kAc,Time to Raid Cowavans,0,E,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,""
+Enterpaise,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Enterpaise,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Enterpaise,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Enterpaise,Russian Roulette,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,math
+ut_warrior,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ut_warrior,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ivanr.nk,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,implementation
+ivanr.nk,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ivanr.nk,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+shengtu,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shengtu,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+shengtu,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+shengtu,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+zt5840,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zt5840,Testing Pants for Sadness,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,math
+zt5840,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+absi2011,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+absi2011,Testing Pants for Sadness,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ZhouYuChen,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ZhouYuChen,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ZhouYuChen,Cthulhu,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dsu,trees"
+ZhouYuChen,Russian Roulette,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+AlanC,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlanC,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AlanC,Cthulhu,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+AlanC,Time to Raid Cowavans,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,""
+AlanC,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+naoki,Blackjack,1,A,1,0,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+naoki,Testing Pants for Sadness,1,B,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,math
+naoki,Russian Roulette,0,D,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,math
+kyuridenamida,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyuridenamida,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kyuridenamida,Cthulhu,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+kyuridenamida,Russian Roulette,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+elklarva,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+elklarva,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+rofi,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+rofi,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rofi,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+LongCtrl,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LongCtrl,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+LongCtrl,Cthulhu,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+cindymath,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cindymath,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+cindymath,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+xiaoyoulei,Blackjack,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+xiaoyoulei,Testing Pants for Sadness,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+xiaoyoulei,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+xiaoyoulei,Russian Roulette,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+_Dan_,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+_Dan_,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+_Dan_,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+pratvick,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pratvick,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pratvick,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+AlfaCoding,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+AlfaCoding,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AlfaCoding,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+hlahuhkln,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hlahuhkln,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+matavanga,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+matavanga,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Sokolov,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sokolov,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+USA,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+USA,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+USA,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lhbxr,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lhbxr,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lhbxr,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+vasja_p,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vasja_p,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vasja_p,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dsu,trees"
+chengsir,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+chengsir,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+chengsir,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+mohammad.mahmoodi,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mohammad.mahmoodi,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Cenadar,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Cenadar,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Cenadar,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Cenadar,Russian Roulette,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+najogie,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+najogie,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+mfkhr,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mfkhr,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tonycuba,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tonycuba,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+tonycuba,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Amb,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Amb,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Amb,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+OSt,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+OSt,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+OSt,Cthulhu,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+mybestwishes,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mybestwishes,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mybestwishes,Cthulhu,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+aleksandr_gusarov,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aleksandr_gusarov,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+aleksandr_gusarov,Time to Raid Cowavans,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,""
+snw,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+snw,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+snw,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Wildcat,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Wildcat,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Wildcat,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Wildcat,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+pnkjjindal,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pnkjjindal,Testing Pants for Sadness,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+pnkjjindal,Cthulhu,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+pnkjjindal,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+ACKOKO,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ACKOKO,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ACKOKO,Russian Roulette,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+eagle747,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+eagle747,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+eagle747,Cthulhu,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+igorkulev,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+igorkulev,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+igorkulev,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+igorkulev,Russian Roulette,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Frommi,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Frommi,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Frommi,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+frosty319424,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+frosty319424,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+frosty319424,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+frosty319424,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Hohol,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Hohol,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Hohol,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Hohol,Russian Roulette,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+espy,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+espy,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+zafar_sust_bd,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zafar_sust_bd,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zafar_sust_bd,Cthulhu,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+tatsuyafw,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tatsuyafw,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tatsuyafw,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+christinesed,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+christinesed,Testing Pants for Sadness,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+christinesed,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+RoyalSFlush,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+RoyalSFlush,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+RoyalSFlush,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Kiberbit,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nafanya,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nafanya,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Nafanya,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+ameydhar,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ameydhar,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,math
+ameydhar,Time to Raid Cowavans,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,""
+sash6589,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sash6589,Testing Pants for Sadness,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+sash6589,Cthulhu,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+PAG,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+PAG,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+PAG,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+evima,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+evima,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+evima,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+mahfuz,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mahfuz,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+duttasourav000,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+duttasourav000,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+duttasourav000,Time to Raid Cowavans,1,E,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,""
+duttasourav000,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kevinx6000,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kevinx6000,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,math
+kevinx6000,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+kevinx6000,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+hakomo,Blackjack,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hakomo,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hakomo,Cthulhu,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+cyon,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cyon,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cyon,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+cyon,Russian Roulette,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+zero1,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zero1,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+wysoviet,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wysoviet,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+wysoviet,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+abhiranjan,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+abhiranjan,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+abhiranjan,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+t.gogniashvili,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+t.gogniashvili,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+t.gogniashvili,Cthulhu,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+NiceDay,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+NiceDay,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+NiceDay,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+renatogbj,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+renatogbj,Testing Pants for Sadness,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+renatogbj,Cthulhu,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+moshangcheng,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+moshangcheng,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+moshangcheng,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+moshangcheng,Russian Roulette,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+noriok,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+noriok,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+noriok,Cthulhu,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+nolze,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nolze,Testing Pants for Sadness,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+nolze,Cthulhu,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+rishabhm,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+rishabhm,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rishabhm,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+A.Grishchenko,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+A.Grishchenko,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+A.Grishchenko,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+ryad0m,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ryad0m,Testing Pants for Sadness,1,B,1,0,0,3,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ryad0m,Cthulhu,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dsu,trees"
+Tenich,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tenich,Testing Pants for Sadness,1,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,math
+Tenich,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,""
+DenStep,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+DenStep,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+DenStep,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+DenStep,Russian Roulette,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+possibility2,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+possibility2,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+possibility2,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+possibility2,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+cuperman,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cuperman,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+cuperman,Cthulhu,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+mylyanyk.ivan,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mylyanyk.ivan,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mylyanyk.ivan,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+mylyanyk.ivan,Russian Roulette,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+urutom,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+urutom,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+urutom,Cthulhu,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+zero0809,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+zero0809,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+zero0809,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Sasha,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sasha,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Sasha,Cthulhu,1,C,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+qwerty787788,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+qwerty787788,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+qwerty787788,Russian Roulette,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+qwerty787788,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,""
+Kamilot,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kamilot,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Kamilot,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Kamilot,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+tudorsiminic1,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tudorsiminic1,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+tudorsiminic1,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+Alexanderrrr,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alexanderrrr,Testing Pants for Sadness,1,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,math
+salvianreynaldi,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+salvianreynaldi,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+thnkndblv,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+thnkndblv,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Akramjon,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Akramjon,Testing Pants for Sadness,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+Akramjon,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+irrelephant,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+irrelephant,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+irrelephant,Cthulhu,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+irrelephant,Russian Roulette,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Slamur,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Slamur,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Slamur,Cthulhu,1,C,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,"dsu,trees"
+Clever_Unior,Blackjack,0,A,1,0,0,2,0,5,0,0,0,0,0,0,0,0,0,0,0,implementation
+Clever_Unior,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Clever_Unior,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+Clever_Unior,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+MogoA,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MogoA,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+denys.astanin,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+denys.astanin,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+denys.astanin,Cthulhu,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+fcjy888,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fcjy888,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yukim,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yukim,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yukim,Cthulhu,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+yukim,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+yangbo123456,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+yangbo123456,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yangbo123456,Cthulhu,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dsu,trees"
+korshunovanton,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+korshunovanton,Testing Pants for Sadness,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+Ahmed.Ibrahem,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ahmed.Ibrahem,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Ahmed.Ibrahem,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Ahmed.Ibrahem,Russian Roulette,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+serg3232,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+serg3232,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+serg3232,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+serg3232,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+marque,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+marque,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+marque,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Flyrise,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Flyrise,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+yu-huh,Blackjack,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,implementation
+yu-huh,Testing Pants for Sadness,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+Shidfar,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Shidfar,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mohlat,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mohlat,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ST_Lighter,Blackjack,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ST_Lighter,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ST_Lighter,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dsu,trees"
+ST_Lighter,Russian Roulette,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+dragon_hdu,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dragon_hdu,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+dragon_hdu,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+f.nasim,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+f.nasim,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+f.nasim,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+kiko91_7,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kiko91_7,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+Warrior,Testing Pants for Sadness,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Warrior,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Warrior,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Warrior,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ruban,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruban,Testing Pants for Sadness,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ruban,Russian Roulette,1,D,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+jl9394,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jl9394,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+jl9394,Russian Roulette,1,D,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Yousef_Salama,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Yousef_Salama,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,math
+akke,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+akke,Testing Pants for Sadness,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+jszhiwang,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jszhiwang,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Epiq,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Epiq,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Epiq,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Epiq,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+pradex,Blackjack,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+pradex,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+hithere,Blackjack,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+hithere,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hithere,Cthulhu,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+pprzz,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+pprzz,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pprzz,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+hdu_yu,Blackjack,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+hdu_yu,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hdu_yu,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+guoduanac,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+guoduanac,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+guoduanac,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+guoduanac,Russian Roulette,1,D,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,math
+erudite,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+erudite,Testing Pants for Sadness,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,math
+peterae86,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+peterae86,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+peterae86,Cthulhu,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+1guangnian,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+1guangnian,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+1guangnian,Cthulhu,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Moon,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Moon,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Moon,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+20092100003,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+20092100003,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+20092100003,Cthulhu,1,C,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Sinner,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sinner,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+lala,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lala,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lala,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+lala,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+hereglegchneg,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hereglegchneg,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hereglegchneg,Cthulhu,1,C,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+stqn,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+stqn,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+stqn,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+stqn,Russian Roulette,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+stqn,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,""
+mzry1992,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mzry1992,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mzry1992,Cthulhu,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+mzry1992,Russian Roulette,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+AQaq,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AQaq,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AQaq,Time to Raid Cowavans,1,E,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,""
+harrycodec,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+harrycodec,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+harrycodec,Time to Raid Cowavans,1,E,0,0,0,2,2,1,0,6,0,0,0,0,0,0,0,0,0,""
+IOI11,Blackjack,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+IOI11,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+IOI11,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+IOI11,Russian Roulette,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+xpycc,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xpycc,Testing Pants for Sadness,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+xpycc,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+xpycc,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+paramparam,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+paramparam,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+paramparam,Cthulhu,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Atef,Testing Pants for Sadness,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Atef,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Atef,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Atef,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kira,Blackjack,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kira,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+abczz,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+abczz,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+abczz,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+abczz,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+trunghieu11,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+trunghieu11,Testing Pants for Sadness,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+paraggupta1993,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+paraggupta1993,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+paraggupta1993,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+thanabhat,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+thanabhat,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+stostap,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+stostap,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+stostap,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Mazeev,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Mazeev,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Mazeev,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Mazeev,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+stratocoder,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+stratocoder,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+stratocoder,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+rayfoss,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+rayfoss,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rayfoss,Cthulhu,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+hiiit,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hiiit,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hiiit,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+harshfire,Blackjack,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+harshfire,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+kawakami,Blackjack,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+kawakami,Testing Pants for Sadness,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+kawakami,Cthulhu,1,C,0,0,0,0,1,7,0,1,0,0,0,0,0,0,0,0,0,"dsu,trees"
+alerter000,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alerter000,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Bearjie,Blackjack,0,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+Bearjie,Testing Pants for Sadness,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+Bearjie,Cthulhu,1,C,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Bearjie,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Squire,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Squire,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Squire,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+sekiye,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sekiye,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sekiye,Cthulhu,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+legend_ni,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+legend_ni,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+zhupeijun,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhupeijun,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zhupeijun,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+zhupeijun,Russian Roulette,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+xiaozlcy123,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xiaozlcy123,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+xiaozlcy123,Cthulhu,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+djjoleM,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+djjoleM,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+djjoleM,Cthulhu,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+James,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+James,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+James,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Sasa_0824,Blackjack,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sasa_0824,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Sasa_0824,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+Sasa_0824,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+zaitsev,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zaitsev,Testing Pants for Sadness,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+zaitsev,Cthulhu,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+zaitsev,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ZaviOr,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ZaviOr,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ZaviOr,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+ZaviOr,Russian Roulette,0,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+sunjie7,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sunjie7,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+sunjie7,Cthulhu,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+sunjie7,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Monmoy,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Monmoy,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Monmoy,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+loveqinqin,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+loveqinqin,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+loveqinqin,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"dsu,trees"
+loveqinqin,Russian Roulette,0,D,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,math
+wangshaobiao,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wangshaobiao,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+wangshaobiao,Time to Raid Cowavans,0,E,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,""
+wangshaobiao,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+yuxingdubai,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yuxingdubai,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+yuxingdubai,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+alpc72,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+alpc72,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+alpc72,Cthulhu,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+alpc72,Russian Roulette,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+EslamElsawy,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+EslamElsawy,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+EslamElsawy,Cthulhu,0,C,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+4T-Shirt,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+4T-Shirt,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+4T-Shirt,Cthulhu,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+DULGUUNBATMUNKH,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+DULGUUNBATMUNKH,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+m_9,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+m_9,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+grigory51,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+grigory51,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+grigory51,Time to Raid Cowavans,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,""
+igrig,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+igrig,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+igrig,Cthulhu,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"dsu,trees"
+experience257,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+experience257,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+E.Rokyan,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+E.Rokyan,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+painkilling,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+painkilling,Testing Pants for Sadness,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+painkilling,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Merlininice,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Merlininice,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Merlininice,Cthulhu,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Merlininice,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ty70,Blackjack,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ty70,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ty70,Cthulhu,1,C,0,0,0,0,2,6,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+hatred,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hatred,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+hatred,Cthulhu,1,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+mirsaid_mir,Blackjack,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mirsaid_mir,Testing Pants for Sadness,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+mirsaid_mir,Russian Roulette,1,D,0,0,0,0,2,3,0,0,0,0,0,0,0,0,0,0,0,math
+.PEIN.,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+.PEIN.,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+.PEIN.,Cthulhu,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+lazzrov,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lazzrov,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+BIT,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BIT,Testing Pants for Sadness,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,math
+BIT,Cthulhu,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+shubhanshu,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shubhanshu,Testing Pants for Sadness,1,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,math
+Ziklon,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eric_Valdivia,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eric_Valdivia,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+whu_zhang,Blackjack,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+whu_zhang,Testing Pants for Sadness,0,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+whu_zhang,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+977kai,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+977kai,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+977kai,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+smxrwzdx,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+smxrwzdx,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+smxrwzdx,Cthulhu,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"dsu,trees"
+darkmoon,Blackjack,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+darkmoon,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+darkmoon,Russian Roulette,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+darkmoon,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Alisafe,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Alisafe,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Alisafe,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+akimonoiryou,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+akimonoiryou,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+akimonoiryou,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+safin_pavel,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+safin_pavel,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cdwzt,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cdwzt,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+cdwzt,Time to Raid Cowavans,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,""
+scutArcher,Blackjack,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+scutArcher,Testing Pants for Sadness,1,B,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+BLIZZARD,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BLIZZARD,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+BLIZZARD,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+BLIZZARD,Russian Roulette,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+L7we,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+L7we,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+L7we,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+L7we,Russian Roulette,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Pumai,Blackjack,1,A,1,0,0,4,3,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Pumai,Testing Pants for Sadness,1,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,math
+lemon_wonder,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+lemon_wonder,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lemon_wonder,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+lemon_wonder,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+m.haghpanah,Testing Pants for Sadness,0,B,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+m.haghpanah,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+m.haghpanah,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+maXim_m,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+maXim_m,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+maXim_m,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+bmsujon,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bmsujon,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kingbug,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kingbug,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+kingbug,Cthulhu,1,C,0,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+mustak_cuet,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mustak_cuet,Testing Pants for Sadness,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+sleepyhunt,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sleepyhunt,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sleepyhunt,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+sleepyhunt,Russian Roulette,1,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+zxndgv,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zxndgv,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zxndgv,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+MarwanPP,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+MarwanPP,Blackjack,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+C.degree,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+C.degree,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+C.degree,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+C.degree,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+9vijay,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+9vijay,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+9vijay,Cthulhu,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+9vijay,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+Sayakiss,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sayakiss,Testing Pants for Sadness,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Sayakiss,Russian Roulette,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+huhuuuhfrl,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+huhuuuhfrl,Testing Pants for Sadness,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+huhuuuhfrl,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+yt_siden,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+yt_siden,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+yt_siden,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+xiyuantianya,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xiyuantianya,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xiyuantianya,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+xiyuantianya,Russian Roulette,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,math
+BenderRodriges,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+BenderRodriges,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+BenderRodriges,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+aki08,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+aki08,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+aki08,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,""
+Heart_Blue,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Heart_Blue,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+huyue,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,implementation
+huyue,Cthulhu,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+huyue,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+berserq0123,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+berserq0123,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mfs6174,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mfs6174,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mfs6174,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+abc235153452,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+abc235153452,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+abc235153452,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+xor1005,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xor1005,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+xor1005,Cthulhu,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dsu,trees"
+shibly,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shibly,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+shibly,Cthulhu,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+luzihao,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+luzihao,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+luzihao,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+clfhaha1234,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+clfhaha1234,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+clfhaha1234,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+HeVy,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+HeVy,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+HeVy,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+saga1215,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+saga1215,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+NikitaV,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NikitaV,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+NikitaV,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+Foton,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Foton,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Foton,Cthulhu,1,C,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,"dsu,trees"
+Yermak0v,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Yermak0v,Testing Pants for Sadness,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+Yermak0v,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,""
+BlackAlgo,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BlackAlgo,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hamlet_fiis,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hamlet_fiis,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hamlet_fiis,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+wz12,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+wz12,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+wz12,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+wz12,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,math
+sami001,Blackjack,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+sami001,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sami001,Cthulhu,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"dsu,trees"
+sami001,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+15211243642,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+15211243642,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+MSPA,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+MSPA,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+b_r,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+b_r,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,math
+Iain,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Iain,Testing Pants for Sadness,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+Iain,Cthulhu,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+DnS,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+DnS,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,math
+prashanthkvs,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+prashanthkvs,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+T-D-K,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+T-D-K,Testing Pants for Sadness,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,math
+T-D-K,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+T-D-K,Time to Raid Cowavans,1,E,0,0,0,0,1,1,0,3,0,0,0,0,0,0,0,0,0,""
+cyberguru007,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cyberguru007,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cyberguru007,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+wiseberg,Blackjack,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+wiseberg,Testing Pants for Sadness,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+hemant_baid,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hemant_baid,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fremn,Blackjack,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+fremn,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+fremn,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+sashimi,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+sashimi,Testing Pants for Sadness,1,B,1,0,0,0,0,4,0,1,0,0,0,0,0,1,0,0,0,math
+kzr.buet08,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kzr.buet08,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+kzr.buet08,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+KK123,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+KK123,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+KK123,Cthulhu,0,C,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+wgh,Blackjack,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+wgh,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+wgh,Cthulhu,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Grasswolf,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Grasswolf,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Grasswolf,Cthulhu,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+bin.Go,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bin.Go,Testing Pants for Sadness,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+bin.Go,Cthulhu,1,C,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+iratehats,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+iratehats,Testing Pants for Sadness,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+iratehats,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Kapitoshka,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kapitoshka,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Kapitoshka,Time to Raid Cowavans,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,""
+Break-Neck,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Break-Neck,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Break-Neck,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ziliang,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ziliang,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ziliang,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+nicolausYes,Testing Pants for Sadness,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+nicolausYes,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+nicolausYes,Time to Raid Cowavans,1,E,0,0,0,1,0,0,0,6,0,0,0,0,0,0,0,0,0,""
+farnabaz,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+farnabaz,Testing Pants for Sadness,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+farnabaz,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+kphmd,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kphmd,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kphmd,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+sniper1fm,Blackjack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+sniper1fm,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+sniper1fm,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,""
+linuxoid,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+linuxoid,Testing Pants for Sadness,0,B,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+linuxoid,Cthulhu,1,C,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+GrinCh,Blackjack,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+GrinCh,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+GrinCh,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+saurabhpandey,Blackjack,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+saurabhpandey,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+grey_wind,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+grey_wind,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+grey_wind,Russian Roulette,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Petan,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Petan,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+ruslan.sennov,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ruslan.sennov,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ruslan.sennov,Cthulhu,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+BatusaiX,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+BatusaiX,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yangzhe1991,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+yangzhe1991,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yangzhe1991,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+jin116,Blackjack,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+thangpc,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+thangpc,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+RudySnow,Blackjack,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,2,0,0,implementation
+RudySnow,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+RudySnow,Cthulhu,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+askthedancinggrass,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+askthedancinggrass,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+miraina,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+miraina,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+praveenvaka,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+praveenvaka,Cthulhu,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+praveenvaka,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sailuck,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sailuck,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+sajib_cuet09,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sajib_cuet09,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+sajib_cuet09,Testing Pants for Sadness,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+osyan,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+osyan,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+donald_d,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+donald_d,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+donald_d,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+donald_d,Cthulhu,0,C,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,"dsu,trees"
+emil,Blackjack,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+emil,Testing Pants for Sadness,1,B,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+emil,Russian Roulette,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+USB,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+USB,Testing Pants for Sadness,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+USB,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+andrey_s,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+andrey_s,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Gin,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gin,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Gin,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Azadeh,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+Azadeh,Testing Pants for Sadness,0,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+Azadeh,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+NYP,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+NYP,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+NYP,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+NYP,Russian Roulette,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+nhcuong95,Testing Pants for Sadness,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+nhcuong95,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+nhcuong95,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Kostyazz,Testing Pants for Sadness,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Kostyazz,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Kostyazz,Time to Raid Cowavans,1,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,""
+shrimpy,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shrimpy,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+shrimpy,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+shrimpy,Time to Raid Cowavans,1,E,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,""
+kaygorodova,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+kaygorodova,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kaygorodova,Cthulhu,1,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+berliorz,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+berliorz,Testing Pants for Sadness,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+berliorz,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,""
+kymo,Blackjack,0,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+kymo,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kymo,Cthulhu,1,C,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,"dsu,trees"
+Ne0n,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ne0n,Testing Pants for Sadness,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Qili,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Qili,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Qili,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+egenius,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+egenius,Testing Pants for Sadness,1,B,1,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,math
+Aslan.m,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aslan.m,Testing Pants for Sadness,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Aslan.m,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+zxc10806,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zxc10806,Testing Pants for Sadness,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,math
+aishvarya,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+aishvarya,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+jujojujo_2003,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jujojujo_2003,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+vfix,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vfix,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+miketcyue,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+miketcyue,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+miketcyue,Cthulhu,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+miketcyue,Russian Roulette,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+otaks21,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+otaks21,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+otaks21,Testing Pants for Sadness,0,B,0,0,0,0,0,2,0,2,0,0,0,0,0,1,0,0,0,math
+Xerxes,Blackjack,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Xerxes,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+chomper,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chomper,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+chomper,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+splinterC3LL,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+splinterC3LL,Testing Pants for Sadness,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+splinterC3LL,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+zhouxc,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhouxc,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zhouxc,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+QAFQAZsehriyar,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+QAFQAZsehriyar,Cthulhu,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+QAFQAZsehriyar,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xth1,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xth1,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xth1,Cthulhu,1,C,1,0,0,0,0,6,0,0,0,0,0,0,0,0,2,0,0,"dsu,trees"
+Tariqul,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Tariqul,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Tariqul,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+vin_74,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+vin_74,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vin_74,Cthulhu,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Khaled91,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Khaled91,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+IgorL,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+IgorL,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+grace,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+grace,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+unasm,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+unasm,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+unasm,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Lay_ec,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Lay_ec,Testing Pants for Sadness,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+djrock,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+djrock,Testing Pants for Sadness,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+pro100hackeR,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pro100hackeR,Testing Pants for Sadness,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+xnike,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xnike,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+siddhant389,Blackjack,0,A,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+siddhant389,Testing Pants for Sadness,1,B,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+siddhant389,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Brilliant,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Brilliant,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Brilliant,Cthulhu,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Brilliant,Russian Roulette,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+islamhamdi,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+islamhamdi,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AC_Lover,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+AC_Lover,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,math
+AC_Lover,Cthulhu,1,C,0,0,0,1,0,3,0,0,0,0,0,0,0,1,0,0,0,"dsu,trees"
+AC_Lover,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ajeet2009057,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ajeet2009057,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ajeet2009057,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ajeet2009057,Time to Raid Cowavans,0,E,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,0,""
+fghjfghj,Blackjack,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fghjfghj,Testing Pants for Sadness,1,B,1,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,math
+fghjfghj,Cthulhu,1,C,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+zjy3186511,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zjy3186511,Testing Pants for Sadness,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+romzes,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+romzes,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+romzes,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+geromond,Blackjack,0,A,0,0,0,4,0,1,0,0,0,1,0,3,0,0,0,0,0,implementation
+z-ghost,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+z-ghost,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+z-ghost,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,2,3,0,0,0,0,0,0,0,0,""
+bor.is,Blackjack,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bor.is,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+wanglikai91,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wanglikai91,Testing Pants for Sadness,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+wanglikai91,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+chas,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chas,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+chas,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+TarifEzaz,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+TarifEzaz,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+TarifEzaz,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+hujiaxi,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+hujiaxi,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+hujiaxi,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+wind,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+wind,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+wind,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+fightmaster,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fightmaster,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+pcsin,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pcsin,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pcsin,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+triceps,Testing Pants for Sadness,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+triceps,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+triceps,Time to Raid Cowavans,0,E,0,0,0,1,0,0,0,2,1,0,0,0,0,0,0,0,0,""
+triceps,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Licheng,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Licheng,Testing Pants for Sadness,1,B,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,math
+Licheng,Cthulhu,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+vishwakarma,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+vishwakarma,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Haleh,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Haleh,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Haleh,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+fs302,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+fs302,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+fs302,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+fs302,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+sonych,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sonych,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+whu_wujing,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+whu_wujing,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+pha,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pha,Testing Pants for Sadness,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,math
+mfhraven,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+mfhraven,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mfhraven,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+ExtI,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ExtI,Testing Pants for Sadness,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+shomeser,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+shomeser,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+shomeser,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,""
+shomeser,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+jzd,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+jzd,Blackjack,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+jzd,Cthulhu,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+jzd,Time to Raid Cowavans,1,E,1,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,""
+jzd,Russian Roulette,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ctrlaltdeletel,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ctrlaltdeletel,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ctrlaltdeletel,Cthulhu,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Dexter_Frost,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+Dexter_Frost,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+linjianyu,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+linjianyu,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+linjianyu,Cthulhu,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+newbielxf,Blackjack,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+newbielxf,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+parnian.yousefi72,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+parnian.yousefi72,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+parnian.yousefi72,Cthulhu,1,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+eterxroc,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+eterxroc,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+eterxroc,Cthulhu,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dsu,trees"
+eterxroc,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+2009210656,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+2009210656,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+2009210656,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Stalker,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Stalker,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Stevens1992,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Stevens1992,Testing Pants for Sadness,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Stevens1992,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Stevens1992,Russian Roulette,0,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+sumous,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+sumous,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+luyanan,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+luyanan,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+luyanan,Cthulhu,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+iTed,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+iTed,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+iTed,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Wahba,Blackjack,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Wahba,Testing Pants for Sadness,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,math
+pooya.mosaddegh72,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pooya.mosaddegh72,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Amary,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Amary,Testing Pants for Sadness,1,B,0,0,0,2,0,5,0,0,0,0,0,0,0,0,0,0,0,math
+Amary,Time to Raid Cowavans,0,E,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,""
+amirali1374,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+amirali1374,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ZASEA,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ZASEA,Testing Pants for Sadness,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+aleksei,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+aleksei,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+pursuit,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pursuit,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+maxxx777,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+maxxx777,Testing Pants for Sadness,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,1,0,0,0,math
+jeraymm,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+jeraymm,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Namhin,Blackjack,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Namhin,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Namhin,Cthulhu,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Predimonio,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Predimonio,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+filipovskii_off,Blackjack,0,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+filipovskii_off,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+filipovskii_off,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+cristaloleg,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+TRR,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TRR,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+danilko,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+danilko,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+danilko,Time to Raid Cowavans,1,E,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,""
+leolin,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+leolin,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+leolin,Cthulhu,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+zimbabwe,Blackjack,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,implementation
+zimbabwe,Testing Pants for Sadness,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,math
+zimbabwe,Cthulhu,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"dsu,trees"
+zhangjian,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhangjian,Cthulhu,1,C,0,0,0,2,0,0,0,0,2,0,0,0,0,0,0,0,0,"dsu,trees"
+yyw,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yyw,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yyw,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Cardi,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Cardi,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ice_age,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ice_age,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zamzam,Blackjack,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+zamzam,Testing Pants for Sadness,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+xianbin5,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xianbin5,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+spam,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+spam,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tuzki,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tuzki,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+tuzki,Cthulhu,1,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+peryaudo,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+peryaudo,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+shankysodhi,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+shankysodhi,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+pcyu16,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+pcyu16,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+pcyu16,Cthulhu,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Farzad,Testing Pants for Sadness,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Farzad,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Farzad,Cthulhu,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+foxcoder,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+foxcoder,Testing Pants for Sadness,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+vksgupta44,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+zhbit_yola,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+zhbit_yola,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+zhbit_yola,Cthulhu,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+misshanli,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+misshanli,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+misshanli,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+raviagarwal,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+raviagarwal,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+NSV,Testing Pants for Sadness,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,math
+NSV,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+NSV,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+laing20ooo,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+laing20ooo,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Galm,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Galm,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Galm,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+phuchaontu,Blackjack,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+phuchaontu,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,math
+phuchaontu,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+hopetravel,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hopetravel,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+teoy,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+teoy,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+2901304002,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+2901304002,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+2901304002,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+2901304002,Time to Raid Cowavans,1,E,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,""
+Yular,Blackjack,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Yular,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Yular,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+kumarmohit346,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kumarmohit346,Time to Raid Cowavans,1,E,0,0,0,1,0,0,0,3,0,0,0,0,0,0,0,0,0,""
+kirakira,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kirakira,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+kirakira,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+kirakira,Russian Roulette,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+fujiyama,Testing Pants for Sadness,0,B,1,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+fujiyama,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gskhirtladze,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+gskhirtladze,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+gskhirtladze,Cthulhu,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+901001,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+901001,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+901001,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+901001,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+901001,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+andresilva91,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+andresilva91,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+andresilva91,Cthulhu,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+andresilva91,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+andresilva91,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+FrogEdi,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+FrogEdi,Russian Roulette,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+FrogEdi,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+FrogEdi,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+GolovaAV,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+GolovaAV,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+zgjabs,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+zgjabs,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zgjabs,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+tasyrkin,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+tasyrkin,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+BandBandRock,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+BandBandRock,Testing Pants for Sadness,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+sunnypika,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sunnypika,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sunnypika,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+sengab,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+sengab,Testing Pants for Sadness,1,B,0,0,0,0,0,4,0,2,0,0,0,0,0,0,0,0,0,math
+kuri,Blackjack,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kuri,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+kuri,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+zmaxz,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+salahuddin,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+salahuddin,Testing Pants for Sadness,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+milanlover,Blackjack,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,implementation
+milanlover,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+milanlover,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Ortiga,Blackjack,0,A,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ortiga,Testing Pants for Sadness,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+victord2exp,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+victord2exp,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+kushol,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kushol,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Nick,Blackjack,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Nick,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Gentleman,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ahmed.korayyem,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Martuza,Blackjack,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Martuza,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+jays6215,Blackjack,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,implementation
+jays6215,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mucamdiec,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mucamdiec,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+saybek,Blackjack,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,implementation
+saybek,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+suckerfur,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+suckerfur,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+abdiel.alvin,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+abdiel.alvin,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+abdiel.alvin,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+pakh,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pakh,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+pakh,Cthulhu,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,2,0,0,0,"dsu,trees"
+pakh,Time to Raid Cowavans,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,""
+hzhua,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hzhua,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hzhua,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+hzhua,Russian Roulette,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+suifeng,Blackjack,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+suifeng,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+suifeng,Cthulhu,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+weaker95,Blackjack,0,A,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,implementation
+weaker95,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+tiku,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+tiku,Testing Pants for Sadness,1,B,0,0,0,0,0,8,0,1,0,0,0,0,0,0,0,0,0,math
+kumar_168,Blackjack,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kumar_168,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mihran,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mihran,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mihran,Cthulhu,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+yiran,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+yiran,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yiran,Cthulhu,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+hafiz,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hafiz,Testing Pants for Sadness,1,B,0,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,math
+miaomiao,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+miaomiao,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+bloops,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+bloops,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+bloops,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+hi4sandy,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hi4sandy,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+NOISE_BOY,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+NOISE_BOY,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+SmartCoder,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hejycpu,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+hejycpu,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hejycpu,Russian Roulette,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+JoKe,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+JoKe,Testing Pants for Sadness,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+JoKe,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,""
+TWiST,Blackjack,0,A,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+TWiST,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+TWiST,Cthulhu,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Opu,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Opu,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+however,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+however,Blackjack,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+however,Cthulhu,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+olchikaS,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Aydar,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Aydar,Testing Pants for Sadness,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+storm5906,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+storm5906,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+storm5906,Cthulhu,1,C,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Crist,Blackjack,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+harrymwz,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+harrymwz,Testing Pants for Sadness,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+harrymwz,Cthulhu,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Andrew146,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Andrew146,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Andrew146,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+d1ff,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+d1ff,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,""
+Jens,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Jens,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Jens,Cthulhu,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+CityHunter,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CityHunter,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+CityHunter,Cthulhu,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+VK.ua,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+VK.ua,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Koala,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Koala,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+Veldrin,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Veldrin,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+_minato,Blackjack,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+eolivar,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+eolivar,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ashmantak,Blackjack,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+ashmantak,Testing Pants for Sadness,0,B,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+yonjue,Blackjack,1,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+yonjue,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ARUS,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+81868402,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+81868402,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+chiemduybao,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+chiemduybao,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+superhy,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+superhy,Cthulhu,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+superhy,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Troy1118,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Troy1118,Testing Pants for Sadness,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Troy1118,Cthulhu,1,C,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+serg2000,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+serg2000,Time to Raid Cowavans,1,E,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,""
+Coder.m7s,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Coder.m7s,Testing Pants for Sadness,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,math
+xym,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+xym,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xym,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+dinhha,Blackjack,1,A,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,implementation
+hemin,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lingjunxlj,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+lingjunxlj,Cthulhu,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+lingjunxlj,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lingjunxlj,Russian Roulette,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+whu_yixiaohan,Blackjack,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,2,0,0,0,implementation
+whu_yixiaohan,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+whu_yixiaohan,Cthulhu,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"dsu,trees"
+logicalmars,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+logicalmars,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+logicalmars,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+logicalmars,Time to Raid Cowavans,0,E,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,""
+miyu,Blackjack,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TJRAC_yyyqh,Testing Pants for Sadness,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+TJRAC_yyyqh,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+TJRAC_yyyqh,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Darkstalker,Blackjack,1,A,1,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,implementation
+lenny,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+egorow29,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+egorow29,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+egorow29,Time to Raid Cowavans,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,""
+eter,Testing Pants for Sadness,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,math
+eter,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+eter,Cthulhu,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Yan_Kurganov_Kovrov_STA,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Yan_Kurganov_Kovrov_STA,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Arsenal911,Testing Pants for Sadness,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+Arsenal911,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+CrazyForAC,Blackjack,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,implementation
+CrazyForAC,Testing Pants for Sadness,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Eilen,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Eilen,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Tintin,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Tintin,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+bitekas,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+bitekas,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ilovechina,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ilovechina,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ilovechina,Cthulhu,1,C,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+ilovechina,Russian Roulette,0,D,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+MARWARI,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+MARWARI,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Ahmed_Gad,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ahmed_Gad,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Ahmed_Gad,Cthulhu,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+gokilkodok,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+gokilkodok,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+YaleZ,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,implementation
+YaleZ,Cthulhu,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+YaleZ,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+YaleZ,Russian Roulette,1,D,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,math
+esrever,Cthulhu,0,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+esrever,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+esrever,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+esrever,Russian Roulette,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+NGiUp,Blackjack,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+NGiUp,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+NGiUp,Cthulhu,1,C,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+atsushi.yamyam,Blackjack,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+atsushi.yamyam,Testing Pants for Sadness,1,B,1,0,0,2,0,2,0,3,0,0,0,0,0,0,0,0,0,math
+mnlm,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mnlm,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mnlm,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+Leito17,Testing Pants for Sadness,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Leito17,Time to Raid Cowavans,0,E,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,""
+Leito17,Russian Roulette,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Leito17,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hus,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+hus,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+mnotcoder,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sawon90,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Sawon90,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+piyush006,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+piyush006,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+Vault_34,Testing Pants for Sadness,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+Vault_34,Blackjack,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+dieend,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dieend,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kyzmenko-95,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kyzmenko-95,Testing Pants for Sadness,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+19910517,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+19910517,Testing Pants for Sadness,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+19910517,Cthulhu,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+scawn,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+yakob,Blackjack,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+yakob,Testing Pants for Sadness,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+SoonShoo,Testing Pants for Sadness,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+Dgt,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dgt,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Nubick,Testing Pants for Sadness,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Nubick,Blackjack,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+abkarinomada,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+xzxiong,Blackjack,1,A,1,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+YaoZ,Cthulhu,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+OmarSaber,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+OmarSaber,Testing Pants for Sadness,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+shashank1298,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Danger,Blackjack,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Matsur,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Matsur,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Matsur,Cthulhu,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dsu,trees"
+alina,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+alina,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,math
+A_rustam_rustam,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+A_rustam_rustam,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Constant,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Constant,Testing Pants for Sadness,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+abeln,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+abeln,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Gangrad,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Gangrad,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+RDR,Blackjack,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+mary-zr,Blackjack,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mary-zr,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+---,Testing Pants for Sadness,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+r.1412,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Regi,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Regi,Testing Pants for Sadness,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+shashank,Blackjack,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+ray040123,Blackjack,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+kaysar98,Testing Pants for Sadness,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+lbs4570,Blackjack,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+lbs4570,Testing Pants for Sadness,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math

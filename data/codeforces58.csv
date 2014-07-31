@@ -1,0 +1,1162 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+abz,Chat room,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+abz,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+abz,Trees,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+abz,Calendar,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+diogen,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+diogen,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+diogen,Trees,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+diogen,Calendar,0,D,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Ksunya,Chat room,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Ksunya,Coins,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ksunya,Trees,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Ksunya,Calendar,1,D,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Aman,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Aman,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Aman,Trees,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Aman,Calendar,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+cfc,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+cfc,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mk74rus,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,strings"
+mk74rus,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mk74rus,Trees,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Dj_Antony,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Dj_Antony,Trees,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Dj_Antony,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+Danik,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Danik,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Danik,Calendar,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Danik,Trees,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Fedya,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Fedya,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Fedya,Calendar,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+USA,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+USA,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+USA,Trees,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+USA,Calendar,1,D,0,0,0,1,0,10,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Dullittle,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Dullittle,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dullittle,Trees,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Dullittle,Calendar,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+danial,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+danial,Coins,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+danial,Trees,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Georgy,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,strings"
+Georgy,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Georgy,Calendar,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Georgy,Trees,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+McLaren,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+McLaren,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ondrah,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+ondrah,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ondrah,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Garret,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Garret,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Garret,Trees,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Garret,Calendar,1,D,1,0,0,1,3,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+paulocezar,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+paulocezar,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+paulocezar,Calendar,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+paulocezar,Trees,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+hogeover30,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+hogeover30,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+hogeover30,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+timgaripov,Chat room,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+timgaripov,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+timgaripov,Trees,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+timgaripov,Calendar,1,D,0,0,0,0,1,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+rj7.1990,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+rj7.1990,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rj7.1990,Trees,1,C,0,0,0,0,2,3,0,0,0,0,0,0,0,0,1,0,0,brute force
+rj7.1990,Calendar,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+times,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+times,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+times,Trees,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+gmunkhbaatarmn,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+gmunkhbaatarmn,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+gmunkhbaatarmn,Trees,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+gmunkhbaatarmn,Calendar,1,D,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+HwangScornedAsianTeams,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+HwangScornedAsianTeams,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+0rbit,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+0rbit,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+0rbit,Trees,1,C,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,brute force
+yantar92,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+yantar92,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yantar92,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+yasith,Chat room,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+yasith,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yasith,Trees,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Damir,Chat room,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Damir,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Damir,Trees,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+JackSparrow,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+JackSparrow,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,greedy
+psilviu94,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+psilviu94,Coins,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+psilviu94,Calendar,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+vlad,Chat room,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+vlad,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vlad,Calendar,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+dyussenaliyev,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+dyussenaliyev,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dyussenaliyev,Trees,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+primorial,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+primorial,Trees,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+primorial,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+primorial,Calendar,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+marque,Chat room,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+marque,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,greedy
+Python,Chat room,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Python,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Python,Trees,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+Python,Calendar,1,D,1,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+mylyanyk.ivan,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+mylyanyk.ivan,Coins,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+mylyanyk.ivan,Trees,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+premprakash,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+premprakash,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+premprakash,Trees,1,C,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+peria,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+peria,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+peria,Trees,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+peria,Calendar,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+alexsashka137,Chat room,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+alexsashka137,Coins,1,B,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sabirov.rail,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+sabirov.rail,Calendar,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+sabirov.rail,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+12341234,Chat room,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+12341234,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nz1,Chat room,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+nz1,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+nz1,Trees,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+TarifEzaz,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+TarifEzaz,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+TarifEzaz,Calendar,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Lapenkov,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Lapenkov,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Lapenkov,Trees,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+k06a,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+k06a,Coins,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+k06a,Trees,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+k06a,Calendar,1,D,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+redox,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+redox,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+redox,Trees,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+htrinh,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+htrinh,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+htrinh,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+htrinh,Calendar,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+bdfhjk,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+bdfhjk,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+bdfhjk,Calendar,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+bdfhjk,Trees,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+iLove298442,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+iLove298442,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+iLove298442,Calendar,0,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+iLove298442,Trees,0,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,brute force
+kyuridenamida,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+kyuridenamida,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kyuridenamida,Trees,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+kyuridenamida,Calendar,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+alexandret,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+alexandret,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+alexandret,Calendar,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Denor,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Denor,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Denor,Trees,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,brute force
+Igorsheiko,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Igorsheiko,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+platinumthinker,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+platinumthinker,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+platinumthinker,Expression,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+platinumthinker,Calendar,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+CleRIC,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+CleRIC,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tkariz,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+tkariz,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+tkariz,Trees,0,C,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+ANTANTA,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+ANTANTA,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ANTANTA,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+nickbuelich,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+nickbuelich,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nickbuelich,Calendar,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+vineet5046,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+vineet5046,Coins,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+vineet5046,Trees,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+vineet5046,Calendar,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+latvian,Chat room,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+latvian,Calendar,1,D,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+keivan,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+keivan,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+keivan,Trees,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+keivan,Calendar,1,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Gravekper,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Gravekper,Coins,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gravekper,Trees,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+xeronix,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+xeronix,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+xeronix,Calendar,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+notEphim,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+notEphim,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+winmad,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+winmad,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+winmad,Trees,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+winmad,Calendar,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+snuke,Chat room,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+snuke,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+snuke,Trees,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+snuke,Calendar,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+AC9,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+AC9,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+AC9,Trees,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+AC9,Calendar,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+middle_impulse,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+middle_impulse,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+middle_impulse,Calendar,1,D,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+vishwakarma,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+vishwakarma,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+morojenoe,Chat room,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+morojenoe,Coins,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+morojenoe,Trees,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+d_i,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+d_i,Trees,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+d_i,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+nikunj165,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+nikunj165,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mihaha,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+mihaha,Coins,0,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,greedy
+mihaha,Trees,1,C,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+Verdona0,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Verdona0,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Verdona0,Trees,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,brute force
+Verdona0,Calendar,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Saif,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Saif,Coins,1,B,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,greedy
+krolbajtocji,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+krolbajtocji,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,greedy
+krolbajtocji,Trees,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+pius_88,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+pius_88,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pius_88,Trees,1,C,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,brute force
+jayesh02,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+jayesh02,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jayesh02,Trees,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+jayesh02,Calendar,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+ChamChi,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+ChamChi,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ChamChi,Trees,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Sasa_0824,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Sasa_0824,Coins,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+Sasa_0824,Trees,0,C,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+Sasa_0824,Calendar,0,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Mercer,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Mercer,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+klh1994,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+klh1994,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+klh1994,Calendar,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+klh1994,Trees,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Waiter,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Waiter,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sbory2011,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+sbory2011,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sbory2011,Trees,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+sbory2011,Calendar,0,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+WladFed,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+WladFed,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+WladFed,Trees,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+mhsekhavat,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+mhsekhavat,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mhsekhavat,Trees,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Isa,Chat room,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Isa,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Isa,Trees,1,C,1,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+shubham.velocity,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+shubham.velocity,Trees,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+shubham.velocity,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+M03G11,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+M03G11,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+M03G11,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+muriloufg,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+muriloufg,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+muriloufg,Trees,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+andresilva91,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+andresilva91,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+andresilva91,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+kabbi,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+kabbi,Coins,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+kabbi,Trees,0,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+kabbi,Calendar,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+BearPlu,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+BearPlu,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+BearPlu,Trees,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+BearPlu,Calendar,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+4T-Shirt,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+4T-Shirt,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+flavio,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+flavio,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+flavio,Trees,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+flavio,Calendar,0,D,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Andark,Chat room,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Andark,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Andark,Trees,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Andark,Calendar,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+aakashj.sky,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+aakashj.sky,Coins,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,greedy
+aakashj.sky,Trees,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+aakashj.sky,Calendar,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+sfmunera,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+sfmunera,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sfmunera,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+sfmunera,Calendar,0,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+akakiy,Chat room,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+akakiy,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Void,Chat room,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Void,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Void,Trees,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+mahfuz,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+mahfuz,Coins,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mahfuz,Calendar,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+zetilovn,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+zetilovn,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zetilovn,Trees,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+codecrux,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+codecrux,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+codecrux,Calendar,0,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,"greedy,strings"
+kykyu,Chat room,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+kykyu,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kykyu,Trees,1,C,1,0,0,0,0,6,0,0,0,0,0,0,0,0,1,0,0,brute force
+kykyu,Calendar,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+ka1mik,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+ka1mik,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ka1mik,Calendar,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"greedy,strings"
+ka1mik,Trees,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+piro1996,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+piro1996,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+piro1996,Trees,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+yuichirw,Chat room,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+yuichirw,Coins,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+aytawgf,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+aytawgf,Coins,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,greedy
+aytawgf,Trees,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+aytawgf,Calendar,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Evgeni,Chat room,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Evgeni,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Evgeni,Trees,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+odule,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+odule,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+odule,Trees,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+pavlin,Chat room,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+pavlin,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pavlin,Trees,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+pavlin,Calendar,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+ExZamer,Chat room,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+ExZamer,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ExZamer,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Massaraksh,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Massaraksh,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yuta1024,Chat room,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+yuta1024,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yuta1024,Trees,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,brute force
+gangil,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+gangil,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+gangil,Calendar,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+happy,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+happy,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+happy,Trees,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+pva701,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+pva701,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+pva701,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Mironx,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Mironx,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mironx,Trees,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Mironx,Calendar,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+flowlight,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+flowlight,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+flowlight,Trees,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+nfs420,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+nfs420,Trees,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,brute force
+nfs420,Coins,1,B,1,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,greedy
+coder_iitu,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+coder_iitu,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+coder_iitu,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+delta,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+delta,Coins,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+delta,Trees,1,C,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,brute force
+YORKS,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+YORKS,Coins,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+YORKS,Trees,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+rufferzool,Chat room,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+rufferzool,Coins,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rufferzool,Trees,0,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,brute force
+sakib.malek,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+srivatsan_vn,Chat room,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+srivatsan_vn,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+akshayk0406,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+akshayk0406,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+funny-shmunny,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+funny-shmunny,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Cromel,Chat room,1,A,1,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Cromel,Coins,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+Cromel,Trees,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+LinKin,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+klamathix,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+klamathix,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+klamathix,Trees,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,brute force
+oleg.ivye,Chat room,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+oleg.ivye,Trees,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+oleg.ivye,Coins,0,B,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+oleg.ivye,Calendar,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Tariqul,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Tariqul,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fahimpatel,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+fahimpatel,Coins,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+fahimpatel,Trees,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,brute force
+MirOn,Chat room,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+rishabhm,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+rishabhm,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rishabhm,Trees,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,1,0,0,0,brute force
+mohammad.mahmoodi,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+mohammad.mahmoodi,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mohammad.mahmoodi,Calendar,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+mohammad.mahmoodi,Trees,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Aeon_Industries,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Aeon_Industries,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gentoo,Chat room,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Gentoo,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gentoo,Trees,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+bayrhuu,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+bayrhuu,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+bayrhuu,Trees,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+TALGAT,Chat room,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+TALGAT,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+TALGAT,Trees,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+amiOachi,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+amiOachi,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,greedy
+amiOachi,Trees,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+new,Chat room,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,"greedy,strings"
+new,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+almaz_kh,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+almaz_kh,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+almaz_kh,Trees,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+almaz_kh,Calendar,0,D,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+diegofurts,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+diegofurts,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+diegofurts,Calendar,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+diegofurts,Trees,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+rysiek,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+rysiek,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rysiek,Trees,1,C,1,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,brute force
+rysiek,Calendar,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Nadezhda,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,strings"
+Nadezhda,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Nadezhda,Trees,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+nigo92,Chat room,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+nigo92,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nigo92,Trees,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+nigo92,Calendar,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+hyon,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+hyon,Coins,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+hyon,Trees,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Dremov,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Dremov,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dremov,Trees,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Dremov,Calendar,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Egor4k,Coins,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+shakil,Chat room,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+shakil,Coins,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,1,0,0,greedy
+shakil,Calendar,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+adel_gilmullin,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+adel_gilmullin,Coins,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+adel_gilmullin,Calendar,0,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Krot,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Krot,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Krot,Trees,1,C,0,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,brute force
+just_alisher,Chat room,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+just_alisher,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+just_alisher,Calendar,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+just_alisher,Trees,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+chakradarraju,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+chakradarraju,Coins,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+fura,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+fura,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fura,Trees,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+Spiderman,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Spiderman,Coins,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+Spiderman,Trees,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+born_coder,Chat room,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+born_coder,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+zjf.sjtu,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+zjf.sjtu,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zjf.sjtu,Trees,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+Diman_yoyo,Chat room,0,A,1,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Diman_yoyo,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nipolo,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+nipolo,Coins,1,B,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nipolo,Trees,0,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+numitus,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+numitus,Coins,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+numitus,Trees,1,C,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+numitus,Calendar,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+prateep,Chat room,0,A,0,0,0,0,3,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+prateep,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+zjy3186511,Chat room,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+zjy3186511,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+zjy3186511,Trees,0,C,0,0,0,0,0,3,0,1,0,0,0,0,0,1,0,0,0,brute force
+1guangnian,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+1guangnian,Calendar,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+1guangnian,Coins,1,B,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+1guangnian,Trees,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+ZobninVladislav_It-Team,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+ZobninVladislav_It-Team,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Benon,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Benon,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pein,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+pein,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+pein,Calendar,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+abody97,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+abody97,Trees,1,C,0,0,0,3,0,8,0,0,0,0,0,0,0,0,0,0,0,brute force
+abody97,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+galileo,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+galileo,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+galileo,Trees,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+galileo,Calendar,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+TMandzu,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+TMandzu,Coins,1,B,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+NSV,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+NSV,Trees,1,C,0,0,0,0,0,0,0,2,0,0,0,0,0,1,0,0,0,brute force
+naaaag,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+naaaag,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+naaaag,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+S_Barnes,Chat room,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+S_Barnes,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+S_Barnes,Trees,1,C,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,brute force
+peety12,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+peety12,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+peety12,Calendar,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+betterbearat,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+betterbearat,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+betterbearat,Calendar,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+vetribalaji,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+vetribalaji,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+v1m,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+v1m,Coins,1,B,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+v1m,Trees,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+piyush.neo,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+piyush.neo,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+piyush.neo,Calendar,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Eugene_nik,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Eugene_nik,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Eugene_nik,Trees,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+rafa.cipri,Chat room,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+rafa.cipri,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+rafa.cipri,Trees,1,C,0,0,0,2,0,5,0,0,0,0,0,0,0,0,0,0,0,brute force
+A_rustam_rustam,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+A_rustam_rustam,Coins,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+Roschin,Chat room,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,1,0,0,0,"greedy,strings"
+ymondelo20,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+ymondelo20,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Lyova,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Lyova,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Lyova,Trees,0,C,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+Lyova,Calendar,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Lyova,Expression,1,E,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,dp
+fookwood,Chat room,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+fookwood,Coins,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Olzhabay,Chat room,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,strings"
+Olzhabay,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Olzhabay,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Swarog,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Swarog,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Creed,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Creed,Coins,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Creed,Trees,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Arsenicum,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+nurdaulet,Chat room,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+nurdaulet,Trees,0,C,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+nurdaulet,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Shadz07,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Shadz07,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+andrei.d,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+andrei.d,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+andrei.d,Trees,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+andrei.d,Calendar,0,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Tokiru,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Tokiru,Coins,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+ishandutta2007,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+ishandutta2007,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+billionerdv,Chat room,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+billionerdv,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+billionerdv,Calendar,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+sankalp91,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+sankalp91,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+romzes,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+romzes,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+romzes,Calendar,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+lightning_31,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+lightning_31,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lightning_31,Trees,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+lightning_31,Calendar,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"greedy,strings"
+trukanduk,Chat room,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+trukanduk,Coins,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,greedy
+eterxroc,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+eterxroc,Coins,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+eterxroc,Trees,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+MrShocoladka,Chat room,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+MrShocoladka,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dimilisher,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Dimilisher,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+lastassassin,Chat room,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+lastassassin,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+lastassassin,Calendar,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+deximat,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+deximat,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+deximat,Trees,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,brute force
+yuShaf,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+yuShaf,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Xerxes,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Xerxes,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Xerxes,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+peryaudo,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+peryaudo,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+maruf.csdu,Chat room,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+maruf.csdu,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+maruf.csdu,Calendar,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+maruf.csdu,Expression,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+shovonshovo,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+shovonshovo,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shovonshovo,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+kvlvora,Chat room,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+kvlvora,Coins,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+ekrilov92,Chat room,1,A,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+ekrilov92,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+natsuki_i,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+natsuki_i,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+natsuki_i,Calendar,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+natsuki_i,Trees,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Artanis,Chat room,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Artanis,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Artanis,Trees,0,C,0,0,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+PER,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+PER,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+PER,Calendar,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Radomir,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Radomir,Calendar,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Petrushenko,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Petrushenko,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Petrushenko,Trees,0,C,0,0,0,0,1,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+Quazar,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+WPWPWP,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+WPWPWP,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+WPWPWP,Trees,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,brute force
+WPWPWP,Expression,0,E,0,0,0,0,0,14,0,7,0,0,0,0,0,0,0,0,0,dp
+quocquan,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+quocquan,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+berden,Chat room,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+berden,Coins,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,greedy
+berden,Trees,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+mashimaru,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+mashimaru,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+mashimaru,Trees,0,C,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Yermak0v,Chat room,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Yermak0v,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Yermak0v,Trees,1,C,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,brute force
+speedyGonzales,Chat room,0,A,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+speedyGonzales,Coins,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+gn13,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+gn13,Coins,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+neagoe.alexandru24,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+neagoe.alexandru24,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+neagoe.alexandru24,Calendar,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+edem.kwadzo,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+edem.kwadzo,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+edem.kwadzo,Calendar,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+REnd,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+REnd,Coins,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+REnd,Trees,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+katakana,Chat room,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+katakana,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+katakana,Trees,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+katakana,Calendar,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+koder_dima,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+koder_dima,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+koder_dima,Trees,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+logic_max,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+logic_max,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+logic_max,Trees,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+logic_max,Calendar,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+007.chandru.vels,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+007.chandru.vels,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kivi,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Kivi,Coins,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+Kivi,Trees,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+kabir.sohel,Chat room,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+kabir.sohel,Coins,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+kabir.sohel,Calendar,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+kabir.sohel,Trees,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Anton_Rodick,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Anton_Rodick,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Anton_Rodick,Trees,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,brute force
+strelok1918,Chat room,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+strelok1918,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zafar_sust_bd,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+zafar_sust_bd,Coins,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zafar_sust_bd,Trees,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+barevhayerable,Chat room,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+barevhayerable,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+barevhayerable,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+fullaccepted,Chat room,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+fullaccepted,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fullaccepted,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+foreigner,Chat room,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+foreigner,Coins,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+foreigner,Trees,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+elklarva,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+elklarva,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sydr1991,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+sydr1991,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ramilwow,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Ramilwow,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ramilwow,Trees,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+Ramilwow,Calendar,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+egorow29,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+egorow29,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+egorow29,Trees,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+maradonah,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+maradonah,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+maradonah,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+nisha2009331024,Chat room,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+nisha2009331024,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nisha2009331024,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+20092100003,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+20092100003,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+20092100003,Trees,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+BVI,Chat room,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+BVI,Coins,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+red_skull,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+red_skull,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+FORWARD,Chat room,0,A,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+klantoine,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+klantoine,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+klantoine,Calendar,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+PAG,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+PAG,Calendar,1,D,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+PAG,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+PAG,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+jonosuke,Chat room,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+jonosuke,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+jonosuke,Calendar,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+grigory51,Chat room,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+grigory51,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+grigory51,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+BelovP,Chat room,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+BelovP,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+BelovP,Calendar,1,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+mtcomscxstart,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+mtcomscxstart,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+TRR,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+TRR,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Arcady27,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Arcady27,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Arcady27,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+mng,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+mng,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+mng,Calendar,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+zzsy_fox,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+zzsy_fox,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+farhan_iut,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+farhan_iut,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+farhan_iut,Trees,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+farhan_iut,Calendar,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+gemu,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+gemu,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+gemu,Trees,1,C,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,brute force
+RGS,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+RGS,Coins,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mongolrgata,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+mongolrgata,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+mongolrgata,Trees,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Ernestas,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Ernestas,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ernestas,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+jafarjon,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+jafarjon,Coins,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+jafarjon,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+jafarjon,Calendar,0,D,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Opu,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Opu,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+NoobOK,Chat room,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Dark_White,Chat room,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Dark_White,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Dark_White,Trees,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+kujta1,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+kujta1,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+kujta1,Trees,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+akashs.cse,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+akashs.cse,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+parklinkivic,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+parklinkivic,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Misery,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+stefandechev,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+stefandechev,Trees,1,C,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,brute force
+stefandechev,Coins,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+Thug,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Thug,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+stafp,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+stafp,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+stafp,Trees,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+stafp,Calendar,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+dieglaube,Chat room,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+dieglaube,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+dieglaube,Trees,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+dieglaube,Calendar,1,D,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Noskov,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ashi009,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+ashi009,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ashi009,Trees,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+ashi009,Calendar,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+astrovsky,Chat room,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+removedddddd,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+removedddddd,Trees,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+removedddddd,Calendar,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+FSOG,Coins,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+FSOG,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+FSOG,Trees,1,C,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,brute force
+Templar,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Templar,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Templar,Trees,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+rajith,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+master_mind,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+master_mind,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+master_mind,Trees,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+IlyaLos,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+IlyaLos,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+IlyaLos,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,brute force
+alpc92,Chat room,0,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+alpc92,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+alpc92,Trees,1,C,1,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+tracer,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+tracer,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+melody,Chat room,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+melody,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+melody,Trees,1,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+acc1,Chat room,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+acc1,Calendar,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+neeraj541,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+neeraj541,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+neeraj541,Calendar,1,D,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Georgievbg,Chat room,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Georgievbg,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Georgievbg,Trees,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+rigelbm,Chat room,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+rigelbm,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ab.Sultan,Chat room,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Ab.Sultan,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Ab.Sultan,Trees,1,C,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+zermx_011,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+zermx_011,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Enigma,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Enigma,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Enigma,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+gabidenernar,Chat room,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+vlade087,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+vlade087,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+vicky,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+vicky,Coins,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+vicky,Trees,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,brute force
+vfix,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+vfix,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+filipkatanic,Chat room,0,A,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+pvokhmyanin,Chat room,1,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+pvokhmyanin,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,greedy
+Witalia,Chat room,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Witalia,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,greedy
+Rijul_CSEDU,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Rijul_CSEDU,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Rijul_CSEDU,Calendar,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+me_vikash7,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+me_vikash7,Coins,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+me_vikash7,Trees,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+rifat,Chat room,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+rifat,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+checkmate,Chat room,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+checkmate,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+checkmate,Calendar,1,D,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Nivikz,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Nivikz,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sbaldrich,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+sbaldrich,Coins,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+anshusaurav,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+anshusaurav,Trees,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+anshusaurav,Calendar,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+apple,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+apple,Calendar,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+ciprianfarcasanu,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+ciprianfarcasanu,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ciprianfarcasanu,Trees,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+luckyzoner,Chat room,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+luckyzoner,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+AvaMight,Chat room,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+xiaohongmusic,Chat room,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+xiaohongmusic,Coins,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+xiaohongmusic,Trees,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+and-zhabotinsky,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+and-zhabotinsky,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+and-zhabotinsky,Trees,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+utkarshl,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+utkarshl,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+utkarshl,Calendar,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+utkarshl,Trees,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+molecule,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+molecule,Chat room,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+hemant_baid,Chat room,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+hemant_baid,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+max92,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+vin_74,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+vin_74,Coins,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+Sectrait,Chat room,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Sectrait,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+bor.is,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+bor.is,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+bor.is,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+amee_csedu,Chat room,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+amee_csedu,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ruban1,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,strings"
+ruban1,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ruban1,Trees,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+MOZGOLOM,Chat room,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+MOZGOLOM,Coins,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+MOZGOLOM,Calendar,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+santak90,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+santak90,Coins,1,B,0,0,0,0,0,3,0,2,0,0,0,0,0,1,0,0,0,greedy
+Xorand,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Xorand,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Xorand,Trees,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+siyuefeng,Chat room,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,strings"
+siyuefeng,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+aleksandr_gusarov,Chat room,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+BenderRodriges,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+BenderRodriges,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+BenderRodriges,Calendar,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Stratonov,Chat room,0,A,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Stratonov,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Stels,Chat room,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+bmsujon,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+bmsujon,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+bmsujon,Trees,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+__tutankhamun__,Chat room,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+__tutankhamun__,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+__tutankhamun__,Trees,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+Gelka,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Gelka,Coins,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Gelka,Trees,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Gelka,Calendar,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+removed01,Chat room,1,A,1,0,0,0,2,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+removed01,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Natasa,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Natasa,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Pingvi,Chat room,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Pingvi,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+toxahak,Chat room,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+anuragb,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+anuragb,Coins,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+ivanr.nk,Chat room,0,A,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+ivanr.nk,Coins,0,B,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ivanr.nk,Trees,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+MoViS08,Chat room,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+ckl,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+lazzrov,Chat room,0,A,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+lazzrov,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+izhari,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+izhari,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fifa_iut,Chat room,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"greedy,strings"
+karburato,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Eather,Chat room,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+nishi,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+nishi,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+nishi,Trees,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+nishi,Calendar,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+bekzat,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+bekzat,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+carbon_twelve,Chat room,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+carbon_twelve,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+fire_bot,Chat room,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+fire_bot,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+zhengzhaozz,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+zhengzhaozz,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+zhengzhaozz,Trees,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+komron_hkl,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+komron_hkl,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+komron_hkl,Expression,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+Algorithm,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Algorithm,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Algorithm,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+girishkadlinitk,Chat room,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+girishkadlinitk,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+shadeel,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+shadeel,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Pritpal,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Pritpal,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Pritpal,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+omir,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"greedy,strings"
+omir,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+omir,Trees,0,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,brute force
+eko,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+eko,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+jareen,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+jareen,Trees,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+jareen,Calendar,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+wulfric,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+khanaleemullah,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+khanaleemullah,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+khanaleemullah,Trees,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Alexander-1709,Chat room,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Alexander-1709,Calendar,0,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Alexander-1709,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+era_kaz_93,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+era_kaz_93,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+d_k_phong,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+d_k_phong,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ankit_sablok19,Coins,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+anuragsingh,Chat room,0,A,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+arpit_mittal,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+arpit_mittal,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+arpit_mittal,Trees,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+arpit_mittal,Calendar,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Stanisl,Chat room,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+grizz,Chat room,0,A,0,0,0,0,0,11,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+grizz,Coins,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+zZoMROT,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+pashteiner,Chat room,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+root5,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+root5,Calendar,1,D,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+NiceDay,Chat room,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+NiceDay,Coins,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+lkssharma,Chat room,1,A,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+lkssharma,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+lkssharma,Trees,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+sbcd90,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+sbcd90,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+Petruchcho,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Petruchcho,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Petruchcho,Calendar,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+logN,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+logN,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+logN,Trees,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+yarrr,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+yarrr,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+yarrr,Trees,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,0,2,0,0,brute force
+yarrr,Calendar,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+kriss_tina,Chat room,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+shrishkrish,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+shrishkrish,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+shrishkrish,Trees,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+shrishkrish,Calendar,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+sotonamitol,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+sotonamitol,Coins,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,greedy
+sotonamitol,Trees,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+sotonamitol,Calendar,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+burger016,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+burger016,Coins,1,B,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alexlz661,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+alexlz661,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+alexlz661,Trees,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Remstam,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Remstam,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Isachenko,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Isachenko,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Isachenko,Trees,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+ameydhar,Coins,0,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+ameydhar,Chat room,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+ameydhar,Trees,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+azophy,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+azophy,Calendar,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Krzhemelik,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Krzhemelik,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Krzhemelik,Trees,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+ritesh104,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+ritesh104,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+ritesh104,Trees,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Yan_Kurganov_Kovrov_STA,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Yan_Kurganov_Kovrov_STA,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,greedy
+BaturaDima,Trees,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+BaturaDima,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+BaturaDima,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+EvAn,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+kotokur,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+kotokur,Coins,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+maxxx,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+maxxx,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+maxxx,Trees,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+peterae86,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+peterae86,Coins,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+peterae86,Trees,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+peterae86,Calendar,1,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+iman_MC,Chat room,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+iman_MC,Coins,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,greedy
+labardan,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+labardan,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+buldoQ,Chat room,0,A,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+buldoQ,Coins,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+neha1241,Coins,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+neha1241,Chat room,1,A,0,0,0,1,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+bublik,Chat room,0,A,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+LesyaPhoenix,Chat room,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Allahabadi,Chat room,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Allahabadi,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+BonuX,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,strings"
+marvin666,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,greedy
+nurs,Coins,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+sami001,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+sami001,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+sami001,Trees,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+aleksei,Chat room,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+gudzik,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+biscuit,Chat room,0,A,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+biscuit,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+kirakira,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+kirakira,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ghost016,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+ghost016,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+ER.abd_off,Coins,0,B,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,greedy
+ER.abd_off,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+esombugma,Chat room,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+matavanga,Chat room,1,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+amin.solhizadeh,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Marishka,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Marishka,Coins,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Marishka,Calendar,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Edro,Chat room,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Edro,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Edro,Trees,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,brute force
+Jicote,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Jicote,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vprakash.gayasen,Chat room,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+vprakash.gayasen,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+tudorsiminic1,Chat room,1,A,1,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+tudorsiminic1,Coins,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,greedy
+tudorsiminic1,Trees,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+sergei.voroncov,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+sergei.voroncov,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+vasja_p,Chat room,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+vasja_p,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mary,Chat room,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Mary,Coins,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mazeev,Chat room,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+Mazeev,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Mazeev,Trees,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+vinayjulme,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+EG0R,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+EG0R,Chat room,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+B.E.V.,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+Hapuk,Chat room,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+ayushi_singh,Chat room,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+lolik,Chat room,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+__Joker,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+madhu1990,Chat room,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+omargr,Chat room,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,strings"
+notka,Coins,0,B,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy
+foxermen,Coins,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,greedy
+Susan,Coins,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,greedy

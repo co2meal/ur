@@ -1,0 +1,910 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+xiaowuc1,Lucky Conversion,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+xiaowuc1,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+xiaowuc1,Lucky Subsequence,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Pattara.S,Lucky Conversion,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Pattara.S,Lucky Number 2,1,B,1,0,0,0,0,10,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+Pattara.S,Lucky Subsequence,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+RAVEman,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+RAVEman,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+RAVEman,Lucky Subsequence,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+RAVEman,Lucky Queries,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Zlobober,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Hohol,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Hohol,Lucky Subsequence,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Hohol,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+Komaki,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Komaki,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Komaki,Lucky Queries,1,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Komaki,Lucky Pair,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,data structures,implementation"
+cmd,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+cmd,Lucky Number 2,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+cmd,Lucky Subsequence,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+cmd,Lucky Queries,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+FattyChicken,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+FattyChicken,Lucky Number 2,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+FattyChicken,Lucky Queries,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+FattyChicken,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+chnlich,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+chnlich,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+chnlich,Lucky Queries,1,E,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+chnlich,Lucky Subsequence,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+flashmt,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+flashmt,Lucky Number 2,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+flashmt,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+flashmt,Lucky Queries,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+hydrastuff,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+hydrastuff,Lucky Subsequence,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+hydrastuff,Lucky Queries,1,E,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,data structures
+dzhulgakov,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+dzhulgakov,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dzhulgakov,Lucky Subsequence,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+dzhulgakov,Lucky Queries,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+good_mood,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+good_mood,Lucky Subsequence,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+good_mood,Lucky Number 2,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+good_mood,Lucky Queries,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+iwiwi,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+iwiwi,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+iwiwi,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+iwiwi,Lucky Queries,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+fura,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+fura,Lucky Subsequence,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+subscriber,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+subscriber,Lucky Number 2,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+subscriber,Lucky Subsequence,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+pythonMan,Lucky Conversion,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+pythonMan,Lucky Subsequence,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,2,0,0,"combinatorics,dp,math"
+shinian,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+shinian,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+shinian,Lucky Subsequence,1,C,1,0,0,1,0,2,0,2,0,0,0,0,0,3,0,0,0,"combinatorics,dp,math"
+pperm,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+pperm,Lucky Number 2,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+CleRIC,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+CleRIC,Lucky Number 2,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Kriii,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Kriii,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Kriii,Lucky Subsequence,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+vlad107,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+vlad107,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+vlad107,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+weiyang,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+weiyang,Lucky Subsequence,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+weiyang,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+weiyang,Lucky Queries,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+tsukuno,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+tsukuno,Lucky Number 2,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+tsukuno,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+PavelKunyavskiy,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+PavelKunyavskiy,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+PavelKunyavskiy,Lucky Subsequence,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+PavelKunyavskiy,Lucky Queries,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+totalfrank,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+totalfrank,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+totalfrank,Lucky Subsequence,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Archon.JK,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Archon.JK,Lucky Number 2,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Archon.JK,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+malcolm,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+malcolm,Lucky Subsequence,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+malcolm,Lucky Number 2,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+HolkinPV,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+HolkinPV,Lucky Number 2,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+HolkinPV,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+espr1t,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+espr1t,Lucky Number 2,0,B,1,0,0,0,1,7,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+espr1t,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+package.zaic,Lucky Conversion,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+package.zaic,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+package.zaic,Lucky Queries,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+amylase,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+amylase,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+AguL,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+AguL,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+AguL,Lucky Subsequence,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+al13n,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+al13n,Lucky Subsequence,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+al13n,Lucky Queries,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+al13n,Lucky Number 2,1,B,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+kawatea,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+kawatea,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+kawatea,Lucky Subsequence,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+scottai1,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+scottai1,Lucky Subsequence,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+scottai1,Lucky Number 2,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+scottai1,Lucky Queries,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+rinigan,Lucky Conversion,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+rinigan,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+rinigan,Lucky Subsequence,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+fatest,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+fatest,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+fatest,Lucky Subsequence,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+ilya.korovin,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ilya.korovin,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+VenusWithArms,Lucky Conversion,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+VenusWithArms,Lucky Subsequence,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+JalbaRu,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+JalbaRu,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+YX201314,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+YX201314,Lucky Number 2,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+it4.kp,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+it4.kp,Lucky Subsequence,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+it4.kp,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+mengpq,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+mengpq,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+mengpq,Lucky Number 2,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Borisp,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Borisp,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+Borisp,Lucky Subsequence,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+GagGuy,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+GagGuy,Lucky Number 2,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+GagGuy,Lucky Subsequence,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+GagGuy,Lucky Queries,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+aandrew,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+aandrew,Lucky Subsequence,1,C,0,0,0,0,0,4,0,1,1,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+aandrew,Lucky Number 2,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+AndreySiunov,Lucky Conversion,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+AndreySiunov,Lucky Number 2,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+AndreySiunov,Lucky Subsequence,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+flowlight,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+flowlight,Lucky Number 2,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,constructive algorithms
+flowlight,Lucky Subsequence,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Blink,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Blink,Lucky Number 2,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+liangjiaxing57,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+liangjiaxing57,Lucky Number 2,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+liangjiaxing57,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+WXYZ,Lucky Conversion,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+WXYZ,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+WXYZ,Lucky Subsequence,0,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+WXYZ,Lucky Queries,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+fushar,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+fushar,Lucky Subsequence,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+fushar,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Gerald,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Gerald,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Gerald,Lucky Subsequence,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Gerald,Lucky Queries,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Nox,Lucky Conversion,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Nox,Lucky Number 2,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,constructive algorithms
+jiangzhijie,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+jiangzhijie,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+jiangzhijie,Lucky Subsequence,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+fura2,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+fura2,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+thinfaifai,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+thinfaifai,Lucky Number 2,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+thinfaifai,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+edly,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+edly,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+edly,Lucky Subsequence,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+whhone,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Timus,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Timus,Lucky Pair,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,data structures,implementation"
+KADR,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+KADR,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+KADR,Lucky Subsequence,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+KADR,Lucky Queries,0,E,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,data structures
+SuBaRaSi,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+SuBaRaSi,Lucky Number 2,0,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+SuBaRaSi,Lucky Queries,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+imslavko,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+imslavko,Lucky Subsequence,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+imslavko,Lucky Queries,1,E,1,0,0,0,2,4,0,0,0,0,0,0,0,0,0,0,0,data structures
+Ripatti,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Ripatti,Lucky Subsequence,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Ripatti,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+jonathanasdf,Lucky Conversion,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+jonathanasdf,Lucky Number 2,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+jonathanasdf,Lucky Subsequence,0,C,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+hust.elt,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+hust.elt,Lucky Number 2,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+hust.elt,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+-XraY-,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+-XraY-,Lucky Number 2,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+-XraY-,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+-XraY-,Lucky Pair,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,data structures,implementation"
+taras.klaskovsky,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+taras.klaskovsky,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+taras.klaskovsky,Lucky Subsequence,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Jacob,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Jacob,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Jacob,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Jacob,Lucky Pair,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,data structures,implementation"
+ush,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ush,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ush,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+alexey.enkov,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+alexey.enkov,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+evgentu,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+evgentu,Lucky Number 2,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+evgentu,Lucky Subsequence,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+fhlasek,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+fhlasek,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+fhlasek,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+jonathanirvings,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+jonathanirvings,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+jonathanirvings,Lucky Subsequence,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Monyura,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Monyura,Lucky Number 2,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Monyura,Lucky Subsequence,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+shangjingbo,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+shangjingbo,Lucky Number 2,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+shangjingbo,Lucky Subsequence,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+shangjingbo,Lucky Queries,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Kh.Madi,Lucky Conversion,1,A,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ilya.m,Lucky Conversion,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ilya.m,Lucky Number 2,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,constructive algorithms
+ilya.m,Lucky Subsequence,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+stx2,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+stx2,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+stx2,Lucky Subsequence,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+stx2,Lucky Queries,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+AlexFetisov,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+AlexFetisov,Lucky Number 2,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+AlexFetisov,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+hogloid,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+hogloid,Lucky Number 2,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,4,0,0,0,constructive algorithms
+dalex,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+dalex,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Scientist1642,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Scientist1642,Lucky Number 2,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Hinidu,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Hinidu,Lucky Subsequence,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+Hinidu,Lucky Number 2,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+wangchaohui,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+wangchaohui,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+wangchaohui,Lucky Subsequence,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+helThazar,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+helThazar,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+sjtu_pigoneand,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+sjtu_pigoneand,Lucky Subsequence,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+sjtu_pigoneand,Lucky Number 2,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+sjtu_pigoneand,Lucky Queries,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+aa2985759,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+aa2985759,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+aa2985759,Lucky Subsequence,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+OutSide,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+OutSide,Lucky Number 2,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+havaliza,Lucky Conversion,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+havaliza,Lucky Number 2,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+havaliza,Lucky Subsequence,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+huyuanming11,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+huyuanming11,Lucky Subsequence,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+huyuanming11,Lucky Queries,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+paladin8,Lucky Conversion,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+paladin8,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+paladin8,Lucky Subsequence,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+ilyakor,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ilyakor,Lucky Number 2,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ilyakor,Lucky Subsequence,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ilyakor,Lucky Queries,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+xujie,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+xujie,Lucky Subsequence,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+xujie,Lucky Queries,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+xujie,Lucky Number 2,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dolphinigle,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+dolphinigle,Lucky Number 2,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dolphinigle,Lucky Subsequence,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+dolphinigle,Lucky Queries,1,E,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+thocevar,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+thocevar,Lucky Subsequence,0,C,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+thocevar,Lucky Number 2,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+__tutankhamun__,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+__tutankhamun__,Lucky Subsequence,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+__tutankhamun__,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Mimino,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Mimino,Lucky Subsequence,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Mimino,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+Mimino,Lucky Queries,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+yukim,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+yukim,Lucky Number 2,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+yukim,Lucky Subsequence,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+riad,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+riad,Lucky Number 2,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+riad,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+riad,Lucky Queries,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+JKeeJ1e30,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+JKeeJ1e30,Lucky Number 2,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+JKeeJ1e30,Lucky Subsequence,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+superpear,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+superpear,Lucky Number 2,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+superpear,Lucky Subsequence,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+SergeyLazarev,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+SergeyLazarev,Lucky Number 2,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+Anarivu,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Anarivu,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+Anarivu,Lucky Subsequence,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ahmed_aly,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ahmed_aly,Lucky Number 2,1,B,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+justever,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+justever,Lucky Number 2,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+justever,Lucky Subsequence,0,C,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+self_healing,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+self_healing,Lucky Subsequence,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+self_healing,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+self_healing,Lucky Queries,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+Khongor,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Khongor,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Soultaker,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Soultaker,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Soultaker,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+VArtem,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+VArtem,Lucky Number 2,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+VArtem,Lucky Subsequence,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+coders1122,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+coders1122,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+coders1122,Lucky Subsequence,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+SamanSami,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+SamanSami,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Martin,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Martin,Lucky Number 2,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+Martin,Lucky Queries,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Merkurev,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Merkurev,Lucky Number 2,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+Merkurev,Lucky Subsequence,1,C,0,0,0,0,0,4,0,1,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+Bugman,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Bugman,Lucky Subsequence,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+Bugman,Lucky Queries,1,E,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+Mex-Mans,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Mex-Mans,Lucky Subsequence,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Mex-Mans,Lucky Number 2,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+IlyaLos,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+IlyaLos,Lucky Number 2,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+SergeyRogulenko,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+SergeyRogulenko,Lucky Number 2,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+SergeyRogulenko,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+SergeyRogulenko,Lucky Queries,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+wayne-ho,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+wayne-ho,Lucky Subsequence,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+wayne-ho,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+wayne-ho,Lucky Queries,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+imbanoob,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+imbanoob,Lucky Number 2,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+imbanoob,Lucky Queries,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Hadi_Asiaie,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Hadi_Asiaie,Lucky Subsequence,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Hadi_Asiaie,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+shilov,Lucky Conversion,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+shilov,Lucky Number 2,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+shilov,Lucky Subsequence,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+juver,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+juver,Lucky Number 2,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+juver,Lucky Subsequence,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+yudaer,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+yudaer,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+yudaer,Lucky Subsequence,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+haas,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+haas,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dusty.and.rusty,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+dusty.and.rusty,Lucky Number 2,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+dusty.and.rusty,Lucky Subsequence,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+zanoes,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+zanoes,Lucky Queries,1,E,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+zanoes,Lucky Number 2,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+nevidomy,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+nevidomy,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+nevidomy,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ydnl,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ydnl,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+rizar,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+rizar,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+rizar,Lucky Queries,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+CherryTree,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+CherryTree,Lucky Subsequence,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+CherryTree,Lucky Number 2,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+CherryTree,Lucky Queries,1,E,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+Nikhil,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Nikhil,Lucky Queries,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+Nikhil,Lucky Subsequence,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+dani1373,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+dani1373,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+timotius.wirjawan,Lucky Conversion,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+stoundmire,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+stoundmire,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+kcm1700,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+kcm1700,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+kcm1700,Lucky Subsequence,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+kcm1700,Lucky Queries,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+roypalacios,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+roypalacios,Lucky Number 2,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Lepetrandr,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Lepetrandr,Lucky Number 2,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+stevenkplus,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+stevenkplus,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+stevenkplus,Lucky Subsequence,1,C,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+cebrusfs,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+cebrusfs,Lucky Subsequence,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+cebrusfs,Lucky Number 2,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ryry56,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ryry56,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+kamranm,Lucky Conversion,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+kamranm,Lucky Number 2,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+lyoz,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+lyoz,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+bigfat,Lucky Conversion,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+bigfat,Lucky Number 2,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+bigfat,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+csimstu,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+csimstu,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+csimstu,Lucky Subsequence,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+csimstu,Lucky Queries,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+pauldb,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+pauldb,Lucky Number 2,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+pauldb,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+pauldb,Lucky Queries,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+tourist,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+tourist,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+tourist,Lucky Pair,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,data structures,implementation"
+tourist,Lucky Queries,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+tourist,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+qwerty787788,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+qwerty787788,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+qwerty787788,Lucky Subsequence,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+Azras,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Azras,Lucky Number 2,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+Milanin,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Milanin,Lucky Number 2,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Milanin,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Milanin,Lucky Queries,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+timgaripov,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+timgaripov,Lucky Number 2,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+Gyosh,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Gyosh,Lucky Number 2,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Lumpy,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Lumpy,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+Lumpy,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+Lumpy,Lucky Queries,1,E,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+seen,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+seen,Lucky Number 2,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+phtniit,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+phtniit,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+komiya,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+komiya,Lucky Number 2,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+komiya,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+mgqa34,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+mgqa34,Lucky Number 2,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+Bidhan,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Bidhan,Lucky Number 2,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+IlyaCk,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+IlyaCk,Lucky Number 2,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+stostap,Lucky Conversion,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+stostap,Lucky Number 2,1,B,0,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+stostap,Lucky Subsequence,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+wuzhengkai,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+wuzhengkai,Lucky Queries,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+wuzhengkai,Lucky Number 2,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+wuzhengkai,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+wuzhengkai,Lucky Pair,1,D,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,data structures,implementation"
+alexej,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+alexej,Lucky Number 2,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Commandos,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Commandos,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+arti1990,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+arti1990,Lucky Number 2,1,B,1,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Icemore,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+sune2,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+sune2,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+constkir,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+constkir,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+nrg3,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+nrg3,Lucky Subsequence,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+nrg3,Lucky Number 2,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+Shef,Lucky Conversion,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Shef,Lucky Number 2,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Shef,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Shtrix,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Shtrix,Lucky Subsequence,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Shtrix,Lucky Number 2,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+1guangnian,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+1guangnian,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+cjtoribio,Lucky Conversion,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+cjtoribio,Lucky Number 2,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+cjtoribio,Lucky Subsequence,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Respect2D,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Respect2D,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+Respect2D,Lucky Subsequence,0,C,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+SobolS,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+SobolS,Lucky Number 2,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+SobolS,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+S.Yesipenko,Lucky Conversion,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+S.Yesipenko,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+azizkhan,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+azizkhan,Lucky Subsequence,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+azizkhan,Lucky Queries,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+keivan,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+keivan,Lucky Number 2,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+keivan,Lucky Subsequence,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+exod40,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+exod40,Lucky Subsequence,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+exod40,Lucky Pair,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,data structures,implementation"
+piloop,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+piloop,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+K.F.Cat,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+K.F.Cat,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+spencer,Lucky Conversion,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+spencer,Lucky Number 2,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+MatRush,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+MatRush,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,constructive algorithms
+sakyalol,Lucky Conversion,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+sakyalol,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+frost_nova,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+frost_nova,Lucky Subsequence,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+frost_nova,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+Jughead,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Jughead,Lucky Number 2,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+Jughead,Lucky Subsequence,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Jughead,Lucky Queries,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+hasi,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+hasi,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+zpl1,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+zpl1,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+zpl1,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+zpl1,Lucky Queries,1,E,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+songlj,Lucky Conversion,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+songlj,Lucky Number 2,1,B,1,0,0,1,0,4,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+songlj,Lucky Subsequence,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Nicolai_Kovrov,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Nicolai_Kovrov,Lucky Number 2,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+luyi0619,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+luyi0619,Lucky Number 2,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+luyi0619,Lucky Subsequence,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Spacejoker,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Spacejoker,Lucky Number 2,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,constructive algorithms
+Spacejoker,Lucky Subsequence,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+tuananh93,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+tuananh93,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+tuananh93,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+xkszltl,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+xkszltl,Lucky Number 2,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+xkszltl,Lucky Subsequence,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+xkszltl,Lucky Queries,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+pratikmoona,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+pratikmoona,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+zplinti1,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+zplinti1,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+zplinti1,Lucky Subsequence,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+barty,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+barty,Lucky Number 2,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+anhdt,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+anhdt,Lucky Number 2,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+KarlisS,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+KarlisS,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+KirillB,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+KirillB,Lucky Number 2,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+muliguishou,Lucky Conversion,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation"
+muliguishou,Lucky Queries,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+sriksama,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+sriksama,Lucky Number 2,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+Aman,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Aman,Lucky Number 2,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+rgt0820,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+rgt0820,Lucky Subsequence,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+hos.lyric,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+hos.lyric,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+hos.lyric,Lucky Queries,0,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+hos.lyric,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+wolf5x,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+wolf5x,Lucky Number 2,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+wolf5x,Lucky Subsequence,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+bswig,Lucky Conversion,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ralekseenkov,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ralekseenkov,Lucky Number 2,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+tloinuy,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+tloinuy,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+tloinuy,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+yarrr,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+yarrr,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+yaro,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+yaro,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Cyin,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Cyin,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+Cyin,Lucky Subsequence,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+cp12321,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+cp12321,Lucky Number 2,1,B,0,0,0,0,0,9,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+mastersobg,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+mastersobg,Lucky Number 2,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mastersobg,Lucky Subsequence,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Ixanezis,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Ixanezis,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Ixanezis,Lucky Subsequence,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+tkcn,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+tkcn,Lucky Number 2,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Navigabimus,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+nwin,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+nwin,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+nwin,Lucky Subsequence,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+pank.dm,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+pank.dm,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,constructive algorithms
+rembocoder,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+rembocoder,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+rembocoder,Lucky Subsequence,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+natsugiri,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+natsugiri,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+manukranthk,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+manukranthk,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+gurpreet_09,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+gurpreet_09,Lucky Number 2,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+evima,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+evima,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+evima,Lucky Subsequence,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+domhow,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+domhow,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+valich,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+valich,Lucky Number 2,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+valich,Lucky Subsequence,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+sweiss,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+sweiss,Lucky Number 2,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+sweiss,Lucky Subsequence,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+pele,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+pele,Lucky Subsequence,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+lazylie,Lucky Conversion,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+lazylie,Lucky Number 2,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+object022,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+object022,Lucky Number 2,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+object022,Lucky Queries,0,E,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+Farzam,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Farzam,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Farzam,Lucky Subsequence,1,C,0,0,0,0,0,2,0,1,0,0,0,0,0,2,0,0,0,"combinatorics,dp,math"
+Omar.Darwish,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Omar.Darwish,Lucky Number 2,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+Ra16bit,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Ra16bit,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Ra16bit,Lucky Subsequence,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Ra16bit,Lucky Pair,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,data structures,implementation"
+unrated,Lucky Conversion,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+dingjian0312,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+fatboy_cw,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+fatboy_cw,Lucky Number 2,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+fatboy_cw,Lucky Subsequence,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Diabolic,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Diabolic,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+k21,Lucky Conversion,1,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+forest,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+forest,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+forest,Lucky Subsequence,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Slavik,Lucky Conversion,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Slavik,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Slavik,Lucky Subsequence,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+suhendry,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+suhendry,Lucky Number 2,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+suhendry,Lucky Subsequence,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+hogehogehoge,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+hogehogehoge,Lucky Number 2,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+sankear,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+sankear,Lucky Subsequence,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+sankear,Lucky Queries,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+sankear,Lucky Number 2,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+HeroShadow,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+HeroShadow,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Di735,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Di735,Lucky Number 2,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Di735,Lucky Subsequence,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+Copymaster,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Copymaster,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Copymaster,Lucky Subsequence,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+infrmtcs,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+infrmtcs,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+infrmtcs,Lucky Subsequence,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+sm_hossein,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+sm_hossein,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+nathanajah,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+nathanajah,Lucky Number 2,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+poopi,Lucky Conversion,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+poopi,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+poopi,Lucky Subsequence,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+PolarNick,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+PolarNick,Lucky Number 2,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+tclsm,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+tclsm,Lucky Number 2,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+reiracofage,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+reiracofage,Lucky Queries,1,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,data structures
+sazzad,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ballon,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ballon,Lucky Number 2,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ballon,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Vladimir.Del,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Vladimir.Del,Lucky Number 2,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+lucyfer,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+lucyfer,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+whitetooth,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+whitetooth,Lucky Queries,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+whitetooth,Lucky Number 2,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+openxxx,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+openxxx,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+openxxx,Lucky Subsequence,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+zzzzxk55,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+zzzzxk55,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+zzzzxk55,Lucky Subsequence,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+Alex-Gran,Lucky Conversion,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Alex-Gran,Lucky Subsequence,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+dancho,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+dancho,Lucky Queries,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+jhjdream,Lucky Conversion,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+jhjdream,Lucky Number 2,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+calculus.saransh,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+bjin,Lucky Conversion,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+bjin,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+bjin,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+bjin,Lucky Queries,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+botay,Lucky Conversion,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+botay,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+botay,Lucky Subsequence,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+AliD,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation"
+AliD,Lucky Number 2,1,B,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+shavkat,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+shavkat,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Elve,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Elve,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Elve,Lucky Subsequence,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+LinKin,Lucky Conversion,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+LinKin,Lucky Subsequence,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+LinKin,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Pavlo_Lviv_NU,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Pavlo_Lviv_NU,Lucky Number 2,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+Pavlo_Lviv_NU,Lucky Subsequence,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+uwi,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+uwi,Lucky Number 2,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+uwi,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+uwi,Lucky Queries,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+forifchen,Lucky Conversion,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+forifchen,Lucky Number 2,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+forifchen,Lucky Subsequence,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+carber,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+carber,Lucky Number 2,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+carber,Lucky Subsequence,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+jianhe25,Lucky Conversion,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+jianhe25,Lucky Number 2,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+jianhe25,Lucky Subsequence,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+hama-du,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+hama-du,Lucky Number 2,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+tjmts,Lucky Conversion,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+tjmts,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+tjmts,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+nodchip,Lucky Conversion,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+nodchip,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+AnnKats93,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+AnnKats93,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+AnnKats93,Lucky Subsequence,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+cos,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+cos,Lucky Subsequence,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+cos,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+nab,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+nab,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+naagi,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+naagi,Lucky Number 2,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+morojenoe,Lucky Conversion,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Happy_bin,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Happy_bin,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+z__jj,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+pdwd,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+pdwd,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Shafaet,Lucky Conversion,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Shafaet,Lucky Number 2,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+_sunny,Lucky Conversion,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Slamur,Lucky Conversion,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Slamur,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+moshiur,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+moshiur,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+moshiur,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ryuzmukhametov,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ryuzmukhametov,Lucky Subsequence,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+ryuzmukhametov,Lucky Number 2,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dergach,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+dergach,Lucky Number 2,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Reshetnikov_Ivan,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Reshetnikov_Ivan,Lucky Subsequence,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+piotr.kukla,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+piotr.kukla,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+piotr.kukla,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+lzqxh,Lucky Conversion,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+lzqxh,Lucky Number 2,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ikk,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ikk,Lucky Number 2,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+ikk,Lucky Subsequence,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+map,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+map,Lucky Subsequence,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+Sergey.Bankevich,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Sergey.Bankevich,Lucky Subsequence,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Sergey.Bankevich,Lucky Number 2,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+emo,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+emo,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+emo,Lucky Subsequence,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+FedyuninV,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+FedyuninV,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+FedyuninV,Lucky Subsequence,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Saimon_Saret,Lucky Conversion,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Saimon_Saret,Lucky Number 2,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+mostafa_fahim,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+mostafa_fahim,Lucky Subsequence,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+cjoa,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+RaceBug,Lucky Conversion,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+RaceBug,Lucky Number 2,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+BIT_silence,Lucky Conversion,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+BIT_silence,Lucky Subsequence,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+earl,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+earl,Lucky Number 2,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+earl,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+earl,Lucky Queries,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+mcsharma1990,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+mcsharma1990,Lucky Number 2,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+lantimilan,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+lantimilan,Lucky Number 2,1,B,0,0,0,1,1,2,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Egor,Lucky Number 2,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+Egor,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Egor,Lucky Queries,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+Egor,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+dnc1994,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+zayhero,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+zayhero,Lucky Number 2,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+henshiru,Lucky Conversion,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+henshiru,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Snich,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Snich,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+razimantv,Lucky Conversion,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+razimantv,Lucky Number 2,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Belonogov,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Belonogov,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+ftiasch,Lucky Subsequence,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+ftiasch,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ftiasch,Lucky Number 2,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,constructive algorithms
+ftiasch,Lucky Queries,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+cakcups,Lucky Conversion,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+cakcups,Lucky Number 2,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+cakcups,Lucky Subsequence,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Nomad,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Nomad,Lucky Number 2,1,B,0,0,0,0,0,4,0,1,0,0,0,0,0,1,0,0,0,constructive algorithms
+Nomad,Lucky Subsequence,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Le-Nika,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Le-Nika,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ytau,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+ytau,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+ytau,Lucky Queries,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+chiemduybao,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+hadi,Lucky Subsequence,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+hadi,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+hadi,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+hadi,Lucky Queries,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,data structures
+DmitriyH,Lucky Conversion,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+DmitriyH,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+jehad131,Lucky Conversion,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+jehad131,Lucky Subsequence,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Zen,Lucky Conversion,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation"
+Zen,Lucky Subsequence,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+FatSheep,Lucky Conversion,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+FatSheep,Lucky Number 2,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+cafelier,Lucky Subsequence,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+cafelier,Lucky Number 2,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+cafelier,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+cafelier,Lucky Queries,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+dreamoon,Lucky Number 2,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+dreamoon,Lucky Conversion,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+dreamoon,Lucky Subsequence,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Dmitry_Egorov,Lucky Number 2,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+Dmitry_Egorov,Lucky Conversion,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+Dmitry_Egorov,Lucky Subsequence,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Dmitry_Egorov,Lucky Queries,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+GolovaAV,Lucky Conversion,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"greedy,implementation"
+haxxpop,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+haxxpop,Lucky Number 2,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,constructive algorithms
+klh1994,Lucky Conversion,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+klh1994,Lucky Number 2,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+johar,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+daizhenyang,Lucky Subsequence,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+daizhenyang,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+daizhenyang,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+cpphamza,Lucky Subsequence,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp,math"
+cpphamza,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+linh810,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+linh810,Lucky Number 2,1,B,0,0,0,2,0,6,0,0,0,0,0,0,0,2,0,0,0,constructive algorithms
+SkorKNURE,Lucky Subsequence,0,C,0,0,0,1,1,3,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp,math"
+SkorKNURE,Lucky Conversion,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+atetubou,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+atetubou,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+evg-zhabotinsky,Lucky Conversion,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+evg-zhabotinsky,Lucky Number 2,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Monmoy,Lucky Subsequence,0,C,0,0,0,0,0,3,0,0,1,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+Monmoy,Lucky Conversion,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+kelvinlau,Lucky Subsequence,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp,math"
+kelvinlau,Lucky Conversion,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"greedy,implementation"
+kelvinlau,Lucky Number 2,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms

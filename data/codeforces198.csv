@@ -1,0 +1,670 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+Dmitry_Egorov,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Dmitry_Egorov,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Dmitry_Egorov,Gripping Story,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+craus,About Bacteria,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+craus,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+craus,Delivering Carcinogen,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+Petr,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Petr,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Petr,Gripping Story,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+Petr,Cube Snake,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Petr,Delivering Carcinogen,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+Egor,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Egor,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Egor,Delivering Carcinogen,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+Egor,Gripping Story,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+bmerry,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+bmerry,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+bmerry,Delivering Carcinogen,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+bmerry,Cube Snake,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+bmerry,Gripping Story,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+Komaki,About Bacteria,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Komaki,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+lxyxynt,About Bacteria,0,A,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+lxyxynt,Jumping on Walls,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+flashmt,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+flashmt,Jumping on Walls,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+PavelKunyavskiy,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+PavelKunyavskiy,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+PavelKunyavskiy,Gripping Story,0,E,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+PavelKunyavskiy,Delivering Carcinogen,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+FattyPenguin,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+FattyPenguin,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+sdryapko,About Bacteria,0,A,1,0,0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sdryapko,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+rng_58,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rng_58,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+rng_58,Delivering Carcinogen,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+map,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+map,Jumping on Walls,0,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+map,Delivering Carcinogen,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+logicmachine,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+logicmachine,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+oimaster,About Bacteria,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+oimaster,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+oimaster,Gripping Story,1,E,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+Shef,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Shef,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Shef,Delivering Carcinogen,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+Shef,Cube Snake,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+RAVEman,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+RAVEman,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+RAVEman,Delivering Carcinogen,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+RAVEman,Gripping Story,1,E,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+0O0o00OO0Oo0o0Oo,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+0O0o00OO0Oo0o0Oo,Jumping on Walls,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+0O0o00OO0Oo0o0Oo,Delivering Carcinogen,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+Juda,About Bacteria,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Juda,Jumping on Walls,0,B,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+evima,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+evima,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+evima,Delivering Carcinogen,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+LGM,About Bacteria,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+LGM,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+navi,About Bacteria,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+navi,Jumping on Walls,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+-DMYTRO-,About Bacteria,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+-DMYTRO-,Jumping on Walls,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+iwiwi,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+iwiwi,Jumping on Walls,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+iwiwi,Delivering Carcinogen,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+iwiwi,Gripping Story,1,E,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+tourist,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tourist,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+tourist,Gripping Story,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+tourist,Delivering Carcinogen,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+espr1t,About Bacteria,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+espr1t,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+atetubou,About Bacteria,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+atetubou,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+atetubou,Delivering Carcinogen,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+alexey.shchepin,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+alexey.shchepin,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+alexey.shchepin,Delivering Carcinogen,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+NALP,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+NALP,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+NALP,Delivering Carcinogen,1,C,1,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+sillyboy,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sillyboy,Jumping on Walls,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+whd,About Bacteria,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+whd,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+flowlight,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+flowlight,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+flowlight,Delivering Carcinogen,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+subscriber,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+subscriber,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+subscriber,Delivering Carcinogen,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+subscriber,Gripping Story,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+hust.elt,About Bacteria,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"implementation,math"
+hust.elt,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+cgy4ever,About Bacteria,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cgy4ever,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+cgy4ever,Delivering Carcinogen,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+Fire,About Bacteria,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Fire,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Fire,Delivering Carcinogen,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+xujie,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+xujie,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+xujie,Gripping Story,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+kamranm,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+kamranm,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+fjxmlhx,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+fjxmlhx,Jumping on Walls,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+maksay,About Bacteria,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+maksay,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+maksay,Gripping Story,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+rlblaster,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+rlblaster,Jumping on Walls,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+rlblaster,Gripping Story,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+salex,About Bacteria,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+salex,Jumping on Walls,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+haker4o,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+haker4o,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+uwi,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+uwi,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+uwi,Delivering Carcinogen,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+sths,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+sths,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+nab,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+nab,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+nab,Cube Snake,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+VArtem,About Bacteria,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+VArtem,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+I-juice,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+I-juice,Delivering Carcinogen,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+I-juice,Jumping on Walls,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+aquamongoose,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+aquamongoose,Jumping on Walls,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+kawatea,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kawatea,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+SergeyRogulenko,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+SergeyRogulenko,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+SergeyRogulenko,Delivering Carcinogen,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+SergeyRogulenko,Gripping Story,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+White_Bear,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+White_Bear,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+White_Bear,Gripping Story,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,sortings"
+windy7926778,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+windy7926778,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+windy7926778,Gripping Story,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+fetetriste,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+fetetriste,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+ts09,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ts09,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+muliguishou,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+muliguishou,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+jablko,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+jablko,Jumping on Walls,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+xlk,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+xlk,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+naagi,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+naagi,Jumping on Walls,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Al.Cash,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Al.Cash,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Al.Cash,Delivering Carcinogen,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+Al.Cash,Gripping Story,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+sdya,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+sdya,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+sdya,Delivering Carcinogen,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+sdya,Gripping Story,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+calculus.saransh,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+olimpo,About Bacteria,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+olimpo,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Cepera,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Cepera,Jumping on Walls,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Cepera,Cube Snake,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+nodchip,About Bacteria,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+nodchip,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+nodchip,Delivering Carcinogen,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+aropan,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+aropan,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+aropan,Delivering Carcinogen,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+__tutankhamun__,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+__tutankhamun__,Jumping on Walls,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+marcin_smu,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+marcin_smu,Jumping on Walls,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+marcin_smu,Delivering Carcinogen,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+Romka,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Romka,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Romka,Gripping Story,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,sortings"
+natalia,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+natalia,Jumping on Walls,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,shortest paths
+natalia,Delivering Carcinogen,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+fatest,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+fatest,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+fiver,About Bacteria,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+fiver,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+go_zyw,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+go_zyw,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+YX201314,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+YX201314,Jumping on Walls,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+YX201314,Gripping Story,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+IlyaCk,About Bacteria,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+IlyaCk,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+IlyaCk,Delivering Carcinogen,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+keivan,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+keivan,About Bacteria,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Seyaua,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+Seyaua,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Seyaua,Delivering Carcinogen,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+tsukuno,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tsukuno,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+stubbscroll,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+stubbscroll,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+stubbscroll,Delivering Carcinogen,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+Copymaster,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Copymaster,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Copymaster,Delivering Carcinogen,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+SergeyLazarev,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+SergeyLazarev,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+SergeyLazarev,Delivering Carcinogen,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+SergeyLazarev,Cube Snake,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Proscriptus,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Proscriptus,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+littlefriend,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+littlefriend,Jumping on Walls,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+littlefriend,Delivering Carcinogen,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+kuzmichev_dima,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kuzmichev_dima,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+kuzmichev_dima,Gripping Story,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+VNBZTY,About Bacteria,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+VNBZTY,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+yoh149,About Bacteria,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yoh149,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+havaliza,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+havaliza,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Battle_Mage,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Battle_Mage,Jumping on Walls,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Battle_Mage,Gripping Story,0,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+zplinti1,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+zplinti1,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Merlininice,About Bacteria,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Merlininice,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+kinodjnz,About Bacteria,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kinodjnz,Jumping on Walls,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Krig,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Krig,Gripping Story,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+tkcn,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tkcn,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,shortest paths
+Sphinx,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Sphinx,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+shevchen,About Bacteria,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shevchen,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Timur_Sitdikov,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Timur_Sitdikov,Jumping on Walls,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Timur_Sitdikov,Cube Snake,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+michal27,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+michal27,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+L.I.S.,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+L.I.S.,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Frommi,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Frommi,Jumping on Walls,1,B,0,0,0,0,1,2,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+Andrew_Makar,Jumping on Walls,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Andrew_Makar,Delivering Carcinogen,1,C,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+flydutchman,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+flydutchman,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+flydutchman,Gripping Story,1,E,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+UESTC_Nocturne,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+UESTC_Nocturne,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+UESTC_Nocturne,Cube Snake,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+UESTC_Nocturne,Gripping Story,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+qwerty787788,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+qwerty787788,Jumping on Walls,1,B,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,shortest paths
+qwerty787788,Cube Snake,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+R_R_,About Bacteria,0,A,1,0,0,0,0,5,0,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+R_R_,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Cenadar,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Cenadar,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Riatre,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Riatre,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+sky58,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sky58,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+sky58,Delivering Carcinogen,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+kAc,About Bacteria,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kAc,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+vagnard,About Bacteria,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+vagnard,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+vagnard,Delivering Carcinogen,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+bloops,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+bloops,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+rizar,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rizar,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+rizar,Gripping Story,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+spnautilus,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+spnautilus,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+peterae86,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+peterae86,Jumping on Walls,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+aa2985759,About Bacteria,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+aa2985759,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+lcch,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+lcch,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+sevenkplus,Jumping on Walls,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+sevenkplus,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+sevenkplus,Delivering Carcinogen,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+sevenkplus,Gripping Story,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+Shapo,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+Shapo,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Shapo,Delivering Carcinogen,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+zetsubou,Jumping on Walls,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+zetsubou,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+zetsubou,Delivering Carcinogen,1,C,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+komiya,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+komiya,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+kon_an,About Bacteria,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kon_an,Jumping on Walls,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+GarySham,About Bacteria,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+GarySham,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Upsilon,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Upsilon,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+-XraY-,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+-XraY-,Jumping on Walls,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+-XraY-,Delivering Carcinogen,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,geometry"
+meret,About Bacteria,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+meret,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+meret,Gripping Story,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+pperm,Jumping on Walls,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+pperm,Delivering Carcinogen,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+pperm,About Bacteria,1,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+architkarandikar,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+architkarandikar,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Fcdkbear,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Fcdkbear,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+riversouther,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+riversouther,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+xiaodao,About Bacteria,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+xiaodao,Jumping on Walls,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+tuananh93,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tuananh93,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+tuananh93,Gripping Story,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"binary search,data structures,sortings"
+S.Yesipenko,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+S.Yesipenko,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+S.Yesipenko,Delivering Carcinogen,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+pva701,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pva701,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+piloop,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+piloop,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+dreamoon,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+dreamoon,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+dreamoon,Delivering Carcinogen,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+yvasyliv,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yvasyliv,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+yvasyliv,Delivering Carcinogen,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+wcwswswws,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+wcwswswws,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+zcwwzdjn,About Bacteria,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+zcwwzdjn,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+FatSheep,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+FatSheep,Jumping on Walls,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+sune2,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+sune2,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+sune2,Delivering Carcinogen,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+zhanyl,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+zhanyl,Jumping on Walls,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,shortest paths
+Alias,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Alias,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Alias,Gripping Story,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+al13n,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+al13n,Delivering Carcinogen,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+al13n,Gripping Story,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+al13n,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+fmm,About Bacteria,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+fmm,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+KrK,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+KrK,Jumping on Walls,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+vlyubin,About Bacteria,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+vlyubin,Jumping on Walls,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+ACube,About Bacteria,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,"implementation,math"
+ACube,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+ACube,Gripping Story,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+yenthanh.t7,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+yenthanh.t7,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Shik,About Bacteria,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Shik,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Shik,Gripping Story,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+Mex-Mans,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Mex-Mans,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+naihuangbao,Jumping on Walls,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+naihuangbao,About Bacteria,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+naihuangbao,Delivering Carcinogen,0,C,0,0,0,0,0,8,0,1,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+YakumoYukari,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+YakumoYukari,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+kormyshov,About Bacteria,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kormyshov,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+kormyshov,Delivering Carcinogen,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+Vaness,About Bacteria,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Vaness,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Goshish,About Bacteria,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+Goshish,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+shilov,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+shilov,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+sas4eka,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+sas4eka,Jumping on Walls,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,shortest paths
+Mick,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Mick,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+DamianS,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+DamianS,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+DamianS,Delivering Carcinogen,1,C,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+Kornacker,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Kornacker,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Escapist,About Bacteria,0,A,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+Escapist,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Moskupols,Jumping on Walls,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Ixanezis,About Bacteria,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Ixanezis,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Ra16bit,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Ra16bit,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Ra16bit,Delivering Carcinogen,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+Malinovsky239,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Malinovsky239,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+teleport,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+teleport,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+DPR-pavlin,About Bacteria,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+DPR-pavlin,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+OmniLRenegadE,About Bacteria,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+OmniLRenegadE,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+pzzxj,About Bacteria,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pzzxj,Jumping on Walls,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+GagGuy,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+natsugiri,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+natsugiri,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+wyest,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+wyest,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+hytirt,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+hytirt,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+esrever,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+esrever,Jumping on Walls,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+csimstu,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+csimstu,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+mihai995,About Bacteria,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+mihai995,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+phyxnj,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+---Grigor---,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+---Grigor---,Jumping on Walls,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+---Grigor---,Cube Snake,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,constructive algorithms
+dalex,About Bacteria,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+dalex,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+irina_kr,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+irina_kr,Jumping on Walls,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,shortest paths
+Igel_SK,About Bacteria,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"implementation,math"
+Igel_SK,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Lepetrandr,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Lepetrandr,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+at1,Gripping Story,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+at1,About Bacteria,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+at1,Jumping on Walls,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Monyura,About Bacteria,0,A,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+Monyura,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Enterpaise,About Bacteria,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Enterpaise,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+fcspartakm,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+fcspartakm,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,shortest paths
+fuqinho,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+fuqinho,Jumping on Walls,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,shortest paths
+fushar,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+fushar,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+AndreySiunov,About Bacteria,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+AndreySiunov,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+AndreySiunov,Delivering Carcinogen,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+HulkHoggan,About Bacteria,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"implementation,math"
+HulkHoggan,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+yeputons,Jumping on Walls,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+yeputons,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yeputons,Delivering Carcinogen,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+yeputons,Gripping Story,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+kelvinlau,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kelvinlau,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Night_Fury,About Bacteria,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Aziza,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Aziza,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+yinthewind,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+yinthewind,Jumping on Walls,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+ghostplant,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+ghostplant,Jumping on Walls,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+ghostplant,Delivering Carcinogen,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+rofi,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+rofi,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Shtrix,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Shtrix,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Logic_IU,Jumping on Walls,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+kid177,About Bacteria,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+kid177,Jumping on Walls,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+SourSpinach,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+SourSpinach,About Bacteria,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+KADR,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+KADR,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+KADR,Gripping Story,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+chEEtah,About Bacteria,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+chEEtah,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+alger95,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+alger95,About Bacteria,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Slamur,About Bacteria,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Slamur,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Snusmumriken,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Snusmumriken,Jumping on Walls,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,shortest paths
+mR.ilchi,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+mR.ilchi,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+dut200901102,Jumping on Walls,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+dut200901102,About Bacteria,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+y346491470,About Bacteria,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+y346491470,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+discover,About Bacteria,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+discover,Jumping on Walls,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+hanfei19910905,About Bacteria,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+hanfei19910905,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Burunduk1,Gripping Story,0,E,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+Burunduk1,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Burunduk1,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Burunduk1,Delivering Carcinogen,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+Burunduk1,Cube Snake,0,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Simplex,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Simplex,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+iensen,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+iensen,Jumping on Walls,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+carlop,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+carlop,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+alexej,Jumping on Walls,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+alexej,About Bacteria,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+hadi,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+hadi,About Bacteria,1,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+kostya_by,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,shortest paths
+kostya_by,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kostya_by,Gripping Story,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+malcolm,About Bacteria,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+malcolm,Jumping on Walls,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+malcolm,Gripping Story,0,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+wack-a-mole,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+wack-a-mole,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+fura2,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+fura2,Delivering Carcinogen,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+fura2,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Martynas,About Bacteria,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Martynas,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+guille,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+guille,Delivering Carcinogen,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+AlexanderBolshakov,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+AlexanderBolshakov,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+MarioYC,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+MarioYC,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+nakari1124,About Bacteria,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+nakari1124,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+brokenwing,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+brokenwing,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+_LT_zyc,About Bacteria,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+_LT_zyc,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+squarefk,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+squarefk,Jumping on Walls,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+Troy1118,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Troy1118,About Bacteria,1,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Martial,About Bacteria,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Martial,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+treert,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+treert,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+ryanaaa,About Bacteria,0,A,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ryanaaa,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Belonogov,Jumping on Walls,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Belonogov,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+anhdt,About Bacteria,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+anhdt,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+chavit,About Bacteria,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+chavit,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+chavit,Gripping Story,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+Gassa,Cube Snake,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+Goofy57,About Bacteria,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Goofy57,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+roypalacios,About Bacteria,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+roypalacios,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+todo,About Bacteria,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+todo,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+maximkoval,About Bacteria,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+maximkoval,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+__math,About Bacteria,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+__math,Jumping on Walls,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,shortest paths
+izban,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+izban,Gripping Story,1,E,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"binary search,data structures,sortings"
+Ahmed_Salama,About Bacteria,0,A,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Ahmed_Salama,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+iroro,About Bacteria,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+EriKKo,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+EriKKo,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+loveqinqin,About Bacteria,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+loveqinqin,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+delta,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+delta,Jumping on Walls,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+alex_tolstov,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+alex_tolstov,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+balakrishnan,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+balakrishnan,Jumping on Walls,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+balakrishnan,Delivering Carcinogen,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+kannaduki,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+kannaduki,About Bacteria,1,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+This_poet,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+This_poet,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+cuperman,About Bacteria,0,A,0,0,0,0,2,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+cuperman,Jumping on Walls,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,shortest paths
+johnathan79717,About Bacteria,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+johnathan79717,Jumping on Walls,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+BenZ,Jumping on Walls,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+BenZ,Gripping Story,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"binary search,data structures,sortings"
+BenZ,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tsfn,About Bacteria,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+tsfn,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+shef_2318,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+shef_2318,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+HolkinPV,About Bacteria,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"implementation,math"
+HolkinPV,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Ch0W,About Bacteria,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+grey_wind,About Bacteria,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+grey_wind,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+yarrr,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"implementation,math"
+yarrr,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+pty,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+pty,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+2910201028,About Bacteria,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+2910201028,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Captain_CoCo,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Captain_CoCo,Jumping on Walls,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+fenzhang,About Bacteria,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+fenzhang,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+fenzhang,Delivering Carcinogen,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"binary search,geometry"
+GeLo,Jumping on Walls,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+choice,About Bacteria,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+choice,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+YaoZ,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+YaoZ,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+tracyzhu,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+frp,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+frp,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+amylase,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+amylase,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+ts10,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+lyoz,About Bacteria,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+lyoz,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+lijunle,About Bacteria,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+lijunle,Jumping on Walls,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Deamon,About Bacteria,0,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"implementation,math"
+Deamon,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+gingkgo,Jumping on Walls,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+gingkgo,About Bacteria,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Qili,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Qili,Jumping on Walls,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+tunyash,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+tunyash,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+baukaman,About Bacteria,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+baukaman,Jumping on Walls,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+pulkitg10,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pulkitg10,Jumping on Walls,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+DmitriyH,About Bacteria,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Kostyazz,About Bacteria,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+klamathix,Jumping on Walls,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,shortest paths
+beginner1010,Jumping on Walls,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+beginner1010,About Bacteria,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+pythonMan,About Bacteria,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+kyuridenamida,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+kyuridenamida,About Bacteria,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"implementation,math"
+Kharybin,About Bacteria,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+Kharybin,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Hinidu,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths
+Hinidu,About Bacteria,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"implementation,math"
+poopi,Cube Snake,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,constructive algorithms
+poopi,Jumping on Walls,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,shortest paths

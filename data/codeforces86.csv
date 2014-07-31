@@ -1,0 +1,420 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+hos.lyric,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+hos.lyric,Genetic engineering,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+ainu7,Long sequence,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+ainu7,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ainu7,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+ivan.metelsky,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ivan.metelsky,Genetic engineering,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+ivan.metelsky,Long sequence,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,math,matrices"
+Petr,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Petr,Long sequence,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+Petr,Genetic engineering,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+Petr,Powerful array,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,math,two pointers"
+navi,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+navi,Tetris revisited,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+navi,Genetic engineering,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+dzhulgakov,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dzhulgakov,Genetic engineering,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+dzhulgakov,Long sequence,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+LayCurse,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+LayCurse,Tetris revisited,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+LayCurse,Genetic engineering,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+LayCurse,Long sequence,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+yeputons,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+SergeyRogulenko,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+SergeyRogulenko,Tetris revisited,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+SergeyRogulenko,Genetic engineering,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+cgy4ever,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cgy4ever,Tetris revisited,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+cgy4ever,Genetic engineering,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"dp,string suffix structures,trees"
+tourist,Reflection,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+tourist,Powerful array,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,math,two pointers"
+tourist,Long sequence,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+tourist,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+tourist,Genetic engineering,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+ilyakor,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ilyakor,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+ilyakor,Genetic engineering,0,C,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+2222,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+2222,Genetic engineering,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+2222,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+2222,Long sequence,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+al13n,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fastblood,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+fastblood,Long sequence,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+ivan.popelyshev,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ivan.popelyshev,Long sequence,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+ivan.popelyshev,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+ivan.popelyshev,Genetic engineering,0,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+tian,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tian,Genetic engineering,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+tian,Tetris revisited,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Narg,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Narg,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Narg,Genetic engineering,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+vepifanov,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vepifanov,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+vepifanov,Genetic engineering,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+wata,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+wata,Genetic engineering,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+wata,Long sequence,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+wata,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+ConanKudo,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ConanKudo,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Dembel,Powerful array,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,math,two pointers"
+Dembel,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Dembel,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Philip_PV,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Philip_PV,Tetris revisited,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,graph matchings,greedy,math"
+Philip_PV,Long sequence,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+Shef,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Shef,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+pasin30055,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pasin30055,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+pasin30055,Genetic engineering,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+Burunduk1,Reflection,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Burunduk1,Tetris revisited,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Burunduk1,Genetic engineering,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+Burunduk1,Powerful array,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,math,two pointers"
+Burunduk1,Long sequence,1,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+xscape,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+xscape,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+maksay,Reflection,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+maksay,Powerful array,1,D,0,0,0,1,0,1,0,8,1,0,0,0,0,0,0,0,0,"data structures,implementation,math,two pointers"
+Milanin,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Milanin,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+enot.1.10,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Martin,Reflection,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Martin,Long sequence,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+PavelKunyavskiy,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+PavelKunyavskiy,Tetris revisited,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+PavelKunyavskiy,Genetic engineering,1,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+Sammarize,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Alexus,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Alexus,Genetic engineering,1,C,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+mmaxio,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+mmaxio,Genetic engineering,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+domeng,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+extremall,Reflection,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+niyaznigmatul,Reflection,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+niyaznigmatul,Tetris revisited,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+ll931110,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ll931110,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+alexey.enkov,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+alexey.enkov,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+alexey.enkov,Genetic engineering,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+tomerun,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+KADR,Reflection,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+KADR,Genetic engineering,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+KADR,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+NALP,Reflection,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+NALP,Tetris revisited,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+NALP,Genetic engineering,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"dp,string suffix structures,trees"
+Ripatti,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+cerealguy,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+cerealguy,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+cerealguy,Genetic engineering,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+Anton_Lunyov,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Anton_Lunyov,Tetris revisited,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Anton_Lunyov,Long sequence,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+dreamoon,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dreamoon,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+dreamoon,Genetic engineering,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+ktuan,Reflection,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+ktuan,Tetris revisited,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+ktuan,Genetic engineering,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+ktuan,Powerful array,1,D,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,"data structures,implementation,math,two pointers"
+OoO000oOOOoOooOo,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+OoO000oOOOoOooOo,Tetris revisited,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+OoO000oOOOoOooOo,Genetic engineering,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+LinesPrower,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+LinesPrower,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+LinesPrower,Genetic engineering,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+havaliza,Reflection,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+havaliza,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,graph matchings,greedy,math"
+sky58,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sky58,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+sky58,Genetic engineering,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+Seyaua,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Seyaua,Genetic engineering,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+Seyaua,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+pieguy,Reflection,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+pieguy,Tetris revisited,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+pieguy,Long sequence,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+pieguy,Genetic engineering,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+Olja,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Olja,Tetris revisited,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Olja,Genetic engineering,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+Kenny_HORROR,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Kenny_HORROR,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+tracyhenry,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+tracyhenry,Genetic engineering,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+zeliboba,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zeliboba,Tetris revisited,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+zeliboba,Long sequence,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+Nyatl,Reflection,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Nyatl,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Nyatl,Genetic engineering,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+Nyatl,Long sequence,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+romanandreev,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+romanandreev,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+romanandreev,Genetic engineering,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+AleX,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+AleX,Tetris revisited,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+AleX,Long sequence,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,math,matrices"
+uwi,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+uwi,Genetic engineering,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+chavit,Reflection,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+ACRush,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ACRush,Tetris revisited,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+ACRush,Genetic engineering,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+levlam,Reflection,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+levlam,Tetris revisited,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+levlam,Long sequence,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+alexander86,Reflection,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+alexander86,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+dyukha,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+dyukha,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+quyse,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+suhendry,Reflection,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,1,0,0,0,math
+suhendry,Genetic engineering,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+ArtDitel,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ArtDitel,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+ArtDitel,Long sequence,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,math,matrices"
+sbzlyessit,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sbzlyessit,Tetris revisited,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+sbzlyessit,Powerful array,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,math,two pointers"
+hydrastuff,Reflection,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+pperm,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pperm,Powerful array,1,D,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"data structures,implementation,math,two pointers"
+zetsubou,Reflection,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+zetsubou,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+alexander.yuriev,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+alexander.yuriev,Long sequence,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+wywcgs,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sankear,Reflection,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+sankear,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+S.Yesipenko,Reflection,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+S.Yesipenko,Tetris revisited,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+S.Yesipenko,Genetic engineering,0,C,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+Gassa,Tetris revisited,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Gassa,Long sequence,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+iwiwi,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+iwiwi,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+iwiwi,Genetic engineering,1,C,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+iwiwi,Powerful array,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,math,two pointers"
+cleaner_leon,Reflection,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+ardiankp,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ardiankp,Tetris revisited,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+ardiankp,Genetic engineering,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+GARNETCROW_a.k.a_hhanger,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+GARNETCROW_a.k.a_hhanger,Tetris revisited,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+poopi,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+poopi,Tetris revisited,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+gawry,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+gawry,Genetic engineering,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+gawry,Tetris revisited,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+gawry,Long sequence,1,E,0,0,0,0,0,9,0,3,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+ifsmirnov,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ifsmirnov,Genetic engineering,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+al_maz,Reflection,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,math
+Astein,Reflection,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Astein,Powerful array,1,D,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,"data structures,implementation,math,two pointers"
+Pavlo_Lviv_NU,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Pavlo_Lviv_NU,Tetris revisited,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Gluk,Reflection,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Gluk,Tetris revisited,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Gluk,Genetic engineering,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+White_Bear,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+White_Bear,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+White_Bear,Long sequence,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+RAVEman,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+RAVEman,Genetic engineering,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+RAVEman,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+RAVEman,Long sequence,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+Borisp,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Borisp,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Borisp,Long sequence,1,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+e-maxx,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+e-maxx,Genetic engineering,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+e-maxx,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+e-maxx,Powerful array,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,math,two pointers"
+Progger,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Progger,Tetris revisited,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Progger,Genetic engineering,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+drazil,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+drazil,Tetris revisited,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+drazil,Genetic engineering,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+yzq110abc,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yzq110abc,Powerful array,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,implementation,math,two pointers"
+pparys,Long sequence,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+pparys,Genetic engineering,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+pparys,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+pparys,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+ptrrsn_1,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ptrrsn_1,Genetic engineering,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,"dp,string suffix structures,trees"
+I_love_natalia,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+I_love_natalia,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+I_love_ilona,Reflection,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+I_love_ilona,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+kelvin,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kelvin,Tetris revisited,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+kelvin,Genetic engineering,1,C,0,0,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+ashmelev,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+ashmelev,Genetic engineering,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,"dp,string suffix structures,trees"
+Coder,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Coder,Genetic engineering,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+zglicz,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,math
+UESTC_Nocturne,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vlad89,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+vlad89,Tetris revisited,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+vlad89,Genetic engineering,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+Erop,Reflection,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Erop,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Erop,Long sequence,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"brute force,math,matrices"
+watashi,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+watashi,Genetic engineering,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+watashi,Tetris revisited,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"constructive algorithms,graph matchings,greedy,math"
+R_R_,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+R_R_,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+donehl,Reflection,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+donehl,Tetris revisited,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+donehl,Genetic engineering,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+FattyPenguin,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+FattyPenguin,Genetic engineering,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+siuvit,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+siuvit,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+siuvit,Genetic engineering,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+borisgrubic,Reflection,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+borisgrubic,Tetris revisited,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+borisgrubic,Genetic engineering,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+vpj,Reflection,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+vpj,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+dragoon,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dragoon,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+XilinX,Tetris revisited,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+XilinX,Reflection,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Gerald,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Gerald,Tetris revisited,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Gerald,Genetic engineering,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+Romka,Reflection,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Romka,Tetris revisited,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Romka,Long sequence,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+Mahdi,Reflection,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Mahdi,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Dumpty,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+forest,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+forest,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+zurg,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+zurg,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Al.Cash,Reflection,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Al.Cash,Tetris revisited,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Al.Cash,Genetic engineering,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+Al.Cash,Long sequence,1,E,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+GagGuy,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+GagGuy,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+GagGuy,Genetic engineering,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+nafi3000,Reflection,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,math
+Alchemist,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Alchemist,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,graph matchings,greedy,math"
+neal,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+neal,Powerful array,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"data structures,implementation,math,two pointers"
+SpookyCookie,Reflection,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+SpookyCookie,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+ania,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+ania,Reflection,1,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,math
+ania,Genetic engineering,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+Fdg,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Fdg,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+opiekacz,Reflection,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+opiekacz,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+opiekacz,Genetic engineering,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+venkateshb,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+venkateshb,Long sequence,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,math,matrices"
+Stigius,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Stigius,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+SergeyLazarev,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+SergeyLazarev,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Egor,Reflection,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Egor,Tetris revisited,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Egor,Powerful array,0,D,0,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,"data structures,implementation,math,two pointers"
+Oleg,Reflection,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Oleg,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+pt1989,Reflection,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,math
+pt1989,Tetris revisited,0,B,0,0,0,1,0,3,0,0,0,0,0,0,0,1,1,0,0,"constructive algorithms,graph matchings,greedy,math"
+Slavik,Reflection,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+t__nt,Reflection,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+t__nt,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+t__nt,Genetic engineering,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+kcm1700,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+kcm1700,Tetris revisited,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+kcm1700,Long sequence,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"brute force,math,matrices"
+AlexFetisov,Reflection,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,math
+AlexFetisov,Tetris revisited,1,B,0,0,0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+air,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+aropan,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+aropan,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Vintik,Reflection,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Vintik,Genetic engineering,0,C,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+Sisu,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Chaker,Reflection,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Chaker,Tetris revisited,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Chaker,Powerful array,1,D,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"data structures,implementation,math,two pointers"
+GoldenSection,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+GoldenSection,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+GoldenSection,Genetic engineering,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+rng_58,Genetic engineering,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+rng_58,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+rng_58,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+rng_58,Long sequence,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+Dmitry_Egorov,Reflection,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+paulik,Reflection,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+goryinyich,Tetris revisited,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+goryinyich,Reflection,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+coolinging,Genetic engineering,0,C,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+dancho,Tetris revisited,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+dancho,Reflection,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+dancho,Powerful array,0,D,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,"data structures,implementation,math,two pointers"
+qwaker.00,Reflection,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+qwaker.00,Genetic engineering,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+sip,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+sip,Long sequence,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+sip,Tetris revisited,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,graph matchings,greedy,math"
+mukel,Reflection,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+mukel,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+DDDDDDDDDDDDDDDDDDDDDDDD,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+DDDDDDDDDDDDDDDDDDDDDDDD,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+Jacob,Genetic engineering,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+Jacob,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Jacob,Long sequence,1,E,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+darnley,Tetris revisited,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+darnley,Genetic engineering,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+darnley,Reflection,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Soultaker,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+dolphinigle,Genetic engineering,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+dolphinigle,Reflection,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+dolphinigle,Tetris revisited,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+victor_kamashev,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+moondy,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"constructive algorithms,graph matchings,greedy,math"
+moondy,Reflection,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,math
+Ruslan,Reflection,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,math
+Ruslan,Tetris revisited,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+yiuyuho,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+yiuyuho,Tetris revisited,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+yiuyuho,Genetic engineering,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+Vedensky,Powerful array,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,math,two pointers"
+Vedensky,Reflection,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,math
+Vedensky,Tetris revisited,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+rizar,Tetris revisited,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+rizar,Genetic engineering,1,C,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+permin,Tetris revisited,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,graph matchings,greedy,math"
+permin,Reflection,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+permin,Long sequence,0,E,0,0,0,1,0,8,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+litwin,Long sequence,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,math,matrices"
+litwin,Reflection,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,math
+Alias,Powerful array,0,D,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"data structures,implementation,math,two pointers"
+Alias,Reflection,0,A,0,0,0,1,0,4,0,0,0,0,0,0,0,0,1,0,0,math
+u1ik,Genetic engineering,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+Thost,Genetic engineering,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dp,string suffix structures,trees"
+acherepanov,Powerful array,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,implementation,math,two pointers"

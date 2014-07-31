@@ -1,0 +1,978 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+Zlobober,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Zlobober,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Zlobober,Suspects,0,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Zlobober,Clues,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+WJMZBMR,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+WJMZBMR,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+WJMZBMR,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+WJMZBMR,Clues,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+KADR,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+KADR,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+KADR,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+KADR,Clues,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,graphs"
+RAVEman,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+RAVEman,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+RAVEman,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+RAVEman,Clues,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,graphs"
+Komaki,Message,0,A,0,0,0,0,0,4,0,1,0,0,0,0,0,2,0,0,0,brute force
+Komaki,Suspects,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Komaki,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Zhukov_Dmitry,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Zhukov_Dmitry,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Zhukov_Dmitry,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Zhukov_Dmitry,Clues,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+tavo92,Message,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+shangjingbo,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+shangjingbo,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+shangjingbo,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+shangjingbo,Clues,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+Fdg,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Fdg,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+SergeiFedorov,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+SergeiFedorov,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+SergeiFedorov,Cipher,1,C,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Sereja,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Sereja,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Sereja,Suspects,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Egor,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Egor,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Egor,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Egor,Clues,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,graphs"
+NALP,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+NALP,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+NALP,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+chnlich,Message,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+chnlich,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+chnlich,Suspects,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+chnlich,Clues,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+jiangzhijie,Message,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+jiangzhijie,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+jiangzhijie,Cipher,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+jiangzhijie,Clues,1,D,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+olpetOdessaONU,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+olpetOdessaONU,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+enot.1.10,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+enot.1.10,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+enot.1.10,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+enot.1.10,Clues,1,D,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+espr1t,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+espr1t,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+nevidomy,Message,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+nevidomy,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+nevidomy,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+haas,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+haas,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+haas,Cipher,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+bjin,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+bjin,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+bjin,Suspects,0,B,1,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+bjin,Clues,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+e-maxx,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+e-maxx,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+chhung6,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+chhung6,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+chhung6,Suspects,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,data structures,implementation"
+flashmt,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+flashmt,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+flashmt,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+__tutankhamun__,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+__tutankhamun__,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+__tutankhamun__,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Jokser,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+olimpo,Message,0,A,0,0,0,0,0,2,0,2,0,0,0,0,0,2,0,0,0,brute force
+olimpo,Suspects,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Shef,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Shef,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Shef,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Shef,Clues,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+Andrew_Makar,Message,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Andrew_Makar,Suspects,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Malinovsky239,Message,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Malinovsky239,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+PavelKunyavskiy,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+PavelKunyavskiy,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+PavelKunyavskiy,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+PavelKunyavskiy,Clues,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+justever,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+justever,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+justever,Cipher,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp"
+juver,Message,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+juver,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+vepifanov,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+vepifanov,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+vepifanov,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+vepifanov,Clues,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+maximkoval,Message,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+maximkoval,Cipher,0,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+maximkoval,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Baz93,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Baz93,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Baz93,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Baz93,Clues,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+rudradevbasak,Message,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+rudradevbasak,Suspects,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+rudradevbasak,Cipher,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+nadeem,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+nadeem,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+m7nika,Message,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+m7nika,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+fushar,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+fushar,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+fushar,Cipher,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+LeBron,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+LeBron,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+LeBron,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+voover,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+voover,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+voover,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp"
+voover,Mrs. Hudson's Pancakes,1,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"brute force,dp"
+a9108,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+a9108,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+a9108,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+a9108,Clues,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,graphs"
+a9108,Mrs. Hudson's Pancakes,0,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"brute force,dp"
+fura,Message,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+fura,Cipher,0,C,0,0,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+whd,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+whd,Suspects,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+whd,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+VladGavrila,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+VladGavrila,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+VladGavrila,Cipher,1,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+vitar,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+vitar,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+OutSide,Message,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+OutSide,Suspects,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+dreamoon,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dreamoon,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+dreamoon,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ivan.popelyshev,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ivan.popelyshev,Suspects,0,B,1,0,0,0,3,0,0,0,0,0,0,0,0,0,2,0,0,"constructive algorithms,data structures,implementation"
+ivan.popelyshev,Cipher,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ivan.popelyshev,Clues,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+Shtrix,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Shtrix,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Shtrix,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+subscriber,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+subscriber,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+subscriber,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+watashi,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+watashi,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+watashi,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+watashi,Clues,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+Nicholas,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Nicholas,Cipher,0,C,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"combinatorics,dp"
+Nicholas,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+izban,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+izban,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+thocevar,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+thocevar,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+thocevar,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+aram90,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+aram90,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+aram90,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+al13n,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+al13n,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+al13n,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+al13n,Clues,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+tomcat,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+tomcat,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+tomcat,Cipher,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp"
+sroyal,Message,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,1,1,0,0,brute force
+sroyal,Suspects,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Seemann,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,brute force
+Seemann,Suspects,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Darko,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Gassa,Message,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Gassa,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Gassa,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Gassa,Clues,1,D,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+Alias,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Alias,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Alias,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Mimino,Message,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Mimino,Suspects,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Mimino,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Mimino,Clues,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,graphs"
+akashin,Message,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+akashin,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+akashin,Suspects,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+igor.silin,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+igor.silin,Suspects,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+udalov,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,brute force
+udalov,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+polmauri,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+polmauri,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+polmauri,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Oryshych,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Oryshych,Suspects,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Rotsor,Message,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Rotsor,Suspects,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Rotsor,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+stan,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+stan,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+stan,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+jskhirtladze,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,brute force
+jskhirtladze,Suspects,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+robotdron,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+robotdron,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+robotdron,Cipher,1,C,0,0,0,1,0,0,0,2,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+abacadaea,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+abacadaea,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+abacadaea,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+cfyangel,Message,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+cfyangel,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Unicorn,Message,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Unicorn,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Unicorn,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+lzqxh,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+lzqxh,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+pratikmoona,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+pratikmoona,Suspects,1,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+pratikmoona,Cipher,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+riad,Message,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+riad,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+riad,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+alger95,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+alger95,Suspects,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,data structures,implementation"
+maksay,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+maksay,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+maksay,Suspects,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+maksay,Clues,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+imbanoob,Message,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+imbanoob,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+kawatea,Message,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+kawatea,Suspects,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+kawatea,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ffao,Message,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,brute force
+ffao,Suspects,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Igor_Kudryashov,Message,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Igor_Kudryashov,Suspects,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Igor_Kudryashov,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+tourist,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+tourist,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+tourist,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+tourist,Mrs. Hudson's Pancakes,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+tourist,Clues,1,D,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+impetus,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+impetus,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+impetus,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp"
+xujie,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+xujie,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+xujie,Cipher,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+balakrishnan,Message,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,brute force
+balakrishnan,Cipher,0,C,0,0,0,0,0,2,0,3,0,0,0,0,0,2,0,0,0,"combinatorics,dp"
+pank.dm,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+pank.dm,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+pank.dm,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Ahmed_Salama,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Ahmed_Salama,Suspects,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+shinian,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+shinian,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+shinian,Cipher,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+garik,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+garik,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+garik,Cipher,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+twds,Message,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+twds,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Hohol,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Hohol,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Hohol,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+poopi,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+poopi,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+poopi,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp"
+Scientist1642,Message,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Scientist1642,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+SergeyLazarev,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+SergeyLazarev,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+SergeyLazarev,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+pva701,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+pva701,Suspects,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Petrushenko,Message,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,1,0,0,brute force
+Petrushenko,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,data structures,implementation"
+AleksBannikov,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+AleksBannikov,Suspects,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+logicmachine,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+logicmachine,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Frommi,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Frommi,Suspects,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Frommi,Cipher,1,C,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+AndreySiunov,Message,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+AndreySiunov,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+AndreySiunov,Cipher,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+imslavko,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+imslavko,Suspects,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,data structures,implementation"
+rng_58,Clues,0,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+rng_58,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+rng_58,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+rng_58,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+rng_58,Mrs. Hudson's Pancakes,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+sankear,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+sankear,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+sankear,Cipher,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp"
+wisterik,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+wisterik,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+wisterik,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Igel_SK,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Igel_SK,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+NuM,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+NuM,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+NuM,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+kuzmichev_dima,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,brute force
+kuzmichev_dima,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+kuzmichev_dima,Cipher,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+_sunny,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+_sunny,Suspects,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+forest,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+forest,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+forest,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+sakyalol,Message,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,brute force
+sakyalol,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+craus,Message,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+craus,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+craus,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+craus,Clues,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+romanandreev,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+romanandreev,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+romanandreev,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+romanandreev,Clues,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,graphs"
+alexander86,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+alexander86,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+alexander86,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+mruxim,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mruxim,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+mruxim,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+kamranm,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+kamranm,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+kamranm,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+aa2985759,Message,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+aa2985759,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+aa2985759,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+cheshire_cat,Message,0,A,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+cheshire_cat,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Archon.JK,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+Archon.JK,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Archon.JK,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Archon.JK,Clues,1,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+frost_nova,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+calculus.saransh,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+calculus.saransh,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+rinigan,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+rinigan,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+rinigan,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+bayleef,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+bayleef,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+bayleef,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+kilotaras,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+kilotaras,Message,1,A,1,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+kilotaras,Cipher,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+dawidp,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+dawidp,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+malcolm,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+malcolm,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp"
+malcolm,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+EriKKo,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+EriKKo,Suspects,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,data structures,implementation"
+hmich,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+hmich,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+hmich,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+GagGuy,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+GagGuy,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+GagGuy,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+yeputons,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+yeputons,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+yeputons,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+yeputons,Clues,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+yeputons,Mrs. Hudson's Pancakes,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,dp"
+muliguishou,Message,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+muliguishou,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+muliguishou,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+muliguishou,Clues,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+shadow_codeforces,Message,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+shadow_codeforces,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+DuX,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+DuX,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+DuX,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+dolphinigle,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+dolphinigle,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dolphinigle,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+AlTimin,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+AlTimin,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+AlTimin,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+AlTimin,Clues,1,D,1,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+pashkal,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+pashkal,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+ksjuchi,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+lavin,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+lavin,Clues,1,D,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,graphs"
+ICOA,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+ICOA,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+ICOA,Cipher,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Ripatti,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Ripatti,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Ripatti,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+ahmed_aly,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ahmed_aly,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+sweiss,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sweiss,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+sweiss,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+MBabin,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+MBabin,Clues,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,graphs"
+MBabin,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+zhouxingxing,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+zhouxingxing,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+keivan,Message,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,brute force
+keivan,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+fura2,Message,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+fura2,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+fura2,Clues,1,D,0,0,0,1,0,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,graphs"
+lenny,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+lenny,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Nodar,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Nodar,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Nodar,Clues,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+Connector,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Connector,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+m.radwan,Message,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+VinyleEm,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+VinyleEm,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+VinyleEm,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+uwi,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+uwi,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+uwi,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Jonasz,Message,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Jonasz,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Jonasz,Cipher,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Martin,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Martin,Clues,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+Martin,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Martin,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+sut,Message,0,A,0,0,0,1,0,2,0,0,0,0,0,0,0,2,0,0,0,brute force
+sut,Suspects,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+navi,Message,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+navi,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+navi,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+SpookyCookie,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+SpookyCookie,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+SpookyCookie,Cipher,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+zemen,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+zemen,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+zemen,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Proscriptus,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Proscriptus,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+AguL,Message,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+AguL,Suspects,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+sorakasugano,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,brute force
+sorakasugano,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+sorakasugano,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+sorakasugano,Clues,1,D,1,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,"combinatorics,graphs"
+hydrastuff,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+hydrastuff,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+hydrastuff,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Sinner,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+Monmoy,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,brute force
+Monmoy,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+reiracofage,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+reiracofage,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+reiracofage,Cipher,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+_jte_,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+_jte_,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+moshiur,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+moshiur,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+moshiur,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+evg-zhabotinsky,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+evg-zhabotinsky,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+evg-zhabotinsky,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+evima,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+evima,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+evima,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+homo_sapiens,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+homo_sapiens,Suspects,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+homo_sapiens,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+pyshnograev,Message,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+pyshnograev,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+tuananh93,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+tuananh93,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+tuananh93,Cipher,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Milanin,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Milanin,Suspects,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Milanin,Cipher,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+siuvit,Message,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+siuvit,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+siuvit,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Mars314,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,brute force
+Mars314,Cipher,1,C,0,0,0,0,0,2,0,3,0,0,0,0,0,1,0,0,0,"combinatorics,dp"
+Krig,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Krig,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Krig,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+tunyash,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+tunyash,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+tunyash,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+fmm,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+fmm,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+fmm,Cipher,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+nrg3,Message,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+FedyuninV,Suspects,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+FedyuninV,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Cepera,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Cepera,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Cepera,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp"
+paulocezar,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,brute force
+mR.ilchi,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+mR.ilchi,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+mR.ilchi,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+mR.ilchi,Clues,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+aropan,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+aropan,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+aropan,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+CleRIC,Message,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+CleRIC,Suspects,0,B,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Fefer_Ivan,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Fefer_Ivan,Suspects,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Fefer_Ivan,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ts10,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ts10,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+kohyatoh,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,brute force
+kohyatoh,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+sixteentons,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sixteentons,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+sixteentons,Cipher,1,C,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+xkszltl,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+xkszltl,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Jami_CSEDU,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Jami_CSEDU,Suspects,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+roypalacios,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+roypalacios,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+roypalacios,Cipher,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Avalanche,Message,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Avalanche,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+FattyChicken,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+FattyChicken,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+FattyChicken,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+AlexDmitriev,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+AlexDmitriev,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+AlexDmitriev,Message,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+nomearod,Message,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+nomearod,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+nomearod,Cipher,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp"
+SamanSami,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+SamanSami,Suspects,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+cafelier,Cipher,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+cafelier,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+cafelier,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+superpear,Message,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+superpear,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+superpear,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+doraemon,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,brute force
+doraemon,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+doraemon,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"combinatorics,dp"
+Medium,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Medium,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+elizarov,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+elizarov,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+elizarov,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+iensen,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+iensen,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+iensen,Cipher,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+_meshanya_,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+_meshanya_,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+_meshanya_,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+_meshanya_,Clues,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,graphs"
+hex539,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+hex539,Suspects,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Nedy88,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Nedy88,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Nedy88,Cipher,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+KapJI,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+KapJI,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+dusty.and.rusty,Message,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+dusty.and.rusty,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+romario,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+kyuridenamida,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+L.I.S.,Message,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+L.I.S.,Suspects,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+dergach,Message,0,A,0,0,0,0,0,1,0,2,0,0,0,0,0,1,0,0,0,brute force
+Abra,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Abra,Suspects,0,B,1,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Abra,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+k21,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+k21,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+k21,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp"
+maxim-m94,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+maxim-m94,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+rares.buhai,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+rares.buhai,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+alexey.shchepin,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+alexey.shchepin,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+alexey.shchepin,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"combinatorics,dp"
+Narg,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Narg,Cipher,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Narg,Message,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Narg,Clues,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+budabudimir,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+tyamgin,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+whu_yixiaohan,Message,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+whu_yixiaohan,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+maos,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+maos,Suspects,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+ant.ermilov,Message,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+ant.ermilov,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+piotr.kukla,Message,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+piotr.kukla,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+piotr.kukla,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+FelixMirave,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+FelixMirave,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+FelixMirave,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+wRabbits_AlMag,Message,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,2,0,0,0,brute force
+wRabbits_AlMag,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+wRabbits_AlMag,Cipher,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Aman,Message,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+AleX,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+AleX,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+AleX,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+lwc626,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+lwc626,Suspects,0,B,0,0,0,0,5,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+ProForward,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ProForward,Suspects,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+qwaker.00,Message,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+qwaker.00,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Langostinko,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Langostinko,Suspects,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+ckl1994,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+ckl1994,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+helThazar,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+helThazar,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+helThazar,Cipher,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+sanzunonyasama,Message,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,2,0,0,0,brute force
+sanzunonyasama,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+sanzunonyasama,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+romanova,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+romanova,Suspects,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+romanova,Cipher,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+SkorKNURE,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+SkorKNURE,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+SkorKNURE,Cipher,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+RosyIsh,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Mark_tven,Message,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+Mark_tven,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+BrightDays,Message,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+BrightDays,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+pershik,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+pershik,Suspects,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+pershik,Cipher,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp"
+fcjy888,Message,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+fcjy888,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+fcjy888,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+prpr,Message,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,brute force
+prpr,Suspects,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+yefllower,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+yefllower,Suspects,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"constructive algorithms,data structures,implementation"
+yefllower,Cipher,1,C,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+VUAcoder,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+VUAcoder,Suspects,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,data structures,implementation"
+Endagorion,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Endagorion,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Endagorion,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+TeRom,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+TeRom,Suspects,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+sune2,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sune2,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+sune2,Cipher,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Navigabimus,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+razimantv,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+razimantv,Message,1,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Yousef_Salama,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Yousef_Salama,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Kharybin,Message,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Kharybin,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Kharybin,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+hasi,Message,0,A,1,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,brute force
+hasi,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+hasi,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+M0sTik,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+M0sTik,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+M0sTik,Cipher,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+HeroShadow,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+HeroShadow,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+HeroShadow,Cipher,1,C,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+sementry,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+sementry,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+sementry,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+SkyHawk,Message,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+SkyHawk,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+SkyHawk,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Rubanenko,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Rubanenko,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Rubanenko,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+69-64-79,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+69-64-79,Suspects,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+69-64-79,Cipher,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+mukel,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+mukel,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,data structures,implementation"
+mukel,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Martial,Message,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Martial,Suspects,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+ASh_Tyrant,Message,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+ASh_Tyrant,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+ASh_Tyrant,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+NotSoFat,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+NotSoFat,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+NotSoFat,Cipher,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+kdalex,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Snow_storm,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Snow_storm,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+azizkhan,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+azizkhan,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+littlekfc,Message,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+littlekfc,Suspects,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+satyamshekhar,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+satyamshekhar,Suspects,1,B,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Noskov,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Noskov,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+spencer,Message,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+spencer,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+bcurcio,Message,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+xscape,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+xscape,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+xavier_lt,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+xavier_lt,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+xavier_lt,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+makeevvladx,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+makeevvladx,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+makeevvladx,Cipher,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+zhk,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+kissbuaa,Suspects,0,B,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Leoyu,Message,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Leoyu,Cipher,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Leoyu,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Aries512,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Aries512,Suspects,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+blazerer,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+blazerer,Suspects,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+zhymaoiing,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+zhymaoiing,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Aziza,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Aziza,Suspects,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+afix,Message,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+afix,Suspects,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+spicyj,Message,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+spicyj,Cipher,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+LinKin,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+LinKin,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+LinKin,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Berezin,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Berezin,Suspects,1,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+HolkinPV,Message,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Vedensky,Cipher,0,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp"
+Vedensky,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Vedensky,Message,1,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Vedensky,Mrs. Hudson's Pancakes,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,dp"
+ilya.korovin,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ilya.korovin,Suspects,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Belonogov,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Belonogov,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+RAINBOW123,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,brute force
+RAINBOW123,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+KrK,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+KrK,Suspects,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+KrK,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+pty,Message,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+pty,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+pty,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+pty,Clues,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,graphs"
+ft.azadi,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ft.azadi,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+ft.azadi,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ush,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ush,Cipher,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"combinatorics,dp"
+ush,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+DryukAlex,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+DryukAlex,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Goofy57,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Goofy57,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"combinatorics,dp"
+Goofy57,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Goofy57,Clues,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+cjLD,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+cjLD,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+cjLD,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+sdryapko,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+sdryapko,Suspects,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Epiq,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Epiq,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+leandro92,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+leandro92,Suspects,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+KungA,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+KungA,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+-dp-,Suspects,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+-dp-,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+MorningSYJ,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+MorningSYJ,Suspects,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+MorningSYJ,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+dojiboy9,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+dojiboy9,Cipher,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+lyoz,Message,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+lyoz,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+self_healing,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+self_healing,Message,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Mex-Mans,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Mex-Mans,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Monyura,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Monyura,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+BenZ,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+BenZ,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+BenZ,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+knightL,Message,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+knightL,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+knightL,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+xpycc,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+xpycc,Suspects,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+mekagem,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+mekagem,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+mekagem,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+kolina,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+kolina,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+serbanstan,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+serbanstan,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+undef,Message,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+undef,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Tomik,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+Tomik,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+AlexAlvarez,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+AlexAlvarez,Suspects,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+AlexAlvarez,Cipher,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+gingkgo,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+gingkgo,Message,1,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+gingkgo,Cipher,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+HTML_Sanek,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+HTML_Sanek,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+HTML_Sanek,Clues,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+ir5,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+ir5,Message,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+ir5,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ir5,Clues,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+Darsein,Message,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+naagi,Suspects,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+naagi,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+Shapo,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Shapo,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+MarioYC,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+MarioYC,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+zjut_DD,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+zjut_DD,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+zjut_DD,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ADJA,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ADJA,Suspects,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+DamianS,Message,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,brute force
+DamianS,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+DamianS,Cipher,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+gen,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ilya.m,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+ilya.m,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Slamur,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Slamur,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+komiya,Suspects,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+komiya,Message,1,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+komiya,Cipher,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+frp,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+frp,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+chokudai,Cipher,1,C,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+chokudai,Suspects,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+chokudai,Message,0,A,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+BaturaDima,Cipher,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+BaturaDima,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+BaturaDima,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+knock-knock,Message,0,A,0,0,0,0,2,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+takapt,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Sayakiss,Suspects,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Sayakiss,Message,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+NIGHTFIT,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+NIGHTFIT,Message,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,brute force
+lopek,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+lopek,Suspects,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+jonathanso123456,Message,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+jonathanso123456,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+MDvedh,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+---Grigor---,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+---Grigor---,Message,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+---Grigor---,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+fegla,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+fegla,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+DPR-pavlin,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+DPR-pavlin,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+DPR-pavlin,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+natsugiri,Message,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+natsugiri,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+natsugiri,Cipher,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+dj3500,Clues,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+dj3500,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+vsavchenkov,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+vsavchenkov,Message,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+vsavchenkov,Suspects,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Reshetnikov_Ivan,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Reshetnikov_Ivan,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Reshetnikov_Ivan,Cipher,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+dimatomp,Suspects,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+dimatomp,Message,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+Depool,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Depool,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+radix.ru,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp"
+radix.ru,Suspects,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Ch0W,Suspects,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"constructive algorithms,data structures,implementation"
+dancho,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+dancho,Message,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Tadrion,Message,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,brute force
+Tadrion,Suspects,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+guille,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+guille,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+guille,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+zeliboba,Clues,0,D,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+zeliboba,Suspects,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+zeliboba,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+zeliboba,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+openxxx,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+openxxx,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+openxxx,Cipher,1,C,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"combinatorics,dp"
+Dimp,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Dimp,Suspects,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Timus,Message,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Timus,Suspects,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+LayCurse,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+LayCurse,Clues,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+LayCurse,Message,0,A,0,0,0,1,0,0,0,0,0,0,0,0,0,3,0,0,0,brute force
+LayCurse,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Shahriar_sust,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Shahriar_sust,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Shahriar_sust,Cipher,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+johnLate,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+johnLate,Suspects,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"constructive algorithms,data structures,implementation"
+nwin,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+nwin,Cipher,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"combinatorics,dp"
+nwin,Message,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+pedrosorio,Message,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+ValenKof,Suspects,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+ValenKof,Cipher,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ValenKof,Message,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+72VanVector_SevNTU,Cipher,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+72VanVector_SevNTU,Suspects,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+hs484,Cipher,0,C,1,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,"combinatorics,dp"
+hs484,Message,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+obag,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+eterxroc,Message,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,brute force
+pareshverma91,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+pareshverma91,Suspects,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+chiemduybao,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+tsotne,Clues,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+tsotne,Suspects,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+hanfei19910905,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+hanfei19910905,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+valery.stromov,Cipher,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+valery.stromov,Message,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+shindannin,Message,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,brute force
+Hossein_Hima,Message,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Hossein_Hima,Suspects,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"constructive algorithms,data structures,implementation"
+Hossein_Hima,Cipher,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+ACube,Clues,0,D,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,graphs"
+hama-du,Message,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+olgngy,Cipher,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"combinatorics,dp"
+K_operafan,Message,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force

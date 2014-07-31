@@ -1,0 +1,1459 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+dolphinigle,Substring and Subsequence,0,A,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,dp
+dolphinigle,Lemmings,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,binary search
+dolphinigle,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+SergeyRogulenko,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+SergeyRogulenko,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+SergeyRogulenko,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+SergeyRogulenko,e-Government,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+watashi,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+watashi,Lemmings,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+watashi,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+watashi,Large Refrigerator,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+SergeiFedorov,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+SergeiFedorov,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+SergeiFedorov,Conveyor,1,C,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,sortings
+SergeiFedorov,e-Government,1,E,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+WJMZBMR,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+WJMZBMR,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+WJMZBMR,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+WJMZBMR,e-Government,1,E,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+tourist,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+tourist,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+tourist,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+tourist,e-Government,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+meret,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+meret,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+meret,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+meret,e-Government,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+Ra16bit,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Ra16bit,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Ra16bit,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Ra16bit,Large Refrigerator,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+dzhulgakov,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dzhulgakov,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+dzhulgakov,Lemmings,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+dzhulgakov,e-Government,1,E,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+Kenny_HORROR,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Kenny_HORROR,Lemmings,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Kenny_HORROR,Conveyor,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+ACube,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ACube,Lemmings,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,binary search
+ACube,Conveyor,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+PavelKunyavskiy,Substring and Subsequence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+PavelKunyavskiy,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+PavelKunyavskiy,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+PavelKunyavskiy,Large Refrigerator,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+NeverQuarrel,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+NeverQuarrel,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,binary search
+NeverQuarrel,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+jehad131,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+jehad131,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+mR.ilchi,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+mR.ilchi,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Igor_Kudryashov,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Igor_Kudryashov,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Igor_Kudryashov,Conveyor,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+yeputons,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+yeputons,Lemmings,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+yeputons,Conveyor,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+niyaznigmatul,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+niyaznigmatul,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+niyaznigmatul,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+wuzhengkai,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+wuzhengkai,Conveyor,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+wuzhengkai,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+wuzhengkai,e-Government,0,E,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+natalia,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+natalia,Lemmings,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,binary search
+natalia,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+natalia,Large Refrigerator,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,brute force
+hovinhthinh,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+hovinhthinh,Lemmings,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,binary search
+xujie,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+xujie,Lemmings,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,binary search
+xujie,Conveyor,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+xujie,Large Refrigerator,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+Mohammad_JRS,Substring and Subsequence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Mohammad_JRS,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Mohammad_JRS,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+exod40,Lemmings,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,binary search
+exod40,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+exod40,Conveyor,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+exod40,e-Government,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+exod40,Large Refrigerator,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+shevchen,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+shevchen,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+shevchen,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+marcina007,Substring and Subsequence,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+marcina007,Conveyor,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+marcina007,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+marcina007,Large Refrigerator,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+rizar,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+rizar,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+rizar,Conveyor,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+rizar,e-Government,0,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+Xhark,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Xhark,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Xhark,Large Refrigerator,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+OoO000oOOOoOooOo,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+OoO000oOOOoOooOo,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+OoO000oOOOoOooOo,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+OoO000oOOOoOooOo,Large Refrigerator,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,brute force
+fhlasek,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+fhlasek,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+fhlasek,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+kelvin,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kelvin,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+kelvin,Conveyor,1,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+kelvin,e-Government,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+sdya,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sdya,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+sdya,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+sdya,Large Refrigerator,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,brute force
+sdya,e-Government,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+bogdan2412,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+bogdan2412,Lemmings,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+bogdan2412,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+bogdan2412,Large Refrigerator,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+cerealguy,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+cerealguy,Lemmings,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+cerealguy,Conveyor,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+cerealguy,Large Refrigerator,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+Seyaua,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Seyaua,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Seyaua,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Seyaua,Large Refrigerator,1,D,0,0,0,1,0,0,0,1,0,0,0,0,0,0,2,0,0,brute force
+neex.emil,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+neex.emil,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,binary search
+neex.emil,Conveyor,1,C,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+msg555,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+msg555,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+msg555,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+msg555,Large Refrigerator,0,D,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,brute force
+ronaflx,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+ronaflx,Lemmings,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,binary search
+thocevar,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+thocevar,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+thocevar,e-Government,1,E,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+csimstu,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+csimstu,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+csimstu,e-Government,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+csimstu,Conveyor,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+romanandreev,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+romanandreev,Lemmings,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+romanandreev,Conveyor,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+romanandreev,Large Refrigerator,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+White_Bear,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+White_Bear,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+White_Bear,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+sexyprincess91,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sexyprincess91,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+sexyprincess91,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+edward_mj,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+edward_mj,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,binary search
+edward_mj,e-Government,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+zlfengyi1,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+zlfengyi1,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+zlfengyi1,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+zlfengyi1,Large Refrigerator,1,D,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,brute force
+Cepera,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Cepera,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Cepera,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+scottai1,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+scottai1,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+scottai1,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+scottai1,Large Refrigerator,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+Nerevar,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Nerevar,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Nerevar,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Nerevar,Large Refrigerator,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+-XraY-,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+-XraY-,Lemmings,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,binary search
+-XraY-,Conveyor,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+__tutankhamun__,Substring and Subsequence,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+__tutankhamun__,Lemmings,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+__tutankhamun__,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+steiner,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+steiner,Lemmings,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,binary search
+anton.akhi,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+anton.akhi,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+anton.akhi,Large Refrigerator,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+polmauri,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+polmauri,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+polmauri,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+polmauri,Large Refrigerator,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,brute force
+_sunny,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+_sunny,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Connector,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Connector,Conveyor,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Connector,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+hos.lyric,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+hos.lyric,Lemmings,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+hos.lyric,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+hos.lyric,Large Refrigerator,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+RichardQ,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+RichardQ,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+0O0o00OO0Oo0o0Oo,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+0O0o00OO0Oo0o0Oo,Lemmings,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+0O0o00OO0Oo0o0Oo,Conveyor,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+0O0o00OO0Oo0o0Oo,Large Refrigerator,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+mruxim,Substring and Subsequence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+mruxim,Lemmings,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+hayk.saribekyan,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+hayk.saribekyan,Lemmings,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+unbing,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+unbing,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+unbing,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+homo_sapiens,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+homo_sapiens,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+homo_sapiens,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+s-quark,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+s-quark,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+s-quark,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+s-quark,Large Refrigerator,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+s-quark,e-Government,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+Jami_CSEDU,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Jami_CSEDU,Lemmings,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,binary search
+Jami_CSEDU,Conveyor,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+maciejk,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+maciejk,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+maciejk,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+wanderer,Substring and Subsequence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+wanderer,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+wanderer,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+enot.1.10,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+enot.1.10,Conveyor,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+enot.1.10,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Oleg805,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Oleg805,Conveyor,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Oleg805,Lemmings,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+OgieKako,Substring and Subsequence,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+OgieKako,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+OgieKako,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,sortings
+good_mood,Substring and Subsequence,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+good_mood,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+good_mood,Conveyor,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Fefer_Ivan,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Fefer_Ivan,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Fefer_Ivan,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+LGM,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+LGM,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+LGM,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+LGM,Large Refrigerator,1,D,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,brute force
+ltaravilse,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+ft.azadi,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ft.azadi,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+ft.azadi,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+dreamoon,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dreamoon,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+dreamoon,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+bjin,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+bjin,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+bjin,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Saeed_Reza,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Saeed_Reza,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Saeed_Reza,Conveyor,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Saeed_Reza,e-Government,0,E,0,0,0,0,0,0,0,19,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+poopi,Substring and Subsequence,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+poopi,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+poopi,Conveyor,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+subscriber,Lemmings,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,binary search
+subscriber,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+subscriber,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Archon.JK,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Archon.JK,Lemmings,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+Archon.JK,e-Government,0,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+ll931110,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ll931110,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+ll931110,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ktuan,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+ktuan,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+ktuan,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+ktuan,Large Refrigerator,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+DoublePointer,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+DoublePointer,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+DoublePointer,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+flashmt,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+flashmt,Lemmings,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,binary search
+flashmt,Conveyor,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+SWATMaD,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+SWATMaD,Lemmings,1,B,0,0,0,0,3,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+SWATMaD,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+chavit,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+chavit,Lemmings,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,binary search
+chavit,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Night_Fury,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Night_Fury,Lemmings,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+vepifanov,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+vepifanov,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+vepifanov,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+vepifanov,e-Government,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+imbanoob,Lemmings,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+imbanoob,Conveyor,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+imbanoob,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Copymaster,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Copymaster,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Copymaster,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,sortings
+a9108,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+a9108,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+a9108,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+a9108,Large Refrigerator,1,D,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,brute force
+gchebanov,Large Refrigerator,0,D,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,brute force
+gchebanov,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+gchebanov,Lemmings,1,B,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,binary search
+sankear,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sankear,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+sankear,Large Refrigerator,0,D,0,0,0,0,0,3,0,3,0,0,0,0,0,0,0,0,0,brute force
+sankear,e-Government,0,E,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+scott_wu,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+scott_wu,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+scott_wu,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+venkateshb,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+venkateshb,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+venkateshb,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Mimino,Lemmings,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Mimino,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Mimino,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Mimino,Large Refrigerator,1,D,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,brute force
+Alex-Gran,Substring and Subsequence,1,A,1,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,dp
+Alex-Gran,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+aram90,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+aram90,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+aram90,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Arios,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Arios,Conveyor,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,sortings
+_M_,Substring and Subsequence,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+_M_,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+zpl1,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+zpl1,Lemmings,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,binary search
+zpl1,Conveyor,0,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,sortings
+wcwswswws,Substring and Subsequence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+wcwswswws,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+anmtcel,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+anmtcel,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+anmtcel,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+anmtcel,Large Refrigerator,0,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+anmtcel,e-Government,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+Stigius,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Stigius,Lemmings,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+Stigius,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Stigius,Large Refrigerator,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+flowlight,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+flowlight,Lemmings,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+flowlight,Conveyor,1,C,0,0,0,0,5,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+lcqbest,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+lcqbest,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+lcqbest,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+paulik,Substring and Subsequence,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,dp
+paulik,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+paulik,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,2,0,0,sortings
+stgatilov,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+stgatilov,Lemmings,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+stgatilov,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+kAc,Substring and Subsequence,0,A,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,dp
+kAc,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+kAc,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+RAVEman,Lemmings,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+RAVEman,Substring and Subsequence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+RAVEman,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+RAVEman,Large Refrigerator,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+cgy4ever,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+cgy4ever,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+cgy4ever,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+cgy4ever,Large Refrigerator,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+rowdark,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+rowdark,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+rudradevbasak,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+rudradevbasak,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+rudradevbasak,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+simp1eton,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+simp1eton,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+simp1eton,Conveyor,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+UESTC_Nocturne,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+UESTC_Nocturne,Lemmings,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+UESTC_Nocturne,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+UESTC_Nocturne,e-Government,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+UESTC_Nocturne,Large Refrigerator,0,D,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,brute force
+volkhin,Lemmings,0,B,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+volkhin,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+jx_wuyi,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+jx_wuyi,Lemmings,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+jx_wuyi,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Madiyar,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+Madiyar,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Madiyar,Conveyor,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+kennethsnow,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kennethsnow,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+kennethsnow,Conveyor,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+map,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+map,Lemmings,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+map,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+dancho,Substring and Subsequence,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+dancho,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+dancho,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Krig,Lemmings,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+Krig,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+acherepanov,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+acherepanov,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+lzqxh,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+lzqxh,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+lzqxh,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+lzqxh,Large Refrigerator,0,D,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,brute force
+RAD,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+RAD,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+RAD,e-Government,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+RAD,Substring and Subsequence,1,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+Endagorion,Lemmings,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Endagorion,Conveyor,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Endagorion,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+alexander.yuriev,Substring and Subsequence,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+alexander.yuriev,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+alexander.yuriev,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Ruslan,Substring and Subsequence,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Ruslan,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Ruslan,Conveyor,0,C,0,0,0,0,1,8,0,0,0,0,0,0,0,0,0,0,0,sortings
+haas,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+haas,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+wata,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+wata,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+wata,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+gen,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+gen,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,binary search
+chyx,Substring and Subsequence,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+chyx,Lemmings,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+chyx,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Shinta,Lemmings,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+Shinta,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Shinta,Conveyor,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+Shinta,Large Refrigerator,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+v.haralampiev,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+v.haralampiev,Lemmings,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+v.haralampiev,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+david942j,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,binary search
+david942j,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+partisan,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+partisan,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+partisan,Conveyor,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+al13n,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+al13n,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+al13n,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+al13n,e-Government,1,E,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+LeBron,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+LeBron,Lemmings,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+LeBron,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+valich,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+valich,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+valich,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+valich,Large Refrigerator,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+KADR,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+KADR,Lemmings,1,B,0,0,0,0,0,2,0,2,0,0,0,0,0,0,1,0,0,binary search
+KADR,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+dasko1,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dasko1,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+yaro,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+yaro,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+yaro,Large Refrigerator,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+eduardische,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+eduardische,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+yoh149,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+yoh149,Lemmings,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,binary search
+yoh149,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+hydrastuff,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+hydrastuff,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Proscriptus,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+eatmore,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+eatmore,Lemmings,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+eatmore,Large Refrigerator,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+cos,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+cos,Conveyor,0,C,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+cos,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+cos,e-Government,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+KAN,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+KAN,Conveyor,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+KAN,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+FattyChicken,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+FattyChicken,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+FattyChicken,Conveyor,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+knock-knock,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+knock-knock,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+jiangzhijie,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+jiangzhijie,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+jiangzhijie,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+LinesPrower,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+LinesPrower,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+LinesPrower,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Komaki,Substring and Subsequence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Komaki,Lemmings,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Komaki,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Komaki,Large Refrigerator,1,D,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,brute force
+NALP,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+NALP,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,sortings
+NALP,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+NALP,Large Refrigerator,1,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+SunDude,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+SunDude,Lemmings,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,binary search
+SunDude,e-Government,0,E,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+anton.bannykh,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+anton.bannykh,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+anton.bannykh,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+anton.bannykh,e-Government,1,E,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+darknp,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+darknp,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Martin,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Martin,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Martin,Conveyor,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,sortings
+AlTimin,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+AlTimin,Lemmings,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+AlTimin,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+AlTimin,e-Government,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+kormak,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+kormak,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kormak,Conveyor,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+kormak,Large Refrigerator,0,D,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,brute force
+dj3500,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dj3500,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+dj3500,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+dj3500,e-Government,1,E,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+iddaga,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+iddaga,Conveyor,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+iddaga,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+yarrr,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+yarrr,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+yarrr,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+kelvinlau,Substring and Subsequence,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+kelvinlau,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+kelvinlau,Conveyor,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+kelvinlau,e-Government,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+tomekkulczynski,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+tomekkulczynski,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+tomekkulczynski,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dragon007,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dragon007,Lemmings,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,binary search
+dragon007,Conveyor,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,sortings
+chnlich,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+chnlich,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+chnlich,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+chnlich,Large Refrigerator,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+Dmitry_Egorov,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Dmitry_Egorov,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Dmitry_Egorov,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Dmitry_Egorov,Large Refrigerator,1,D,0,0,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,brute force
+kterry,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+kterry,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+kterry,e-Government,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"data structures,dfs and similar,dp,strings,trees"
+kolesov93,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kolesov93,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+kolesov93,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+wym510,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+wym510,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+wym510,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+wym510,e-Government,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+Milanin,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Milanin,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Milanin,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+buaagg,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+buaagg,Lemmings,1,B,0,0,0,5,0,0,0,0,0,0,0,0,0,1,0,0,0,binary search
+buaagg,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,sortings
+kohyatoh,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kohyatoh,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+kohyatoh,Conveyor,1,C,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,sortings
+nk.karpov,Lemmings,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+nk.karpov,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+nk.karpov,e-Government,1,E,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+Commandos,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Commandos,Lemmings,1,B,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,binary search
+Commandos,Conveyor,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Ilya_MSU,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Ilya_MSU,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+StefanoT,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+StefanoT,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Zlobober,Lemmings,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+Zlobober,Conveyor,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,sortings
+coolinging,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+coolinging,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+coolinging,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,sortings
+gogokefakefa,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+gogokefakefa,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+gogokefakefa,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+eaglet,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+eaglet,Lemmings,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1,0,0,binary search
+eaglet,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+object022,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+object022,Conveyor,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+object022,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,binary search
+anton,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+anton,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+anton,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+anton,Large Refrigerator,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+AleX,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+AleX,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+AleX,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+kilotaras,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+kilotaras,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+bayleef,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+bayleef,Lemmings,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+bayleef,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+mzry1992,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+mzry1992,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+mzry1992,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Monmoy,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+shangjingbo,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+shangjingbo,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+shangjingbo,Conveyor,1,C,1,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,sortings
+shangjingbo,Large Refrigerator,1,D,0,0,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,brute force
+ztxz16,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ztxz16,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+ztxz16,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+seanwu,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+seanwu,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+seanwu,Large Refrigerator,0,D,0,0,0,0,1,3,0,3,0,0,0,0,0,0,0,0,0,brute force
+siuvit,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+siuvit,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+siuvit,Conveyor,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+MRoizner,Substring and Subsequence,1,A,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,dp
+MRoizner,Lemmings,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,binary search
+zetsubou,Substring and Subsequence,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+zetsubou,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+zetsubou,Conveyor,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+zetsubou,Large Refrigerator,0,D,0,0,0,0,1,0,0,2,0,0,0,0,0,0,0,0,0,brute force
+Jokser,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Jokser,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Jokser,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Jokser,Large Refrigerator,0,D,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,brute force
+eolini,Substring and Subsequence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+eolini,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+eolini,Conveyor,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+Erop,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Erop,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+hahatt,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+hahatt,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Fcdkbear,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Fcdkbear,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Fcdkbear,Conveyor,1,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,sortings
+whhone,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+whhone,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+whhone,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+whhone,Large Refrigerator,1,D,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,brute force
+goodwind,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+goodwind,Lemmings,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+goodwind,Conveyor,1,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,sortings
+isumi,Substring and Subsequence,0,A,1,0,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0,dp
+isumi,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+isumi,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+iRomchig,Lemmings,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+iRomchig,Substring and Subsequence,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+iRomchig,Conveyor,1,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,sortings
+L.I.S.,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+L.I.S.,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+L.I.S.,Conveyor,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+seen,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+seen,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+seen,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Eledven,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+sky58,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sky58,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+sky58,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+tjg,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+tjg,Lemmings,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,binary search
+vlad107,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+vlad107,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Ignat,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Ignat,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Ignat,Conveyor,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Dembel,Lemmings,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,binary search
+Dembel,Conveyor,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+Dembel,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+havaliza,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+havaliza,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+havaliza,Conveyor,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+jonathanasdf,Substring and Subsequence,0,A,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,dp
+Moskupols,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,binary search
+Moskupols,Substring and Subsequence,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Moskupols,Conveyor,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+chiemduybao,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+chiemduybao,Lemmings,1,B,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,binary search
+pauldb,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+pauldb,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+pauldb,Conveyor,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+marspeople,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+marspeople,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+marspeople,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+zplinti1,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+zplinti1,Lemmings,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+sevenkplus,Substring and Subsequence,1,A,1,0,0,1,0,4,0,0,0,0,0,0,0,0,0,0,0,dp
+sevenkplus,Conveyor,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+sevenkplus,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+sevenkplus,e-Government,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+winger,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+winger,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+winger,Conveyor,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+winger,Large Refrigerator,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+winger,e-Government,0,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+riad,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+riad,Lemmings,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+robert_rosolek,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+robert_rosolek,Lemmings,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+shouhm,Substring and Subsequence,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,dp
+shouhm,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Shik,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Shik,Lemmings,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Shik,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Shik,Large Refrigerator,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+dinosaurs,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dinosaurs,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+dinosaurs,Conveyor,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+dinosaurs,Large Refrigerator,0,D,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,brute force
+Mahdi,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Mahdi,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Mahdi,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Sisu,Substring and Subsequence,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Sisu,Lemmings,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+Sisu,Conveyor,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Igel_SK,Lemmings,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Igel_SK,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Igel_SK,Conveyor,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+luvlubb,Substring and Subsequence,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,dp
+luvlubb,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+luvlubb,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Matt,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Matt,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Matt,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+mihaipopa12,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+mihaipopa12,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+varduhi.yeghiazaryan,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,dp
+varduhi.yeghiazaryan,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+varduhi.yeghiazaryan,Conveyor,0,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+dmitry.uvarov,Lemmings,1,B,1,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,binary search
+ifsmirnov,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+ifsmirnov,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+ifsmirnov,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,dp
+ifsmirnov,Large Refrigerator,1,D,0,0,0,0,0,8,0,1,0,0,0,0,0,0,0,0,0,brute force
+Timur_Sitdikov,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Timur_Sitdikov,Conveyor,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+YLiyxr,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+YLiyxr,Lemmings,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+YLiyxr,Conveyor,0,C,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,sortings
+YLiyxr,Large Refrigerator,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+Merkurev,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Merkurev,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Merkurev,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,sortings
+towelenee,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+towelenee,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,sortings
+GagGuy,Lemmings,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+GagGuy,Conveyor,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+GagGuy,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+GagGuy,e-Government,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+sergey.tihon,Substring and Subsequence,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+sergey.tihon,Lemmings,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+sergey.tihon,Conveyor,0,C,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,sortings
+Jughead,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Jughead,Lemmings,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Jughead,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+ashmelev,Substring and Subsequence,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+ashmelev,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ashmelev,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ashmelev,Large Refrigerator,1,D,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1,0,0,brute force
+kmxyvb,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+kmxyvb,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kmxyvb,Conveyor,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+kmxyvb,e-Government,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+Andrew_Makar,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Andrew_Makar,Conveyor,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+Andrew_Makar,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+R_R_,Lemmings,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+R_R_,Substring and Subsequence,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+R_R_,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+EbTech,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+EbTech,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+EbTech,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+fatest,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+fatest,Conveyor,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Bobik,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Bobik,Lemmings,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+salex,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+salex,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+hung06061995,Lemmings,0,B,0,0,0,3,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+junhee.cho,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+junhee.cho,Conveyor,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+Fdg,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Fdg,Lemmings,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Fdg,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+zeliboba,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+zeliboba,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+zeliboba,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+kuzmichev_dima,Lemmings,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+kuzmichev_dima,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+qujun51319,Substring and Subsequence,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+topspin,Substring and Subsequence,1,A,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+topspin,Lemmings,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Merlininice,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Merlininice,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Merlininice,Conveyor,0,C,0,0,0,0,3,0,0,0,1,0,0,0,0,0,0,0,0,sortings
+Shapo,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Shapo,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Shapo,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+neal,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+neal,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+e-maxx,Lemmings,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+e-maxx,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+_onp_,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+_onp_,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+_onp_,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+_onp_,Large Refrigerator,1,D,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,brute force
+ridowan007,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ridowan007,Lemmings,1,B,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Slevin,Substring and Subsequence,0,A,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,dp
+Slevin,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Slevin,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+azizkhan,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+azizkhan,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+lazylie,Lemmings,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,binary search
+lazylie,Substring and Subsequence,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Sereja,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Sereja,Conveyor,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Sereja,Lemmings,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Baz93,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Baz93,Lemmings,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,binary search
+Baz93,Conveyor,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+abcsampson,Lemmings,0,B,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,binary search
+abcsampson,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+bean,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+bean,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+bean,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+tloinuy,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+tloinuy,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+tloinuy,Conveyor,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+zhymaoiing,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+zhymaoiing,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+zhymaoiing,Conveyor,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+ytau,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+ytau,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ytau,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Kostroma,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+Kostroma,Lemmings,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+Kostroma,Conveyor,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1,0,0,sortings
+Jonasz,Lemmings,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+Jonasz,Conveyor,0,C,0,0,0,0,0,8,0,0,0,0,0,0,0,0,0,0,0,sortings
+Jonasz,e-Government,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+self_healing,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+self_healing,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+self_healing,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ftc,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ftc,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+ftc,Conveyor,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+AlexDmitriev,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+AlexDmitriev,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+AlexDmitriev,Substring and Subsequence,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+kamranm,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+kamranm,Lemmings,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+kamranm,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+gongbaoa,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+gongbaoa,Lemmings,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+gongbaoa,Conveyor,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+ConanKudo,Lemmings,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+ConanKudo,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ConanKudo,Conveyor,1,C,1,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,sortings
+Taygrim,Lemmings,0,B,0,0,0,0,1,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+Taygrim,Substring and Subsequence,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+t0nyukuk,Substring and Subsequence,1,A,1,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,dp
+t0nyukuk,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+fetetriste,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+fetetriste,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Victor,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Victor,Conveyor,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,sortings
+Victor,Large Refrigerator,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+Vaness,Lemmings,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+Vaness,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+NotOnlySuccess,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+NotOnlySuccess,Lemmings,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+NotOnlySuccess,Conveyor,0,C,1,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+NotOnlySuccess,e-Government,1,E,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+husheyn,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+husheyn,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+DamianS,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+DamianS,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+alger95,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+alger95,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+DPR-pavlin,Substring and Subsequence,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,dp
+DPR-pavlin,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+DPR-pavlin,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+matejbalog,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+standy,Substring and Subsequence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+standy,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+standy,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ilyakor,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ilyakor,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ilyakor,Large Refrigerator,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+alexeykuzmin0,Conveyor,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,sortings
+alexeykuzmin0,Large Refrigerator,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+alexeykuzmin0,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+alexeykuzmin0,Lemmings,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+z__jj,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+z__jj,Lemmings,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+z__jj,Conveyor,1,C,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,sortings
+Tinkturianec,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Tinkturianec,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+stx2,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+stx2,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+stx2,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+ycalvino,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Orfest,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Orfest,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Solej,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Solej,Lemmings,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,binary search
+Solej,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+NuM,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+NuM,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Dener,Substring and Subsequence,1,A,1,0,0,0,0,0,0,3,1,0,0,0,0,0,0,0,0,dp
+Dener,Lemmings,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+liangjiaxing57,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+liangjiaxing57,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Aleksander,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Aleksander,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Aleksander,Conveyor,0,C,0,0,0,1,0,5,0,0,0,0,0,0,0,0,0,0,0,sortings
+portal,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,binary search
+portal,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+vytis.banaitis,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+vytis.banaitis,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+vytis.banaitis,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+aropan,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+aropan,Lemmings,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+aropan,Conveyor,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,sortings
+aropan,e-Government,0,E,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+sanzunonyasama,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sanzunonyasama,Lemmings,1,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+sanzunonyasama,Conveyor,0,C,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,sortings
+sillycross,Lemmings,0,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+sillycross,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sillycross,Large Refrigerator,1,D,0,0,0,0,1,4,0,1,0,0,0,0,0,0,0,0,0,brute force
+tuananh93,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+tuananh93,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+ILoveftiasch,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ILoveftiasch,Lemmings,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,binary search
+ILoveftiasch,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Nedy88,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Nedy88,Substring and Subsequence,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+kssilveira,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+kssilveira,Conveyor,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+Hynek,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Hynek,Lemmings,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+navi,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+navi,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+navi,Conveyor,0,C,0,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+xkszltl,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+xkszltl,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+xkszltl,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+pele,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+pele,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+mr146,Lemmings,0,B,0,0,0,1,0,2,0,3,0,0,0,0,0,1,0,0,0,binary search
+mr146,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+mr146,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+rinigan,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+whitetooth,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+whitetooth,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+whitetooth,e-Government,0,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+fatboy_cw,Substring and Subsequence,1,A,1,0,0,0,0,0,0,1,2,0,0,0,0,0,0,0,0,dp
+fatboy_cw,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Babanin_Ivan,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Babanin_Ivan,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+XilinX,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+XilinX,Conveyor,0,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+XilinX,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+wanghd,Substring and Subsequence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+wanghd,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+wanghd,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+hex539,Lemmings,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,binary search
+hex539,Substring and Subsequence,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+hex539,Conveyor,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+pompon,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+pompon,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+pompon,Conveyor,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,sortings
+ILJ,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ILJ,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+aa2985759,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+aa2985759,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+aa2985759,Large Refrigerator,0,D,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,brute force
+lytton,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+lytton,Lemmings,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,binary search
+acybl,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+acybl,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+fancy,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+fancy,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+cp12321,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+cp12321,Lemmings,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+cp12321,Conveyor,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+impetus,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+impetus,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+impetus,Substring and Subsequence,1,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+magicdlf,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+magicdlf,Lemmings,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+magicdlf,Conveyor,0,C,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+avictor2010,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+avictor2010,Lemmings,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+avictor2010,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Davis,Lemmings,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+Davis,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Davis,Conveyor,1,C,1,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+KasuganoSora,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+KasuganoSora,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+KasuganoSora,Large Refrigerator,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+stevenkplus,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+stevenkplus,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+akashin,Lemmings,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+akashin,Conveyor,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+technolt,Substring and Subsequence,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+technolt,Lemmings,1,B,0,0,0,1,0,13,0,2,0,0,0,0,0,0,0,0,0,binary search
+piloop,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+piloop,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+maos,Lemmings,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+maos,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+theycallhimtom,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+theycallhimtom,Conveyor,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+theycallhimtom,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Mick,Substring and Subsequence,0,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,dp
+Mick,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,binary search
+Mick,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+monocofe,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+monocofe,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+monocofe,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+fagu,Lemmings,0,B,0,0,0,0,0,3,0,2,0,0,0,0,0,0,0,0,0,binary search
+fagu,Conveyor,0,C,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,sortings
+fagu,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+fagu,Large Refrigerator,1,D,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,brute force
+al_maz,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+al_maz,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+al_maz,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Ripatti,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Ripatti,Lemmings,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+Ripatti,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+sidor,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+sidor,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sidor,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Demjan,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Demjan,Lemmings,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,1,0,0,binary search
+Demjan,Conveyor,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+knightL,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+knightL,Lemmings,0,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+knightL,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+wjomlex,Lemmings,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+wjomlex,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+moonlight131,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+moonlight131,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,binary search
+moonlight131,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+_meshanya_,Lemmings,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,binary search
+_meshanya_,Substring and Subsequence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+_meshanya_,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,sortings
+_meshanya_,Large Refrigerator,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+VArtem,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+VArtem,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+VArtem,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+ir5,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+ir5,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ir5,Conveyor,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+taras.klaskovsky,Lemmings,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+Sammarize,Lemmings,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Sammarize,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Sammarize,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+torrentlord,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+torrentlord,Lemmings,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+torrentlord,Conveyor,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+stostap,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Icemore,Substring and Subsequence,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,dp
+Icemore,Conveyor,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Nicholas,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+Nicholas,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Nicholas,Conveyor,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+2910201028,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+Kasparyan_Mihail,Large Refrigerator,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Kasparyan_Mihail,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Kasparyan_Mihail,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+lixiaopang.dlut,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+lixiaopang.dlut,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+lixiaopang.dlut,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Konon,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Konon,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Konon,Conveyor,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+SmirnovBoris,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+SmirnovBoris,Conveyor,1,C,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+Pavlo_Lviv_NU,Lemmings,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+Pavlo_Lviv_NU,Large Refrigerator,0,D,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+ffao,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ffao,Lemmings,1,B,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,binary search
+permin,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+permin,Lemmings,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+permin,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+phtniit,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+phtniit,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+UESTC_Defense,Lemmings,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+dkorduban,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+dkorduban,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+dkorduban,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ts10,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,binary search
+ts10,Substring and Subsequence,1,A,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+todo,Lemmings,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+todo,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+vlad89,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+vlad89,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+vlad89,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+linh810,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+linh810,Lemmings,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,binary search
+liuq901,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+liuq901,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+liuq901,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+liuq901,Large Refrigerator,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+AlexBoyko,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+AlexBoyko,Lemmings,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,binary search
+yayamao,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+yayamao,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+yayamao,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Malinovsky239,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Malinovsky239,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Fata1ist,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,binary search
+Fedyarer,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Fedyarer,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Fedyarer,Large Refrigerator,1,D,0,0,0,0,5,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+voover,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+voover,e-Government,1,E,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+MarioYC,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+MarioYC,Large Refrigerator,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+CherryTree,e-Government,0,E,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+CherryTree,Lemmings,0,B,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,binary search
+CherryTree,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+tanas,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+tanas,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,binary search
+c_loud26,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+c_loud26,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+malcolm,Lemmings,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+malcolm,Conveyor,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+SkorKNURE,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+SkorKNURE,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+SkorKNURE,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+MikhailRubinchik,Lemmings,0,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,2,0,0,binary search
+MikhailRubinchik,Conveyor,0,C,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+MikhailRubinchik,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ballon,Lemmings,0,B,0,0,0,1,0,13,0,0,0,0,0,0,0,0,1,0,0,binary search
+ballon,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ballon,Conveyor,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,sortings
+SkyHawk,Lemmings,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+SkyHawk,Substring and Subsequence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+SkyHawk,Conveyor,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+zjut_DD,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+zjut_DD,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+zjut_DD,Conveyor,0,C,0,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,sortings
+qwaker.00,Lemmings,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,binary search
+qwaker.00,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+qwaker.00,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+SamanSami,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+giantarum,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+giantarum,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,binary search
+giantarum,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Oracle,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Oracle,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+jonathanpaulson,Substring and Subsequence,1,A,1,0,0,0,1,0,0,4,1,0,0,0,0,0,0,0,0,dp
+jonathanpaulson,Lemmings,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+lxyxynt,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+lxyxynt,Lemmings,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,binary search
+primorial,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+primorial,e-Government,0,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+ben3ben,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+ben3ben,Conveyor,0,C,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,sortings
+darkbtf,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+darkbtf,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+darkbtf,Conveyor,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+pratyai,Lemmings,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,binary search
+sspa,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sspa,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+sspa,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Shtrix,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Shtrix,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Shtrix,Substring and Subsequence,1,A,0,0,0,1,2,0,0,0,1,0,0,0,0,0,0,0,0,dp
+JKeeJ1e30,Lemmings,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+JKeeJ1e30,Large Refrigerator,0,D,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+Alex_Lyulkov,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Alex_Lyulkov,Lemmings,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Qiang_cx,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Qiang_cx,Lemmings,1,B,0,0,0,0,0,2,0,2,0,0,0,0,0,1,0,0,0,binary search
+Qiang_cx,Conveyor,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+guirns,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+guirns,Lemmings,1,B,0,0,0,0,1,5,0,0,0,0,0,0,0,0,0,0,0,binary search
+piob,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+piob,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+piob,Conveyor,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,sortings
+piob,Large Refrigerator,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+AnnIatskiv,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+AnnIatskiv,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+hhoomn,Substring and Subsequence,1,A,1,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,dp
+hhoomn,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+chousan,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+chousan,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Monyura,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Monyura,Lemmings,1,B,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+mukel,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+mukel,e-Government,1,E,0,0,0,1,0,1,0,4,0,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+yongheng5871,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+yongheng5871,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+yongheng5871,Large Refrigerator,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+yongheng5871,Conveyor,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+m7nika,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Konjac,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Konjac,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+vovapolu,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+vovapolu,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Kaylin,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Kaylin,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+dut200901102,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dut200901102,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+dut200901102,Large Refrigerator,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+dut200901102,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+ikk,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,binary search
+package.zaic,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+package.zaic,Conveyor,0,C,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,sortings
+razimantv,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,binary search
+razimantv,Conveyor,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+dronimal,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dronimal,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Joshik,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Joshik,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Joshik,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Joshik,Large Refrigerator,1,D,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+yefllower,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,dp
+yefllower,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+cjtoribio,Substring and Subsequence,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+cjtoribio,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Nova,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+tunyash,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+tunyash,Lemmings,1,B,0,0,0,0,2,7,0,0,0,0,0,0,0,0,0,0,0,binary search
+KrK,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+KrK,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+stareven,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+stareven,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Steps09,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Steps09,Conveyor,0,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+choice,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+choice,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+FedyuninV,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+FedyuninV,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+FedyuninV,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Sfairat,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+udalov,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+udalov,Lemmings,1,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+victor_kamashev,Conveyor,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+victor_kamashev,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+victor_kamashev,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Warrior,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Warrior,Substring and Subsequence,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+Esmhmip0603,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+burdakovd,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+burdakovd,Lemmings,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+matushkin,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+matushkin,Substring and Subsequence,1,A,1,0,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,dp
+matushkin,Conveyor,1,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+UranusX,Large Refrigerator,0,D,0,0,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,brute force
+UranusX,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+cakcups,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sadkangaroo,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sadkangaroo,Lemmings,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+A.K.Goharshady,Lemmings,0,B,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,binary search
+A.K.Goharshady,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Mex-Mans,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Mex-Mans,Lemmings,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,binary search
+RedAnt,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+RedAnt,Lemmings,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+buko,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+buko,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+buko,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+apathism,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+DimaPhil,Substring and Subsequence,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+rembocoder,Substring and Subsequence,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+rembocoder,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+haliloglu,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+lacbs,Conveyor,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+lacbs,Substring and Subsequence,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+zglicz,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+zglicz,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+fastblood,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+fastblood,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+KhaustovPavel,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+KhaustovPavel,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+KhaustovPavel,Conveyor,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+maksay,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+maksay,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+maksay,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+zylber,Conveyor,0,C,0,0,0,1,0,6,0,0,0,0,0,0,0,0,0,0,0,sortings
+zylber,Lemmings,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+infrmtcs,Lemmings,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,binary search
+infrmtcs,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Olja,Substring and Subsequence,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Olja,Lemmings,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+lopek,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+lopek,Lemmings,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+Zhuravlyov.A,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,dp
+Zhuravlyov.A,Large Refrigerator,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+Restart,Substring and Subsequence,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+Restart,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+jma127,Conveyor,0,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,sortings
+jma127,Large Refrigerator,0,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+nvilcins,Large Refrigerator,0,D,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,brute force
+zanoes,Large Refrigerator,0,D,0,0,0,2,0,1,0,2,0,0,0,0,0,0,0,0,0,brute force
+zanoes,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+zanoes,e-Government,0,E,0,0,0,0,0,1,0,2,2,0,0,0,0,0,0,0,0,"data structures,dfs and similar,dp,strings,trees"
+zanoes,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Kepnu4,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+SourSpinach,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+SourSpinach,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+simoncao,Large Refrigerator,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+riversouther,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+riversouther,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Belonogov,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Belonogov,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+DDDDDDDDDDDDDDDDDDDDDDDD,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+heyihong,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+heyihong,Lemmings,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,binary search
+fcjy888,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+fcjy888,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+jki14,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+GR1n,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+cmd,Lemmings,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,binary search
+cmd,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+cmd,Conveyor,1,C,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+tian,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+drazil,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+drazil,Lemmings,1,B,0,0,0,0,0,5,0,2,0,0,0,0,0,0,0,0,0,binary search
+nab,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+nab,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,binary search
+Skird,Lemmings,0,B,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+etilen,Substring and Subsequence,1,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,dp
+etilen,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+nhcuong95,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Seemann,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Seemann,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+fushar,Lemmings,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+liouzhou_101,Conveyor,0,C,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,sortings
+cfyangel,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+cfyangel,Lemmings,1,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+AlexanderBolshakov,Substring and Subsequence,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Aharon,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Aharon,Large Refrigerator,0,D,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+stafp,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+stafp,Lemmings,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+AHdoc,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,dp
+AHdoc,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+openxxx,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+openxxx,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+tehqin,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+hytirt,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+hytirt,Conveyor,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Alireza,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+mib,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+mib,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+NikitaD,Lemmings,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+rng_58,Large Refrigerator,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,brute force
+rng_58,Substring and Subsequence,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+rng_58,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+rng_58,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+yury_chameleon,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+wyest,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+esta,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+esta,Conveyor,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+esta,Lemmings,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,binary search
+esta,Large Refrigerator,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+kreep,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+evgentu,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+paulocezar,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+soundsdx,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,dp
+yinthewind,Conveyor,0,C,0,0,0,2,0,7,0,0,0,0,0,0,0,0,0,0,0,sortings
+Hohol,Lemmings,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,binary search
+Hohol,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Medium,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Nyatl,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Nyatl,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+krdln,Substring and Subsequence,0,A,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,dp
+GoomboCode,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,binary search
+redox,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+redox,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+mmaxio,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+best.ua,Substring and Subsequence,0,A,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,dp
+ika,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+ika,Lemmings,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+ika,Conveyor,0,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,sortings
+alexey.enkov,Conveyor,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+alexey.enkov,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+alexey.enkov,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+ZumZoom,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+ZumZoom,Substring and Subsequence,1,A,1,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,dp
+Bugman,Lemmings,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Bugman,Conveyor,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+yvasyliv,Lemmings,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+yvasyliv,Conveyor,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+velvet,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+velvet,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+xioumu,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+zaq1xsw2tktk,Conveyor,1,C,1,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+zaq1xsw2tktk,Large Refrigerator,1,D,0,0,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,brute force
+SergeyLazarev,Large Refrigerator,0,D,0,0,0,0,0,11,0,3,1,0,0,0,0,0,0,0,0,brute force
+carber,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,dp
+carber,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Gammy,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Gammy,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+dergach,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+dergach,Large Refrigerator,1,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+olpetOdessaONU,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+olpetOdessaONU,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+lcch,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+lcch,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Anarivu,Conveyor,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+AndreySiunov,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+AndreySiunov,Lemmings,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Koyaah,Conveyor,0,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,sortings
+Koyaah,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,dp
+Cyin,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+hanfei19910905,Lemmings,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+Oi.,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+deNULL,Conveyor,1,C,1,0,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,sortings
+deNULL,Lemmings,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+bdepwgjqet,Lemmings,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,binary search
+Ch0W,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Di735,Substring and Subsequence,0,A,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,dp
+poao899,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+poao899,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,dp
+evader,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+evader,Large Refrigerator,0,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,brute force
+arti1990,Substring and Subsequence,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,dp
+arti1990,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+kael,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+megaserg,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+pawelwa111,Conveyor,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+justever,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+RomaWhite,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+RomaWhite,Conveyor,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+Jayvic,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Jayvic,Lemmings,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+JalbaRu,Lemmings,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,binary search
+mekagem,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,dp
+mekagem,Large Refrigerator,1,D,0,0,0,0,0,1,0,4,0,0,0,0,0,0,0,0,0,brute force
+Narg,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings
+Narg,Lemmings,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,binary search
+I_love_natalia,Lemmings,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,binary search
+Lepetrandr,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+Lepetrandr,Lemmings,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+yacek,Lemmings,0,B,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,binary search
+forifchen,Large Refrigerator,0,D,0,0,0,1,2,3,0,2,0,0,0,0,0,0,0,0,0,brute force
+J_M,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+sakib_rulez,Substring and Subsequence,0,A,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,dp
+the_saint,Lemmings,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,binary search
+69-64-79,Substring and Subsequence,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+ZhouYuChen,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+mbfilho91,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+sakyalol,Substring and Subsequence,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,dp
+Le-Nika,Lemmings,0,B,0,0,0,1,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+helThazar,Lemmings,0,B,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Skiminok,Conveyor,0,C,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,sortings
+SuperLight,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+Liaksiejka,Lemmings,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+tiirz,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+Jesus,Substring and Subsequence,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,dp
+wisterik,Lemmings,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,binary search
+nevidomy,Conveyor,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,sortings
+void_rank,Lemmings,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,binary search
+wyl8899,Conveyor,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,sortings

@@ -1,0 +1,744 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+Ahmed_Salama,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,bitmasks
+Ahmed_Salama,Hydra,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+tourist,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+tourist,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+tourist,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+PavelKunyavskiy,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+PavelKunyavskiy,Hydra,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+PavelKunyavskiy,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+vepifanov,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+vepifanov,Hydra,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+vepifanov,Colorado Potato Beetle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+vepifanov,Cubes,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,geometry,two pointers"
+mamekin,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+mamekin,Hydra,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+mamekin,Colorado Potato Beetle,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+bayleef,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+bayleef,Hydra,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+winger,The Brand New Function,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+winger,Hydra,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+winger,Colorado Potato Beetle,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+Komaki,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Komaki,Hydra,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Komaki,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+Komaki,Matrix,1,E,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+Dmitry_Egorov,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Dmitry_Egorov,Hydra,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Ra16bit,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Ra16bit,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Ra16bit,Colorado Potato Beetle,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+witua,The Brand New Function,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+witua,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+witua,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+aropan,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+aropan,Hydra,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+aropan,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+FattyChicken,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+FattyChicken,Hydra,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+FattyChicken,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+scottai1,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+scottai1,Matrix,0,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,data structures
+scottai1,Hydra,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+scottai1,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+havaliza,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+havaliza,Hydra,0,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+havaliza,Colorado Potato Beetle,1,C,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+Sarkin,The Brand New Function,0,A,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,bitmasks
+Sarkin,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Shik,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Shik,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+Shik,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+al13n,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+al13n,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+al13n,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+Riatre,The Brand New Function,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Riatre,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+subscriber,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+subscriber,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+subscriber,Colorado Potato Beetle,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+s-quark,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+s-quark,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+s-quark,Colorado Potato Beetle,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+Romka,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Romka,Colorado Potato Beetle,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+Romka,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+MarioYC,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+MarioYC,Hydra,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+freak93,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+freak93,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+rowdark,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+rowdark,Hydra,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+rowdark,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+cgy4ever,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+cgy4ever,Hydra,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+cgy4ever,Colorado Potato Beetle,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+blue.boy,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+blue.boy,Hydra,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+-DMYTRO-,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+-DMYTRO-,Hydra,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+-DMYTRO-,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+watashi,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+watashi,Hydra,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+watashi,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+kamranm,The Brand New Function,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+kamranm,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+tsukuno,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+tsukuno,Hydra,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+msg555,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+msg555,Hydra,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+msg555,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+Krig,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Krig,Hydra,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Krig,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+Jokser,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Jokser,Hydra,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+roosephu,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+roosephu,Hydra,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+roosephu,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+OoO000oOOOoOooOo,The Brand New Function,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+OoO000oOOOoOooOo,Hydra,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+OoO000oOOOoOooOo,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+forifchen,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+forifchen,Colorado Potato Beetle,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+fura,The Brand New Function,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+fura,Hydra,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+zyf,The Brand New Function,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,bitmasks
+wwwwodddd,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+wwwwodddd,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+gongbaoa,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+-XraY-,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+-XraY-,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+-XraY-,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+logicmachine,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+logicmachine,Hydra,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+logicmachine,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+natsugiri,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+natsugiri,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Jughead,The Brand New Function,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Jughead,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+daidailanlan,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+daidailanlan,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+ytau,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+ytau,Hydra,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,2,0,0,0,"graphs,sortings"
+dolphinigle,The Brand New Function,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,bitmasks
+dolphinigle,Hydra,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+dolphinigle,Colorado Potato Beetle,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+niyaznigmatul,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+niyaznigmatul,Hydra,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+niyaznigmatul,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+knightL,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+knightL,Hydra,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+knightL,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+lsc36,The Brand New Function,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,bitmasks
+lsc36,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+pkqs90,The Brand New Function,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+pkqs90,Hydra,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+sonyckson,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,bitmasks
+sonyckson,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+little-pupil-liyao,The Brand New Function,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,bitmasks
+little-pupil-liyao,Hydra,0,B,0,0,0,0,0,2,0,2,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+little-pupil-liyao,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+kmxyvb,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+kmxyvb,Hydra,0,B,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+kmxyvb,Colorado Potato Beetle,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+takaramono,The Brand New Function,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+takaramono,Hydra,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+takaramono,Cubes,1,D,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,geometry,two pointers"
+navi,The Brand New Function,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+navi,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+navi,Hydra,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+yarrr,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+yarrr,Hydra,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+XilinX,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+XilinX,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"graphs,sortings"
+XilinX,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+XilinX,Matrix,1,E,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,data structures
+fagu,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+fagu,Hydra,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+fagu,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+RomaWhite,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+RomaWhite,Hydra,1,B,0,0,0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+James,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+James,Hydra,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+shangjingbo,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+shangjingbo,Hydra,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+shangjingbo,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+flashmt,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+flashmt,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+K.F.Cat,The Brand New Function,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+K.F.Cat,Hydra,0,B,0,0,0,0,2,1,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+GagGuy,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+GagGuy,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"graphs,sortings"
+onetwothree,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+liouzhou_101,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+liouzhou_101,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+espr1t,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+espr1t,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Milanin,The Brand New Function,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,bitmasks
+Milanin,Hydra,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"graphs,sortings"
+Enterpaise,The Brand New Function,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Enterpaise,Hydra,1,B,0,0,0,0,2,5,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+NuM,The Brand New Function,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+NuM,Hydra,1,B,1,0,0,0,0,5,0,1,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+portal,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+portal,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+klamathix,The Brand New Function,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,bitmasks
+klamathix,Hydra,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Neroysq,The Brand New Function,0,A,1,0,0,1,0,3,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Neroysq,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+Al3kSaNdaR,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+kyuridenamida,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+kyuridenamida,Hydra,1,B,0,0,0,0,0,6,0,0,0,0,0,0,0,4,0,0,0,"graphs,sortings"
+_sunny,The Brand New Function,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+_sunny,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+zlfengyi1,The Brand New Function,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+zlfengyi1,Colorado Potato Beetle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+zlfengyi1,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Erop,The Brand New Function,0,A,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,bitmasks
+Erop,Hydra,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Erop,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+Fcdkbear,The Brand New Function,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Fcdkbear,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Archon.JK,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Archon.JK,Hydra,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Archon.JK,Colorado Potato Beetle,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+gen,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+gen,Hydra,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+roypalacios,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+roypalacios,Hydra,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+darknp,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+darknp,Hydra,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Oryshych,The Brand New Function,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Oryshych,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Aziza,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Aziza,Hydra,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Stefania,The Brand New Function,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,bitmasks
+Stefania,Hydra,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+dario2994,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+dario2994,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+bmerry,The Brand New Function,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+bmerry,Hydra,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+bmerry,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+Sereja,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,bitmasks
+Sereja,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Seemann,Hydra,0,B,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Seemann,The Brand New Function,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+voover,The Brand New Function,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+voover,Hydra,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+voover,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+voover,Matrix,1,E,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,data structures
+tyamgin,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+tyamgin,Hydra,0,B,0,0,0,0,1,2,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+tyamgin,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+pauldb,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+pauldb,Hydra,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Snusmumriken,The Brand New Function,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Snusmumriken,Hydra,1,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+d0vegx,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+d0vegx,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+fancy,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+fancy,Hydra,1,B,0,0,0,2,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Xnewfolder,The Brand New Function,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Xnewfolder,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+wintersun,The Brand New Function,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,bitmasks
+wintersun,Hydra,0,B,0,0,0,0,0,7,0,6,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+xujie,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+xujie,Hydra,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Olja,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Olja,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Olja,Colorado Potato Beetle,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+Darkstalker,The Brand New Function,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,bitmasks
+luzilon1,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+luzilon1,Hydra,1,B,1,0,0,0,0,3,0,1,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+sunjie7,The Brand New Function,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+LayCurse,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+LayCurse,Hydra,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+LayCurse,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+LayCurse,Matrix,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+rankalee,The Brand New Function,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,bitmasks
+rankalee,Hydra,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+lazylie,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+lazylie,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+clouilt,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+clouilt,Hydra,1,B,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+kelvin,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+kelvin,Hydra,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+kelvin,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+mugurelionut,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+mugurelionut,Hydra,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+mugurelionut,Colorado Potato Beetle,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+mugurelionut,Matrix,1,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,data structures
+heyihong,The Brand New Function,0,A,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,bitmasks
+heyihong,Hydra,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+heyihong,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+Monyura,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Monyura,Hydra,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+sweiss,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+sweiss,Hydra,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+kinodjnz,The Brand New Function,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+kinodjnz,Hydra,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Egor,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Egor,Hydra,0,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Egor,Colorado Potato Beetle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+Egor,Cubes,1,D,1,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"data structures,dp,geometry,two pointers"
+sameer47,Hydra,0,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+sameer47,The Brand New Function,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+vfleaking,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+vfleaking,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Merlininice,The Brand New Function,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+lcch,The Brand New Function,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+lcch,Hydra,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+lcch,Colorado Potato Beetle,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+Endagorion,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Endagorion,Hydra,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+seanwu,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+seanwu,Hydra,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Timur_Sitdikov,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Timur_Sitdikov,Hydra,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+tigvarts,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+tigvarts,Hydra,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+moshiur,The Brand New Function,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+moshiur,Hydra,1,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+mruxim,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+nebososo,Hydra,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+fenzhang,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+fenzhang,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Gassa,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Gassa,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"graphs,sortings"
+Di735,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Di735,Hydra,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+hytirt,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+hytirt,Hydra,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+hytirt,Colorado Potato Beetle,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+AndreySiunov,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+AndreySiunov,Hydra,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+cxlove,Hydra,0,B,0,0,0,0,0,5,0,2,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+cxlove,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+pva701,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+pva701,Hydra,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+azizkhan,The Brand New Function,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,bitmasks
+azizkhan,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+lemonwu,The Brand New Function,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,bitmasks
+lemonwu,Hydra,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Alex_2oo8,The Brand New Function,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Alex_2oo8,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Flandre_Scarlet,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Flandre_Scarlet,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Nvrmr,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Nvrmr,Hydra,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+whybert,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+whybert,Hydra,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+carber,Hydra,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+carber,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+con_nha_ngheo,The Brand New Function,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+con_nha_ngheo,Hydra,1,B,1,0,0,2,0,5,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Petr,Colorado Potato Beetle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+Petr,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Petr,Hydra,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+yamateh,The Brand New Function,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,bitmasks
+yamateh,Hydra,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+chenwenxiao,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+chenwenxiao,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+hmich,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+hmich,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+sths,The Brand New Function,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+sths,Hydra,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+FreezingCool,The Brand New Function,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+FreezingCool,Hydra,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+takapt,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+takapt,Hydra,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+marspeople,The Brand New Function,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,bitmasks
+marspeople,Hydra,0,B,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+moonlight131,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+moonlight131,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Bidhan,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Bidhan,Hydra,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+visanr,The Brand New Function,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+xcodevn,The Brand New Function,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,bitmasks
+xcodevn,Hydra,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+sapalskimichal,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+sapalskimichal,Hydra,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+dduyhungg,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,bitmasks
+dduyhungg,Hydra,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+Ixanezis,The Brand New Function,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Ixanezis,Hydra,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+dergach,The Brand New Function,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+dergach,Hydra,1,B,0,0,0,0,0,6,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Kornacker,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Kornacker,Hydra,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"graphs,sortings"
+Rubanenko,The Brand New Function,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,bitmasks
+Rubanenko,Hydra,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+ryz,The Brand New Function,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+ryz,Hydra,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+ztxz16,The Brand New Function,1,A,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+ztxz16,Hydra,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Sergey.Bankevich,The Brand New Function,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,bitmasks
+Sergey.Bankevich,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+akashin,The Brand New Function,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+akashin,Hydra,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+AcOnFingers,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+AcOnFingers,Hydra,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+jianhe25,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+jianhe25,Hydra,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+philolo1,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+philolo1,Hydra,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+SkyHawk,The Brand New Function,0,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+SkyHawk,Hydra,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+kaushik.mv3,The Brand New Function,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+kaushik.mv3,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+fcjy888,The Brand New Function,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+fcjy888,Hydra,1,B,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+kolina,The Brand New Function,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,bitmasks
+kolina,Hydra,0,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+birch,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,bitmasks
+birch,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+SkorKNURE,The Brand New Function,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+SkorKNURE,Hydra,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+mrtempo,The Brand New Function,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+mrtempo,Hydra,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+qwerty787788,Hydra,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+qwerty787788,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Reshetnikov_Ivan,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Reshetnikov_Ivan,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Andrekk,The Brand New Function,1,A,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+thinfaifai,The Brand New Function,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+thinfaifai,Hydra,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Captain_CoCo,The Brand New Function,0,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Captain_CoCo,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+bcurcio,The Brand New Function,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+bcurcio,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+kissbuaa,Hydra,0,B,0,0,0,3,0,2,0,3,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+kissbuaa,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Barsuk_Alexey,The Brand New Function,0,A,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,bitmasks
+Barsuk_Alexey,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"graphs,sortings"
+Cromel,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Cromel,Hydra,1,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+iroro,The Brand New Function,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+iroro,Hydra,1,B,0,0,0,0,0,9,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+brunoja,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+brunoja,Hydra,1,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+peter5O216,The Brand New Function,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,bitmasks
+peter5O216,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+peter5O216,Colorado Potato Beetle,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+BenZ,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+BenZ,Colorado Potato Beetle,1,C,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+Night_Fury,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Night_Fury,Hydra,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+rng_58,Hydra,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+rng_58,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+rng_58,Colorado Potato Beetle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+rng_58,Cubes,1,D,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"data structures,dp,geometry,two pointers"
+Jesus,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+mmaxio,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+mmaxio,Hydra,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+mmaxio,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+cheshire_cat,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+cheshire_cat,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+yukim,The Brand New Function,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+yukim,Hydra,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+nrg3,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+nrg3,Hydra,1,B,0,0,0,2,0,4,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Oi.,Hydra,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"graphs,sortings"
+ziki,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+ziki,Hydra,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+mihaipopa12,The Brand New Function,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+mihaipopa12,Hydra,1,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+chanming,The Brand New Function,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,bitmasks
+chanming,Hydra,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Nikelandjelo,Hydra,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+Nikelandjelo,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+dojiboy9,Hydra,0,B,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+ntit_co1,Hydra,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+ciprianfarcasanu,Hydra,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+ciprianfarcasanu,The Brand New Function,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,bitmasks
+Seter,Hydra,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Seter,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+evader,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+evader,Hydra,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+tclsm,Hydra,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+tclsm,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+valentin.harsan10,The Brand New Function,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+valentin.harsan10,Hydra,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+Martial,Hydra,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+douglasantos,The Brand New Function,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,1,0,0,0,bitmasks
+douglasantos,Hydra,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+Simplex,The Brand New Function,1,A,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Simplex,Hydra,1,B,0,0,0,1,0,2,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Belonogov,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Belonogov,Hydra,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Deamon,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Deamon,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+ilya.korovin,Hydra,0,B,0,0,0,0,0,2,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+ray040123,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+ray040123,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Azat_Yusupov,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Azat_Yusupov,Hydra,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+xscape,The Brand New Function,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+xscape,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+xscape,Colorado Potato Beetle,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+anmtcel,The Brand New Function,1,A,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Troy1118,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Troy1118,Hydra,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Austeritas,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Austeritas,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+st.krwlng,The Brand New Function,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+st.krwlng,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+perennial_fanatic,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+perennial_fanatic,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Vaness,The Brand New Function,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,bitmasks
+Vaness,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+NotOnlySuccess,The Brand New Function,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,bitmasks
+NotOnlySuccess,Hydra,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+lopek,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+lopek,Hydra,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+ktesar,The Brand New Function,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+ktesar,Hydra,0,B,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+ktesar,Matrix,0,E,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,data structures
+YX201314,The Brand New Function,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,bitmasks
+YX201314,Hydra,0,B,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+YX201314,Colorado Potato Beetle,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+Dianochka,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+squarefk,Hydra,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"graphs,sortings"
+squarefk,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+tanzaku,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+tanzaku,Hydra,1,B,1,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Toshik,The Brand New Function,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,bitmasks
+Toshik,Hydra,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Vergissmeinnicht,Hydra,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+Vergissmeinnicht,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+KarlisS,The Brand New Function,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+obag,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+obag,Hydra,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Retroman,The Brand New Function,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Retroman,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Skird,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+sunhaowen123,The Brand New Function,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+zaq1xsw2tktk,Hydra,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+zaq1xsw2tktk,Colorado Potato Beetle,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+zaq1xsw2tktk,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+UESTC_ElemeNtLz,The Brand New Function,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,bitmasks
+UESTC_ElemeNtLz,Hydra,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+Dabek,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Dabek,Hydra,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+binhminh410,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+binhminh410,Hydra,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+MakiseKurisu,The Brand New Function,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+MakiseKurisu,Hydra,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+ib18,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+ib18,Hydra,1,B,0,0,0,0,0,2,0,2,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+y346491470,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+y346491470,Hydra,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+night10101,The Brand New Function,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,1,0,0,bitmasks
+night10101,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"graphs,sortings"
+fmm,The Brand New Function,1,A,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,bitmasks
+fmm,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+khanhptnk,The Brand New Function,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+khanhptnk,Hydra,1,B,0,0,0,0,0,4,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+khanhptnk,Colorado Potato Beetle,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+matrix,Hydra,0,B,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Izot_NNSTU,Hydra,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Izot_NNSTU,The Brand New Function,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Izot_NNSTU,Colorado Potato Beetle,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+Tatyana_Petrashko,Hydra,1,B,1,0,0,1,0,0,0,1,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+amirrr,Hydra,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+kraskevich,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+kraskevich,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+cuiaoxiang,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+cuiaoxiang,Hydra,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Juda,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Juda,Hydra,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Wackloner,Hydra,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Wackloner,The Brand New Function,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,bitmasks
+E478,The Brand New Function,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,bitmasks
+dilutedream,The Brand New Function,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+dilutedream,Hydra,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+johnLate,Hydra,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+johnLate,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+shibly,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+shibly,Hydra,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Spumote,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+AlirezaN,Hydra,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+Metamorphus,The Brand New Function,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,bitmasks
+Metamorphus,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+haker4o,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+haker4o,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+pareshverma91,The Brand New Function,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Smit,The Brand New Function,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+sm_hossein,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Aleksander,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Aleksander,Hydra,1,B,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,"graphs,sortings"
+uwi,Hydra,0,B,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+uwi,Colorado Potato Beetle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+uwi,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+M0sTik,The Brand New Function,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+hanfei19910905,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+hanfei19910905,Hydra,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Eledven,Hydra,0,B,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,"graphs,sortings"
+Eledven,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,bitmasks
+Aharon,Hydra,0,B,0,0,0,0,0,2,0,1,1,0,0,0,0,0,0,0,0,"graphs,sortings"
+Aharon,The Brand New Function,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+dragon123,The Brand New Function,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+dragon123,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+walk_upon,Hydra,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+walk_upon,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Giada,The Brand New Function,0,A,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Giada,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+timd,The Brand New Function,0,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+timd,Hydra,1,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+lizan,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+lizan,Hydra,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Krasnokutskiy,Hydra,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Battle_Mage,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Battle_Mage,Hydra,1,B,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+out_of_theblue,Hydra,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Kharybin,The Brand New Function,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,bitmasks
+Kharybin,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+EbTech,Colorado Potato Beetle,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+EbTech,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+EbTech,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+aumy,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+aumy,Hydra,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Logvinov_Leon,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Logvinov_Leon,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Noskov,The Brand New Function,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Noskov,Hydra,1,B,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+permin,Hydra,0,B,0,0,0,0,1,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+permin,The Brand New Function,0,A,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,bitmasks
+dimatomp,Hydra,0,B,0,0,0,0,1,5,0,0,0,0,0,0,0,0,2,0,0,"graphs,sortings"
+evgentu,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+evgentu,Hydra,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+RAINBOW123,The Brand New Function,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+RAINBOW123,Hydra,1,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+0002009120708,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+lne,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+lne,Hydra,1,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+ridowan007,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+stevenkplus,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Balajiganapathi,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+ainta,The Brand New Function,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+ainta,Hydra,1,B,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+ainta,Matrix,1,E,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,data structures
+Sphinx,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Sphinx,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Mario88,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Mario88,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+ahmad_mamdouh,Hydra,0,B,0,0,0,0,0,2,0,4,0,0,0,0,0,2,0,0,0,"graphs,sortings"
+guliashvili,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Robert,The Brand New Function,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Robert,Hydra,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+API,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+API,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Monmoy,Hydra,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Monmoy,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Yousef_Salama,Hydra,1,B,1,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+Yousef_Salama,The Brand New Function,1,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,bitmasks
+osa_k,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+osa_k,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+void_rank,The Brand New Function,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+BSBandme,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+BSBandme,Hydra,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+coquelicot,Hydra,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+AlanC,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+m.radwan,The Brand New Function,1,A,1,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,bitmasks
+Aerolight,Hydra,0,B,1,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Aerolight,The Brand New Function,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+demipenguin,Hydra,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+lawsonh,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"graphs,sortings"
+pty,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+pty,The Brand New Function,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+pty,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+hanhan0912,Hydra,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,1,0,0,"graphs,sortings"
+hanhan0912,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,bitmasks
+boleyn.su,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+boleyn.su,Hydra,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+xiaodao,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,2,0,0,0,"graphs,sortings"
+xiaodao,Cubes,0,D,0,0,0,0,0,8,0,1,1,0,0,0,0,0,0,0,0,"data structures,dp,geometry,two pointers"
+xiaodao,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+dusty.and.rusty,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+dusty.and.rusty,Hydra,1,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+LinKin,Hydra,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+LinKin,The Brand New Function,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,bitmasks
+liympanda,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+liympanda,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+liympanda,Colorado Potato Beetle,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+barkjyijan,Hydra,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+barkjyijan,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Azras,Hydra,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Azras,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+fish_ball,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+fish_ball,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Empty,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Empty,Hydra,1,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Demjan,Hydra,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,"graphs,sortings"
+Demjan,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+scv119,The Brand New Function,1,A,1,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,bitmasks
+luckman,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+luckman,The Brand New Function,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Te4NIK,The Brand New Function,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,bitmasks
+Te4NIK,Hydra,0,B,0,0,0,0,1,3,0,0,0,0,0,0,0,2,0,0,0,"graphs,sortings"
+xie,Hydra,0,B,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+xie,The Brand New Function,0,A,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,bitmasks
+AKim,Hydra,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+dalex,Hydra,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+dalex,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+OgieKako,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+OgieKako,Hydra,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+LIKIA,Hydra,0,B,0,0,0,0,0,5,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+LIKIA,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,bitmasks
+m.raszyk,Hydra,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+mbfilho91,The Brand New Function,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+mbfilho91,Hydra,1,B,0,0,0,0,0,7,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+hung06061995,Hydra,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+hung06061995,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Oleg805,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+Oleg805,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+fushar,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,"graphs,sortings"
+dianbei,The Brand New Function,1,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+dianbei,Hydra,1,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Zeroclock,Hydra,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+Zeroclock,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Anarivu,Hydra,0,B,0,0,0,0,1,1,0,0,3,0,0,0,0,0,0,0,0,"graphs,sortings"
+rgt0820,The Brand New Function,1,A,1,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Shef,Hydra,0,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Shef,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+goooooooopan,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+JustN,The Brand New Function,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+JustN,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+i_love_daniel,The Brand New Function,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+i_love_daniel,Hydra,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,2,0,0,"graphs,sortings"
+Reza_H,Hydra,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+11223d,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Alpc_Necs,Hydra,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Alpc_Necs,The Brand New Function,1,A,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+seen,Colorado Potato Beetle,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+ahm.kam_92,Hydra,0,B,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,0,"graphs,sortings"
+danpol,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+alpc104,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,bitmasks
+alpc104,Hydra,1,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Sinner,Hydra,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Sinner,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+ymondelo20,Hydra,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,"graphs,sortings"
+tsfn,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+shenshanlaoyao,The Brand New Function,0,A,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+shenshanlaoyao,Hydra,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+pythonMan,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+DenXX,The Brand New Function,1,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+amrSamir,Colorado Potato Beetle,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"
+IgorL,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+IgorL,Hydra,1,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+ali.mashreghi,The Brand New Function,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Enchom,Hydra,0,B,0,0,0,0,0,3,0,1,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+maos,Hydra,0,B,0,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+becauseofyou,Hydra,0,B,0,0,0,0,0,4,0,0,0,0,0,0,0,1,0,0,0,"graphs,sortings"
+becauseofyou,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+migdal,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Perlik,Hydra,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+darrenhp,The Brand New Function,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+562908590,Hydra,0,B,0,0,0,0,0,5,0,3,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Free777Man,Hydra,0,B,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+piotr.kukla,The Brand New Function,0,A,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+grey_wind,Hydra,0,B,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+DmitriyH,The Brand New Function,1,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bitmasks
+Fbulatov,Hydra,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"graphs,sortings"
+Frommi,Colorado Potato Beetle,0,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"dfs and similar,implementation"

@@ -1,0 +1,139 @@
+user,problem,isChallenge,index,isOK,count_FAILED,count_PARTIAL,count_COMPILATION_ERROR,count_RUNTIME_ERROR,count_WRONG_ANSWER,count_PRESENTATION_ERROR,count_TIME_LIMIT_EXCEEDED,count_MEMORY_LIMIT_EXCEEDED,count_IDLENESS_LIMIT_EXCEEDED,count_SECURITY_VIOLATED,count_CRASHED,count_INPUT_PREPARATION_CRASHED,count_CHALLENGED,count_SKIPPED,count_TESTING,count_REJECTED,tags
+gojira,Transmigration,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+gojira,Item World,0,C,1,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+gojira,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+SergeyRogulenko,Transmigration,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+SergeyRogulenko,Dark Assembly,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+SergeyRogulenko,Item World,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+SergeyRogulenko,Entertaining Geodetics,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dsu,implementation"
+cmd,Transmigration,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+cmd,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+cmd,Item World,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+cmd,Entertaining Geodetics,0,D,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,dsu,implementation"
+random.johnnyh,Transmigration,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+random.johnnyh,Dark Assembly,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+random.johnnyh,Item World,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+KADR,Transmigration,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+KADR,Dark Assembly,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+KADR,Item World,0,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+KADR,Lift and Throw,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+volkhin,Transmigration,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+volkhin,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+volkhin,Item World,1,C,0,0,0,0,2,2,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+evader,Transmigration,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+evader,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+xiaowuc1,Transmigration,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+xiaowuc1,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+qwaker.00,Transmigration,0,A,0,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,implementation
+qwaker.00,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+qwaker.00,Item World,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+Kriii,Transmigration,0,A,1,0,0,0,0,6,0,0,0,0,0,0,0,1,0,0,0,implementation
+Kriii,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+Kriii,Item World,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,"brute force,implementation,sortings"
+chhung6,Transmigration,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+chhung6,Dark Assembly,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+chhung6,Item World,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+cerealguy,Transmigration,0,A,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+cerealguy,Dark Assembly,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+cerealguy,Item World,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+cerealguy,Lift and Throw,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,brute force
+vlad89,Transmigration,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,implementation
+vlad89,Dark Assembly,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+vlad89,Item World,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+vlad89,Lift and Throw,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Zlobober,Transmigration,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Zlobober,Dark Assembly,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+Zlobober,Item World,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+robotdron,Transmigration,0,A,0,0,0,0,0,5,0,0,0,0,0,0,0,1,0,0,0,implementation
+robotdron,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+meret,Transmigration,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+meret,Lift and Throw,0,E,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,brute force
+meret,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+permin,Transmigration,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+permin,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+permin,Item World,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+Dmitry_Egorov,Transmigration,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Dmitry_Egorov,Dark Assembly,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+Coder,Transmigration,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Coder,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+Coder,Entertaining Geodetics,1,D,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0,0,"brute force,dsu,implementation"
+morze,Transmigration,0,A,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,0,implementation
+sankear,Transmigration,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+juver,Transmigration,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+juver,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+juver,Item World,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+pyshnograev,Transmigration,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+pyshnograev,Dark Assembly,1,B,1,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+Efgen,Transmigration,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Efgen,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+rizar,Transmigration,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+rizar,Dark Assembly,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+rizar,Item World,1,C,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+dolphinigle,Transmigration,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+dolphinigle,Item World,0,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+dolphinigle,Entertaining Geodetics,1,D,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,dsu,implementation"
+maksay,Transmigration,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+maksay,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+venkateshb,Transmigration,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,implementation
+venkateshb,Dark Assembly,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+ilyakor,Transmigration,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+ilyakor,Dark Assembly,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+ilyakor,Item World,1,C,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+ilyakor,Lift and Throw,1,E,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,brute force
+kolesov93,Transmigration,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+kolesov93,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+kolesov93,Item World,1,C,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+al13n,Transmigration,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+al13n,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+al13n,Entertaining Geodetics,1,D,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,dsu,implementation"
+Tsumiman,Transmigration,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+forest,Transmigration,0,A,1,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+forest,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+Slamur,Transmigration,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+Slamur,Item World,1,C,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+FattyChicken,Transmigration,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+FattyChicken,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+FattyChicken,Item World,1,C,0,0,0,0,1,3,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+GARNETCROW_a.k.a_hhanger,Transmigration,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+GARNETCROW_a.k.a_hhanger,Dark Assembly,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+GARNETCROW_a.k.a_hhanger,Item World,0,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+GARNETCROW_a.k.a_hhanger,Lift and Throw,1,E,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,brute force
+Ruslan,Transmigration,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+Ruslan,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+Ruslan,Item World,1,C,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+mzry1992,Transmigration,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,implementation
+mzry1992,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+mzry1992,Item World,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+Commandos,Transmigration,0,A,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+Commandos,Dark Assembly,1,B,1,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+Commandos,Item World,1,C,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+stgatilov,Transmigration,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+stgatilov,Dark Assembly,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+stgatilov,Item World,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+joey2005,Transmigration,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+joey2005,Dark Assembly,0,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,probabilities"
+joey2005,Item World,1,C,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,"brute force,implementation,sortings"
+flashmt,Transmigration,0,A,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,0,implementation
+flashmt,Dark Assembly,0,B,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+package.zaic,Transmigration,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+package.zaic,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+package.zaic,Item World,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+mmaxio,Transmigration,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+mmaxio,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+mmaxio,Item World,1,C,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+watashi,Transmigration,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+watashi,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+watashi,Item World,1,C,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+LvChaoShuai,Transmigration,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
+LvChaoShuai,Dark Assembly,1,B,1,0,0,0,0,0,0,1,0,0,0,0,0,0,4,0,0,"brute force,probabilities"
+LvChaoShuai,Item World,1,C,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+subscriber,Transmigration,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+subscriber,Dark Assembly,1,B,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+subscriber,Item World,1,C,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,"brute force,implementation,sortings"
+biochem_fan,Transmigration,0,A,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,implementation
+biochem_fan,Dark Assembly,0,B,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+Andrew_Makar,Transmigration,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+Andrew_Makar,Dark Assembly,0,B,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+atetubou,Transmigration,0,A,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,implementation
+atetubou,Dark Assembly,1,B,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,"brute force,probabilities"
+chEEtah,Transmigration,0,A,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,implementation
